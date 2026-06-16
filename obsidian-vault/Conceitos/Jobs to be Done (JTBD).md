@@ -1,0 +1,36 @@
+---
+tipo: framework
+fluxo: Discovery & Pesquisa
+autores: [Bob Moesta]
+---
+# Jobs to be Done (JTBD)
+
+**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Tipo:** Framework de descoberta
+**Fontes:** [[Bob Moesta]]
+
+## Ideia central
+As pessoas **não compram produtos — elas os "contratam"** para fazer progresso na vida. O foco sai do produto (lado da oferta) e vai para o **momento de struggle** e o **resultado desejado** (lado da demanda). Isso revela o verdadeiro conjunto competitivo: um Snickers compete com um café e um Red Bull (fome + energia), não com um Milky Way.
+
+> "People hire products, they don't buy them. They hire them to make progress in their life."
+
+## Como aplicar
+1. Ache pessoas que **recentemente compraram/trocaram** (não quem só "quer").
+2. Extraia a **história** do que aconteceu, não opiniões sobre o produto.
+3. Mapeie as [[Forças do Progresso (Push-Pull-Ansiedade-Hábito)]].
+4. Em vez de segmentar, **agrupe por pathways** (conjuntos de razões que andam juntas).
+5. Escolha **no que ser ruim** — alinhe seus trade-offs aos trade-offs do cliente.
+
+## Insights por autor
+### [[Bob Moesta]] — co-criador do JTBD (com Clay Christensen)
+- **Contexto e resultado, não dor e ganho.** "O contexto torna o irracional racional."
+- **Struggling moments** são a semente da inovação — e viram o roadmap real (depois dos primeiros 90-120 dias).
+- A jornada de compra tem **6 fases**: first thought → passive looking → active looking → deciding → first use → ongoing use.
+- Três fontes de energia por trás de qualquer decisão: **funcional, emocional e social**.
+- Quando NÃO usar: quando não há escolha real (ex.: plano de saúde dado pela empresa) ou hábito profundo demais (chiclete).
+- 🎯 Caso real: na Southern New Hampshire University, anomalias de alunos adultos revelaram um job ignorado → 200k+ alunos.
+
+> 🎧 [Bob Moesta — How to find work you love (1:24:56)](https://www.youtube.com/watch?v=2wypVv9wZtI)
+
+## Conceitos relacionados
+[[Forças do Progresso (Push-Pull-Ansiedade-Hábito)]] · [[Entrevista baseada em história]] · [[Demand Side Sales]] · [[Estudar momentos de struggle, não produtos]] · [[Bitchin' ain't switchin']] · [[JTBD aplicado a carreira (Job Moves)]]

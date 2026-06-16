@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Fluxos",
+      "color": {
+        "a": 1,
+        "rgb": 4814567
+      }
+    },
+    {
+      "query": "path:Conceitos",
+      "color": {
+        "a": 1,
+        "rgb": 4437377
+      }
+    },
+    {
+      "query": "path:Autores",
+      "color": {
+        "a": 1,
+        "rgb": 15633682
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.4,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 110,
+  "scale": 5.416435544289144,
+  "close": true
+}

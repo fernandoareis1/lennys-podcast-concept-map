@@ -1,0 +1,14 @@
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Obsidian (mantém configs úteis como graph.json; ignora cache/sessão)
+obsidian-vault/.obsidian/workspace.json
+obsidian-vault/.obsidian/workspace-mobile.json
+obsidian-vault/.obsidian/workspace.json.bak
+obsidian-vault/.obsidian/cache/
+.trash/
+
+# Logs de rotinas (gerados localmente)
+obsidian-vault/_meta/logs/

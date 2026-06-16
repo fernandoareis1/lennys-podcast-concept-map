@@ -9,16 +9,18 @@ Você é um agente rodando de forma autônoma. Objetivo: **expandir o mapa de co
 - **Manifesto de progresso:** `obsidian-vault/_meta/processed.txt` (um slug por linha = já processado)
 
 ## Passos
-1. Liste os diretórios em `episodes/` e leia `_meta/processed.txt`. Selecione os **próximos 20 slugs em ordem alfabética que NÃO estão no manifesto**. Se sobrarem menos de 20, processe o que houver.
-2. Para cada episódio:
+1. Liste os diretórios em `episodes/` e leia `_meta/processed.txt`. Selecione os **próximos slugs em ordem alfabética que NÃO estão no manifesto** (até 20 nesta execução).
+2. Processe **UM convidado de cada vez**. Para CADA convidado:
    a. Leia o `transcript.md`. **Confirme o convidado pelo CORPO do texto** (alguns frontmatters estão trocados).
-   b. Extraia os principais **frameworks, mindsets e insights** do convidado (3–6 por episódio).
-   c. Para cada conceito, crie uma nota em `Conceitos/` seguindo o schema abaixo. **Se o conceito já existir**, NÃO sobrescreva — adicione uma subseção `### [[Autor]]` em "Insights por autor" e inclua o autor no frontmatter `autores`.
-   d. Crie/atualize a nota do convidado em `Autores/` (leve: bio curta + lista de conceitos + link do episódio).
-   e. Garanta que cada conceito referencia seu fluxo via `[[NN - Nome do Fluxo]]` e adicione o conceito à seção "Frameworks & Conceitos" do hub correspondente em `Fluxos/`.
-3. Anexe os slugs processados ao final de `_meta/processed.txt`.
-4. **Valide os links:** todo `[[link]]` deve ter arquivo correspondente em `Conceitos/`, `Fluxos/`, `Autores/` ou raiz. Corrija ou remova links órfãos.
-5. Faça **commit** com a mensagem `routine: +N convidados (slugs...)` e push para `main`.
+   b. Extraia os principais **frameworks, mindsets e insights** (3–6).
+   c. Crie/atualize notas em `Conceitos/` (schema abaixo). **Se o conceito já existir**, NÃO sobrescreva — adicione uma subseção `### [[Autor]]` em "Insights por autor" e inclua o autor no frontmatter `autores`.
+   d. Crie/atualize a nota do convidado em `Autores/` (leve: bio + lista de conceitos + link do episódio).
+   e. Adicione cada conceito ao fluxo via `[[NN - Nome do Fluxo]]` e à seção "Frameworks & Conceitos" do hub em `Fluxos/`.
+   f. Anexe o slug a `_meta/processed.txt`.
+   g. Valide que os `[[links]]` criados têm arquivo correspondente em `Conceitos/`/`Fluxos/`/`Autores/`/raiz (corrija órfãos).
+   h. **COMMIT + PUSH IMEDIATO deste convidado:** `git add -A && git commit -m "routine: +1 (slug)" && git push origin main`.
+3. Repita o passo 2 até processar 20 convidados **ou** até a sessão estar acabando.
+   ⚠️ **NUNCA acumule.** Cada convidado deve ser commitado/pushed ANTES de ir ao próximo, para que o progresso sobreviva a qualquer interrupção (timeout, limite de contexto, pausa).
 
 ## Schema da nota de conceito (PT-BR)
 ```markdown

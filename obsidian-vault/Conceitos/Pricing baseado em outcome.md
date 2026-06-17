@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Monetização & Pricing
+nivel: 3
 autores: [Madhavan Ramanujam]
 ---
 # Pricing baseado em outcome
 
-**Fluxo:** [[08 - Monetização & Pricing]]
+**Fluxo:** [[08 - Monetização & Pricing]] · **Tema:** [[Monetização — Modelos & poder de pricing]] · **Camada:** L3
 **Tipo:** Modelo de pricing
 **Fontes:** [[Madhavan Ramanujam]]
 

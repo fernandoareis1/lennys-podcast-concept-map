@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Monetização & Pricing
+nivel: 3
 autores: [Madhavan Ramanujam]
 ---
 # Market Share + Wallet Share
 
-**Fluxo:** [[08 - Monetização & Pricing]]
+**Fluxo:** [[08 - Monetização & Pricing]] · **Tema:** [[Monetização — Estratégia de monetização]] · **Camada:** L3
 **Tipo:** Framework de crescimento lucrativo
 **Fontes:** [[Madhavan Ramanujam]]
 
@@ -24,6 +25,10 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: *market shar
 - Ser um "profitable growth architect" = ser disruptor + moneymaker + community builder ao mesmo tempo.
 
 > 🎧 [Madhavan Ramanujam — Pricing your AI product (1:11:44)](https://www.youtube.com/watch?v=NR85H55eYkM)
+
+## Aprofundamento ⬇
+*Camada L4 — a tese completa, arquétipos e as 6 armadilhas:*
+- [[Market Share + Wallet Share — Evidências (Madhavan Ramanujam)]]
 
 ## Conceitos relacionados
 [[Pricing baseado em outcome]] · [[Willingness to Pay (regra 20-80)]] · [[Retenção é a base do crescimento]]

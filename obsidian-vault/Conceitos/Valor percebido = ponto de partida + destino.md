@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Monetização & Pricing
+nivel: 3
 autores: [Bob Moesta]
 ---
 # Valor percebido = ponto de partida + destino
 
-**Fluxo:** [[08 - Monetização & Pricing]]
+**Fluxo:** [[08 - Monetização & Pricing]] · **Tema:** [[Monetização — Modelos & poder de pricing]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Bob Moesta]]
 

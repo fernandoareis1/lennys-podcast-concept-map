@@ -1,11 +1,12 @@
 ---
 tipo: insight
 fluxo: Monetização & Pricing
+nivel: 3
 autores: [Madhavan Ramanujam]
 ---
 # Willingness to Pay (regra 20-80)
 
-**Fluxo:** [[08 - Monetização & Pricing]]
+**Fluxo:** [[08 - Monetização & Pricing]] · **Tema:** [[Monetização — Modelos & poder de pricing]] · **Camada:** L3
 **Tipo:** Insight
 **Fontes:** [[Madhavan Ramanujam]]
 

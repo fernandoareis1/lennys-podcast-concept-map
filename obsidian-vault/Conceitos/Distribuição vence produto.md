@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Growth & Aquisição
+nivel: 3
 autores: [Brian Balfour]
 ---
 # Distribuição vence produto
 
-**Fluxo:** [[06 - Growth & Aquisição]]
+**Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Distribuição & canais]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Brian Balfour]]
 

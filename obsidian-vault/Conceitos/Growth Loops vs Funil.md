@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Growth & Aquisição
+nivel: 3
 autores: [Elena Verna, Casey Winters]
 ---
 # Growth Loops vs Funil
 
-**Fluxo:** [[06 - Growth & Aquisição]]
+**Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L3
 **Tipo:** Modelo mental de crescimento
 **Fontes:** [[Elena Verna]] · [[Casey Winters]]
 

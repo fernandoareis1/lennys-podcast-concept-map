@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Growth & Aquisição
+nivel: 3
 autores: [Brian Balfour]
 ---
 # Ciclo das novas plataformas de distribuição
 
-**Fluxo:** [[06 - Growth & Aquisição]]
+**Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Distribuição & canais]] · **Camada:** L3
 **Tipo:** Framework de growth
 **Fontes:** [[Brian Balfour]]
 

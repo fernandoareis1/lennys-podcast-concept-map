@@ -1,11 +1,12 @@
 ---
 tipo: insight
 fluxo: Growth & Aquisição
+nivel: 3
 autores: [Elena Verna]
 ---
 # Rebrand não gera crescimento
 
-**Fluxo:** [[06 - Growth & Aquisição]]
+**Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Anti-táticas]] · **Camada:** L3
 **Tipo:** Insight (anti-tática)
 **Fontes:** [[Elena Verna]]
 

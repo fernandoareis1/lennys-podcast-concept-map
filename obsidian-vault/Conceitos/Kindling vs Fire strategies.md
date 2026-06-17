@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Growth & Aquisição
+nivel: 3
 autores: [Casey Winters]
 ---
 # Kindling vs Fire strategies
 
-**Fluxo:** [[06 - Growth & Aquisição]]
+**Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L3
 **Tipo:** Framework de growth
 **Fontes:** [[Casey Winters]]
 

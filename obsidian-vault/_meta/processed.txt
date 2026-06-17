@@ -17,3 +17,4 @@ sean-ellis
 ada-chen-rekhi
 adam-fishman
 adam-grenier
+adriel-frederick

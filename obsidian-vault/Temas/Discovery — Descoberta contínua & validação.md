@@ -14,6 +14,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Opportunity Solution Tree]] — estruturar o espaço de oportunidades
 - [[Problem Space vs Solution Space]] — o mindset que sustenta tudo
 - [[Sean Ellis Test (40%)]] — medir se há *must-have* (sinal antecipado de PMF)
+- [[Marginal User]] — focar nos usuários na beira de converter para revelar toda a fricção do produto
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

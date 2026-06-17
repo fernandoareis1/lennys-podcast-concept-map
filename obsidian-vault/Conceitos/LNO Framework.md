@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Priorização & Roadmap
+nivel: 3
 autores: [Shreyas Doshi]
 ---
 # LNO Framework
 
-**Fluxo:** [[03 - Priorização & Roadmap]]
+**Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Priorização & foco]] · **Camada:** L3
 **Tipo:** Framework de gestão de tempo
 **Fontes:** [[Shreyas Doshi]]
 

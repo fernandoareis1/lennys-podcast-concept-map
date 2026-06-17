@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Priorização & Roadmap
+nivel: 3
 autores: [Teresa Torres]
 ---
 # Outcomes vs Outputs
 
-**Fluxo:** [[03 - Priorização & Roadmap]]
+**Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Outcomes & metas]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Teresa Torres]]
 

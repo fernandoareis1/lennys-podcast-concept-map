@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Priorização & Roadmap
+nivel: 3
 autores: [Sean Ellis]
 ---
 # ICE (priorização)
 
-**Fluxo:** [[03 - Priorização & Roadmap]]
+**Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Priorização & foco]] · **Camada:** L3
 **Tipo:** Framework de priorização
 **Fontes:** [[Sean Ellis]]
 

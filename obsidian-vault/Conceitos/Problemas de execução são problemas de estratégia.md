@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Priorização & Roadmap
+nivel: 3
 autores: [Shreyas Doshi]
 ---
 # Problemas de execução são problemas de estratégia
 
-**Fluxo:** [[03 - Priorização & Roadmap]]
+**Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Estratégia vs execução]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Shreyas Doshi]]
 

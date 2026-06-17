@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Priorização & Roadmap
+nivel: 3
 autores: [Shreyas Doshi]
 ---
 # Três níveis do trabalho de produto
 
-**Fluxo:** [[03 - Priorização & Roadmap]]
+**Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Estratégia vs execução]] · **Camada:** L3
 **Tipo:** Framework
 **Fontes:** [[Shreyas Doshi]]
 

@@ -1,11 +1,12 @@
 ---
 tipo: tecnica
 fluxo: Priorização & Roadmap
+nivel: 3
 autores: [Shreyas Doshi]
 ---
 # Pre-mortem
 
-**Fluxo:** [[03 - Priorização & Roadmap]]
+**Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Priorização & foco]] · **Camada:** L3
 **Tipo:** Técnica
 **Fontes:** [[Shreyas Doshi]]
 

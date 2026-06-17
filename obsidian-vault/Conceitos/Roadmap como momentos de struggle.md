@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Priorização & Roadmap
+nivel: 3
 autores: [Bob Moesta]
 ---
 # Roadmap como momentos de struggle
 
-**Fluxo:** [[03 - Priorização & Roadmap]]
+**Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Estratégia vs execução]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Bob Moesta]]
 

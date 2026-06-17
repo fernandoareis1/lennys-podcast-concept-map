@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Priorização & Roadmap
+nivel: 3
 autores: [Christina Wodtke]
 ---
 # OKRs (Christina Wodtke)
 
-**Fluxo:** [[03 - Priorização & Roadmap]]
+**Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Outcomes & metas]] · **Camada:** L3
 **Tipo:** Framework de foco e metas
 **Fontes:** [[Christina Wodtke]]
 
@@ -26,6 +27,10 @@ OKR é **vitamina, não remédio**: supercarrega empresas que já têm estratég
 - Estimar é **skill aprendível**; OKRs treinam o time a estimar.
 
 > 🎧 [Christina Wodtke — The ultimate guide to OKRs (1:13:13)](https://www.youtube.com/watch?v=kvkL18Ue0dE)
+
+## Aprofundamento ⬇
+*Camada L4 — citações longas e mecânica completa:*
+- [[OKRs — Evidências (Christina Wodtke)]]
 
 ## Conceitos relacionados
 [[Outcomes vs Outputs]] · [[Tudo no backlog é uma aposta]] · [[Clareza vence consenso]]

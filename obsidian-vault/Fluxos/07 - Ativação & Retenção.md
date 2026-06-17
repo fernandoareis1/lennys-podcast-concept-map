@@ -6,6 +6,9 @@ ordem: 7
 
 > Fazer o usuário voltar: onboarding, ativação, hábito, retenção e combate ao churn.
 
+## Temas (L2)
+- [[Retenção — Ativação & onboarding]] — onboarding, hábito, retenção
+
 ## Frameworks & Conceitos
 - [[Retenção é a base do crescimento]]
 - [[Churn como fonte de discovery]]

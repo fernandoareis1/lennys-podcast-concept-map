@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Liderança & Times
+nivel: 3
 autores: [Teresa Torres]
 ---
 # Product Trio
 
-**Fluxo:** [[09 - Liderança & Times]]
+**Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
 **Tipo:** Modelo de time
 **Fontes:** [[Teresa Torres]]
 

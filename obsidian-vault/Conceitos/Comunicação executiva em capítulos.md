@@ -1,11 +1,12 @@
 ---
 tipo: tecnica
 fluxo: Liderança & Times
+nivel: 3
 autores: [Casey Winters]
 ---
 # Comunicação executiva em capítulos
 
-**Fluxo:** [[09 - Liderança & Times]]
+**Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Colaboração & comunicação]] · **Camada:** L3
 **Tipo:** Técnica de comunicação
 **Fontes:** [[Casey Winters]]
 

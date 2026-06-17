@@ -1,11 +1,12 @@
 ---
 tipo: insight
 fluxo: Liderança & Times
+nivel: 3
 autores: [Marty Cagan]
 ---
 # Product Management Theater
 
-**Fluxo:** [[09 - Liderança & Times]]
+**Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
 **Tipo:** Insight (anti-padrão)
 **Fontes:** [[Marty Cagan]]
 

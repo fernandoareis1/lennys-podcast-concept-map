@@ -1,23 +1,20 @@
 ---
 tipo: fluxo
+nivel: 1
 ordem: 9
 ---
 # 👥 09 · Liderança & Times
 
-> Construir e dirigir times: liderança, gestão, contratação, cultura e como decisões são tomadas.
+> Construir e dirigir times: liderança, gestão, cultura e como as decisões são tomadas.
 
-## Frameworks & Conceitos
-- [[Founder Mode]]
-- [[Leaders in the details]]
-- [[Product Trio]]
-- [[Colaboração vs silos funcionais]]
-- [[Empowered Teams vs Feature Teams]]
-- [[Product Management Theater]]
-- [[PM responsável por valor e viabilidade]]
-- [[Comunicação executiva em capítulos]]
+**Quando usar:** ao estruturar times, definir como se decide, e quando o "jeito de trabalhar" começa a virar gargalo.
 
-## Mindsets
-- [[Clareza vence consenso]]
+## Temas
+- [[Liderança — Modelos de time]] — como o time de produto se organiza e decide
+- [[Liderança — Liderança & founder]] — clareza, detalhes e o papel do fundador
+- [[Liderança — Colaboração & comunicação]] — quebrar silos e comunicar bem
+
+> 🪜 *Camadas:* hub **L1** → **Temas (L2)** → **Conceitos (L3)** → **Aprofundamento (L4)** — adensa ao descer.
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[10 - Founder & Carreira]]

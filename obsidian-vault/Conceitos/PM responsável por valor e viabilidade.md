@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Liderança & Times
+nivel: 3
 autores: [Marty Cagan]
 ---
 # PM responsável por valor e viabilidade
 
-**Fluxo:** [[09 - Liderança & Times]]
+**Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Marty Cagan]]
 

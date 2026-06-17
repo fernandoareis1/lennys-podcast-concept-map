@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Liderança & Times
+nivel: 3
 autores: [Teresa Torres]
 ---
 # Colaboração vs silos funcionais
 
-**Fluxo:** [[09 - Liderança & Times]]
+**Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Colaboração & comunicação]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Teresa Torres]]
 

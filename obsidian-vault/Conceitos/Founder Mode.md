@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Liderança & Times
+nivel: 3
 autores: [Brian Chesky]
 ---
 # Founder Mode
 
-**Fluxo:** [[09 - Liderança & Times]] · [[10 - Founder & Carreira]]
+**Fluxo:** [[09 - Liderança & Times]] · [[10 - Founder & Carreira]] · **Tema:** [[Liderança — Liderança & founder]] · **Camada:** L3
 **Tipo:** Mindset de liderança
 **Fontes:** [[Brian Chesky]]
 
@@ -25,6 +26,10 @@ O conselho clássico de "delegue e se afaste do produto" faz o founder **abrir m
 - Inspirado em como Steve Jobs/Jony Ive rodavam a Apple (marketing como fator organizador). → [[Leaders in the details]] · [[Marketing como educação]]
 
 > 🎧 [Brian Chesky's new playbook (1:13:28)](https://www.youtube.com/watch?v=4ef0juAMqoE)
+
+## Aprofundamento ⬇
+*Camada L4 — citações longas e o arco completo do Airbnb:*
+- [[Founder Mode — Evidências (Brian Chesky)]]
 
 ## Conceitos relacionados
 [[Leaders in the details]] · [[Clareza vence consenso]] · [[Marketing como educação]] · [[Colaboração vs silos funcionais]]

@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Liderança & Times
+nivel: 3
 autores: [Brian Chesky]
 ---
 # Leaders in the details
 
-**Fluxo:** [[09 - Liderança & Times]]
+**Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Liderança & founder]] · **Camada:** L3
 **Tipo:** Mindset de liderança
 **Fontes:** [[Brian Chesky]]
 

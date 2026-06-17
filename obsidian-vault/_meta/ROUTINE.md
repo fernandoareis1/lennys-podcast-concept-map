@@ -33,7 +33,7 @@ Use esta tabela para arquivar cada conceito sob o Tema certo. **Se a nota do Tem
 - **10 Founder & Carreira** → `Founder — Mentalidade de founder` · `Founder — Carreira & progresso`
 
 ## Passos (processe UM convidado de cada vez)
-1. Liste `episodes/` e leia `_meta/processed.txt`. Selecione os próximos slugs em ordem alfabética **não presentes** no manifesto (até 20).
+1. Liste `episodes/` e leia `_meta/processed.txt`. Selecione os próximos slugs em ordem alfabética **não presentes** no manifesto (até 20). **Crie uma branch de trabalho** e NÃO trabalhe na `main`: `git checkout -b routine/lote-$(date +%Y%m%d-%H%M)`.
 2. Para CADA convidado:
    a. Leia o `transcript.md`. **Confirme o convidado pelo CORPO do texto** (alguns frontmatters estão trocados).
    b. Extraia 3–6 **frameworks/mindsets/insights**.
@@ -44,9 +44,16 @@ Use esta tabela para arquivar cada conceito sob o Tema certo. **Se a nota do Tem
    g. **Autor:** crie/atualize a nota leve em `Autores/`.
    h. Anexe o slug a `_meta/processed.txt`.
    i. Valide que os `[[links]]` criados têm arquivo correspondente em `Conceitos`/`Fluxos`/`Autores`/`Temas`/`Aprofundamento`/raiz (corrija órfãos).
-   j. **COMMIT + PUSH IMEDIATO:** `git add -A && git commit -m "routine: +1 (slug)" && git push origin main`.
+   j. **COMMIT + PUSH NA BRANCH (NÃO na main):** `git add -A && git commit -m "routine: +1 (slug)"` e `git push -u origin HEAD`. NÃO tente **assinar** o commit — se um hook reclamar de assinatura, ignore (o commit já foi feito); nunca use `--amend` para isso.
 3. Repita até 20 ou até a sessão estar acabando.
-   ⚠️ **NUNCA acumule.** Cada convidado é commitado/pushed ANTES do próximo, para sobreviver a qualquer interrupção.
+   ⚠️ **NUNCA acumule.** Cada convidado é commitado/pushed na branch ANTES do próximo, para sobreviver a qualquer interrupção.
+
+## Publicação via Pull Request (NUNCA push na main)
+- Na **primeira** publicação da branch, abra um PR para a `main`:
+  `gh pr create --base main --head "$(git branch --show-current)" --title "routine: lote de convidados" --body "Processados: <slugs>"`
+- Nos pushes seguintes o PR **atualiza sozinho** — não abra outro.
+- **NUNCA** faça `git push origin main` nem `git merge` na main. O merge é feito pelo dono do repo após revisar o PR.
+- Se o `git push` falhar com **403/permissão**, PARE e reporte (é credencial do ambiente; repetir não resolve).
 
 ## Schemas
 

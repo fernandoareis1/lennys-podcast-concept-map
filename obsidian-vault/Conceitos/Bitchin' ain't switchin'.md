@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Bob Moesta]
 ---
 # Bitchin' ain't switchin'
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Jobs to be Done (teoria da demanda)]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Bob Moesta]]
 

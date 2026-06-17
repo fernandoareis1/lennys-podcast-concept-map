@@ -1,11 +1,12 @@
 ---
 tipo: tecnica
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Bob Moesta, Teresa Torres]
 ---
 # Entrevista baseada em história
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Entrevistar usuários]] · **Camada:** L3
 **Tipo:** Técnica de pesquisa
 **Fontes:** [[Bob Moesta]] · [[Teresa Torres]]
 
@@ -31,6 +32,10 @@ Não pergunte **o que a pessoa acha ou faria** (resposta fora de contexto = não
 - Boa entrevista deixa o cliente dizendo *"quando a gente faz de novo?"*.
 
 > 🎧 [Bob Moesta (00:27–00:39)](https://www.youtube.com/watch?v=2wypVv9wZtI) · [Teresa Torres (35:00–40:00)](https://www.youtube.com/watch?v=9RFaz9ZBXpk)
+
+## Aprofundamento ⬇
+*Camada L4 — roteiro completo, camadas de linguagem, quem/quantos entrevistar:*
+- [[Entrevista — Playbook (Moesta + Torres)]]
 
 ## Conceitos relacionados
 [[Jobs to be Done (JTBD)]] · [[Continuous Discovery]] · [[Opportunity Solution Tree]] · [[Forças do Progresso (Push-Pull-Ansiedade-Hábito)]]

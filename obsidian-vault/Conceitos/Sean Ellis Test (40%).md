@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Sean Ellis]
 ---
 # Sean Ellis Test (40%)
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Descoberta contínua & validação]] · **Camada:** L3
 **Tipo:** Métrica de validação de PMF
 **Fontes:** [[Sean Ellis]]
 

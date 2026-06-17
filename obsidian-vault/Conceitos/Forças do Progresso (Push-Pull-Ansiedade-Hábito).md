@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Bob Moesta]
 ---
 # Forças do Progresso (Push / Pull / Ansiedade / Hábito)
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Jobs to be Done (teoria da demanda)]] · **Camada:** L3
 **Tipo:** Modelo causal de comportamento
 **Fontes:** [[Bob Moesta]]
 

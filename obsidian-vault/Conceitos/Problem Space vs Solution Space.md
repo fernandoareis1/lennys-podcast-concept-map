@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Teresa Torres]
 ---
 # Problem Space vs Solution Space
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Descoberta contínua & validação]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Teresa Torres]]
 

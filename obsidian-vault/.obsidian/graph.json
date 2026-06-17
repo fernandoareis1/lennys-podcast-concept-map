@@ -9,24 +9,23 @@
   "colorGroups": [
     {
       "query": "path:Fluxos",
-      "color": {
-        "a": 1,
-        "rgb": 4814567
-      }
+      "color": { "a": 1, "rgb": 4814567 }
+    },
+    {
+      "query": "path:Temas",
+      "color": { "a": 1, "rgb": 16751001 }
     },
     {
       "query": "path:Conceitos",
-      "color": {
-        "a": 1,
-        "rgb": 4437377
-      }
+      "color": { "a": 1, "rgb": 4437377 }
+    },
+    {
+      "query": "path:Aprofundamento",
+      "color": { "a": 1, "rgb": 11030248 }
     },
     {
       "query": "path:Autores",
-      "color": {
-        "a": 1,
-        "rgb": 15633682
-      }
+      "color": { "a": 1, "rgb": 15633682 }
     }
   ],
   "collapse-display": false,
@@ -39,6 +38,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 110,
-  "scale": 5.416435544289144,
+  "scale": 0.7132754626224375,
   "close": true
 }

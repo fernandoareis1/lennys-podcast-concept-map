@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Teresa Torres]
 ---
 # Opportunity Solution Tree
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Descoberta contínua & validação]] · **Camada:** L3
 **Tipo:** Framework visual de descoberta
 **Fontes:** [[Teresa Torres]]
 

@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Teresa Torres]
 ---
 # Continuous Discovery
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Descoberta contínua & validação]] · **Camada:** L3
 **Tipo:** Sistema de descoberta
 **Fontes:** [[Teresa Torres]]
 
@@ -27,6 +28,10 @@ Produto digital **nunca está "pronto"**. Em vez de pesquisa por projeto (parar 
 - Trabalhe com **3 soluções em paralelo** para a mesma oportunidade (compare e contraste).
 
 > 🎧 [Teresa Torres — Continuous discovery (21:00–45:00)](https://www.youtube.com/watch?v=9RFaz9ZBXpk)
+
+## Aprofundamento ⬇
+*Camada L4 — citações longas e mecânica completa:*
+- [[Continuous Discovery — Evidências (Teresa Torres)]]
 
 ## Conceitos relacionados
 [[Opportunity Solution Tree]] · [[Entrevista baseada em história]] · [[Assumption Testing]] · [[Product Trio]] · [[Tudo no backlog é uma aposta]]

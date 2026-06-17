@@ -9,7 +9,6 @@ ordem: 7
 ## Frameworks & Conceitos
 - [[Retenção é a base do crescimento]]
 - [[Churn como fonte de discovery]]
-- [[Sean Ellis Test (40%)]]
 - [[Ativação via onboarding]]
 - [[Gatilhos internos vs externos (hábito)]]
 

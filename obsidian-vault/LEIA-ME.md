@@ -27,11 +27,22 @@ obsidian-vault/
 - **Insights por autor** — citação + tática + link pro episódio (com timestamp quando útil)
 - **Conceitos relacionados** — links que alimentam o grafo
 
-## Cores do grafo
-Em *Graph View → Settings (engrenagem) → Groups* já há grupos por tipo:
-- 🟦 Fluxos · 🟩 Conceitos · 🟧 Autores
+## Camadas (profundidade progressiva)
+O conteúdo é organizado em **5 camadas**: quanto mais você desce, mais denso o texto. Cada camada é uma pasta:
 
-(config em `.obsidian/graph.json` — aplicada automaticamente)
+| Camada | Pasta | Cor no grafo | Densidade |
+|---|---|---|---|
+| L0 · Mapa | `Home.md` | — | índice |
+| L1 · Fluxo | `Fluxos/` | 🟩 verde | ~100 palavras |
+| L2 · Tema | `Temas/` | 🟧 laranja | ~120 palavras |
+| L3 · Conceito | `Conceitos/` | 🟦 azul | ~300 palavras (card + aplicação) |
+| L4 · Aprofundamento | `Aprofundamento/` | 🟪 roxo | 600–1200+ palavras (citações, debate, casos) |
+
+Desça assim: **[[Home]] → Fluxo → Tema → Conceito → Aprofundamento**. No **Local Graph** de qualquer nota, aumente o slider *Depth* para revelar camada por camada.
+
+> 🚧 *Piloto:* só o fluxo [[01 - Discovery & Pesquisa]] está no modelo de 5 camadas por enquanto. Os demais fluxos ainda estão "achatados" (Conceitos direto no hub) e serão migrados.
+
+(cores em `.obsidian/graph.json`, aplicadas automaticamente)
 
 ## Status atual: PILOTO
 8 episódios processados para validar o formato:

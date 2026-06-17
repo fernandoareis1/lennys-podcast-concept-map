@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Bob Moesta]
 ---
 # Demand Side Sales
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Jobs to be Done (teoria da demanda)]] · **Camada:** L3
 **Tipo:** Mindset de vendas/produto
 **Fontes:** [[Bob Moesta]]
 

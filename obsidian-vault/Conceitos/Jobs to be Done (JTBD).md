@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Discovery & Pesquisa
+nivel: 3
 autores: [Bob Moesta]
 ---
 # Jobs to be Done (JTBD)
 
-**Fluxo:** [[01 - Discovery & Pesquisa]]
+**Fluxo:** [[01 - Discovery & Pesquisa]] · **Tema:** [[Discovery — Jobs to be Done (teoria da demanda)]] · **Camada:** L3
 **Tipo:** Framework de descoberta
 **Fontes:** [[Bob Moesta]]
 
@@ -31,6 +32,12 @@ As pessoas **não compram produtos — elas os "contratam"** para fazer progress
 - 🎯 Caso real: na Southern New Hampshire University, anomalias de alunos adultos revelaram um job ignorado → 200k+ alunos.
 
 > 🎧 [Bob Moesta — How to find work you love (1:24:56)](https://www.youtube.com/watch?v=2wypVv9wZtI)
+
+## Aprofundamento ⬇
+*Camada L4 — citações longas, debate e casos:*
+- [[JTBD — Evidências (Bob Moesta)]]
+- [[JTBD — Debate (as escolas do JTBD)]]
+- [[JTBD — Casos]]
 
 ## Conceitos relacionados
 [[Forças do Progresso (Push-Pull-Ansiedade-Hábito)]] · [[Entrevista baseada em história]] · [[Demand Side Sales]] · [[Estudar momentos de struggle, não produtos]] · [[Bitchin' ain't switchin']] · [[JTBD aplicado a carreira (Job Moves)]]

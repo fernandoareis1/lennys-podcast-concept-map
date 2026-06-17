@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Estratégia & Visão
+nivel: 3
 autores: [April Dunford]
 ---
 # Positioning (April Dunford)
 
-**Fluxo:** [[02 - Estratégia & Visão]]
+**Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
 **Tipo:** Framework de estratégia/posicionamento
 **Fontes:** [[April Dunford]]
 
@@ -27,6 +28,10 @@ Posicionamento é **o contexto em que seu produto faz sentido** — como você v
 - O setup é onde acontece o **discovery** — é conversa, não monólogo.
 
 > 🎧 [April Dunford — Sales Pitch (1:30:53)](https://www.youtube.com/watch?v=-VqmFI9vY7w)
+
+## Aprofundamento ⬇
+*Camada L4 — a estrutura completa do pitch e a psicologia do comprador:*
+- [[Positioning — Evidências (April Dunford)]]
 
 ## Conceitos relacionados
 [[Competitive Alternatives]] · [[Indecisão do comprador (no decision)]] · [[Posicionamento é contexto, não slogan]] · [[Pricing por modelo de competição]]

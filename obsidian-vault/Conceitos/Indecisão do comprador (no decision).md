@@ -1,11 +1,12 @@
 ---
 tipo: insight
 fluxo: Estratégia & Visão
+nivel: 3
 autores: [April Dunford]
 ---
 # Indecisão do comprador (no decision)
 
-**Fluxo:** [[02 - Estratégia & Visão]]
+**Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
 **Tipo:** Insight
 **Fontes:** [[April Dunford]]
 

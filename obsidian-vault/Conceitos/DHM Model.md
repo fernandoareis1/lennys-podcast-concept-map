@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Estratégia & Visão
+nivel: 3
 autores: [Gibson Biddle]
 ---
 # DHM Model
 
-**Fluxo:** [[02 - Estratégia & Visão]]
+**Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
 **Tipo:** Framework de estratégia de produto
 **Fontes:** [[Gibson Biddle]]
 

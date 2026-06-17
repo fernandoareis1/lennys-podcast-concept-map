@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Estratégia & Visão
+nivel: 3
 autores: [April Dunford]
 ---
 # Posicionamento é contexto, não slogan
 
-**Fluxo:** [[02 - Estratégia & Visão]]
+**Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[April Dunford]]
 

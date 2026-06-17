@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Estratégia & Visão
+nivel: 3
 autores: [April Dunford]
 ---
 # Competitive Alternatives
 
-**Fluxo:** [[02 - Estratégia & Visão]]
+**Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
 **Tipo:** Conceito de posicionamento
 **Fontes:** [[April Dunford]]
 

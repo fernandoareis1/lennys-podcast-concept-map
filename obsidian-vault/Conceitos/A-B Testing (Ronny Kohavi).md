@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Experimentação & Dados
+nivel: 3
 autores: [Ronny Kohavi]
 ---
 # A/B Testing (Ronny Kohavi)
 
-**Fluxo:** [[05 - Experimentação & Dados]]
+**Fluxo:** [[05 - Experimentação & Dados]] · **Tema:** [[Experimentação — AB testing & cultura]] · **Camada:** L3
 **Tipo:** Disciplina de experimentação
 **Fontes:** [[Ronny Kohavi]]
 
@@ -25,6 +26,10 @@ autores: [Ronny Kohavi]
 - goodui.org cataloga padrões que costumam funcionar.
 
 > 🎧 [Ronny Kohavi — The ultimate guide to A/B testing (1:23:08)](https://www.youtube.com/watch?v=hEzpiDuYFoE)
+
+## Aprofundamento ⬇
+*Camada L4 — casos, números e mecânica completa:*
+- [[A-B Testing — Evidências (Ronny Kohavi)]]
 
 ## Conceitos relacionados
 [[OEC - Overall Evaluation Criterion]] · [[Twyman's Law]] · [[A maioria das ideias falha no teste]] · [[Assumption Testing]]

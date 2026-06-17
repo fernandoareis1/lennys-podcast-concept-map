@@ -1,11 +1,12 @@
 ---
 tipo: conceito
 fluxo: Experimentação & Dados
+nivel: 3
 autores: [Ronny Kohavi]
 ---
 # OEC — Overall Evaluation Criterion
 
-**Fluxo:** [[05 - Experimentação & Dados]]
+**Fluxo:** [[05 - Experimentação & Dados]] · **Tema:** [[Experimentação — AB testing & cultura]] · **Camada:** L3
 **Tipo:** Conceito de métricas
 **Fontes:** [[Ronny Kohavi]]
 

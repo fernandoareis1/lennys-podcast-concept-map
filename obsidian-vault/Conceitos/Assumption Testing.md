@@ -1,11 +1,12 @@
 ---
 tipo: tecnica
 fluxo: Experimentação & Dados
+nivel: 3
 autores: [Teresa Torres]
 ---
 # Assumption Testing
 
-**Fluxo:** [[05 - Experimentação & Dados]]
+**Fluxo:** [[05 - Experimentação & Dados]] · **Tema:** [[Experimentação — Aprender com pouco e qualitativo]] · **Camada:** L3
 **Tipo:** Técnica
 **Fontes:** [[Teresa Torres]]
 

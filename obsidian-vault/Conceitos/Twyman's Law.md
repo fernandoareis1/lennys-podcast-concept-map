@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Experimentação & Dados
+nivel: 3
 autores: [Ronny Kohavi]
 ---
 # Twyman's Law
 
-**Fluxo:** [[05 - Experimentação & Dados]]
+**Fluxo:** [[05 - Experimentação & Dados]] · **Tema:** [[Experimentação — AB testing & cultura]] · **Camada:** L3
 **Tipo:** Mindset / heurística de dados
 **Fontes:** [[Ronny Kohavi]]
 

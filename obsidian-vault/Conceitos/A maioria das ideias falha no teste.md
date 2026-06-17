@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Experimentação & Dados
+nivel: 3
 autores: [Ronny Kohavi]
 ---
 # A maioria das ideias falha no teste
 
-**Fluxo:** [[05 - Experimentação & Dados]]
+**Fluxo:** [[05 - Experimentação & Dados]] · **Tema:** [[Experimentação — AB testing & cultura]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Ronny Kohavi]]
 

@@ -1,11 +1,12 @@
 ---
 tipo: tecnica
 fluxo: Design & UX
+nivel: 3
 autores: [Teresa Torres]
 ---
 # Experience Map
 
-**Fluxo:** [[04 - Design & UX]]
+**Fluxo:** [[04 - Design & UX]] · **Tema:** [[Design — Experiência & fricção]] · **Camada:** L3
 **Tipo:** Técnica
 **Fontes:** [[Teresa Torres]]
 

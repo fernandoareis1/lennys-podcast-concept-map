@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Design & UX
+nivel: 3
 autores: [Bob Baxley]
 ---
 # Design é cultura, não serviço
 
-**Fluxo:** [[04 - Design & UX]]
+**Fluxo:** [[04 - Design & UX]] · **Tema:** [[Design — Cultura & papel do design]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Bob Baxley]]
 
@@ -22,6 +23,10 @@ autores: [Bob Baxley]
 - Cultura forte (Apple) só se vê sobreviver quando os founders saem.
 
 > 🎧 [Bob Baxley — 35 years of product design wisdom (1:41:59)](https://www.youtube.com/watch?v=X-83gvgVaWc)
+
+## Aprofundamento ⬇
+*Camada L4 — citações longas sobre cultura, valores e o papel do design:*
+- [[Design é cultura — Evidências (Bob Baxley)]]
 
 ## Conceitos relacionados
 [[Manter valores, não comportamentos]] · [[Reduzir fricção em vez de adicionar features]] · [[Founder Mode]]

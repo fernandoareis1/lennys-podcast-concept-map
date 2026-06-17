@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Design & UX
+nivel: 3
 autores: [Bob Moesta]
 ---
 # Reduzir fricção em vez de adicionar features
 
-**Fluxo:** [[04 - Design & UX]]
+**Fluxo:** [[04 - Design & UX]] · **Tema:** [[Design — Experiência & fricção]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Bob Moesta]]
 

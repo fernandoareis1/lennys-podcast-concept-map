@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Ativação & Retenção
+nivel: 3
 autores: [Elena Verna]
 ---
 # Retenção é a base do crescimento
 
-**Fluxo:** [[07 - Ativação & Retenção]]
+**Fluxo:** [[07 - Ativação & Retenção]] · **Tema:** [[Retenção — Retenção & churn]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Elena Verna]]
 

@@ -1,11 +1,12 @@
 ---
 tipo: tecnica
 fluxo: Ativação & Retenção
+nivel: 3
 autores: [Bob Moesta]
 ---
 # Churn como fonte de discovery
 
-**Fluxo:** [[07 - Ativação & Retenção]]
+**Fluxo:** [[07 - Ativação & Retenção]] · **Tema:** [[Retenção — Retenção & churn]] · **Camada:** L3
 **Tipo:** Técnica de pesquisa
 **Fontes:** [[Bob Moesta]]
 

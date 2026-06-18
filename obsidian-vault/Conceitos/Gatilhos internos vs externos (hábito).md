@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Ativação & Retenção
+nivel: 3
 autores: [Nir Eyal]
 ---
 # Gatilhos internos vs externos (hábito)
 
-**Fluxo:** [[07 - Ativação & Retenção]]
+**Fluxo:** [[07 - Ativação & Retenção]] · **Tema:** [[Retenção — Ativação & onboarding]] · **Camada:** L3
 **Tipo:** Modelo psicológico
 **Fontes:** [[Nir Eyal]]
 
@@ -22,6 +23,10 @@ Comportamento (hábito ou distração) dispara por dois tipos de gatilho: **exte
 - Distração ≠ falta de foco; o oposto de distração é **tração** (ação com intenção).
 
 > 🎧 [Nir Eyal — Becoming less distractible (1:24:42)](https://www.youtube.com/watch?v=WSscIIY609c)
+
+## Aprofundamento ⬇
+*Camada L4 — a psicologia completa de gatilhos, hábito e distração:*
+- [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]
 
 ## Conceitos relacionados
 [[Retenção é a base do crescimento]] · [[Churn como fonte de discovery]] · [[Forças do Progresso (Push-Pull-Ansiedade-Hábito)]]

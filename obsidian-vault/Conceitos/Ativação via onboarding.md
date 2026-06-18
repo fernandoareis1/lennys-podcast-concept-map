@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Ativação & Retenção
+nivel: 3
 autores: [Sean Ellis]
 ---
 # Ativação via onboarding
 
-**Fluxo:** [[07 - Ativação & Retenção]]
+**Fluxo:** [[07 - Ativação & Retenção]] · **Tema:** [[Retenção — Ativação & onboarding]] · **Camada:** L3
 **Tipo:** Mindset
 **Fontes:** [[Sean Ellis]]
 

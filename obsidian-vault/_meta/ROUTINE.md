@@ -3,7 +3,7 @@
 Você é um agente autônomo. Objetivo: **expandir o mapa de conceitos** do Lenny's Podcast no vault Obsidian, no **modelo de profundidade progressiva (5 camadas)**, processando um lote de episódios e fazendo commit **após cada convidado**.
 
 ## Parâmetros
-- **TAMANHO DO LOTE:** até 20 convidados por execução.
+- **TAMANHO DO LOTE:** até 5 convidados por execução.
 - **Transcrições-fonte:** `lennys-podcast-transcripts-main/lennys-podcast-transcripts-main/episodes/{slug}/transcript.md`
 - **Vault:** `obsidian-vault/`
 - **Manifesto de progresso:** `obsidian-vault/_meta/processed.txt` (um slug por linha = já processado)
@@ -33,7 +33,7 @@ Use esta tabela para arquivar cada conceito sob o Tema certo. **Se a nota do Tem
 - **10 Founder & Carreira** → `Founder — Mentalidade de founder` · `Founder — Carreira & progresso`
 
 ## Passos (processe UM convidado de cada vez)
-1. Liste `episodes/` e leia `_meta/processed.txt`. Selecione os próximos slugs em ordem alfabética **não presentes** no manifesto (até 20). **Crie uma branch de trabalho** e NÃO trabalhe na `main`: `git checkout -b routine/lote-$(date +%Y%m%d-%H%M)`.
+1. Liste `episodes/` e leia `_meta/processed.txt`. Selecione os próximos slugs em ordem alfabética **não presentes** no manifesto (até 5). **Crie uma branch de trabalho** e NÃO trabalhe na `main`: `git checkout -b routine/lote-$(date +%Y%m%d-%H%M)`.
 2. Para CADA convidado:
    a. Leia o `transcript.md`. **Confirme o convidado pelo CORPO do texto** (alguns frontmatters estão trocados).
    b. Extraia 3–6 **frameworks/mindsets/insights**.
@@ -45,7 +45,7 @@ Use esta tabela para arquivar cada conceito sob o Tema certo. **Se a nota do Tem
    h. Anexe o slug a `_meta/processed.txt`.
    i. Valide que os `[[links]]` criados têm arquivo correspondente em `Conceitos`/`Fluxos`/`Autores`/`Temas`/`Aprofundamento`/raiz (corrija órfãos).
    j. **COMMIT + PUSH NA BRANCH (NÃO na main):** `git add -A && git commit -m "routine: +1 (slug)"` e `git push -u origin HEAD`. NÃO tente **assinar** o commit — se um hook reclamar de assinatura, ignore (o commit já foi feito); nunca use `--amend` para isso.
-3. Repita até 20 ou até a sessão estar acabando.
+3. Repita até 5 ou até a sessão estar acabando.
    ⚠️ **NUNCA acumule.** Cada convidado é commitado/pushed na branch ANTES do próximo, para sobreviver a qualquer interrupção.
 
 ## Publicação via Pull Request (NUNCA push na main)

@@ -1,11 +1,12 @@
 ---
 tipo: mindset
 fluxo: Founder & Carreira
+nivel: 3
 autores: [Bob Baxley]
 ---
 # Manter valores, não comportamentos
 
-**Fluxo:** [[10 - Founder & Carreira]]
+**Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
 **Tipo:** Mindset de carreira
 **Fontes:** [[Bob Baxley]]
 

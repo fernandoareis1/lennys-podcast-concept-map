@@ -1,18 +1,19 @@
 ---
 tipo: fluxo
+nivel: 1
 ordem: 10
 ---
 # 🧗 10 · Founder & Carreira
 
 > A jornada de quem constrói: mentalidade de founder, startups e decisões de carreira.
 
-## Frameworks & Conceitos
-- [[Founder Mode]]
-- [[JTBD aplicado a carreira (Job Moves)]]
-- [[Manter valores, não comportamentos]]
+**Quando usar:** ao pensar no papel do fundador e em escolhas de carreira — suas e do time.
 
-## Mindsets
-- [[Carreira é progresso, não salário]]
+## Temas
+- [[Founder — Mentalidade de founder]] — operar como fundador
+- [[Founder — Carreira & progresso]] — carreira é progresso, não salário
+
+> 🪜 *Camadas:* hub **L1** → **Temas (L2)** → **Conceitos (L3)** → **Aprofundamento (L4)**.
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[09 - Liderança & Times]]

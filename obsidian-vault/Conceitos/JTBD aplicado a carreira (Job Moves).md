@@ -1,11 +1,12 @@
 ---
 tipo: framework
 fluxo: Founder & Carreira
+nivel: 3
 autores: [Bob Moesta]
 ---
 # JTBD aplicado a carreira (Job Moves)
 
-**Fluxo:** [[10 - Founder & Carreira]]
+**Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
 **Tipo:** Aplicação de framework
 **Fontes:** [[Bob Moesta]]
 

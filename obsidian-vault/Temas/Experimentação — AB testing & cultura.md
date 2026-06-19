@@ -14,6 +14,8 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[OEC - Overall Evaluation Criterion]] — a métrica única + guardrails
 - [[Twyman's Law]] — dado bom demais provavelmente está errado
 - [[A maioria das ideias falha no teste]] — 66–92% das ideias não movem a métrica
+- [[Lead Bullets vs Cannonballs]] — portfólio de apostas: pequenas + grandes mudanças fundamentais
+- [[Humans in the Loop (algoritmos)]] — PMs definem o que algoritmo decide vs. o que humano decide
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

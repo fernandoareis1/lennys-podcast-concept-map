@@ -14,3 +14,7 @@ brian-balfour
 gibson-biddle
 nir-eyal
 sean-ellis
+ada-chen-rekhi
+adam-fishman
+adam-grenier
+adriel-frederick

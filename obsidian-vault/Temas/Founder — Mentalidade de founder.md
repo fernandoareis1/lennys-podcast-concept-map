@@ -11,6 +11,8 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 
 ## Conceitos (L3)
 - [[Founder Mode]] — operar como startup, founder no comando · **⬇ tem aprofundamento**
+- [[Curiosity Loop]] — framework estruturado para coletar conselhos contextualizados
+- [[Scorecard Interno vs Externo]] — avaliar decisões pelo placar interno (valores) e não pelo externo (status)
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

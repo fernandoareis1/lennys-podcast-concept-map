@@ -12,6 +12,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 ## Conceitos (L3)
 - [[Distribuição vence produto]] — startup = conseguir distribuição antes do incumbente copiar
 - [[Ciclo das novas plataformas de distribuição]] — o jogo de 4 passos (próxima: ChatGPT)
+- [[Três Ingredientes para Canais Emergentes]] — fit de canal + DNA do canal + DNA da empresa
 - [[Marketing como educação]] — laser, lustre e ensinar o mercado
 
 ## Fluxos vizinhos

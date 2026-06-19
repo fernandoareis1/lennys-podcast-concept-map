@@ -11,6 +11,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 
 ## Conceitos (L3)
 - [[DHM Model]] — Delight · Hard-to-copy · Margin-enhancing
+- [[PMF é do Mercado]] — PMF não é permanente; muda com o mercado
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

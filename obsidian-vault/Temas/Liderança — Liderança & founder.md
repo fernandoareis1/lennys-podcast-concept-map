@@ -13,6 +13,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Founder Mode]] — reassumir o leme e operar como startup · **⬇ tem aprofundamento**
 - [[Leaders in the details]] — conhecer o trabalho a fundo ≠ microgerenciar
 - [[Clareza vence consenso]] — o que o time mais quer é clareza
+- [[Growth CMO]] — CMO orientado a dados e iteração contínua, integrado ao produto
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

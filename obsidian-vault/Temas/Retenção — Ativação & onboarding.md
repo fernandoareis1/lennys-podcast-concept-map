@@ -11,6 +11,7 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 
 ## Conceitos (L3)
 - [[Ativação via onboarding]] — retenção é mais função de onboarding que de táticas pós-fato
+- [[Defaults Opinados]] — tornar difícil fazer o errado, fácil fazer o certo, sem remover escolha
 - [[Gatilhos internos vs externos (hábito)]] — produto que vira hábito alivia uma emoção · **⬇ tem aprofundamento**
 
 ## Descer mais (L4) ⬇

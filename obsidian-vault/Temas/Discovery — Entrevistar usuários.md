@@ -11,6 +11,7 @@ Como extrair a **verdade** do usuário: coletar **histórias concretas** de epis
 
 ## Conceitos (L3)
 - [[Entrevista baseada em história]] — a técnica · **⬇ tem aprofundamento**
+- [[Usuário Marginal]] — focar no pior caso revela todos os problemas; dados dizem o quanto, observação diz o porquê
 
 ## Descer mais (L4) ⬇
 [[Entrevista — Playbook (Moesta + Torres)]] — roteiro, camadas de linguagem, nº de entrevistas, quem entrevistar

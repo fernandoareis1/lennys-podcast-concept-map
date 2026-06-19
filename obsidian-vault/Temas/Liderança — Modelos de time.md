@@ -15,3 +15,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[PM responsável por valor e viabilidade]] — o que o PM de fato carrega
 - [[Product Management Theater]] — quando o título não tem o papel
 - [[Modelo de Competências de Growth]] — 4 quadrantes para contratar e desenvolver profissionais de growth
+- [[Rejeição Orgânica em R&D]] — times de inovação dentro de empresas grandes enfrentam rejeição organizacional; 3 condições para evitar

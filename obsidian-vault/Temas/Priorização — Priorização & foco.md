@@ -14,3 +14,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[ICE (priorização)]] — Impact × Confidence × Ease
 - [[Pre-mortem]] — imaginar o fracasso antes de começar
 - [[Portfólio Cannonball-Lead Bullet]] — ~80% em grandes apostas, ~20% em micro-otimizações
+- [[Problema Primeiro em IA]] — não se deixar seduzir pela complexidade da solução antes de ter clareza do problema

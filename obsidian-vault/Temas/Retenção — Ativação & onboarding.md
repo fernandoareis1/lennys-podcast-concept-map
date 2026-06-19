@@ -10,7 +10,8 @@ fluxo: Ativação & Retenção
 Levar o novo usuário **à experiência de valor** rápido e conectar o produto a um **gatilho interno** — é assim que se forma hábito e se melhora retenção.
 
 ## Conceitos (L3)
-- [[Ativação via onboarding]] — retenção é mais função de onboarding que de táticas pós-fato
+- [[Ativação via onboarding]] — retenção é mais função de onboarding que de táticas pós-fato (Sean Ellis, Adam Fishman)
+- [[Defaults Opinados]] — configurar o caminho certo como default sem eliminar escolha
 - [[Gatilhos internos vs externos (hábito)]] — produto que vira hábito alivia uma emoção · **⬇ tem aprofundamento**
 
 ## Descer mais (L4) ⬇

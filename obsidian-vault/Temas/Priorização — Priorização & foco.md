@@ -13,3 +13,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[LNO Framework]] — classificar tarefas por alavancagem (Leverage/Neutral/Overhead)
 - [[ICE (priorização)]] — Impact × Confidence × Ease
 - [[Pre-mortem]] — imaginar o fracasso antes de começar
+- [[Portfólio Cannonball-Lead Bullet]] — ~80% em grandes apostas, ~20% em micro-otimizações

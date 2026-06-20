@@ -11,6 +11,7 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: conquistar c
 
 ## Conceitos (L3)
 - [[Market Share + Wallet Share]] — os dois motores e as 6 armadilhas dos arquétipos · **⬇ tem aprofundamento**
+- [[Freemium Reverso]] — amostrar features pagas no fluxo do usuário free para mudar a percepção do produto
 
 ## Descer mais (L4) ⬇
 [[Market Share + Wallet Share — Evidências (Madhavan Ramanujam)]]

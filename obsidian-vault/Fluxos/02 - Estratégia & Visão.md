@@ -12,6 +12,7 @@ ordem: 2
 ## Temas
 - [[Estratégia — Posicionamento & diferenciação]] — por que escolher você
 - [[Estratégia — Estratégia de produto]] — como criar e sustentar vantagem
+- [[Estratégia — Visão, missão & narrativa]] — o norte que filtra decisões e alinha o time
 
 > 🪜 *Camadas:* hub **L1** → **Temas (L2)** → **Conceitos (L3)** → **Aprofundamento (L4)**.
 

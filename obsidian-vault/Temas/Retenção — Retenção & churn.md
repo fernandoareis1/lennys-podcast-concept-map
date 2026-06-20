@@ -12,6 +12,7 @@ Reter é a base: sem retenção não há PMF nem growth. E quem **sai** (churn) 
 ## Conceitos (L3)
 - [[Retenção é a base do crescimento]] — growth amplifica retenção, não a cria
 - [[Churn como fonte de discovery]] — entrevistar quem saiu revela o struggle
+- [[Ressurreição de usuários]] — usuários dormentes são alavanca de crescimento subestimada em produtos maduros
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[06 - Growth & Aquisição]]

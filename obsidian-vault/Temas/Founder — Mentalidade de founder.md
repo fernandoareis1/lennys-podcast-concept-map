@@ -11,6 +11,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 
 ## Conceitos (L3)
 - [[Founder Mode]] — operar como startup, founder no comando · **⬇ tem aprofundamento**
+- [[Dor como Moat]] — em campos sem playbook, o conhecimento acumulado na iteração dolorosa é o moat real
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

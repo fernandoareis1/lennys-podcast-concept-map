@@ -11,6 +11,7 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: conquistar c
 
 ## Conceitos (L3)
 - [[Market Share + Wallet Share]] — os dois motores e as 6 armadilhas dos arquétipos · **⬇ tem aprofundamento**
+- [[Bundle de Assinatura Progressivo]] — construir assinatura essencial somando produtos com DNA comum
 
 ## Descer mais (L4) ⬇
 [[Market Share + Wallet Share — Evidências (Madhavan Ramanujam)]]

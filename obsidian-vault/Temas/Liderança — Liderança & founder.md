@@ -14,6 +14,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Leaders in the details]] — conhecer o trabalho a fundo ≠ microgerenciar
 - [[Clareza vence consenso]] — o que o time mais quer é clareza
 - [[Growth CMO]] — líder de marketing com mentalidade product-agile
+- [[Kayfabe Organizacional]] — quando todos sabem que a estratégia está errada mas ninguém diz em voz alta
+- [[Design para Emergência — Estratégia bottom-up]] — projetar condições para emergência bottom-up em vez de controle top-down
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

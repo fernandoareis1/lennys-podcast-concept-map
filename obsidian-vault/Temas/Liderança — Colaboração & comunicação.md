@@ -12,3 +12,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 ## Conceitos (L3)
 - [[Colaboração vs silos funcionais]] — colaborar como crianças brincando, não defender território
 - [[Comunicação executiva em capítulos]] — contar a história no nível certo
+- [[Strategy Salons e Nerd Clubs]] — grupos opt-in, secretos e low-stakes para testar ideias meio-formadas

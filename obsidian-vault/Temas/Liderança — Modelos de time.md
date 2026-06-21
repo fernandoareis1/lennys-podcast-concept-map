@@ -15,3 +15,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[PM responsável por valor e viabilidade]] — o que o PM de fato carrega
 - [[Product Management Theater]] — quando o título não tem o papel
 - [[Growth Competency Model]] — 4 quadrantes para contratar e avaliar profissionais de growth
+- [[Organizações como Slime Mold]] — custo de coordenação cresce com o quadrado das pessoas; abraçar emergência descentralizada

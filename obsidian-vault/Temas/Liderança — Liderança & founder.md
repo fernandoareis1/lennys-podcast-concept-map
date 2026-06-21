@@ -15,6 +15,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Clareza vence consenso]] — o que o time mais quer é clareza
 - [[Growth CMO]] — líder de marketing com mentalidade product-agile
 - [[PM em Wartime]] — prosperar em caos: clareza rápida, contexto compartilhado, roadmap jogado fora sem hesitar
+- [[Kayfabe Organizacional]] — a ficção coletiva que sustenta organizações mas distorce a realidade progressivamente
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

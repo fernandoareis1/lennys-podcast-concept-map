@@ -16,3 +16,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Product Management Theater]] — quando o título não tem o papel
 - [[Growth Competency Model]] — 4 quadrantes para contratar e avaliar profissionais de growth
 - [[Organizações como Slime Mold]] — custo de coordenação cresce com o quadrado das pessoas; abraçar emergência descentralizada
+- [[Compressão do Stack de Talentos com IA]] — fronteiras entre papéis ficam menos rígidas; PMs prototipam, designers fazem PRs, times menores entregam mais

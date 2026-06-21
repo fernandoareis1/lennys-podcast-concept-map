@@ -18,7 +18,9 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Humans in the Loop (algoritmos)]] — PMs definem o que algoritmo decide vs. o que humano decide
 - [[Não-determinismo em Produtos de IA]] — input e output de LLMs são imprevisíveis; base do ciclo AI
 - [[Framework CCCD]] — calibração contínua + desenvolvimento contínuo para produtos de IA
-- [[Evals vs. Monitoramento em Produção]] — evals capturam erros conhecidos; monitoramento captura emergentes
+- [[Evals vs. Monitoramento em Produção]] — evals capturam erros conhecidos; monitoramento captura emergentes · **⬇ tem aprofundamento**
+- [[Validação como Gargalo de Agentes]] — revisão de código como próxima fronteira; velocidade humana como limitante
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]
+[[Evals vs. Monitoramento em Produção — Evidências]]

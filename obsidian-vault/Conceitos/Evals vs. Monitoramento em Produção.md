@@ -2,11 +2,11 @@
 tipo: framework
 nivel: 3
 fluxo: Experimentação & Dados
-autores: [Aishwarya Naresh Reganti, Kiriti Badam]
+autores: [Aishwarya Naresh Reganti, Kiriti Badam, Alexander Embiricos]
 ---
 # Evals vs. Monitoramento em Produção
 **Fluxo:** [[05 - Experimentação & Dados]] · **Tema:** [[Experimentação — AB testing & cultura]] · **Camada:** L3
-**Tipo:** Framework · **Fontes:** [[Aishwarya Naresh Reganti]], [[Kiriti Badam]]
+**Tipo:** Framework · **Fontes:** [[Aishwarya Naresh Reganti]], [[Kiriti Badam]], [[Alexander Embiricos]]
 
 ## Ideia central
 Há uma falsa dicotomia no campo de IA: ou "evals resolvem tudo" ou "monitoramento em produção resolve tudo". **Evals** (datasets de avaliação estruturados) capturam apenas os erros *que você já conhece* — são construídos com o conhecimento atual do produto. **Monitoramento em produção** captura padrões emergentes do comportamento real de usuários que você não antecipou. Ambos são necessários e complementares; a ênfase relativa depende do volume e do tipo de aplicação.
@@ -29,7 +29,16 @@ Há uma falsa dicotomia no campo de IA: ou "evals resolvem tudo" ou "monitoramen
 - Sinal forte de produção: se usuários desligam uma feature após mudança de modelo, nenhum eval pré-deploy captura isso.
 - "Se você tiver um conjunto concreto de evals no qual confia totalmente e achar que não precisa de mais nada, não vai funcionar."
 
+### [[Alexander Embiricos]]
+- PM lead do Codex na OpenAI: usa D7 retention como âncora de saúde — "simplesmente ir usar o produto, se inscrever do zero de novo" é a checagem mais honesta.
+- Social listening diferenciado: Reddit = negativo mas real (mecânica de upvotes filtra o que importa); Twitter = mais hype, menos signal para problemas reais. Usa Reddit como indicador prioritário.
+- "Vibes" como proxy de qualidade percebida que métricas brutas de engajamento não capturam.
+
 > 🎧 [Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon (1:26:22)](https://www.youtube.com/watch?v=z7T1pCxgvlA)
+> 🎧 [Building Codex: OpenAI's coding agent](https://www.youtube.com/watch?v=xZifSLGOrrw)
+
+## Aprofundamento ⬇
+[[Evals vs. Monitoramento em Produção — Evidências]] — três perspectivas: consultoras com 50+ deployments + PM lead do Codex
 
 ## Conceitos relacionados
 [[Framework CCCD]] · [[Não-determinismo em Produtos de IA]] · [[A-B Testing (Ronny Kohavi)]] · [[OEC - Overall Evaluation Criterion]]

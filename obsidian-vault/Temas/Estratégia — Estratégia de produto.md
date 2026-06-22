@@ -18,6 +18,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Mentalidade de Jardineiro]] — plante sementes baratas, regue o que cresce; farming for miracles via compounding emergente
 - [[Proatividade como Destino dos Agentes]] — agentes devem ser úteis por padrão, não apenas quando chamados; gargalo é velocidade humana de prompting
 - [[Código como Linguagem Universal dos Agentes]] — a melhor forma de agentes usarem computadores é escrever código; todo agente é no fundo um coding agent
+- [[Hill Climb — ótimo local vs global]] — descer da colina local para alcançar a montanha global
+- [[Democratização do software via IA]] — plataforma end-to-end que torna qualquer pessoa em developer
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

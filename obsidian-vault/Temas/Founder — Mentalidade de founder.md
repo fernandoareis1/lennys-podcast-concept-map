@@ -12,6 +12,8 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 ## Conceitos (L3)
 - [[Founder Mode]] — operar como startup, founder no comando · **⬇ tem aprofundamento**
 - [[Pain is the New Moat]] — conhecimento acumulado pela dor de iterar é o moat incopiável em campos novos
+- [[Negócio vs emprego — a diferença é escala]] — empresa que não escala é emprego disfarçado
+- [[Achievement addiction — autoestima ligada à conquista]] — quando vencer vira mecanismo de defesa emocional
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

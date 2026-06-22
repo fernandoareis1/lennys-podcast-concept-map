@@ -12,6 +12,7 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 ## Conceitos (L3)
 - [[Experience Map]] — os momentos distintos da experiência do usuário
 - [[Reduzir fricção em vez de adicionar features]] — menos atrito vende mais que mais features
+- [[Assistência Contextual Mista]] — agentes surfaçam ações sugeridas no momento certo em vez de push notifications; mixed-initiative UX
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

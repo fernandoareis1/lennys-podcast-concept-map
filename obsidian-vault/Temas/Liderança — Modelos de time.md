@@ -17,3 +17,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Growth Competency Model]] — 4 quadrantes para contratar e avaliar profissionais de growth
 - [[Times cross-funcionais com especialistas de domínio]] — embutir experts de domínio no time melhora decisões em produtos de conteúdo/expertise
 - [[Organizações como Slime Mold]] — custos de coordenação crescem quadraticamente; big rig vs. enxame; emergência pode ser vantagem
+- [[Compressão do Talent Stack por IA]] — ferramentas de IA dissolvem fronteiras entre papéis; cada handoff eliminado = menos ruído organizacional

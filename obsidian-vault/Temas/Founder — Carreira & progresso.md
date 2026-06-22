@@ -13,6 +13,9 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[JTBD aplicado a carreira (Job Moves)]] — as forças do progresso explicam trocas de emprego
 - [[Carreira é progresso, não salário]] — dinheiro é proxy de respeito/responsabilidade
 - [[Manter valores, não comportamentos]] — ao mudar de cultura, segure os valores
+- [[PM como builder — prototipagem sem engenharia]] — IA libera PMs do backlog para validação rápida
+- [[Burnout no tech — reconhecendo os sinais]] — quando corpo e vida pessoal viram o scorecard do esgotamento
+- [[Transformação pessoal profunda — 4 etapas]] — do sofrimento ao autoconhecimento à compaixão
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

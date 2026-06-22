@@ -15,6 +15,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Growth Loops vs Funil]] — sistemas que se realimentam vs funil linear
 - [[Kindling vs Fire strategies]] — hacks só destravam os motores escaláveis
 - [[Explore vs. Exploit (Growth)]] — oscilar entre descobrir o insight certo e extrair o máximo dele
+- [[Paradoxo de Jevons no software]] — custo de criar cai → consumo total sobe; mercado expande
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

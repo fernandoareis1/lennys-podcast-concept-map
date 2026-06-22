@@ -15,6 +15,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Non-determinismo em Produtos de IA]] — input e output não-determinísticos mudam como produtos de IA devem ser construídos
 - [[Trade-off Agência-Controle]] — autonomia de agentes deve ser conquistada progressivamente, não assumida
 - [[Portfólio em Sistema Solar]] — produto-sol + planetas adjacentes com mesmo DNA compõem a assinatura essencial
+- [[Mentalidade de Jardineiro]] — plante sementes baratas, regue o que cresce; farming for miracles via compounding emergente
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

@@ -12,3 +12,5 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 ## Conceitos (L3)
 - [[Colaboração vs silos funcionais]] — colaborar como crianças brincando, não defender território
 - [[Comunicação executiva em capítulos]] — contar a história no nível certo
+- [[Kayfabe organizacional]] — status reports filtrados camada a camada; todos sabem, ninguém diz
+- [[Strategy Salons — Nerd Clubs]] — grupos voluntários "sim, e…" para insights estratégicos estocásticos

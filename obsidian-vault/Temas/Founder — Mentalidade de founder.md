@@ -12,6 +12,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 ## Conceitos (L3)
 - [[Founder Mode]] — operar como startup, founder no comando · **⬇ tem aprofundamento**
 - [[Dor como vantagem competitiva]] — o conhecimento acumulado no processo iterativo doloroso é o fosso real
+- [[Gosto como vantagem na era da IA]] — quanto seu output diverge do LLM médio para o mesmo prompt
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

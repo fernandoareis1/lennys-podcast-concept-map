@@ -12,6 +12,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 ## Conceitos (L3)
 - [[DHM Model]] — Delight · Hard-to-copy · Margin-enhancing
 - [[PMF não é permanente]] — PMF é relativo a um mercado em um momento; muda quando o mercado muda
+- [[Non-determinismo em Produtos de IA]] — input e output não-determinísticos mudam como produtos de IA devem ser construídos
+- [[Trade-off Agência-Controle]] — autonomia de agentes deve ser conquistada progressivamente, não assumida
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

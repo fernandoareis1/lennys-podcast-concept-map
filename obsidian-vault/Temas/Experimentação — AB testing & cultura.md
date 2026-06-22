@@ -18,6 +18,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Humans in the Loop (algoritmos)]] — PMs definem o que algoritmo decide vs. o que humano decide
 
 - [[CCCD — Calibração e Desenvolvimento Contínuos]] — ciclo iterativo de desenvolvimento para agentes de IA (análogo ao CI/CD)
+- [[Algoritmos treinados em julgamento editorial]] — treinar algoritmos em qualidade editorial, não apenas engajamento
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

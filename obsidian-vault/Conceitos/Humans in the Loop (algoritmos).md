@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Experimentação & Dados
-autores: [Adriel Frederick]
+autores: [Adriel Frederick, Aishwarya Naresh Reganti, Kiriti Badam]
 ---
 # Humans in the Loop (algoritmos)
 **Fluxo:** [[05 - Experimentação & Dados]] · **Tema:** [[Experimentação — AB testing & cultura]] · **Camada:** L3
@@ -25,5 +25,15 @@ Algoritmos de ML/IA são ferramentas que amplificam a intenção humana, não su
 
 > 🎧 [Humanizing product development (1:07:26)](https://www.youtube.com/watch?v=uMhBej6-Ey4)
 
+## Aprofundamento ⬇
+- [[Humans in the Loop (algoritmos) — Evidências]]
+
+### [[Aishwarya Naresh Reganti]] + [[Kiriti Badam]]
+- O "trade-off agência-controle": quanto mais autonomia você dá a um agente, menos controle tem. O agente precisa **ganhar confiança** antes de receber mais agência.
+- Padrão em 3 estágios (ex. suporte ao cliente): V1 = sugerir ao agente humano (alta controle) → V2 = exibir resposta diretamente ao cliente → V3 = resolver ticket de forma autônoma + novas ferramentas.
+- "74–75% das empresas entrevistadas tinham a confiabilidade como principal problema para não expor usuários ao produto de IA." (citando paper de Matei Zaharia, UC Berkeley/Databricks)
+- Logging do comportamento humano no laço de sugestão é "error analysis de graça": o quanto do draft foi usado é um sinal direto de qualidade.
+> 🎧 [Why most AI products fail (1:26:22)](https://www.youtube.com/watch?v=z7T1pCxgvlA)
+
 ## Conceitos relacionados
-[[Experimentação — AB testing & cultura]] · [[OEC - Overall Evaluation Criterion]] · [[Twyman's Law]]
+[[Experimentação — AB testing & cultura]] · [[OEC - Overall Evaluation Criterion]] · [[Twyman's Law]] · [[Non-determinismo em produtos de IA]] · [[CCCD — Calibração e Desenvolvimento Contínuos]]

@@ -12,6 +12,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 ## Conceitos (L3)
 - [[Assumption Testing]] — testar a suposição, não a ideia inteira
 - [[Decidir com poucos dados é melhor que com zero]] — vire a pergunta do rigor
+- [[Non-determinismo em produtos de IA]] — IA tem input e output não-determinísticos; projete para calibrar, não para prever
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

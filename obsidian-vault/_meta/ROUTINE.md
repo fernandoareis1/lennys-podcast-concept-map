@@ -33,7 +33,7 @@ Use esta tabela para arquivar cada conceito sob o Tema certo. **Se a nota do Tem
 - **10 Founder & Carreira** → `Founder — Mentalidade de founder` · `Founder — Carreira & progresso`
 
 ## Passos (processe UM convidado de cada vez)
-1. Liste `episodes/` e leia `_meta/processed.txt`. Selecione os próximos slugs em ordem alfabética **não presentes** no manifesto (até 5). **Crie uma branch de trabalho** e NÃO trabalhe na `main`: `git checkout -b routine/lote-$(date +%Y%m%d-%H%M)`.
+1. Liste `episodes/` e leia `_meta/processed.txt`. Selecione os próximos slugs em ordem alfabética **não presentes** no manifesto (até 5). Trabalhe **direto na `main`** (o ambiente já está num clone atualizado).
 2. Para CADA convidado:
    a. Leia o `transcript.md`. **Confirme o convidado pelo CORPO do texto** (alguns frontmatters estão trocados).
    b. Extraia 3–6 **frameworks/mindsets/insights**.
@@ -44,15 +44,13 @@ Use esta tabela para arquivar cada conceito sob o Tema certo. **Se a nota do Tem
    g. **Autor:** crie/atualize a nota leve em `Autores/`.
    h. Anexe o slug a `_meta/processed.txt`.
    i. Valide que os `[[links]]` criados têm arquivo correspondente em `Conceitos`/`Fluxos`/`Autores`/`Temas`/`Aprofundamento`/raiz (corrija órfãos).
-   j. **COMMIT + PUSH NA BRANCH (NÃO na main):** `git add -A && git commit -m "routine: +1 (slug)"` e `git push -u origin HEAD`. NÃO tente **assinar** o commit — se um hook reclamar de assinatura, ignore (o commit já foi feito); nunca use `--amend` para isso.
+   j. **COMMIT + PUSH IMEDIATO na `main`:** `git add -A && git commit -m "routine: +1 (slug)" && git push origin main`. Se o push falhar por *non-fast-forward*, rode `git pull --rebase origin main` e repita o push **uma vez**. NÃO tente **assinar** o commit (ignore hooks de assinatura; nunca use `--amend`).
 3. Repita até 5 ou até a sessão estar acabando.
-   ⚠️ **NUNCA acumule.** Cada convidado é commitado/pushed na branch ANTES do próximo, para sobreviver a qualquer interrupção.
+   ⚠️ **NUNCA acumule.** Cada convidado é commitado/pushed na `main` ANTES do próximo, para sobreviver a qualquer interrupção.
 
-## Publicação via Pull Request (NUNCA push na main)
-- Na **primeira** publicação da branch, abra um PR para a `main`:
-  `gh pr create --base main --head "$(git branch --show-current)" --title "routine: lote de convidados" --body "Processados: <slugs>"`
-- Nos pushes seguintes o PR **atualiza sozinho** — não abra outro.
-- **NUNCA** faça `git push origin main` nem `git merge` na main. O merge é feito pelo dono do repo após revisar o PR.
+## Publicação (direto na `main`, SEM PR)
+- Commit + `git push origin main` **após cada convidado**. Sem branch, sem PR — o objetivo é **zero intervenção manual**.
+- Como o manifesto avança na `main` a cada push, a próxima rodada continua do ponto certo (sem duplicar).
 - Se o `git push` falhar com **403/permissão**, PARE e reporte (é credencial do ambiente; repetir não resolve).
 
 ## Schemas

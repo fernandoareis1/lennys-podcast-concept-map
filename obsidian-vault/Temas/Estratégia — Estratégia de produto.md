@@ -14,6 +14,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[PMF não é permanente]] — PMF é relativo a um mercado em um momento; muda quando o mercado muda
 - [[Non-determinismo em Produtos de IA]] — input e output não-determinísticos mudam como produtos de IA devem ser construídos
 - [[Trade-off Agência-Controle]] — autonomia de agentes deve ser conquistada progressivamente, não assumida
+- [[Portfólio em Sistema Solar]] — produto-sol + planetas adjacentes com mesmo DNA compõem a assinatura essencial
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

@@ -16,6 +16,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Integração de aquisição — preservar a magia do core]] — não mexa no core loop; adicione só o essencial invisível
 - [[Mentalidade de Jardineiro vs Construtor]] — cultivar em vez de controlar; farmar milagres
 - [[Design para emergência — regra 70-30]] — 70% valor legível + 30% sementes de carvalho
+- [[Entendimento profundo do cliente como fosso na era da IA]] — quando construir vira commodity, entender o cliente é o único fosso
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

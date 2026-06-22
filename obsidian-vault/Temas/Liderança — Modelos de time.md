@@ -16,3 +16,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Product Management Theater]] — quando o título não tem o papel
 - [[Growth Competency Model]] — 4 quadrantes para contratar e avaliar profissionais de growth
 - [[Alta agência como critério de contratação]] — agência e clock speed superam experiência de domínio em campos em transformação
+- [[Compressão do stack de talentos]] — IA permite que papéis se sobreponham; cada handoff a menos é ganho de eficiência

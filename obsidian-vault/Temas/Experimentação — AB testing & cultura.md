@@ -19,6 +19,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 
 - [[CCCD — Calibração e Desenvolvimento Contínuos]] — ciclo iterativo de desenvolvimento para agentes de IA (análogo ao CI/CD)
 - [[Algoritmos treinados em julgamento editorial]] — treinar algoritmos em qualidade editorial, não apenas engajamento
+- [[Gargalo do agente — velocidade de validação humana]] — o gargalo real de agentes não é inteligência; é a velocidade de validação humana
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

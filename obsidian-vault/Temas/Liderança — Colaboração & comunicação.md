@@ -13,3 +13,7 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Colaboração vs silos funcionais]] — colaborar como crianças brincando, não defender território
 - [[Comunicação executiva em capítulos]] — contar a história no nível certo
 - [[Kayfabe Organizacional]] — distorção sistêmica camada a camada que transforma organizações em zumbis
+- [[Scripts para conversas difíceis]] — linguagem pronta para feedback, promoção negada e demissão
+- [[Feedback baseado em fatos observáveis]] — neutralizar julgamento com dados concretos
+- [[Curiosidade radical — antídoto ao ego]] — "fascinating" como resposta ao desacordo
+- [[Dinosaur Brain — recomendação clara para executivos]] — menos info, mais recomendação nas reviews

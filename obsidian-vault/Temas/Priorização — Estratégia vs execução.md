@@ -13,3 +13,5 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Problemas de execução são problemas de estratégia]] — a tese central
 - [[Três níveis do trabalho de produto]] — execução / estratégia / narrativa
 - [[Roadmap como momentos de struggle]] — roadmap resiliente, por problema e não por feature
+- [[Framework 4BB]] — alocar foco entre Brilliant Basics / Bread & Butter / Big Bets / Breaking Bad
+- [[Três PR FAQs divergentes]] — escrever três press releases divergentes antes de comprometer com uma direção

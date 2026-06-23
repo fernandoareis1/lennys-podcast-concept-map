@@ -20,6 +20,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Preferências declaradas vs. reveladas]] — o que usuários dizem ≠ o que fazem; News Feed dobrou o uso enquanto todos reclamavam; distinção entre coisa errada vs. detalhes errados
 - [[De-riscar os Maiores Bets Primeiro]] — em dual-track agile, priorize discovery das apostas mais arriscadas, não das mais seguras
 - [[Clientes de Referência — PMF por reputação]] — PMF = ter 6-8 (B2B) ou 15-25 (B2C) clientes que colocam reputação em jogo para recomendar; faça manual antes de automatizar
+- [[Co-criar com Alpha Group]] — construir produto com pequeno grupo de usuários reais; só lança amplo quando o alpha está "super, super happy"
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

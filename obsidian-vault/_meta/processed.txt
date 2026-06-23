@@ -79,3 +79,4 @@ dan-shipper
 daniel-lereya
 david-placek
 casey-winters_
+david-singleton

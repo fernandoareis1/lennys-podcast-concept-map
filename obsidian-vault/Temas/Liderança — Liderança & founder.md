@@ -33,6 +33,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Transparência Radical como Vantagem Competitiva]] — todos os cérebros no desafio; daily numbers update; dashboards de escritório; parceria profunda > protecionismo gerencial
 - [[Meta Ambiciosa como Reinicializador]] — meta impossível no caminho atual = reinicializador cognitivo; velocidade real (trabalhar diferente) vs. falsa (trabalhar mais); competidores como presente
 - [[Intuição do Fundador vs. Expertise do Time]] — dirija novos líderes até que demonstrem julgamento melhor que o seu; o sinal de delegar vem deles, não de você
+- [[Engineer Occasion]] — CTO/EM limpa agenda por 3-4 dias, entra no time como IC; friction log vira referência de priorização por meses
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

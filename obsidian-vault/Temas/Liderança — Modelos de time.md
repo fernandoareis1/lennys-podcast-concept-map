@@ -29,6 +29,7 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Produto-Ops como avião bimotor]] — em empresas com ops pesadas, produto e ops são dois motores; ops é laboratório de descoberta e iteração rápida; tech escala o que ops valida; product operations como ponte bidirecional
 - [[Coaches, não managers]] — Canva substituiu gestores por coaches da mesma especialidade; foco em desenvolvimento individual de skills e trajectória; performance via peer 360 a cada 6 meses
 - [[PM ZIRP — Frameworks sem Cérebro]] — PMs formados em ambientes de recursos infinitos que seguem frameworks mecanicamente sem pensar
+- [[Engenheiros Orientados a Produto]] — engenheiros que exercem atributos de PM; permitiu ao Stripe atrasar o primeiro PM até o 200º funcionário
 - [[Times de Plataforma como Produto]] — plataformas internas são produtos com usuários, PMs e métricas de impacto; não são SRE v2
 - [[Riding the Lightning]] — empresas em hipercrescimento comprimem 10 anos em 2–3; contratar líderes 2X/3X que já viveram o próximo estágio antes de ele chegar
 - [[Inteligência Fluida vs. Cristalizada — Colaboração Intergeracional]] — jovens: velocidade e foco; seniores: conexão de pontos e visão periférica; combinação brillante quando há respeito mútuo

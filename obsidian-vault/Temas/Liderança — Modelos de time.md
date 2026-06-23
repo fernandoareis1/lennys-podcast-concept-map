@@ -19,3 +19,5 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Organizações como Slime Mold]] — custos de coordenação crescem quadraticamente; big rig vs. enxame; emergência pode ser vantagem
 - [[Compressão do Talent Stack por IA]] — ferramentas de IA dissolvem fronteiras entre papéis; cada handoff eliminado = menos ruído organizacional
 - [[Contratar pelo ser, não pelo potencial]] — as pessoas fazem o que já fazem, não o que você quer que façam
+- [[Fundadores como funcionários]] — ~15% de ex-fundadores no time: cortam bullshit, operam sem playbook; custo = attrition em ~2 anos
+- [[Você escolhe, eles escolhem a hora]] — você mapeia quem quer; elas decidem quando se mover; invista no sucesso delas antes da vaga existir

@@ -23,6 +23,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Naming — espectro e critérios]] — descritivo → sugestivo → evocativo → vaso vazio; 7 critérios universais; bom nome ajuda, mas nome ruim não mata boa empresa
 - [[Bar Test]] — diga o benefício em voz alta como usuário real: se soou natural num bar, está certo; filtra jargão corporativo
 - [[Personalidade de marca — X mas não Y]] — spike em 2 das 5 dimensões de Aaker; 5 atributos com tensão para guiar copy e design
+- [[Diferente E melhor E relevante]] — diferente + melhor + importa para o usuário + domínio com escala; cada condição elimina uma armadilha comum
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

@@ -17,6 +17,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Mindset do líder — crescer, não agradar]] — o papel do líder é crescimento, não aprovação
 - [[Gestão de energia pessoal]] — gerencie energia (não só tempo): agende trabalho profundo no seu pico e proteja o básico
 - [[Can't, Won't, Not Set Up]] — três causas para quando algo não acontece; 70-80% dos casos são falha de setup do líder
+- [[Não pare antes do fim]] — respostas de especialistas são ponto de partida, não verdade final; alguém precisa chegar ao fundo do buraco
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

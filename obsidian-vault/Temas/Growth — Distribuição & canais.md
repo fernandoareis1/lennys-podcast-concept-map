@@ -27,6 +27,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Microapps como canal de crescimento]] — ferramentas gratuitas one-trick-pony que entregam valor imediato e criam conversa natural para o produto principal; Website Grader, brand kit generator, email signature generator
 - [[GTM IC-First — o modelo bottom-up da Figma]] — dois passos: faça o IC amar → IC vira campeão interno → adoção enterprise sem equipe de vendas; 3 anos sem sales team
 - [[Advocates técnicos — o Fator Tom]] — contrate praticantes (não marketers) como bridge técnico para marketing e vendas; DA sem quota; closes de deal aumentam quando Tom entra na call
+- [[SEO como Produto — O PM deve Liderar]] — SEO é uma questão de produto, não de marketing; PM lidera; gerir com milestones e PRDs; medir conversões de negócio, não rankings
+- [[IA devora o Topo do Funil de Busca]] — AI Overviews destroem o SEO informacional de topo de funil; oportunidade migra para mid-funnel e bottom-funnel onde há intenção de compra
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

@@ -63,3 +63,4 @@ carilu-dietrich
 carole-robin
 chandra-janakiraman
 chip-conley
+chip-huyen

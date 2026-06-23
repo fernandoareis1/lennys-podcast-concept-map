@@ -31,3 +31,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Times de Plataforma como Produto]] — plataformas internas são produtos com usuários, PMs e métricas de impacto; não são SRE v2
 - [[Riding the Lightning]] — empresas em hipercrescimento comprimem 10 anos em 2–3; contratar líderes 2X/3X que já viveram o próximo estágio antes de ele chegar
 - [[Inteligência Fluida vs. Cristalizada — Colaboração Intergeracional]] — jovens: velocidade e foco; seniores: conexão de pontos e visão periférica; combinação brillante quando há respeito mútuo
+- [[IA amplifica os Melhores]] — engenheiros de maior performance ganham mais produtividade com AI; pensamento sistêmico é a habilidade que não será substituída

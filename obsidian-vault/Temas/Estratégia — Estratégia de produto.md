@@ -42,6 +42,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Processo de Estratégia de Produto em 5 Fases]] — playbook operacional de 8-12 semanas: preparação → strategy sprint → design sprint → doc → rollout; alinhamento embutido em cada fase
 - [[Pilares Estratégicos — 3 Apostas com Exclusão Explícita]] — estratégia = 3 pilares + áreas explicitamente de fora + o porquê; ranqueados em 4 critérios; carros-conceito para o futuro
 - [[Small-S vs. Big-S Strategy]] — Small-S = presente-forward 2 anos liderado por PM; Big-S = visão 5-10 anos liderada por design/UXR; dois tributários que convergem no roadmap
+- [[O que realmente melhora apps de IA]] — o que times pensam que melhora apps de IA vs. o que realmente melhora; usuários e dados antes de frameworks e modelos
+- [[RAG — Qualidade de Dados como Diferencial]] — preparação de dados impacta RAG muito mais que a escolha do banco vetorial; chunking, metadata e rewrite para AI
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

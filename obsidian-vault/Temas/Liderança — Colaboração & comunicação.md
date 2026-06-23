@@ -17,3 +17,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Feedback baseado em fatos observáveis]] — neutralizar julgamento com dados concretos
 - [[Curiosidade radical — antídoto ao ego]] — "fascinating" como resposta ao desacordo
 - [[Dinosaur Brain — recomendação clara para executivos]] — menos info, mais recomendação nas reviews
+- [[Descoberta assíncrona]] — apenas discussão acontece na reunião; descoberta e decisão ficam de fora

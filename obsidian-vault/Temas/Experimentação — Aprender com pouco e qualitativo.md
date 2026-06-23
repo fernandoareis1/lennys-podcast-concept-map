@@ -13,6 +13,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Assumption Testing]] — testar a suposição, não a ideia inteira
 - [[Decidir com poucos dados é melhor que com zero]] — vire a pergunta do rigor
 - [[CC-CD — Calibração Contínua, Desenvolvimento Contínuo]] — ciclo iterativo de build → deploy → calibrar para produtos de IA
+- [[Loops de feedback são uma escolha]] — encurte qualquer "loop de 10 anos" identificando marcos necessários-mas-não-suficientes
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

@@ -53,6 +53,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[IA Humanista — Agência Humana sobre o Futuro Tecnológico]] — IA é dupla utilidade; o que fazemos com ela depende de escolhas humanas, não determinismo tecnológico
 - [[Incumbentes como Boa Constrictor]] — competição de big tech não é explosão imediata; é aperto gradual; Blackberry/Nokia cresceram depois do iPhone; feridas auto-infligidas matam, não o incumbente
 - [[Ponto de Inflexão Estratégico — Go All-In]] — momento de mudança fundamental exige apostar tudo em uma coisa, não hedgear; exercício mental: "e se fôssemos consultores externos?"
+- [[Plataforma por Trajetória de Workflow]] — expanda plataforma trace o workflow do usuário; casos de uso que adicionam complexidade ao produto principal viram superfícies dedicadas
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

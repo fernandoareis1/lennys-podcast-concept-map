@@ -17,6 +17,8 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Fish where the fish are — nicho e boring business]] — mercados pouco competidos e mal-amados são os mais lucrativos
 - [[Moat — fosso competitivo duradouro]] — brand, rede e switching costs como blindagem
 - [[Movimento vs. Categoria]] — construir um movimento é mais poderoso que encontrar um nome de categoria
+- [[Pitch com posicionamento]] — framework setup + follow-through para traduzir posicionamento em pitch de vendas
+- [[Armar o champion no deal B2B]] — conquiste o champion e arme-o para lidar com todos os outros stakeholders
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

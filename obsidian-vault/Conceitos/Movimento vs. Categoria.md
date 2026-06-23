@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Andy Raskin]
+autores: [Andy Raskin, April Dunford]
 ---
 # Movimento vs. Categoria
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
@@ -24,5 +24,12 @@ autores: [Andy Raskin]
 - "Play Bigger (a bíblia de category design) diz que categoria é narrativa — uma história de como o mundo era e como é agora. Concordo. Mas ao chamar de categoria, as equipes fixam no nome."
 > 🎧 [The power of strategic narrative (1:02:49)](https://www.youtube.com/watch?v=dkVJnaxDlXE)
 
+### [[April Dunford]]
+- Criação de categoria não é o único caminho para um grande negócio — e não é o mais comum. Google não criou busca; Facebook não criou rede social; Salesforce não criou CRM.
+- A maioria dos "casos de sucesso de criação de categoria" começou como nicho em uma categoria existente (bowling pin): Qualtrics foi "survey software" até ~$300M; Snowflake foi "data warehousing na cloud" até o IPO. Só então expandiram a categoria.
+- Risco de category creation prematura: quando a categoria começa a ganhar tração, fast followers chegam com funding fresco, aprendem com seus erros e te desbancam no exato momento em que você acha que ganhou.
+- "A categoria como rótulo facilita o traction inicial porque os compradores já sabem o que é. Você não precisa explicar o que é um CRM — só precisa dizer por que o seu é melhor para pequenas empresas."
+> 🎧 [How to nail your product positioning (1:05:39)](https://www.youtube.com/watch?v=hdjlCLb9Hl8) · 2023-01-22
+
 ## Conceitos relacionados
-[[Narrativa Estratégica]] · [[Posicionamento é contexto, não slogan]] · [[Competitive Alternatives]]
+[[Narrativa Estratégica]] · [[Posicionamento é contexto, não slogan]] · [[Competitive Alternatives]] · [[Pitch com posicionamento]]

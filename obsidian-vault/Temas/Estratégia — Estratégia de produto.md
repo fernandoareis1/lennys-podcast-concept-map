@@ -54,6 +54,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Incumbentes como Boa Constrictor]] — competição de big tech não é explosão imediata; é aperto gradual; Blackberry/Nokia cresceram depois do iPhone; feridas auto-infligidas matam, não o incumbente
 - [[Ponto de Inflexão Estratégico — Go All-In]] — momento de mudança fundamental exige apostar tudo em uma coisa, não hedgear; exercício mental: "e se fôssemos consultores externos?"
 - [[Plataforma por Trajetória de Workflow]] — expanda plataforma trace o workflow do usuário; casos de uso que adicionam complexidade ao produto principal viram superfícies dedicadas
+- [[IA Otimizada para Dopamina vs. Verdade]] — labs otimizam para engajamento/leaderboards em vez de verdade; mesmo ciclo vicioso das redes sociais; a função-objetivo define o produto
+- [[Você É sua Função Objetivo]] — você é o que otimiza; proxies fáceis (cliques, likes, benchmarks) desviam do objetivo real; escolha funções-objetivo ricas e complexas
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

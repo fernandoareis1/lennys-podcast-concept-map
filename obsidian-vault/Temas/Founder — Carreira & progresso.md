@@ -25,6 +25,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Diagnóstico pelo superpoder]] — founders diagnosticam pelo viés da sua maior habilidade; pergunte "por quê" até extrair o framework subjacente; desafie sua solução preferida se coincidir com seu superpoder
 - [[Identidade de Builder]] — identidade fluida além do título funcional; alegria derivada do impacto coletivo, não do craft; reframe de "o que eu gosto" para "o que teria mais impacto"
 - [[Dar Lego — alegria de escalar sem segurar]] — em startups em escala, segurar o que você ama fazer bloqueia crescimento; encontre nova alegria em desenvolver outros e subir ao próximo nível
+- [[Mastery Técnica antes da Gestão]] — construa mastery técnica real (~10 anos) antes de migrar para gestão; resistir à promoção precoce
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

@@ -19,3 +19,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Dinosaur Brain — recomendação clara para executivos]] — menos info, mais recomendação nas reviews
 - [[Descoberta assíncrona]] — apenas discussão acontece na reunião; descoberta e decisão ficam de fora
 - [[Comunicação é o trabalho]] — impacto só existe via artefatos e verbalizações; extreme ownership de falhas de comunicação; silêncio também comunica
+- [[Engenheiros no Loop Criativo]] — excluir engenheiros da descoberta desvia criatividade para over-engineering; inclua-os nas ideações

@@ -28,3 +28,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Densidade inicial de talento]] — primeiros 10 definem o baseline de qualidade; depois de encontrar PMF, velocidade de contratação passa a importar tanto quanto qualidade; top 10% dos performers geram maioria do impacto
 - [[Produto-Ops como avião bimotor]] — em empresas com ops pesadas, produto e ops são dois motores; ops é laboratório de descoberta e iteração rápida; tech escala o que ops valida; product operations como ponte bidirecional
 - [[Coaches, não managers]] — Canva substituiu gestores por coaches da mesma especialidade; foco em desenvolvimento individual de skills e trajectória; performance via peer 360 a cada 6 meses
+- [[Times de Plataforma como Produto]] — plataformas internas são produtos com usuários, PMs e métricas de impacto; não são SRE v2

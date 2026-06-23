@@ -21,6 +21,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Correr em direção ao medo]] — hesitação é o pior erro de liderança; o músculo é olhar para opções ruins e escolher a menos ruim sem paralisar
 - [[Alavancagem Gerencial]] — o CEO tem alavancagem quando o time traz as ideias a ele; se é o CEO quem sempre empurra, algo precisa mudar
 - [[Calma sob pressão como ferramenta de liderança]] — refletir stress no time não acelera solução; "nunca tão bom nem tão ruim quanto você pensa"; calma é treinável via exposição a crises
+- [[Gestão como Serviço — não Comando]] — gerenciar em tech é servir o time; nudge e guardrails, não ordens
+- [[Trabalho Focado vs. Overwork]] — overwork é fuga de priorizar; audite tempo, delegue, produza valor por hora
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

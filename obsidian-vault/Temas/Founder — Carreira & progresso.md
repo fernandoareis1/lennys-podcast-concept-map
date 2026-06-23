@@ -20,6 +20,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Quatro quests de transição de carreira]] — sair / próximo passo / retomar controle / realinhar; identificar a quest certa muda toda a estratégia de busca
 - [[Drivers e drains de energia]] — mapeie o que te dá e tira energia para construir os design requirements do próximo trabalho; meta: 50/50 em vez de 95% drains
 - [[Alavancar ativamente seu líder]] — use seu manager ativamente; pings "sem resposta necessária"; rascunhe o e-mail que ele deveria enviar; HPM semanal; "ninguém quer mais que você seja incrível do que seu manager"
+- [[Escrita como ferramenta de clareza]] — escrever = descobrir o que você pensa, não documentar o que sabe; libera a mente; influencia internamente melhor que memo interno; acelera carreira não-linearmente
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

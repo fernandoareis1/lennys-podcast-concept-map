@@ -32,6 +32,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Teste de Turing Econômico]] — AGI = agente passa por humano em 50% dos empregos ponderados por dinheiro; métrica concreta para calibrar roadmap de produto de IA
 - [[IA Constitucional]] — princípios em linguagem natural + auto-crítica do modelo = alinhamento escalável; personalidade e segurança são o mesmo trabalho
 - [[Construir para o disco futuro]] — construa para capacidades de 6-12 meses no futuro; o que funciona 20% hoje estará em 100% em breve
+- [[PM de plataforma — princípios e ciclos]] — ciclos 5-10x mais longos; você desenha o canvas, não a UX; stack-rank explícito de constituintes define todas as decisões de política
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

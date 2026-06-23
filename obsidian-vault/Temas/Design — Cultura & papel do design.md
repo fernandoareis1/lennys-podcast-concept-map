@@ -11,6 +11,8 @@ O lugar do design na empresa: parte do **DNA desde o início** ou tratado como "
 
 ## Conceitos (L3)
 - [[Design é cultura, não serviço]] — design no DNA, não enxertado depois · **⬇ tem aprofundamento**
+- [[Intuição como Gerador de Hipóteses]] — intuição não é magia; é gerador de hipóteses que entram em debate, buscam dados e se refinam em hipótese de trabalho
+- [[Craft e Qualidade como Moat no Mundo de IA]] — em mundo com mais software por IA, craft e qualidade únicas se tornam o diferenciador, não commodity
 
 ## Descer mais (L4) ⬇
 [[Design é cultura — Evidências (Bob Baxley)]]

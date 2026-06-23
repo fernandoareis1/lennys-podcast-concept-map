@@ -24,3 +24,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Qualidade de Código ≠ Sucesso de Produto]] — resolver problema real e colocar nas mãos dos usuários importa mais que elegância técnica; YouTube provou isso
 - [[Custos de Terceira Ordem da Complexidade]] — primeiro: custo de build; segundo: manutenção; terceiro (mais importante): o quanto a complexidade encarece tudo o mais
 - [[New Bets Framework — Lean Launch e Algorithmização]] — qualquer pessoa pode propor apostas; time lean valida rapidamente; só scale após métricas sólidas; formalize em processo replicável
+- [[Qualidade-Features-Deadline — Escolha Dois]] — para cada lançamento declare explicitamente o que vai ser sacrificado; mínimo de qualidade não é negociável

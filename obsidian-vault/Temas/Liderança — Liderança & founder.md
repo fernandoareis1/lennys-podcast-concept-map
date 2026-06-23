@@ -20,6 +20,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Não pare antes do fim]] — respostas de especialistas são ponto de partida, não verdade final; alguém precisa chegar ao fundo do buraco
 - [[Correr em direção ao medo]] — hesitação é o pior erro de liderança; o músculo é olhar para opções ruins e escolher a menos ruim sem paralisar
 - [[Alavancagem Gerencial]] — o CEO tem alavancagem quando o time traz as ideias a ele; se é o CEO quem sempre empurra, algo precisa mudar
+- [[Calma sob pressão como ferramenta de liderança]] — refletir stress no time não acelera solução; "nunca tão bom nem tão ruim quanto você pensa"; calma é treinável via exposição a crises
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

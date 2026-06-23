@@ -19,3 +19,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Framework PPS — Problema, Pessoas, Sistema]] — ante de escolher uma solução de sistema/ferramenta, entenda o Problema → Pessoas envolvidas → Sistema; nunca pule direto para o sistema
 - [[Thinking Gray]] — não decida até que absolutamente precise; a urgência percebida é quase sempre manufaturada; esperar produz melhores decisões
 - [[Hiperimportância de poucas decisões]] — primeiro determine o quão importante é a decisão; invista fundo nas poucas críticas; delegue ou use o instinto para todo o resto
+- [[Kernel de verdade em meio ao ruído]] — o trabalho central do PM é filtrar o sinal que realmente importa de uma avalanche de boas ideias; escreva tudo para fazer pessoas se sentirem ouvidas; diga não com convicção

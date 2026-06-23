@@ -2,7 +2,7 @@
 tipo: framework
 fluxo: Growth & Aquisição
 nivel: 3
-autores: [Elena Verna, Annie Pearl, Carilu Dietrich]
+autores: [Elena Verna, Annie Pearl, Carilu Dietrich, Christopher Miller]
 ---
 # Product-Led Growth (PLG)
 
@@ -33,6 +33,13 @@ O **produto** assume alavancas de crescimento (aquisição, ativação, monetiza
 - Híbrido emergente: SDRs que viram "sales engineers" guiam usuários em PLG que travam — estendem PLG sem substituí-lo.
 - PLG e vendas têm de coexistir, mas vendas devem entrar só quando um threshold de uso já foi atingido (ex: 20–40 usuários pagando antes de um AE engajar).
 - "Para ter hipercrescimento, você precisa de orgânico, inbound, e word of mouth viral. Você não consegue pagar o suficiente para crescer nessas taxas e ter uma empresa viável."
+
+### [[Christopher Miller]]
+- PLG = "o produto é responsável por crescer receita; humanos são um backstop, não o motor". Não é sinônimo de 100% self-service.
+- Abordagem modular: para cada etapa do customer journey, pergunte "precisa de um humano aqui?" — decisão baseada em complexidade do problema, não em ideologia de PLG.
+- Exemplo HubSpot: cliente entra pelo produto, ativa sozinho, mas às vezes quer falar com alguém para negociar preço ou migrar dados — isso não torna o modelo "não-PLG", é o backstop funcionando.
+- Erro mais comum: contratar um head de growth sem recursos (sem tooling, sem eng, sem dados) e esperar resultados; ou desistir antes do PLG ter ciclos suficientes para mostrar retorno.
+- "A bad data hygiene is one of the biggest mistakes. If you can't measure what's happening, why?"
 
 ## Aprofundamento ⬇
 - [[Product-Led Growth (PLG) — Evidências]]

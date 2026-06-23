@@ -20,3 +20,6 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Descoberta assíncrona]] — apenas discussão acontece na reunião; descoberta e decisão ficam de fora
 - [[Comunicação é o trabalho]] — impacto só existe via artefatos e verbalizações; extreme ownership de falhas de comunicação; silêncio também comunica
 - [[Engenheiros no Loop Criativo]] — excluir engenheiros da descoberta desvia criatividade para over-engineering; inclua-os nas ideações
+- [[Regra dos 15% — Divulgação Progressiva]] — saia 15% da zona de conforto para aprofundar relacionamentos; divulgação e vulnerabilidade são recíprocas
+- [[As Três Realidades e o Net]] — 3 realidades em qualquer troca; só fale do que você conhece; comportamento + sentimento, não atribuição
+- [[Indagação Habilidosa]] — perguntas abertas (o quê/como/quando/onde), não por quê; suspend julgamento; inquiry antes de advice

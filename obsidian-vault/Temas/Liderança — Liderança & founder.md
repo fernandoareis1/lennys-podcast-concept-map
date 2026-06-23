@@ -23,6 +23,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Calma sob pressão como ferramenta de liderança]] — refletir stress no time não acelera solução; "nunca tão bom nem tão ruim quanto você pensa"; calma é treinável via exposição a crises
 - [[Gestão como Serviço — não Comando]] — gerenciar em tech é servir o time; nudge e guardrails, não ordens
 - [[Trabalho Focado vs. Overwork]] — overwork é fuga de priorizar; audite tempo, delegue, produza valor por hora
+- [[Raiva como Emoção Secundária]] — raiva é emoção de distanciamento; embaixo há medo ou mágoa; liderar com emoções conectoras une equipes
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -16,6 +16,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Sean Ellis Test (40%)]] — medir se há *must-have* (sinal antecipado de PMF)
 - [[Marginal User]] — focar nos usuários na beira de converter para revelar toda a fricção do produto
 - [[Solve before Scale]] — dois modos de produto (solve vs. scale) exigem posturas radicalmente diferentes; métricas "adultas" são precisão falsa em zero-a-um
+- [[Understand Work (UIE)]] — Understand → Identify → Execute; affordance explícita no roadmap para de-riscar execução; trabalho paralelo que dobra win rate ao longo dos sprints
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

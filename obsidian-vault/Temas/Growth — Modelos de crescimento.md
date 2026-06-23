@@ -17,6 +17,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Explore vs. Exploit (Growth)]] — oscilar entre descobrir o insight certo e extrair o máximo dele
 - [[Paradoxo de Jevons no software]] — custo de criar cai → consumo total sobe; mercado expande
 - [[Crescimento por lei de potência]] — em modelos GMV/pagamentos, poucos winners outliers financiam o cohort inteiro; otimize volume de entrada, não retenção média
+- [[Teoria do Usuário Adjacente]] — usuários futuros têm perfil diferente dos atuais; antecipe-os antes que as curvas de cohort caiam; obrigatório em hipercrescimento
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

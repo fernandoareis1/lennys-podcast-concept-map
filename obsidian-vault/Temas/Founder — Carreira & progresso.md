@@ -16,6 +16,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[PM como builder — prototipagem sem engenharia]] — IA libera PMs do backlog para validação rápida
 - [[Burnout no tech — reconhecendo os sinais]] — quando corpo e vida pessoal viram o scorecard do esgotamento
 - [[Transformação pessoal profunda — 4 etapas]] — do sofrimento ao autoconhecimento à compaixão
+- [[Impacto = Ambiente × Habilidades]] — score 6 variáveis de ambiente (gestor pesa mais) × 4 skills; impacto é o output certo a otimizar, não título nem comp
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

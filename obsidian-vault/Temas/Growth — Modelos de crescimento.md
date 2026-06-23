@@ -22,6 +22,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Loop produto-conteúdo]] — produto gera conteúdo branded no ambiente natural do usuário-alvo (GitHub, Google) → novas aquisições automáticas; company-generated, company-distributed
 - [[Liquidez do marketplace]] — fill rate da demanda intencional é o output; market health metric (ex: ETA threshold) é o preditor acionável; liquidez é o multiplicador de todo crescimento
 - [[Supply-First no Marketplace]] — supply é o gargalo crítico; sem prateleira cheia, demand de nada vale
+- [[Community-Led Growth — Quadrante]] — matriz PMF×consumer/enterprise define qual forma de comunidade investir
+- [[Atomic Unit of Sharing]] — o artefato mínimo que o usuário cria e quer exibir; motor do crescimento comunitário orgânico
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

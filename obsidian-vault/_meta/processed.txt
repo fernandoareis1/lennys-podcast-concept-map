@@ -58,3 +58,4 @@ brian-tolkin
 cam-adams
 camille-fournier
 camille-hearst
+camille-ricketts

@@ -13,6 +13,7 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 - [[Ativação via onboarding]] — retenção é mais função de onboarding que de táticas pós-fato
 - [[Gatilhos internos vs externos (hábito)]] — produto que vira hábito alivia uma emoção · **⬇ tem aprofundamento**
 - [[Usuário lazy, vain e selfish]] — novos usuários são preguiçosos, vaidosos e egoístas; projetar onboarding a partir desse realismo
+- [[Programa de Embaixadores]] — 20 usuários mais vocais como semente; acesso e pertencimento, não pagamento; crescer devagar mantém densidade
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]

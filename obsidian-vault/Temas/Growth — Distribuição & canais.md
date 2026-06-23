@@ -20,6 +20,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[GTM pelo alinhamento comprador-usuário]] — developer-led vs PLG vs vendas diretas: escolha pelo teste buyer=user; em IA B2B buyer≠user na maioria dos casos, logo vendas diretas voltam ao centro
 - [[SEO por JTBD de ponta a ponta]] — mapeie jobs to be done → queries de busca → landing pages alinhadas → onboarding que entrega o job; SEO sem experiência de produto é descontinuidade
 - [[Os 3 Pilares do Criador de Sucesso]] — consistência + colaboração entre criadores + curadores como amplificadores
+- [[Content Market Fit]] — aborde conteúdo como produto: identifique o job do leitor, crie painkillers não vitaminas, invista em qualidade
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

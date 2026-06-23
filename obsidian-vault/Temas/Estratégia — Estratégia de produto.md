@@ -36,6 +36,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Era dos evals — o eval é o PRD do modelo]] — o gargalo de melhoria de AI é definir o que é sucesso; eval = PRD + sales collateral; toda capacidade que você quer automatizar precisa de um eval primeiro
 - [[PMF como sinal claro do mercado]] — PMF real = surpresa de facilidade de venda; seja teimoso sobre a tese, flexível sobre a forma; cliente surpreendentemente fácil de vender é o sinal
 - [[Três segmentos do mercado de IA]] — foundation models (apenas hyperscalers), tooling/picaretas (risco de commoditização), IA aplicada/agentes (o SaaS da próxima década; onde startups devem jogar)
+- [[Três pilares de IA em plataforma]] — construa onde tem vantagem de dados, parceria para o que é commodity, ecossistema de apps para distribuir capacidades de terceiros; foco sempre na experiência final
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

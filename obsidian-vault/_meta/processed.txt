@@ -55,3 +55,4 @@ brandon-chu
 brendan-foody
 bret-taylor
 brian-tolkin
+cam-adams

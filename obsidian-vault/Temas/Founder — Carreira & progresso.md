@@ -24,6 +24,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Demanda elástica na era de IA]] — foque em setores onde IA multiplica demanda (software, consulting, PM) em vez de reduzir; teste: se todos forem 10x mais produtivos, o setor cresce ou encolhe?
 - [[Diagnóstico pelo superpoder]] — founders diagnosticam pelo viés da sua maior habilidade; pergunte "por quê" até extrair o framework subjacente; desafie sua solução preferida se coincidir com seu superpoder
 - [[Identidade de Builder]] — identidade fluida além do título funcional; alegria derivada do impacto coletivo, não do craft; reframe de "o que eu gosto" para "o que teria mais impacto"
+- [[Dar Lego — alegria de escalar sem segurar]] — em startups em escala, segurar o que você ama fazer bloqueia crescimento; encontre nova alegria em desenvolver outros e subir ao próximo nível
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

@@ -18,6 +18,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Atribuição a prova do futuro]] — colete first/last UTM + IDs de redes no perfil do usuário E nos eventos desde o dia 1; pós-iOS 14, o matching determinístico acabou
 - [[Crescimento via comunidade de supply]] — use o melhor supply atual como mentores/recrutadores para onboardar novo supply; prova social peer-to-peer supera qualquer equipe de vendas
 - [[GTM pelo alinhamento comprador-usuário]] — developer-led vs PLG vs vendas diretas: escolha pelo teste buyer=user; em IA B2B buyer≠user na maioria dos casos, logo vendas diretas voltam ao centro
+- [[SEO por JTBD de ponta a ponta]] — mapeie jobs to be done → queries de busca → landing pages alinhadas → onboarding que entrega o job; SEO sem experiência de produto é descontinuidade
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

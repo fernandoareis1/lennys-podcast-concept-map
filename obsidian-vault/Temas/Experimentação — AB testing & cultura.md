@@ -17,6 +17,8 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Lead Bullets vs Cannonballs]] — portfólio de apostas: pequenas + grandes mudanças fundamentais
 - [[Humans in the Loop (algoritmos)]] — PMs definem o que algoritmo decide vs. o que humano decide
 - [[Cultura de experimentação a 1000 por ano]] — meta ambiciosa como forcing function para construir capacidade de experimentação
+- [[Métricas absolutas vs. taxas de conversão]] — times otimizando taxas locais criam incentivo perverso de restringir o funil acima; use números absolutos
+- [[Holdout de longo prazo]] — manter cohort de controle e revisitar experimentos em 3/6/9/12 meses; 30-40% dos winners não têm lift de longo prazo
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

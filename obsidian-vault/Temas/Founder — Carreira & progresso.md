@@ -22,6 +22,8 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Alavancar ativamente seu líder]] — use seu manager ativamente; pings "sem resposta necessária"; rascunhe o e-mail que ele deveria enviar; HPM semanal; "ninguém quer mais que você seja incrível do que seu manager"
 - [[Escrita como ferramenta de clareza]] — escrever = descobrir o que você pensa, não documentar o que sabe; libera a mente; influencia internamente melhor que memo interno; acelera carreira não-linearmente
 - [[Demanda elástica na era de IA]] — foque em setores onde IA multiplica demanda (software, consulting, PM) em vez de reduzir; teste: se todos forem 10x mais produtivos, o setor cresce ou encolhe?
+- [[Diagnóstico pelo superpoder]] — founders diagnosticam pelo viés da sua maior habilidade; pergunte "por quê" até extrair o framework subjacente; desafie sua solução preferida se coincidir com seu superpoder
+- [[Identidade de Builder]] — identidade fluida além do título funcional; alegria derivada do impacto coletivo, não do craft; reframe de "o que eu gosto" para "o que teria mais impacto"
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

@@ -47,6 +47,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Small-S vs. Big-S Strategy]] — Small-S = presente-forward 2 anos liderado por PM; Big-S = visão 5-10 anos liderada por design/UXR; dois tributários que convergem no roadmap
 - [[O que realmente melhora apps de IA]] — o que times pensam que melhora apps de IA vs. o que realmente melhora; usuários e dados antes de frameworks e modelos
 - [[RAG — Qualidade de Dados como Diferencial]] — preparação de dados impacta RAG muito mais que a escolha do banco vetorial; chunking, metadata e rewrite para AI
+- [[Entropia Organizacional — Segunda Lei]] — empresas são sistemas fechados; complexidade cresce naturalmente; a luta pela simplicidade nunca termina
+- [[High-Conviction, Low-Consensus Bets — Zig vs Zag]] — as melhores apostas estão onde você acredita forte e o consenso discorda; limite o número mas garanta que existem
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

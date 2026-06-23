@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Claire Vo]
+autores: [Claire Vo, Dharmesh Shah]
 ---
 # Zona de Gênio
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -48,6 +48,13 @@ Muitas pessoas aceitam escopo baseado no que são boas, não no que as energiza.
 - "Go through your calendar. Write everything down. Categorize into: I hated this, it was fine, I love this, I would do this all day. Then focus on how to be in that top bucket more."
 - "What do I do that no one else in this organization can do? Knowing what that is and leaning into it can drive exceptional career growth and make you quite happy."
 - "I do a lot, but I feel like I'm in my zone of genius. And part of staying there is preserving builder time — time to produce real work as an individual."
+
+## Insights por autor
+### [[Dharmesh Shah]]
+- Nunca teve subordinados diretos em 18 anos e 7.000+ funcionários na HubSpot — decisão tomada no dia zero.
+- "I have learned that I suck at management. I'm a reasonably smart person. I could become passively okay at management with some training. I don't want to spend any years of my life becoming passively okay at something."
+- Preferiu investir todas as "calorias" naquilo em que é excepcional — produto, visão, cultura — ao invés de crescimento forçado em gestão de pessoas.
+- Correlação observada: você tende a ser bom no que gosta, e gostar do que é bom — a zona de gênio é autoamplificante.
 
 ## Conceitos relacionados
 [[Dobrar o Universo — Agência de Carreira]] · [[Drivers e drains de energia]] · [[Gestão de energia pessoal]] · [[Identidade de Builder]] · [[Dar Lego — alegria de escalar sem segurar]]

@@ -22,3 +22,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Kernel de verdade em meio ao ruído]] — o trabalho central do PM é filtrar o sinal que realmente importa de uma avalanche de boas ideias; escreva tudo para fazer pessoas se sentirem ouvidas; diga não com convicção
 - [[Armadilha do Prazo — Velocidade por Tempo, não Esforço]] — defina o deadline antes do escopo; mais tempo = mais suposições inventadas; feedback "prematuro" da v1 é o resultado correto
 - [[Qualidade de Código ≠ Sucesso de Produto]] — resolver problema real e colocar nas mãos dos usuários importa mais que elegância técnica; YouTube provou isso
+- [[Custos de Terceira Ordem da Complexidade]] — primeiro: custo de build; segundo: manutenção; terceiro (mais importante): o quanto a complexidade encarece tudo o mais

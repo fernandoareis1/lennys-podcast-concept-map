@@ -29,6 +29,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Modelo de Crescimento — Representação Analítica]] — planilha que força entendimento real do negócio; 50% do valor está em construir; sensibilidade à retenção maior que a intuição; payback period > LTV/CAC
 - [[Marketplace como Jardineiro]] — marketplace = jardineiro de ecossistema, não construtor de produto linear; tread lightly; efeitos colaterais surgem meses depois
 - [[Demanda como Moeda do Marketplace]] — supply segue demanda; agregar demanda da indústria = vencer; share of wallet = profundidade > amplitude
+- [[Três Tipos de Efeito de Rede]] — direto, cross-side e de dados; redes sociais precisam evoluir para os dois últimos para monetizar
+- [[Disruption por Expansão de Supply]] — disruptor com modelo operacional diferente expande supply dramaticamente; reação racional é overreaction ou aquisição
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

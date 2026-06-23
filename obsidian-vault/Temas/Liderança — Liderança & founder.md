@@ -32,6 +32,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[CEO como Catalisador de Adoção de IA]] — preditor #1 de adoção de IA = CEO usa diariamente; lead from front; weekly stats + ritual de compartilhamento; encontre e amplifique os 10% early adopters
 - [[Transparência Radical como Vantagem Competitiva]] — todos os cérebros no desafio; daily numbers update; dashboards de escritório; parceria profunda > protecionismo gerencial
 - [[Meta Ambiciosa como Reinicializador]] — meta impossível no caminho atual = reinicializador cognitivo; velocidade real (trabalhar diferente) vs. falsa (trabalhar mais); competidores como presente
+- [[Intuição do Fundador vs. Expertise do Time]] — dirija novos líderes até que demonstrem julgamento melhor que o seu; o sinal de delegar vem deles, não de você
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

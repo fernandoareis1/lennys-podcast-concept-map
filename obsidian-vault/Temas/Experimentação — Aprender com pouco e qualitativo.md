@@ -14,6 +14,8 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Decidir com poucos dados é melhor que com zero]] — vire a pergunta do rigor
 - [[CC-CD — Calibração Contínua, Desenvolvimento Contínuo]] — ciclo iterativo de build → deploy → calibrar para produtos de IA
 - [[Loops de feedback são uma escolha]] — encurte qualquer "loop de 10 anos" identificando marcos necessários-mas-não-suficientes
+- [[Experimentos Wizard of Oz]] — simule a feature sem construir: WhatsApp + interns, screenshot overlay, Typeform; 30 dados pontos > zero; tendência é estável, só a precisão muda
+- [[Medição vs Insight — Instrumentação Rica]] — medição = fato sem contexto; insight = contexto + por quê + ação; eventos com 5-10 propriedades permitem segmentar o "porquê"
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

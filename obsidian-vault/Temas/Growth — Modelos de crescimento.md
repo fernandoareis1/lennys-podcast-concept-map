@@ -25,6 +25,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Community-Led Growth — Quadrante]] — matriz PMF×consumer/enterprise define qual forma de comunidade investir
 - [[Atomic Unit of Sharing]] — o artefato mínimo que o usuário cria e quer exibir; motor do crescimento comunitário orgânico
 - [[Dar valor antes de extrair valor]] — flywheel do HubSpot: entregue valor genuíno no free tier antes de pedir qualquer coisa; clientes deliciados viram advocates que trazem novos leads organicamente
+- [[Física do Crescimento — Restrições e Alavancas]] — mapeie mercado + produto + modelo + canal; mude uma variável por vez; identifique o canal subutilizado (ex: motoristas como canal de distribuição do GoPay)
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

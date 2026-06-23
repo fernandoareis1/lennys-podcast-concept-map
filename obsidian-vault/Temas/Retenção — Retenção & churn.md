@@ -12,6 +12,7 @@ Reter é a base: sem retenção não há PMF nem growth. E quem **sai** (churn) 
 ## Conceitos (L3)
 - [[Retenção é a base do crescimento]] — growth amplifica retenção, não a cria
 - [[Churn como fonte de discovery]] — entrevistar quem saiu revela o struggle
+- [[Retenção com Contexto — Benchmark 60%]] — retenção sem contexto é inútil; benchmark: 60% semana 1 + flatten; 80% para early adopters; o passo anterior à conversão é onde mora o problema
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[06 - Growth & Aquisição]]

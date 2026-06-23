@@ -35,6 +35,8 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Zona de Gênio]] — interseção de excepcional + hard-to-replicate + joy; auditoria de calendário em 4 buckets; lean into what only you can do
 - [[Comunicação lowercase vs uppercase C]] — IA substitui troca funcional de informação (lowercase c); influência, boldness e carisma (uppercase C) permanecem humanos
 - [[Economia de Alocação]] — do conhecimento à alocação: vision, gosto e talent evaluation sobem de valor; todos se tornam gestores de agentes; generalistas ressurgem
+- [[PM sua Carreira como um Produto]] — escreva um spec para sua carreira: milestones, skills, success metrics; use como régua de decisão serial
+- [[Visibilidade sem Autopromoção]] — reframe: não é autopromoção, é educar seu manager sobre o trabalho do time para conseguir mais recursos
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

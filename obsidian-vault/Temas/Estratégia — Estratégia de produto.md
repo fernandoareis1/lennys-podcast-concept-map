@@ -38,5 +38,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Três segmentos do mercado de IA]] — foundation models (apenas hyperscalers), tooling/picaretas (risco de commoditização), IA aplicada/agentes (o SaaS da próxima década; onde startups devem jogar)
 - [[Três pilares de IA em plataforma]] — construa onde tem vantagem de dados, parceria para o que é commodity, ecossistema de apps para distribuir capacidades de terceiros; foco sempre na experiência final
 
+- [[Alavancas de Crescimento como Problema de Estratégia]] — novo produto, geo, segmento ou canal nunca pode ser objetivo de um departamento; exige alinhamento de toda a empresa com OKRs compartilhados
+
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

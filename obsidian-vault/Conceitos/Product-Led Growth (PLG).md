@@ -2,7 +2,7 @@
 tipo: framework
 fluxo: Growth & Aquisição
 nivel: 3
-autores: [Elena Verna, Annie Pearl]
+autores: [Elena Verna, Annie Pearl, Carilu Dietrich]
 ---
 # Product-Led Growth (PLG)
 
@@ -27,5 +27,15 @@ O **produto** assume alavancas de crescimento (aquisição, ativação, monetiza
 - "O benefício de ter produto e design reportando ao mesmo CPO é garantir que pensamos de forma holística sobre a experiência do usuário de ponta a ponta."
 > 🎧 [Behind the scenes of Calendly's rapid growth (1:01:49)](https://www.youtube.com/watch?v=-tUIGpgmsZw)
 
+### [[Carilu Dietrich]]
+- Atlassian: testou bundles no PLG e isso freou o crescimento — voltou a lançar produto único, onboarding rápido, expansão posterior. Bundling slows down the PLG motion.
+- PLG depende muito do produto e do comprador. Developers se auto-vendem. HR muitas vezes precisa de ajuda. Leia os sinais antes de adicionar vendedores.
+- Híbrido emergente: SDRs que viram "sales engineers" guiam usuários em PLG que travam — estendem PLG sem substituí-lo.
+- PLG e vendas têm de coexistir, mas vendas devem entrar só quando um threshold de uso já foi atingido (ex: 20–40 usuários pagando antes de um AE engajar).
+- "Para ter hipercrescimento, você precisa de orgânico, inbound, e word of mouth viral. Você não consegue pagar o suficiente para crescer nessas taxas e ter uma empresa viável."
+
+## Aprofundamento ⬇
+- [[Product-Led Growth (PLG) — Evidências]]
+
 ## Conceitos relacionados
-[[Growth como sistema, não time]] · [[Growth Loops vs Funil]] · [[Retenção é a base do crescimento]]
+[[Growth como sistema, não time]] · [[Growth Loops vs Funil]] · [[Retenção é a base do crescimento]] · [[Riding the Lightning]]

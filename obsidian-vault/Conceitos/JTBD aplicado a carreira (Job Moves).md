@@ -21,4 +21,4 @@ As mesmas [[Forças do Progresso (Push-Pull-Ansiedade-Hábito)|forças do progre
 > 🎧 [Bob Moesta (00:25–00:27)](https://www.youtube.com/watch?v=2wypVv9wZtI)
 
 ## Conceitos relacionados
-[[Jobs to be Done (JTBD)]] · [[Forças do Progresso (Push-Pull-Ansiedade-Hábito)]] · [[Carreira é progresso, não salário]]
+[[Jobs to be Done (JTBD)]] · [[Forças do Progresso (Push-Pull-Ansiedade-Hábito)]] · [[Carreira é progresso, não salário]] · [[Quatro quests de transição de carreira]] · [[Drivers e drains de energia]]

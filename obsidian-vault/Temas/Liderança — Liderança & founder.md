@@ -26,6 +26,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Raiva como Emoção Secundária]] — raiva é emoção de distanciamento; embaixo há medo ou mágoa; liderar com emoções conectoras une equipes
 - [[Peak Model — Pirâmide de Necessidades]] — Maslow aplicado: colaboradores (compensação → reconhecimento → significado); clientes (expectativas → desejos → necessidades não-reconhecidas)
 - [[Cultura como Add, não como Fit]] — "culture fit" é excludente; "culture add" reconhece que diversidade enriquece; cultura = o que acontece quando o chefe não está
+- [[Princípios Operacionais Pessoais]] — 4 princípios: self-awareness → mutual awareness; dizer o indizível; manager vs. leader; voltar ao sistema operacional
+- [[Decisão como força de momentum]] — se não sabe quem decide, aja como se fosse você; Type 1 vs Type 2; "be a force for positive momentum"
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

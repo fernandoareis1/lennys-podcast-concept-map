@@ -44,3 +44,6 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[PM como Clareza e Convicção]] — o trabalho central do PM é gerar clareza (eliminar ambiguidade) e manter convicção (sustentar direção sob pressão)
 - [[Processo como Redutor de Variância]] — processo eleva piores à média mas traz melhores para baixo; custo invisível de toda padronização; Minimum Viable Process com escape hatches
 - [[Portfólio de Talentos de Produto]] — time de PM com competências complementares: homegrown (cultura) + externos (rigor); executores + visionários; auditoria semestral de lacunas
+- [[Keeper Test — Mecanismo de Densidade de Talento]] — "se essa pessoa fosse sair hoje, eu faria tudo para retê-la?"; sem performance reviews formais; mecanismo contínuo de manutenção de densidade de talento
+- [[Densidade de Talento como Pré-requisito Cultural]] — densidade de talento não é objetivo cultural mas pré-requisito; sem ela, candor e liberdade com responsabilidade são impossíveis
+- [[Contratar para Elevar o Time]] — não preencha uma caixa; contrate quem eleva o time inteiro; skills aditivas, não só baseline; "what would you do differently if you had my job?"

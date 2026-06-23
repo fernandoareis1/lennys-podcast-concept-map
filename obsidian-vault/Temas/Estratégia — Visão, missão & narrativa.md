@@ -12,6 +12,7 @@ A missão não é decoração: ela define **o que importa medir**, quem a empres
 ## Conceitos (L3)
 - [[Missão como âncora estratégica]] — metas de negócio servem à missão, não o contrário; métricas derivam do propósito
 - [[Metáforas e narrativa para alinhamento de equipe]] — uma boa metáfora substitui mil PRDs e alinha sem microgestão
+- [[Narrativa Estratégica]] — framework de 5 passos (virada de mundo → apostas → objeto → obstáculos → presentes) que unifica vendas, produto e recrutamento
 
 ## Fluxos vizinhos
 [[09 - Liderança & Times]] · [[03 - Priorização & Roadmap]]

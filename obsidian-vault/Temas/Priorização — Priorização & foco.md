@@ -13,3 +13,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[LNO Framework]] — classificar tarefas por alavancagem (Leverage/Neutral/Overhead)
 - [[ICE (priorização)]] — Impact × Confidence × Ease
 - [[Pre-mortem]] — imaginar o fracasso antes de começar
+- [[Narrativa como filtro de priorização]] — o "objeto do novo jogo" como régua para decidir quais features construir

@@ -16,6 +16,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Indecisão do comprador (no decision)]] — 40–60% das compras B2B morrem aqui
 - [[Fish where the fish are — nicho e boring business]] — mercados pouco competidos e mal-amados são os mais lucrativos
 - [[Moat — fosso competitivo duradouro]] — brand, rede e switching costs como blindagem
+- [[Movimento vs. Categoria]] — construir um movimento é mais poderoso que encontrar um nome de categoria
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

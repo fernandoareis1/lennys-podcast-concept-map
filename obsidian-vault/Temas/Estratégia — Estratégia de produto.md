@@ -38,6 +38,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Três segmentos do mercado de IA]] — foundation models (apenas hyperscalers), tooling/picaretas (risco de commoditização), IA aplicada/agentes (o SaaS da próxima década; onde startups devem jogar)
 - [[Três pilares de IA em plataforma]] — construa onde tem vantagem de dados, parceria para o que é commodity, ecossistema de apps para distribuir capacidades de terceiros; foco sempre na experiência final
 - [[Backcasting — Rejeitar a Premissa]] — abandone o presente, projete-se no futuro de sucesso e olhe para trás; "reject the premise" como técnica de inovação não-incremental
+- [[Bloqueador como vantagem]] — o maior obstáculo à adoção pode virar maior driver de crescimento e upsell se você lean into it ao invés de só remover o mínimo; design systems na Figma
 
 - [[Alavancas de Crescimento como Problema de Estratégia]] — novo produto, geo, segmento ou canal nunca pode ser objetivo de um departamento; exige alinhamento de toda a empresa com OKRs compartilhados
 - [[Processo de Estratégia de Produto em 5 Fases]] — playbook operacional de 8-12 semanas: preparação → strategy sprint → design sprint → doc → rollout; alinhamento embutido em cada fase

@@ -25,6 +25,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Damming the Demand]] — compita categoria-a-categoria, não produto-a-produto; o inimigo é o status quo; "você achava que queria isso, mas o que precisa é aquilo"
 - [[Lightning Strikes vs. Peanut Butter]] — concentre impacto em 1-3 momentos no ano ao invés de espalhar budget; prefira importar uma semana a ser irrelevante o ano todo; WOM é o resultado
 - [[Microapps como canal de crescimento]] — ferramentas gratuitas one-trick-pony que entregam valor imediato e criam conversa natural para o produto principal; Website Grader, brand kit generator, email signature generator
+- [[GTM IC-First — o modelo bottom-up da Figma]] — dois passos: faça o IC amar → IC vira campeão interno → adoção enterprise sem equipe de vendas; 3 anos sem sales team
+- [[Advocates técnicos — o Fator Tom]] — contrate praticantes (não marketers) como bridge técnico para marketing e vendas; DA sem quota; closes de deal aumentam quando Tom entra na call
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

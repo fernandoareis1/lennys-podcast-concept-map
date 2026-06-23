@@ -27,6 +27,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Criação de categoria — as três condições]] — budget existe? clientes usam a linguagem? você é genuinamente diferente? se não, eleve a categoria existente em vez de criar uma nova
 - [[A Armadilha do "Melhor"]] — competir melhor em categoria existente; 76% do valor vai para o líder; PMF é uma ideia perigosa se entendido como "encaixar produto no mercado"
 - [[Frame, Name, Claim]] — processo tático do category design: reencadrar o problema, criar linguagem nova (languaging), plantar a bandeira da nova categoria
+- [[Autenticidade técnica como GTM]] — praticantes técnicos não querem ser marketados; pare de fazer marketing; contrate designers como primeiros GTM hires; profundidade técnica é a única credibilidade que funciona
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

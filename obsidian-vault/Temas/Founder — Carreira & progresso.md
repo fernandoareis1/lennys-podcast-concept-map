@@ -28,6 +28,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Mastery Técnica antes da Gestão]] — construa mastery técnica real (~10 anos) antes de migrar para gestão; resistir à promoção precoce
 - [[Checklist de Avaliação de Empresa]] — 10 critérios (Rule of 40, NDR, NPS, qualidade dos investidores…) para avaliar momentum de empresa antes de entrar ou aceitar como cliente
 - [[Midlife como Crisálida]] — meia-idade como fase de metamorfose (não crise); curva U da felicidade: mínimo aos 47-50, crescente daí em diante; sabedoria = experiência metabolizada
+- [[Impacto sobre promoção]] — focar em impacto na empresa supera focar em agradar o chefe; promoção é consequência, não objetivo
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

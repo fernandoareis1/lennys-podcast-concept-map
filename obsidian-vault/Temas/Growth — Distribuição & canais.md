@@ -21,6 +21,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[SEO por JTBD de ponta a ponta]] — mapeie jobs to be done → queries de busca → landing pages alinhadas → onboarding que entrega o job; SEO sem experiência de produto é descontinuidade
 - [[Os 3 Pilares do Criador de Sucesso]] — consistência + colaboração entre criadores + curadores como amplificadores
 - [[Content Market Fit]] — aborde conteúdo como produto: identifique o job do leitor, crie painkillers não vitaminas, invista em qualidade
+- [[Ser o Favorito de Alguém]] — não tente ser o "ok" de todos; seja o favorito de alguém; 1000 True Fans cria defensores que distribuem e retêm por você
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

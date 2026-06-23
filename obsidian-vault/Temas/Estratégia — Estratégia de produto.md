@@ -40,6 +40,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Backcasting — Rejeitar a Premissa]] — abandone o presente, projete-se no futuro de sucesso e olhe para trás; "reject the premise" como técnica de inovação não-incremental
 - [[Bloqueador como vantagem]] — o maior obstáculo à adoção pode virar maior driver de crescimento e upsell se você lean into it ao invés de só remover o mínimo; design systems na Figma
 - [[Incubação pelo Uso Próprio]] — descubra produtos vivendo no edge da IA; valide com o próprio time primeiro; unbundle de ferramentas gerais para apps específicos; GPT wrappers são legítimos; software vira conteúdo
+- [[Destruir-se antes que Alguém o Destrua — O Imperativo da IA]] — para SaaS estabelecido, AI não é oportunidade mas imperativo de sobrevivência; não dá para fazer pela metade; se o founder não vai all-in, contrate alguém que vai
 
 - [[Alavancas de Crescimento como Problema de Estratégia]] — novo produto, geo, segmento ou canal nunca pode ser objetivo de um departamento; exige alinhamento de toda a empresa com OKRs compartilhados
 - [[Processo de Estratégia de Produto em 5 Fases]] — playbook operacional de 8-12 semanas: preparação → strategy sprint → design sprint → doc → rollout; alinhamento embutido em cada fase

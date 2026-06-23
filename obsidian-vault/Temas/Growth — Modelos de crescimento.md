@@ -26,6 +26,9 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Atomic Unit of Sharing]] — o artefato mínimo que o usuário cria e quer exibir; motor do crescimento comunitário orgânico
 - [[Dar valor antes de extrair valor]] — flywheel do HubSpot: entregue valor genuíno no free tier antes de pedir qualquer coisa; clientes deliciados viram advocates que trazem novos leads organicamente
 - [[Física do Crescimento — Restrições e Alavancas]] — mapeie mercado + produto + modelo + canal; mude uma variável por vez; identifique o canal subutilizado (ex: motoristas como canal de distribuição do GoPay)
+- [[Modelo de Crescimento — Representação Analítica]] — planilha que força entendimento real do negócio; 50% do valor está em construir; sensibilidade à retenção maior que a intuição; payback period > LTV/CAC
+- [[Marketplace como Jardineiro]] — marketplace = jardineiro de ecossistema, não construtor de produto linear; tread lightly; efeitos colaterais surgem meses depois
+- [[Demanda como Moeda do Marketplace]] — supply segue demanda; agregar demanda da indústria = vencer; share of wallet = profundidade > amplitude
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

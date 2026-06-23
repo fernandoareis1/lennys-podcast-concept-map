@@ -2,11 +2,11 @@
 tipo: framework
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Benjamin Lauzier]
+autores: [Benjamin Lauzier, Dan Hockenmaier]
 ---
 # Liquidez do marketplace
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L3
-**Tipo:** Framework · **Fontes:** [[Benjamin Lauzier]]
+**Tipo:** Framework · **Fontes:** [[Benjamin Lauzier]] · [[Dan Hockenmaier]]
 
 ## Ideia central
 Liquidez é **como marketplaces vencem**: mede a capacidade de conectar compradores e vendedores de forma eficiente. Visualmente, é a sobreposição entre o que o supply quer oferecer e o que o demand quer comprar. Sem liquidez suficiente, nenhuma outra estratégia de crescimento sustenta.
@@ -30,5 +30,11 @@ Mais acionável que o fill rate é a **métrica de saúde de mercado (market hea
 - "A métrica de saúde de mercado é muito mais acionável para os times. Se você é o time de supply, pode ver se adicionar 100 motoristas realmente está reduzindo ETAs."
 > 🎧 [How marketplaces win: Liquidity, growth levers, quality, more (1:24:03)](https://www.youtube.com/watch?v=CYwgStMln6U) · 2024-09-29
 
+### [[Dan Hockenmaier]]
+- "Essentially until you have a liquid marketplace, nothing else matters. You have to prioritize getting to a liquid marketplace above everything else."
+- Sobre momentos threshold: no Uber, o threshold de 4-5 minutos de espera é onde o marketplace "clica" — abaixo disso, a experiência é boa o suficiente para reter o comprador; acima, o usuário vai embora
+- "Cut scope — to a specific geography, category, or use case — to generate liquidity. Better to have an incredibly liquid slice than a thin liquid everywhere."
+- A liquidez é local: um marketplace pode ser líquido em São Paulo e ilíquido em Curitiba simultaneamente; gerencie como portfólio de mercados com estágios diferentes
+
 ## Conceitos relacionados
-[[Growth Loops vs Funil]] · [[Retenção é a base do crescimento]] · [[Teoria do Usuário Adjacente]]
+[[Growth Loops vs Funil]] · [[Retenção é a base do crescimento]] · [[Teoria do Usuário Adjacente]] · [[Demanda como Moeda do Marketplace]] · [[Supply-First no Marketplace]] · [[Marketplace como Jardineiro]]

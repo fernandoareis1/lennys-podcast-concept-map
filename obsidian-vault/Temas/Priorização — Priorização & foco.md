@@ -16,3 +16,5 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Narrativa como filtro de priorização]] — o "objeto do novo jogo" como régua para decidir quais features construir
 - [[Horizons de investimento]] — alocar % de recursos entre H1/H2/H3 e ajustar o split conforme o produto amadurece
 - [[Gargalo como bússola de priorização]] — identifique o maior gargalo, resolva-o completamente, passe ao próximo; sem matriz complexa
+- [[Framework PPS — Problema, Pessoas, Sistema]] — ante de escolher uma solução de sistema/ferramenta, entenda o Problema → Pessoas envolvidas → Sistema; nunca pule direto para o sistema
+- [[Thinking Gray]] — não decida até que absolutamente precise; a urgência percebida é quase sempre manufaturada; esperar produz melhores decisões

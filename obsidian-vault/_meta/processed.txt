@@ -75,3 +75,4 @@ claire-vo
 crystal-w
 dalton-caldwell
 dan-hockenmaier
+dan-shipper

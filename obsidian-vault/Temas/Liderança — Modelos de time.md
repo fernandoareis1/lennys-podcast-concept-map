@@ -35,3 +35,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Coaching como trabalho diário do líder]] — fazer produto é o trabalho do PM; tornar o PM melhor é o trabalho do manager; crie arenas de prática e promova antes de promover
 - [[Product Ops — Parceiro do PM]] — product ops tem dois significados: sistema que você cria E pessoa que libera o PM para focar no cliente; o PM nunca cede: tempo com o cliente
 - [[Casa da Empresa — 3 Camadas Estruturais]] — documentos fundadores (missão + metas LP + princípios) + sistema operacional (OKRs, QBRs, métricas) + cadência (rituais, calendário)
+- [[Engenharia Composta — Cada Unidade Facilita a Próxima]] — cada PR/PRD/automação deve baratear o próximo; Head de AI Operations como função dedicada; biblioteca de prompts como ativo coletivo

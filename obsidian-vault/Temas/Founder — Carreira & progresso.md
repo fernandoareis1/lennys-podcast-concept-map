@@ -34,6 +34,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Dobrar o Universo — Agência de Carreira]] — orgs são sistemas vivos; proponha-se como solução de problema da empresa (não como candidato a promoção); prepare o pitch completo
 - [[Zona de Gênio]] — interseção de excepcional + hard-to-replicate + joy; auditoria de calendário em 4 buckets; lean into what only you can do
 - [[Comunicação lowercase vs uppercase C]] — IA substitui troca funcional de informação (lowercase c); influência, boldness e carisma (uppercase C) permanecem humanos
+- [[Economia de Alocação]] — do conhecimento à alocação: vision, gosto e talent evaluation sobem de valor; todos se tornam gestores de agentes; generalistas ressurgem
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

@@ -23,3 +23,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Armadilha do Prazo — Velocidade por Tempo, não Esforço]] — defina o deadline antes do escopo; mais tempo = mais suposições inventadas; feedback "prematuro" da v1 é o resultado correto
 - [[Qualidade de Código ≠ Sucesso de Produto]] — resolver problema real e colocar nas mãos dos usuários importa mais que elegância técnica; YouTube provou isso
 - [[Custos de Terceira Ordem da Complexidade]] — primeiro: custo de build; segundo: manutenção; terceiro (mais importante): o quanto a complexidade encarece tudo o mais
+- [[New Bets Framework — Lean Launch e Algorithmização]] — qualquer pessoa pode propor apostas; time lean valida rapidamente; só scale após métricas sólidas; formalize em processo replicável

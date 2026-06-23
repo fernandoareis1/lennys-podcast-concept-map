@@ -39,3 +39,5 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Product Ops — Parceiro do PM]] — product ops tem dois significados: sistema que você cria E pessoa que libera o PM para focar no cliente; o PM nunca cede: tempo com o cliente
 - [[Casa da Empresa — 3 Camadas Estruturais]] — documentos fundadores (missão + metas LP + princípios) + sistema operacional (OKRs, QBRs, métricas) + cadência (rituais, calendário)
 - [[Engenharia Composta — Cada Unidade Facilita a Próxima]] — cada PR/PRD/automação deve baratear o próximo; Head de AI Operations como função dedicada; biblioteca de prompts como ativo coletivo
+- [[Product Owner como Local CEO]] — product owners da Revolut têm ownership genuíno end-to-end + poder de hiring/firing; estrutura ultra-flat com 150+ local CEOs
+- [[Raw Intellect e Fome sobre Experiência]] — Revolut prioriza inteligência bruta e fome sobre experiência; transferências internas (engenheiros, ops) se tornam os PMs mais bem-sucedidos

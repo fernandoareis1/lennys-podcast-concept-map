@@ -15,6 +15,7 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Assistência Contextual Mista]] — agentes surfaçam ações sugeridas no momento certo em vez de push notifications; mixed-initiative UX
 - [[NLX é o novo UX]] — interfaces em linguagem natural têm gramáticas e "UI elements" invisíveis que precisam ser projetados conscientemente
 - [[Friction Logging]] — percorrer o produto como usuário específico e anotar todo atrito; aponta onde a meticulosidade compensa
+- [[99% Done ≈ 0% Done]] — produto 99% pronto está mais perto do 0% do que do 100%; nunca comprometa qualidade/UX mesmo reduzindo escopo funcional
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

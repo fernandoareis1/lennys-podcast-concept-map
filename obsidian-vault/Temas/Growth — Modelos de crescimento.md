@@ -18,6 +18,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Paradoxo de Jevons no software]] — custo de criar cai → consumo total sobe; mercado expande
 - [[Crescimento por lei de potência]] — em modelos GMV/pagamentos, poucos winners outliers financiam o cohort inteiro; otimize volume de entrada, não retenção média
 - [[Teoria do Usuário Adjacente]] — usuários futuros têm perfil diferente dos atuais; antecipe-os antes que as curvas de cohort caiam; obrigatório em hipercrescimento
+- [[Profundidade antes de amplitude]] — um único persona + contexto + caso de uso antes de expandir; nicho estreito o suficiente para dominar, amplo o suficiente para viabilidade
+- [[Loop produto-conteúdo]] — produto gera conteúdo branded no ambiente natural do usuário-alvo (GitHub, Google) → novas aquisições automáticas; company-generated, company-distributed
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

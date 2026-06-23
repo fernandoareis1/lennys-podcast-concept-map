@@ -39,6 +39,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Três pilares de IA em plataforma]] — construa onde tem vantagem de dados, parceria para o que é commodity, ecossistema de apps para distribuir capacidades de terceiros; foco sempre na experiência final
 
 - [[Alavancas de Crescimento como Problema de Estratégia]] — novo produto, geo, segmento ou canal nunca pode ser objetivo de um departamento; exige alinhamento de toda a empresa com OKRs compartilhados
+- [[Processo de Estratégia de Produto em 5 Fases]] — playbook operacional de 8-12 semanas: preparação → strategy sprint → design sprint → doc → rollout; alinhamento embutido em cada fase
+- [[Pilares Estratégicos — 3 Apostas com Exclusão Explícita]] — estratégia = 3 pilares + áreas explicitamente de fora + o porquê; ranqueados em 4 critérios; carros-conceito para o futuro
+- [[Small-S vs. Big-S Strategy]] — Small-S = presente-forward 2 anos liderado por PM; Big-S = visão 5-10 anos liderada por design/UXR; dois tributários que convergem no roadmap
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

@@ -28,6 +28,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Cultura como Add, não como Fit]] — "culture fit" é excludente; "culture add" reconhece que diversidade enriquece; cultura = o que acontece quando o chefe não está
 - [[Princípios Operacionais Pessoais]] — 4 princípios: self-awareness → mutual awareness; dizer o indizível; manager vs. leader; voltar ao sistema operacional
 - [[Decisão como força de momentum]] — se não sabe quem decide, aja como se fosse você; Type 1 vs Type 2; "be a force for positive momentum"
+- [[Velocidade um Clique Acima]] — se é pra este ano → este semestre; não deixe reuniões definirem timelines; SLA pessoal como alavancagem organizacional
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -31,6 +31,9 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Impacto sobre promoção]] — focar em impacto na empresa supera focar em agradar o chefe; promoção é consequência, não objetivo
 - [[Ops que se automatiza para subir]] — em product ops (e em qualquer função especialista), construa sistemas, entregue para frente ou automatize, suba para o próximo nível estratégico
 - [[Sponsors vs. Mentors]] — mentores dão sabedoria; sponsors colocam capital (profissional, social) em você; "gasoline on the career fire" são os sponsors, não os mentores
+- [[Dobrar o Universo — Agência de Carreira]] — orgs são sistemas vivos; proponha-se como solução de problema da empresa (não como candidato a promoção); prepare o pitch completo
+- [[Zona de Gênio]] — interseção de excepcional + hard-to-replicate + joy; auditoria de calendário em 4 buckets; lean into what only you can do
+- [[Comunicação lowercase vs uppercase C]] — IA substitui troca funcional de informação (lowercase c); influência, boldness e carisma (uppercase C) permanecem humanos
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

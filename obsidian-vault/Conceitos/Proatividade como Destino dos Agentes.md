@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Alexander Embiricos]
+autores: [Alexander Embiricos, Dhanji R. Prasanna]
 ---
 # Proatividade como Destino dos Agentes
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -27,6 +27,13 @@ O modelo atual de IA é **reativo**: a IA só ajuda quando você a chama. O usu�
 - Métricas que importam: D7 retention e observação de social media (Reddit > Twitter para feedback real, por ser menos hype e ter mecânica de upvote). Testar o produto "como um novo usuário" periodicamente.
 
 > 🎧 [Building Codex: OpenAI's coding agent (1:16:34)](https://www.youtube.com/watch?v=xZifSLGOrrw)
+
+### [[Dhanji R. Prasanna]]
+- "All these LLMs are sitting idle overnight and on weekends while humans aren't there. There's no need for that. They should be working all the time. They should be trying to build in anticipation of what we want."
+- Engenheiro do Block criou um sistema onde o Goose assiste sua tela e suas conversas no Slack; horas depois, o Goose já construiu um PR com a feature que ele estava discutindo.
+- Meta operacional: descrever múltiplos experimentos com detalhe, ir dormir, e amanhecer com todos construídos — depois descartar os que não funcionam.
+
+> 🎧 [How Block is becoming the most AI-native enterprise in the world (1:26:42)](https://www.youtube.com/watch?v=JMeXWVw0r3E)
 
 ## Conceitos relacionados
 [[Código como Linguagem Universal dos Agentes]] · [[Assistência Contextual Mista]] · [[Trade-off Agência-Controle]] · [[Non-determinismo em Produtos de IA]] · [[Estratégia — Estratégia de produto]]

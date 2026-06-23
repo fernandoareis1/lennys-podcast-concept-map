@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Amjad Masad, Anton Osika]
+autores: [Amjad Masad, Anton Osika, Dhanji R. Prasanna]
 ---
 # Democratização do software via IA
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -32,6 +32,12 @@ Fazer software sempre foi difícil porque era fragmentado: IDE, runtime, package
 - Argumento causal: muitos empreendedores falharam por não ter "alguém que sabe resolver as partes técnicas." Quando a Lovable remove esse bloqueio, qualquer pessoa com uma ideia pode construir e mostrar o que acredita que deveria existir.
 - Ao contrário de tornar engenheiros 20% mais produtivos: o objetivo é tornar *qualquer pessoa* um builder.
 > 🎧 [Building Lovable: $10M ARR in 60 days with 15 people (1:09:48)](https://www.youtube.com/watch?v=DZtGxNs9AVg) · 2025-03-09
+
+### [[Dhanji R. Prasanna]]
+- No Block, os **times não-técnicos** (risco empresarial, legal) usando Goose para construir sistemas internos são os que mostram maior ganho de produtividade — comprimindo semanas de trabalho em horas.
+- "We'll have our enterprise risk management team build a whole system for self-servicing enterprise risk, and this is compressing weeks of work into hours."
+- Times que seriam "twiddling their thumbs" esperando no roadmap do time de apps internos agora constroem eles mesmos.
+> 🎧 [How Block is becoming the most AI-native enterprise in the world (1:26:42)](https://www.youtube.com/watch?v=JMeXWVw0r3E)
 
 ## Conceitos relacionados
 [[PM como builder — prototipagem sem engenharia]] · [[Paradoxo de Jevons no software]] · [[Compressão do Talent Stack por IA]] · [[Código como Linguagem Universal dos Agentes]] · [[Produto lovável (MLP)]]

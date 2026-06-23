@@ -25,3 +25,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Investir em força, não em ausência de fraqueza]] — julgue pelo que a pessoa faz bem, não pelo pior momento; construa suporte ao redor da fraqueza conhecida
 - [[Single-Threaded Leader]] — um dono + time cross-funcional dedicado; de orientação de projeto para programa; accountability clara sem disputas de recursos
 - [[Bursts — presença intencional no trabalho remoto]] — encontros presenciais trimestrais de alta velocidade; infraestrutura one-click; dados sobre frequência como sinal de saúde do time
+- [[Densidade inicial de talento]] — primeiros 10 definem o baseline de qualidade; depois de encontrar PMF, velocidade de contratação passa a importar tanto quanto qualidade; top 10% dos performers geram maioria do impacto

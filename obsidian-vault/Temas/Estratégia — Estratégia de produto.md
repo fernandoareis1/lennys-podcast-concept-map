@@ -33,6 +33,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[IA Constitucional]] — princípios em linguagem natural + auto-crítica do modelo = alinhamento escalável; personalidade e segurança são o mesmo trabalho
 - [[Construir para o disco futuro]] — construa para capacidades de 6-12 meses no futuro; o que funciona 20% hoje estará em 100% em breve
 - [[PM de plataforma — princípios e ciclos]] — ciclos 5-10x mais longos; você desenha o canvas, não a UX; stack-rank explícito de constituintes define todas as decisões de política
+- [[Era dos evals — o eval é o PRD do modelo]] — o gargalo de melhoria de AI é definir o que é sucesso; eval = PRD + sales collateral; toda capacidade que você quer automatizar precisa de um eval primeiro
+- [[PMF como sinal claro do mercado]] — PMF real = surpresa de facilidade de venda; seja teimoso sobre a tese, flexível sobre a forma; cliente surpreendentemente fácil de vender é o sinal
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

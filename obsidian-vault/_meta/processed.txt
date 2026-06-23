@@ -76,3 +76,4 @@ crystal-w
 dalton-caldwell
 dan-hockenmaier
 dan-shipper
+daniel-lereya

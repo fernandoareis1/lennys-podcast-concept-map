@@ -30,6 +30,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Decisão como força de momentum]] — se não sabe quem decide, aja como se fosse você; Type 1 vs Type 2; "be a force for positive momentum"
 - [[Velocidade um Clique Acima]] — se é pra este ano → este semestre; não deixe reuniões definirem timelines; SLA pessoal como alavancagem organizacional
 - [[CEO como Catalisador de Adoção de IA]] — preditor #1 de adoção de IA = CEO usa diariamente; lead from front; weekly stats + ritual de compartilhamento; encontre e amplifique os 10% early adopters
+- [[Transparência Radical como Vantagem Competitiva]] — todos os cérebros no desafio; daily numbers update; dashboards de escritório; parceria profunda > protecionismo gerencial
+- [[Meta Ambiciosa como Reinicializador]] — meta impossível no caminho atual = reinicializador cognitivo; velocidade real (trabalhar diferente) vs. falsa (trabalhar mais); competidores como presente
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

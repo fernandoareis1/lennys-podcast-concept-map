@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Liderança & Times
-autores: [Alisa Cohn]
+autores: [Alisa Cohn, Anneka Gupta]
 ---
 # Feedback baseado em fatos observáveis
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Colaboração & comunicação]] · **Camada:** L3
@@ -25,6 +25,13 @@ Feedback difícil falha quando soa como julgamento pessoal. A técnica dos fatos
 - "Sempre pergunto ao meu cliente: qual é minha evidência de que isso está acontecendo? Você tem que gastar tempo pensando nisso, mas vale muito a pena porque torna o feedback mais fácil de dar e mais fácil de receber."
 - "Às vezes as coisas que você precisa dar feedback são um pouco vagas — e essas são mais difíceis. Mas tantas coisas, se você fizer o trabalho de pensar em quais são os dados observáveis, ficam mais simples."
 > 🎧 [Scripts for navigating difficult conversations (1:23:43)](https://www.youtube.com/watch?v=bvF0ZM8DjuI)
+
+### [[Anneka Gupta]]
+- Declare o cuidado explicitamente antes de qualquer crítica: "Me importo muito com você e estou dando esse feedback porque quero que você tenha sucesso e chegue ao seu potencial máximo."
+- Use o enquadramento de **percepção**: "É assim que você está sendo percebido" em vez de "você é X". Isso abre espaço para a pessoa discutir a percepção, não defender sua identidade.
+- Colabore na solução: não apenas entregue o feedback e vá embora — pergunte, explore junto, ofereça exemplos pessoais de como você enfrentou situações similares.
+- Prepare antes: pense em como o feedback vai ressoar com essa pessoa específica, em função do que ela quer da carreira.
+> 🎧 [Becoming more strategic, navigating difficult colleagues, founder mode, more (1:08:37)](https://www.youtube.com/watch?v=E3dUveqt9Bw)
 
 ## Conceitos relacionados
 [[Scripts para conversas difíceis]] · [[Mindset do líder — crescer, não agradar]] · [[Liderança — Colaboração & comunicação]]

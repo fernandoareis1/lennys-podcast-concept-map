@@ -15,6 +15,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Clareza vence consenso]] — o que o time mais quer é clareza
 - [[Growth CMO]] — líder de marketing com mentalidade product-agile
 - [[Mindset do líder — crescer, não agradar]] — o papel do líder é crescimento, não aprovação
+- [[Gestão de energia pessoal]] — gerencie energia (não só tempo): agende trabalho profundo no seu pico e proteja o básico
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

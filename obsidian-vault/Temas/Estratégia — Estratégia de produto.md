@@ -20,6 +20,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Código como Linguagem Universal dos Agentes]] — a melhor forma de agentes usarem computadores é escrever código; todo agente é no fundo um coding agent
 - [[Hill Climb — ótimo local vs global]] — descer da colina local para alcançar a montanha global
 - [[Democratização do software via IA]] — plataforma end-to-end que torna qualquer pessoa em developer
+- [[Ser estratégico = articular o porquê + agir]] — ser estratégico requer articular o "por quê" E ser agente de mudança
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

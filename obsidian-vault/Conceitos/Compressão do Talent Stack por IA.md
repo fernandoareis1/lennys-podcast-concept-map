@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Liderança & Times
-autores: [Alexander Embiricos]
+autores: [Alexander Embiricos, Anton Osika]
 ---
 # Compressão do Talent Stack por IA
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
@@ -28,5 +28,12 @@ autores: [Alexander Embiricos]
 
 > 🎧 [Building Codex: OpenAI's coding agent (1:16:34)](https://www.youtube.com/watch?v=xZifSLGOrrw)
 
+### [[Anton Osika]]
+- "Ser generalista é muito mais importante do que costumava ser. Se eu estou montando um time de produto hoje, me re-obcecaria em conseguir o máximo de habilidades possíveis de cada pessoa que contratar: como arquitetar um sistema, design, product taste, como falar com usuários — idealmente todos sabem um pouco de tudo."
+- Engenheiros não devem se ver como "apenas frontend" ou "apenas meu tech stack" — devem se ver como tradutores de problemas humanos em soluções técnicas, abstraindo alguns níveis acima.
+- Na Lovable (18 pessoas), 12 escrevem código ao menos part-time, mas todos criam conteúdo, falam com usuários, e pensam no produto como um todo — a divisão de papéis é fluida por design.
+- Habilidade cognitiva bruta + mindset de startup (mover rápido, pensar no negócio como um todo) são os atributos que mais correlacionam com sucesso no time.
+> 🎧 [Building Lovable: $10M ARR in 60 days with 15 people (1:09:48)](https://www.youtube.com/watch?v=DZtGxNs9AVg) · 2025-03-09
+
 ## Conceitos relacionados
-[[Proatividade como Destino dos Agentes]] · [[Times cross-funcionais com especialistas de domínio]] · [[PM responsável por valor e viabilidade]] · [[Liderança — Modelos de time]]
+[[Proatividade como Destino dos Agentes]] · [[Times cross-funcionais com especialistas de domínio]] · [[PM responsável por valor e viabilidade]] · [[Liderança — Modelos de time]] · [[Democratização do software via IA]]

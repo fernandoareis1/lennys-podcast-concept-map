@@ -21,6 +21,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Hill Climb — ótimo local vs global]] — descer da colina local para alcançar a montanha global
 - [[Democratização do software via IA]] — plataforma end-to-end que torna qualquer pessoa em developer
 - [[Ser estratégico = articular o porquê + agir]] — ser estratégico requer articular o "por quê" E ser agente de mudança
+- [[Produto lovável (MLP)]] — o objetivo não é MVP mas MLP: produto que usuários amam o suficiente para compartilhar espontaneamente
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

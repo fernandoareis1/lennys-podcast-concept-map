@@ -14,6 +14,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Ciclo das novas plataformas de distribuição]] — o jogo de 4 passos (próxima: ChatGPT)
 - [[Marketing como educação]] — laser, lustre e ensinar o mercado
 - [[Framework de canais emergentes]] — 3 ingredientes para decidir quando investir em canal novo
+- [[Construir em público]] — compartilhar o que você shipar nas redes sociais como estratégia primária de distribuição orgânica
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

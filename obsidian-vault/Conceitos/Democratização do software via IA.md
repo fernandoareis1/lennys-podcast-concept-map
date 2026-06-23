@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Amjad Masad]
+autores: [Amjad Masad, Anton Osika]
 ---
 # Democratização do software via IA
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -26,5 +26,12 @@ Fazer software sempre foi difícil porque era fragmentado: IDE, runtime, package
 - "Um PM de uma empresa pública usou o Replit para construir v1 de um app, testou com usuários, e então disse para engenharia 'construímos isso, funciona, vamos colocar no roadmap.'"
 > 🎧 [Behind the product: Replit (1:04:09)](https://www.youtube.com/watch?v=Bp_h674oIhw)
 
+### [[Anton Osika]]
+- Visão da Lovable: "estamos construindo a última peça de software" — quando for instantâneo ir da intenção a um produto completamente funcional integrado a qualquer sistema existente, o ato de criar software estará democratizado.
+- "Vai haver uma explosão cambriana de empreendedorismo e produtos de software melhores. Não vamos mais aceitar toda aquela tecnologia ruim e irritante que usamos hoje."
+- Argumento causal: muitos empreendedores falharam por não ter "alguém que sabe resolver as partes técnicas." Quando a Lovable remove esse bloqueio, qualquer pessoa com uma ideia pode construir e mostrar o que acredita que deveria existir.
+- Ao contrário de tornar engenheiros 20% mais produtivos: o objetivo é tornar *qualquer pessoa* um builder.
+> 🎧 [Building Lovable: $10M ARR in 60 days with 15 people (1:09:48)](https://www.youtube.com/watch?v=DZtGxNs9AVg) · 2025-03-09
+
 ## Conceitos relacionados
-[[PM como builder — prototipagem sem engenharia]] · [[Paradoxo de Jevons no software]] · [[Compressão do Talent Stack por IA]] · [[Código como Linguagem Universal dos Agentes]]
+[[PM como builder — prototipagem sem engenharia]] · [[Paradoxo de Jevons no software]] · [[Compressão do Talent Stack por IA]] · [[Código como Linguagem Universal dos Agentes]] · [[Produto lovável (MLP)]]

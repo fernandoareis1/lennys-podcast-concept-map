@@ -22,6 +22,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Os 3 Pilares do Criador de Sucesso]] — consistência + colaboração entre criadores + curadores como amplificadores
 - [[Content Market Fit]] — aborde conteúdo como produto: identifique o job do leitor, crie painkillers não vitaminas, invista em qualidade
 - [[Ser o Favorito de Alguém]] — não tente ser o "ok" de todos; seja o favorito de alguém; 1000 True Fans cria defensores que distribuem e retêm por você
+- [[Damming the Demand]] — compita categoria-a-categoria, não produto-a-produto; o inimigo é o status quo; "você achava que queria isso, mas o que precisa é aquilo"
+- [[Lightning Strikes vs. Peanut Butter]] — concentre impacto em 1-3 momentos no ano ao invés de espalhar budget; prefira importar uma semana a ser irrelevante o ano todo; WOM é o resultado
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

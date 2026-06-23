@@ -25,6 +25,8 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Personalidade de marca — X mas não Y]] — spike em 2 das 5 dimensões de Aaker; 5 atributos com tensão para guiar copy e design
 - [[Diferente E melhor E relevante]] — diferente + melhor + importa para o usuário + domínio com escala; cada condição elimina uma armadilha comum
 - [[Criação de categoria — as três condições]] — budget existe? clientes usam a linguagem? você é genuinamente diferente? se não, eleve a categoria existente em vez de criar uma nova
+- [[A Armadilha do "Melhor"]] — competir melhor em categoria existente; 76% do valor vai para o líder; PMF é uma ideia perigosa se entendido como "encaixar produto no mercado"
+- [[Frame, Name, Claim]] — processo tático do category design: reencadrar o problema, criar linguagem nova (languaging), plantar a bandeira da nova categoria
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

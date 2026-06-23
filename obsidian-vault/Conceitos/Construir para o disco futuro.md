@@ -1,0 +1,36 @@
+---
+tipo: mindset
+nivel: 3
+fluxo: Estratégia & Visão
+autores: [Benjamin Mann]
+---
+# Construir para o disco futuro
+**Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
+**Tipo:** Mindset · **Fontes:** [[Benjamin Mann]]
+
+## Ideia central
+Em era de progresso exponencial em IA, times de produto cometem o erro de construir para as capacidades **atuais** do modelo. O mindset correto é "skate to where the puck is going": **construa para as capacidades de 6 a 12 meses no futuro**.
+
+A heurística: se algo está funcionando 20% das vezes hoje, vai estar funcionando 100% das vezes em 6 meses. Tomar essa curva a sério muda radicalmente as apostas de interface, arquitetura e priorização de roadmap.
+
+**Exemplo do Claude Code**: a equipe apostou no terminal como interface primária para agentes de engenharia. À época, parecia limitado. A lógica: terminal é location-agnostic (roda local, em GitHub Actions, em cluster remoto) — e quando os agentes ficarem suficientemente bons, isso importa muito. A interface certa para 2026 foi escolhida em 2024.
+
+O antídoto ao erro: internalize a curva exponencial concretamente — não como fato abstrato, mas como premissa de design. Para cada feature, pergunte: "Estou construindo para o modelo de hoje ou para o modelo que existirá quando esta feature tiver tração?"
+
+## Como aplicar
+1. **Mapeie as capacidades em desenvolvimento** com horizonte de 6-12 meses, não apenas capacidades atuais. Use benchmarks como proxy.
+2. **Identifique o que hoje funciona 20%** e projete que estará em 100% em breve. Esses são os candidatos para apostar agora.
+3. **Escolha interfaces que escalam com a inteligência do agente**, não com a conveniência de hoje. Terminal > chat > autocomplete em termos de grau de liberdade quando agentes ficarem mais fortes.
+4. **Resistir à tentação de polir para as limitações atuais**: não simplifique a UX para compensar o que o modelo ainda não faz bem — o modelo vai melhorar; a arquitetura vai ficar presa.
+5. **Recalibrar o roadmap a cada ciclo**: com lançamentos mensais de modelos, o horizonte de "onde o disco está indo" se encurtou; recalibrar com mais frequência.
+
+## Insights por autor
+### [[Benjamin Mann]]
+- "Skating to where the puck is going: não construa para hoje, construa para 6 meses a frente, um ano à frente."
+- "As coisas que funcionam 20% das vezes vão começar a funcionar 100% das vezes. E acho que foi isso que fez o Claude Code ser um sucesso."
+- "As pessoas não vão ficar presas em IDEs para sempre. Vão fazer tudo que um engenheiro de software precisa fazer, e o terminal é o lugar certo porque pode ficar em muitos lugares."
+- "São AGI-pilled o suficiente? É a pergunta que eu sempre faço para o time."
+> 🎧 Episódio com Benjamin Mann, co-founder da Anthropic (frontmatter do transcript com erro — URL não disponível)
+
+## Conceitos relacionados
+[[Teste de Turing Econômico]] · [[Dois de três pontos de inflexão]] · [[Hill Climb — ótimo local vs global]]

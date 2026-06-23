@@ -29,6 +29,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Build and buy]] — compre a ferramenta para 90% do problema; construa em cima para os 10% diferenciados; elimina o debate binary build vs. buy
 - [[Software opinionado]] — embutir melhores práticas no produto força comportamento correto; dois modelos: codificar prática emergente vs. ensinar forma melhor
 - [[Filtros que fragmentam supply]] — filtros de exclusão destroem liquidez invisível; converter em ranqueamento preserva preferência sem comprometer supply disponível
+- [[Teste de Turing Econômico]] — AGI = agente passa por humano em 50% dos empregos ponderados por dinheiro; métrica concreta para calibrar roadmap de produto de IA
+- [[IA Constitucional]] — princípios em linguagem natural + auto-crítica do modelo = alinhamento escalável; personalidade e segurança são o mesmo trabalho
+- [[Construir para o disco futuro]] — construa para capacidades de 6-12 meses no futuro; o que funciona 20% hoje estará em 100% em breve
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

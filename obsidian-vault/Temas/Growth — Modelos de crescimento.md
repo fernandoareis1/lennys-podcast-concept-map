@@ -20,6 +20,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Teoria do Usuário Adjacente]] — usuários futuros têm perfil diferente dos atuais; antecipe-os antes que as curvas de cohort caiam; obrigatório em hipercrescimento
 - [[Profundidade antes de amplitude]] — um único persona + contexto + caso de uso antes de expandir; nicho estreito o suficiente para dominar, amplo o suficiente para viabilidade
 - [[Loop produto-conteúdo]] — produto gera conteúdo branded no ambiente natural do usuário-alvo (GitHub, Google) → novas aquisições automáticas; company-generated, company-distributed
+- [[Liquidez do marketplace]] — fill rate da demanda intencional é o output; market health metric (ex: ETA threshold) é o preditor acionável; liquidez é o multiplicador de todo crescimento
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

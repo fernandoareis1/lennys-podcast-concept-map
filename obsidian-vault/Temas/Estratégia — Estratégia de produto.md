@@ -28,6 +28,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[O loop e não o lane]] — o diferencial competitivo é a eficiência do loop inteiro (dados → rewards → fine-tune → observabilidade), não a expertise de uma função isolada
 - [[Build and buy]] — compre a ferramenta para 90% do problema; construa em cima para os 10% diferenciados; elimina o debate binary build vs. buy
 - [[Software opinionado]] — embutir melhores práticas no produto força comportamento correto; dois modelos: codificar prática emergente vs. ensinar forma melhor
+- [[Filtros que fragmentam supply]] — filtros de exclusão destroem liquidez invisível; converter em ranqueamento preserva preferência sem comprometer supply disponível
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

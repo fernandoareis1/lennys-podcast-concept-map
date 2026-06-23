@@ -16,6 +16,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Framework de canais emergentes]] — 3 ingredientes para decidir quando investir em canal novo
 - [[Construir em público]] — compartilhar o que você shipar nas redes sociais como estratégia primária de distribuição orgânica
 - [[Atribuição a prova do futuro]] — colete first/last UTM + IDs de redes no perfil do usuário E nos eventos desde o dia 1; pós-iOS 14, o matching determinístico acabou
+- [[Crescimento via comunidade de supply]] — use o melhor supply atual como mentores/recrutadores para onboardar novo supply; prova social peer-to-peer supera qualquer equipe de vendas
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

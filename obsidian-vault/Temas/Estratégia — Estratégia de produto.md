@@ -22,6 +22,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Democratização do software via IA]] — plataforma end-to-end que torna qualquer pessoa em developer
 - [[Ser estratégico = articular o porquê + agir]] — ser estratégico requer articular o "por quê" E ser agente de mudança
 - [[Produto lovável (MLP)]] — o objetivo não é MVP mas MLP: produto que usuários amam o suficiente para compartilhar espontaneamente
+- [[Dois de três pontos de inflexão]] — por que agora? Pelo menos 2 de 3 devem ser verdade: inflexão tech, mudança de comportamento, inflexão de modelo de negócio
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

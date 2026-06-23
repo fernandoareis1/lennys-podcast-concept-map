@@ -14,3 +14,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[ICE (priorização)]] — Impact × Confidence × Ease
 - [[Pre-mortem]] — imaginar o fracasso antes de começar
 - [[Narrativa como filtro de priorização]] — o "objeto do novo jogo" como régua para decidir quais features construir
+- [[Horizons de investimento]] — alocar % de recursos entre H1/H2/H3 e ajustar o split conforme o produto amadurece

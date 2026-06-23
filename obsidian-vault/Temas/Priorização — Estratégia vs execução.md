@@ -16,3 +16,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Framework 4BB]] — alocar foco entre Brilliant Basics / Bread & Butter / Big Bets / Breaking Bad
 - [[Três PR FAQs divergentes]] — escrever três press releases divergentes antes de comprometer com uma direção
 - [[Planejamento por estações]] — estações definidas por mudanças seculares (não calendário); OKRs trimestrais soltos + metas de squad de 4-6 semanas; deixe slack para a slope
+- [[PR-FAQ — Trabalhar ao Contrário]] — escreva o press release (cliente + problema + solução) antes de qualquer linha de código; funil de ideias, não túnel

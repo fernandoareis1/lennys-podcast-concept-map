@@ -48,3 +48,4 @@ ben-horowitz
 ben-williams
 benjamin-lauzier
 benjamin-mann
+bill-carr

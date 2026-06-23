@@ -23,3 +23,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Você escolhe, eles escolhem a hora]] — você mapeia quem quer; elas decidem quando se mover; invista no sucesso delas antes da vaga existir
 - [[Árvore de Coaching]] — legado do líder = quem desenvolveu; PM é técnico, não CEO; use Bloom's Taxonomy para atacar o gap certo em cada pessoa
 - [[Investir em força, não em ausência de fraqueza]] — julgue pelo que a pessoa faz bem, não pelo pior momento; construa suporte ao redor da fraqueza conhecida
+- [[Single-Threaded Leader]] — um dono + time cross-funcional dedicado; de orientação de projeto para programa; accountability clara sem disputas de recursos

@@ -13,6 +13,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[OKRs (Christina Wodtke)]] — foco e cadência trimestral · **⬇ tem aprofundamento**
 - [[Outcomes vs Outputs]] — o eixo da mudança que dá liberdade ao time
 - [[Tudo no backlog é uma aposta]] — discovery melhora a aposta, não elimina o risco
+- [[Métricas de input vs. output]] — foque em inputs controláveis (seleção, preço, velocidade); outputs (receita) seguem automaticamente; gestão por output gera fire drills inúteis
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

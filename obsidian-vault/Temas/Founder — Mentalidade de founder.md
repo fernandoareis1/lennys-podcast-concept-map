@@ -14,6 +14,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Pain is the New Moat]] — conhecimento acumulado pela dor de iterar é o moat incopiável em campos novos
 - [[Negócio vs emprego — a diferença é escala]] — empresa que não escala é emprego disfarçado
 - [[Achievement addiction — autoestima ligada à conquista]] — quando vencer vira mecanismo de defesa emocional
+- [[M&A como Processo de Fundraise]] — aquisição bem-sucedida é gerenciada ativamente; construa relações com compradores antes de precisar delas
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

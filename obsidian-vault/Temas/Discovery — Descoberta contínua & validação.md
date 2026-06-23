@@ -18,6 +18,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Solve before Scale]] — dois modos de produto (solve vs. scale) exigem posturas radicalmente diferentes; métricas "adultas" são precisão falsa em zero-a-um
 - [[Understand Work (UIE)]] — Understand → Identify → Execute; affordance explícita no roadmap para de-riscar execução; trabalho paralelo que dobra win rate ao longo dos sprints
 - [[Preferências declaradas vs. reveladas]] — o que usuários dizem ≠ o que fazem; News Feed dobrou o uso enquanto todos reclamavam; distinção entre coisa errada vs. detalhes errados
+- [[De-riscar os Maiores Bets Primeiro]] — em dual-track agile, priorize discovery das apostas mais arriscadas, não das mais seguras
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

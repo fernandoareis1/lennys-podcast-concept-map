@@ -19,6 +19,10 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Movimento vs. Categoria]] — construir um movimento é mais poderoso que encontrar um nome de categoria
 - [[Pitch com posicionamento]] — framework setup + follow-through para traduzir posicionamento em pitch de vendas
 - [[Armar o champion no deal B2B]] — conquiste o champion e arme-o para lidar com todos os outros stakeholders
+- [[Framework 3P de marca]] — Propósito (por que existir) + Posicionamento (espaço na mente) + Personalidade (como aparecer); base para copy, design e decisões
+- [[Naming — espectro e critérios]] — descritivo → sugestivo → evocativo → vaso vazio; 7 critérios universais; bom nome ajuda, mas nome ruim não mata boa empresa
+- [[Bar Test]] — diga o benefício em voz alta como usuário real: se soou natural num bar, está certo; filtra jargão corporativo
+- [[Personalidade de marca — X mas não Y]] — spike em 2 das 5 dimensões de Aaker; 5 atributos com tensão para guiar copy e design
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

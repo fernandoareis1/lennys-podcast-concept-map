@@ -15,3 +15,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Roadmap como momentos de struggle]] — roadmap resiliente, por problema e não por feature
 - [[Framework 4BB]] — alocar foco entre Brilliant Basics / Bread & Butter / Big Bets / Breaking Bad
 - [[Três PR FAQs divergentes]] — escrever três press releases divergentes antes de comprometer com uma direção
+- [[Planejamento por estações]] — estações definidas por mudanças seculares (não calendário); OKRs trimestrais soltos + metas de squad de 4-6 semanas; deixe slack para a slope

@@ -23,6 +23,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Ser estratégico = articular o porquê + agir]] — ser estratégico requer articular o "por quê" E ser agente de mudança
 - [[Produto lovável (MLP)]] — o objetivo não é MVP mas MLP: produto que usuários amam o suficiente para compartilhar espontaneamente
 - [[Dois de três pontos de inflexão]] — por que agora? Pelo menos 2 de 3 devem ser verdade: inflexão tech, mudança de comportamento, inflexão de modelo de negócio
+- [[Produto como organismo]] — produtos de IA são organismos vivos que melhoram com interações; IP é o loop de aprendizado, não as features
+- [[Pós-treinamento como nova fronteira]] — acima de 30B parâmetros, fine-tuning/RL em dados proprietários cria mais moat que pré-treinamento do zero
+- [[O loop e não o lane]] — o diferencial competitivo é a eficiência do loop inteiro (dados → rewards → fine-tune → observabilidade), não a expertise de uma função isolada
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

@@ -31,6 +31,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Demanda como Moeda do Marketplace]] — supply segue demanda; agregar demanda da indústria = vencer; share of wallet = profundidade > amplitude
 - [[Três Tipos de Efeito de Rede]] — direto, cross-side e de dados; redes sociais precisam evoluir para os dois últimos para monetizar
 - [[Disruption por Expansão de Supply]] — disruptor com modelo operacional diferente expande supply dramaticamente; reação racional é overreaction ou aquisição
+- [[Combustível e Motor do Marketing]] — marketing = combustível (o que você cria) + motor (como distribui); diagnostique qual é o gargalo antes de contratar
+- [[Métricas de Impacto vs. Atividade no Marketing]] — "10 blog posts este mês" é atividade, não meta; times de alto desempenho têm core work + big bets + fundações quebradas + conversão em todo o funil
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

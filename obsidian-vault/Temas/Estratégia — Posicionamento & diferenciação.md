@@ -24,6 +24,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Bar Test]] — diga o benefício em voz alta como usuário real: se soou natural num bar, está certo; filtra jargão corporativo
 - [[Personalidade de marca — X mas não Y]] — spike em 2 das 5 dimensões de Aaker; 5 atributos com tensão para guiar copy e design
 - [[Diferente E melhor E relevante]] — diferente + melhor + importa para o usuário + domínio com escala; cada condição elimina uma armadilha comum
+- [[Criação de categoria — as três condições]] — budget existe? clientes usam a linguagem? você é genuinamente diferente? se não, eleve a categoria existente em vez de criar uma nova
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

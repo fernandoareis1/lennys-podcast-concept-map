@@ -22,3 +22,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Fundadores como funcionários]] — ~15% de ex-fundadores no time: cortam bullshit, operam sem playbook; custo = attrition em ~2 anos
 - [[Você escolhe, eles escolhem a hora]] — você mapeia quem quer; elas decidem quando se mover; invista no sucesso delas antes da vaga existir
 - [[Árvore de Coaching]] — legado do líder = quem desenvolveu; PM é técnico, não CEO; use Bloom's Taxonomy para atacar o gap certo em cada pessoa
+- [[Investir em força, não em ausência de fraqueza]] — julgue pelo que a pessoa faz bem, não pelo pior momento; construa suporte ao redor da fraqueza conhecida

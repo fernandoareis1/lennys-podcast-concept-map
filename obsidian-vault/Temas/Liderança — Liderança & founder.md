@@ -18,6 +18,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Gestão de energia pessoal]] — gerencie energia (não só tempo): agende trabalho profundo no seu pico e proteja o básico
 - [[Can't, Won't, Not Set Up]] — três causas para quando algo não acontece; 70-80% dos casos são falha de setup do líder
 - [[Não pare antes do fim]] — respostas de especialistas são ponto de partida, não verdade final; alguém precisa chegar ao fundo do buraco
+- [[Correr em direção ao medo]] — hesitação é o pior erro de liderança; o músculo é olhar para opções ruins e escolher a menos ruim sem paralisar
+- [[Alavancagem Gerencial]] — o CEO tem alavancagem quando o time traz as ideias a ele; se é o CEO quem sempre empurra, algo precisa mudar
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

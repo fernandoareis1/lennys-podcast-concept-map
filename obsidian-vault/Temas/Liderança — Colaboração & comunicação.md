@@ -28,3 +28,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Readiness vs. Transparência no lançamento]] — saber que algo vem ≠ saber o que fazer com isso; readiness tem 3 camadas: proposta de valor, impacto funcional, ação por função
 - [[Explorer não Lecturer — Coaching Baseado em Hipóteses]] — gerenciar é explorar junto, não transferir respostas; coaching baseado em hipóteses; coluna da esquerda de Fred Kaufman
 - [[Flashtags — Escala de Influência sem Mandatos]] — hashtags com grau de convicção (#fyi → #suggestion → #recommendation → #plea); escala influência de fundador sem mandatos formais
+- [[Loved vs Liked — Liderança por Amor]] — amor = estender-se pelo crescimento espiritual de outra pessoa; conversas difíceis são atos de amor, não de gentileza superficial

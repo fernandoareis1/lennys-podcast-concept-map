@@ -41,3 +41,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Engenharia Composta — Cada Unidade Facilita a Próxima]] — cada PR/PRD/automação deve baratear o próximo; Head de AI Operations como função dedicada; biblioteca de prompts como ativo coletivo
 - [[Product Owner como Local CEO]] — product owners da Revolut têm ownership genuíno end-to-end + poder de hiring/firing; estrutura ultra-flat com 150+ local CEOs
 - [[Raw Intellect e Fome sobre Experiência]] — Revolut prioriza inteligência bruta e fome sobre experiência; transferências internas (engenheiros, ops) se tornam os PMs mais bem-sucedidos
+- [[PM como Clareza e Convicção]] — o trabalho central do PM é gerar clareza (eliminar ambiguidade) e manter convicção (sustentar direção sob pressão)

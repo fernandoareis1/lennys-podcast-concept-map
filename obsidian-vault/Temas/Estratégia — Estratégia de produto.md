@@ -49,6 +49,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[RAG — Qualidade de Dados como Diferencial]] — preparação de dados impacta RAG muito mais que a escolha do banco vetorial; chunking, metadata e rewrite para AI
 - [[Entropia Organizacional — Segunda Lei]] — empresas são sistemas fechados; complexidade cresce naturalmente; a luta pela simplicidade nunca termina
 - [[High-Conviction, Low-Consensus Bets — Zig vs Zag]] — as melhores apostas estão onde você acredita forte e o consenso discorda; limite o número mas garanta que existem
+- [[Inteligência Espacial — A Fronteira Além da Linguagem]] — world models como próxima fronteira da IA além da linguagem; spatial intelligence complementar às LLMs
+- [[IA Humanista — Agência Humana sobre o Futuro Tecnológico]] — IA é dupla utilidade; o que fazemos com ela depende de escolhas humanas, não determinismo tecnológico
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

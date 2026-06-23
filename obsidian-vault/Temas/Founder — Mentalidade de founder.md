@@ -22,6 +22,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Resiliência como Diferenciador de Carreira]] — os mais bem-sucedidos transformam obstáculos em trampolins; adversidade calibrada é insumo de crescimento
 - [[Zero-a-um Dentro de Grande Empresa]] — taxa de acerto de 50%; timing certo é após 2-3 anos de craft sólido; big swings são as histórias de carreira que importam
 - [[Kriptonita como Vantagem Oculta]] — o que você acha que te enfraquece quase sempre serve uma função; pergunta-chave: "como isso me serve?"; síndrome do impostor como growth edge
+- [[Curiosidade como Bússola de Carreira]] — norte científico baseado em paixão, não otimização de carreira; intellectual fearlessness como qualidade-chave de contratação
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

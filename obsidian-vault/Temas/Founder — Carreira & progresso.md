@@ -29,6 +29,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Checklist de Avaliação de Empresa]] — 10 critérios (Rule of 40, NDR, NPS, qualidade dos investidores…) para avaliar momentum de empresa antes de entrar ou aceitar como cliente
 - [[Midlife como Crisálida]] — meia-idade como fase de metamorfose (não crise); curva U da felicidade: mínimo aos 47-50, crescente daí em diante; sabedoria = experiência metabolizada
 - [[Impacto sobre promoção]] — focar em impacto na empresa supera focar em agradar o chefe; promoção é consequência, não objetivo
+- [[Ops que se automatiza para subir]] — em product ops (e em qualquer função especialista), construa sistemas, entregue para frente ou automatize, suba para o próximo nível estratégico
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

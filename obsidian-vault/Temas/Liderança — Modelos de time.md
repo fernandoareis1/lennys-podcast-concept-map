@@ -33,3 +33,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Inteligência Fluida vs. Cristalizada — Colaboração Intergeracional]] — jovens: velocidade e foco; seniores: conexão de pontos e visão periférica; combinação brillante quando há respeito mútuo
 - [[IA amplifica os Melhores]] — engenheiros de maior performance ganham mais produtividade com AI; pensamento sistêmico é a habilidade que não será substituída
 - [[Coaching como trabalho diário do líder]] — fazer produto é o trabalho do PM; tornar o PM melhor é o trabalho do manager; crie arenas de prática e promova antes de promover
+- [[Product Ops — Parceiro do PM]] — product ops tem dois significados: sistema que você cria E pessoa que libera o PM para focar no cliente; o PM nunca cede: tempo com o cliente

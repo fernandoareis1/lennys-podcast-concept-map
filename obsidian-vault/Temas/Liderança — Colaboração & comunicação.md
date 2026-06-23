@@ -25,3 +25,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Indagação Habilidosa]] — perguntas abertas (o quê/como/quando/onde), não por quê; suspend julgamento; inquiry antes de advice
 - [[Intenção declarada ao defender ideias]] — antes de empurrar uma ideia radical, declare explicitamente sua intenção; desacopla a ideia do interesse pessoal percebido
 - [[Confiança via Ensino Delegado]] — acelere confiança tornando a pessoa mais influente seu tutor; transfere credibilidade, cria accountability mútua e abre rede de contatos
+- [[Readiness vs. Transparência no lançamento]] — saber que algo vem ≠ saber o que fazer com isso; readiness tem 3 camadas: proposta de valor, impacto funcional, ação por função

@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Liderança & Times
-autores: [Ami Vora]
+autores: [Ami Vora, Boz]
 ---
 # Curiosidade radical — antídoto ao ego
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Colaboração & comunicação]] · **Camada:** L3
@@ -27,5 +27,12 @@ A reação natural ao desacordo é defensiva: "estou certo, o outro está errado
 - "Toda discordância é fascinante: conseguimos sentar na mesma reunião, ver os mesmos dados, e sair com narrativas totalmente diferentes. Isso, por si só, já é fascinante."
 > 🎧 [Making an impact through authenticity and curiosity (1:23:59)](https://www.youtube.com/watch?v=6UHAop9fhNU)
 
+### [[Boz]]
+- "Eu observei aquilo e foi como ver um alienígena — ela e eu éramos tão diferentes na abordagem."
+- "Ela poderia ter o desacordo mais profundo do mundo com alguém e responderia: 'Fascinante. Você tem que me contar mais sobre por que pensa isso.' E ela queria dizer isso do fundo do ser."
+- "Quando sinto aquela contração interna, agora tento abraçar a curiosidade: 'Uau, nós não vemos isso da mesma forma. Isso é fascinante. Me conta por que você vê assim.' Isso mudou completamente minha vida."
+- Sobre **ameaça de identidade**: "Seu pior comportamento sempre vem à tona quando você acha que está sob ameaça de identidade. Quando alguma parte central de como você se vê está em questão, você vai reagir com cada fibra do seu ser para defender essa concepção de si mesmo."
+> 🎧 [Making Meta | Andrew 'Boz' Bosworth (1:42:21)](https://www.youtube.com/watch?v=_XqDB2Upr3s) · 2024-03-03
+
 ## Conceitos relacionados
-[[Dinosaur Brain — recomendação clara para executivos]] · [[Colaboração vs silos funcionais]] · [[Mindset do líder — crescer, não agradar]]
+[[Dinosaur Brain — recomendação clara para executivos]] · [[Colaboração vs silos funcionais]] · [[Mindset do líder — crescer, não agradar]] · [[Comunicação é o trabalho]]

@@ -62,3 +62,4 @@ camille-ricketts
 carilu-dietrich
 carole-robin
 chandra-janakiraman
+chip-conley

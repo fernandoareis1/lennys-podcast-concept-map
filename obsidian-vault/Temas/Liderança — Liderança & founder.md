@@ -24,6 +24,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Gestão como Serviço — não Comando]] — gerenciar em tech é servir o time; nudge e guardrails, não ordens
 - [[Trabalho Focado vs. Overwork]] — overwork é fuga de priorizar; audite tempo, delegue, produza valor por hora
 - [[Raiva como Emoção Secundária]] — raiva é emoção de distanciamento; embaixo há medo ou mágoa; liderar com emoções conectoras une equipes
+- [[Peak Model — Pirâmide de Necessidades]] — Maslow aplicado: colaboradores (compensação → reconhecimento → significado); clientes (expectativas → desejos → necessidades não-reconhecidas)
+- [[Cultura como Add, não como Fit]] — "culture fit" é excludente; "culture add" reconhece que diversidade enriquece; cultura = o que acontece quando o chefe não está
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

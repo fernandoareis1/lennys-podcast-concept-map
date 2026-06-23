@@ -37,6 +37,8 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Economia de Alocação]] — do conhecimento à alocação: vision, gosto e talent evaluation sobem de valor; todos se tornam gestores de agentes; generalistas ressurgem
 - [[PM sua Carreira como um Produto]] — escreva um spec para sua carreira: milestones, skills, success metrics; use como régua de decisão serial
 - [[Visibilidade sem Autopromoção]] — reframe: não é autopromoção, é educar seu manager sobre o trabalho do time para conseguir mais recursos
+- [[Superpoderes Extraídos de Histórias]] — descubra superpoderes pela sobreposição de histórias de pico do passado/presente; mais eficaz que testes como StrengthsFinder
+- [[Self-Narrative como Hipótese Testável]] — histórias que você conta sobre si mesmo são hipóteses; teste-as com dados e entrevistas com colegas (user research aplicada a si)
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

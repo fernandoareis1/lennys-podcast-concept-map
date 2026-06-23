@@ -24,3 +24,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[As Três Realidades e o Net]] — 3 realidades em qualquer troca; só fale do que você conhece; comportamento + sentimento, não atribuição
 - [[Indagação Habilidosa]] — perguntas abertas (o quê/como/quando/onde), não por quê; suspend julgamento; inquiry antes de advice
 - [[Intenção declarada ao defender ideias]] — antes de empurrar uma ideia radical, declare explicitamente sua intenção; desacopla a ideia do interesse pessoal percebido
+- [[Confiança via Ensino Delegado]] — acelere confiança tornando a pessoa mais influente seu tutor; transfere credibilidade, cria accountability mútua e abre rede de contatos

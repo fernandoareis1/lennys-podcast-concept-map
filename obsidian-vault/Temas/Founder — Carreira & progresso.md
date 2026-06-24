@@ -43,6 +43,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Loop de Aprendizado PM — Execute, Generalize, Comunique, Escale]] — 4 etapas do ciclo de aceleração de carreira de PM; sem generalização e comunicação, execução não vira oportunidade
 - [[Escolher o Caminho Difícil — Ganhar Mesmo Perdendo]] — lógica assimétrica: caminho fácil que falha = perdeu tudo; caminho difícil que falha = ainda aprendeu e cresceu
 - [[Newsletter como SaaS — Receita Recorrente de Conteúdo]] — newsletter paga tem dinâmica SaaS: MRR composto, cada artigo bom = aumento, sem teto teórico; pré-requisitos: audiência + runway + pipeline de ideias
+- [[A-Side e B-Side da Carreira — Mostrar o Lado Difícil]] — carreiras têm highlights (A-side) e bastidores caóticos (B-side); mostrar B-sides normaliza o processo real e mantém as pessoas na corrida
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

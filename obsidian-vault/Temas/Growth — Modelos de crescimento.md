@@ -40,6 +40,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Moat em Dados Humanos — Acesso à Audiência]] — único moat em dados para IA é acesso a audiência; CAC zero vs. concorrentes com 200 recrutadores + M$ em performance ads; LTV = retenção × projetos
 - [[Beachhead + Bowling Pin — Cruzar o Abismo]] — para cruzar o chasm: beachhead estreito (mesma geo/indústria/profissão/use case) → 3–4 referências → expansão adjacente como pinos de boliche
 - [[Vender para Visionaries vs. Pragmatistas]] — "acreditamos no que você acredita" vs. "precisamos do que você tem"; playbooks opostos; usar o errado no momento errado garante fracasso
+- [[Comunicação como Sentimento — Voz Irreverente de Marca]] — comunicação é fazer o receptor sentir algo; voz única (inesperada, engraçada, irreverente) é a base de word-of-mouth orgânico e brand durável
+- [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] — paid é dependência; sem LTV, CAC não tem sentido; low-hanging fruit seca com escala; orgânico (AB, brand, PR, retenção) é o único modelo que não esconde problemas do produto
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

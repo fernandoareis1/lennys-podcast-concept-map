@@ -20,5 +20,12 @@ Redesign de homepage / rebrand **nunca** entrega o crescimento prometido. No mel
 
 > 🎧 [Elena Verna (19:00–21:30)](https://www.youtube.com/watch?v=IHwS2By9UKM)
 
+### [[Elena Verna]] (episódio 3)
+- "Nunca, nem uma vez, vi rebrand/redesign de homepage produzir bons resultados de performance. O melhor cenário: resultado neutro e um ponto de partida melhor para otimizar."
+- Válido fazer rebrand só como **stepping stone** consciente (novo mercado, nova categoria) — mas nunca esperando lift no lançamento.
+- Produto redesign: mudar cor de logo/UI gasta montanhas de eng sem resultado mensurável.
+
+> 🎧 [Elena Verna 3.0 — 10 growth tactics that never work (1:35:10)](https://www.youtube.com/watch?v=IHwS2By9UKM)
+
 ## Conceitos relacionados
 [[Growth como sistema, não time]] · [[Reduzir fricção em vez de adicionar features]]

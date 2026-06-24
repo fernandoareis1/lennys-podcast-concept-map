@@ -11,3 +11,4 @@ O que **parece** growth e suga recursos sem entregar. (Este tema cresce a cada a
 
 ## Conceitos (L3)
 - [[Rebrand não gera crescimento]] — redesign de homepage não entrega a aquisição prometida
+- [[Growth como sistema, não time]] — não contrate growth team para salvar negócio em queda

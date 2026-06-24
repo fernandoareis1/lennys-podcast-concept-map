@@ -29,3 +29,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Roadmap Secreto — Criar o Que Ninguém Pediu]] — roadmap público = pedidos de usuários (todos concorrentes têm); roadmap secreto = ideias que mudam comportamento para sempre e ninguém antecipou; maiores wins vêm do secreto
 - [[Feature Factory — Construir Features sem Impacto Real]] — equipe que entrega features sem saber se mudam comportamento do cliente; raiz: founder apresenta soluções (táticas) em vez de problemas; antídoto: medir impacto de cada feature
 - [[Feature como Adotar um Cachorro]] — dizer sim a uma feature é adotar um cachorro que cresce; 9 nãos para cada sim; produto excelente = mil detalhes; restraint criativo é a condição da qualidade
+- [[Execução sobre Estratégia — Startups Têm Uma Prioridade]] — estratégia é conceito de escola de negócios para grandes corporações; startups só fazem uma coisa por vez; quem quer sessão de estratégia não entende suas prioridades

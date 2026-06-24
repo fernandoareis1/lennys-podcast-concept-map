@@ -18,3 +18,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Planejamento por estações]] — estações definidas por mudanças seculares (não calendário); OKRs trimestrais soltos + metas de squad de 4-6 semanas; deixe slack para a slope
 - [[PR-FAQ — Trabalhar ao Contrário]] — escreva o press release (cliente + problema + solução) antes de qualquer linha de código; funil de ideias, não túnel
 - [[Reescrita como Armadilha]] — rewrites raros cumprem promessa; lógica enterrada no legacy + migração subestimada; evolua incrementalmente
+- [[Tradeoffs Explícitos para Aumentar Velocidade]] — apresente o que vai E o que NÃO vai ser feito; dar menu com trade-offs ao CEO não é pushback, é o mecanismo que cria velocidade; 4 coisas bem > 8 na metade

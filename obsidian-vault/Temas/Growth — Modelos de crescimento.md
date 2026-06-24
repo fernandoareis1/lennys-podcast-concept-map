@@ -38,6 +38,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Combustível e Motor do Marketing]] — marketing = combustível (o que você cria) + motor (como distribui); diagnostique qual é o gargalo antes de contratar
 - [[Métricas de Impacto vs. Atividade no Marketing]] — "10 blog posts este mês" é atividade, não meta; times de alto desempenho têm core work + big bets + fundações quebradas + conversão em todo o funil
 - [[Moat em Dados Humanos — Acesso à Audiência]] — único moat em dados para IA é acesso a audiência; CAC zero vs. concorrentes com 200 recrutadores + M$ em performance ads; LTV = retenção × projetos
+- [[Beachhead + Bowling Pin — Cruzar o Abismo]] — para cruzar o chasm: beachhead estreito (mesma geo/indústria/profissão/use case) → 3–4 referências → expansão adjacente como pinos de boliche
+- [[Vender para Visionaries vs. Pragmatistas]] — "acreditamos no que você acredita" vs. "precisamos do que você tem"; playbooks opostos; usar o errado no momento errado garante fracasso
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

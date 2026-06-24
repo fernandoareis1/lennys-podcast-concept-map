@@ -30,6 +30,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Autenticidade técnica como GTM]] — praticantes técnicos não querem ser marketados; pare de fazer marketing; contrate designers como primeiros GTM hires; profundidade técnica é a única credibilidade que funciona
 - [[Nome como Vantagem Assimétrica e Cumulativa]] — nome não muda; vantagem assimétrica (head start) + cumulativa (bond cresce com uso); polarização da equipe = sinal de força; diamante do naming como exercício
 - [[Simbolismo Sonoro — A Linguística dos Nomes]] — cada letra tem vibração específica (V=vibrante; B=confiável; Z=ruidoso); compostos são multiplicadores 1+1=3; processing fluency; 3 times com briefings distintos
+- [[Fish to Pond Ratio — Beachhead Sizing]] — segmento grande o suficiente para importar + pequeno o suficiente para liderar (30–50% share em 2 anos); ecosistemas só formam ao redor de líderes de segmento
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

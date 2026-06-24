@@ -11,6 +11,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 
 ## Conceitos (L3)
 - [[Pivot — Mudança de Estratégia com Visão Intacta]] — pivote muda a estratégia, não a visão; evite confundir os dois
+- [[Moat Tecnológico como Base de Crescimento Explosivo]] — sucesso "overnight" com anos de aposta tech que ninguém quis fazer
 - [[DHM Model]] — Delight · Hard-to-copy · Margin-enhancing
 - [[PMF não é permanente]] — PMF é relativo a um mercado em um momento; muda quando o mercado muda
 - [[Non-determinismo em Produtos de IA]] — input e output não-determinísticos mudam como produtos de IA devem ser construídos

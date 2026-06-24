@@ -17,6 +17,8 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Friction Logging]] — percorrer o produto como usuário específico e anotar todo atrito; aponta onde a meticulosidade compensa
 - [[99% Done ≈ 0% Done]] — produto 99% pronto está mais perto do 0% do que do 100%; nunca comprometa qualidade/UX mesmo reduzindo escopo funcional
 - [[Construir para o Melhor Usuário]] — construa para o usuário que entende e ama o produto; piores usuários são fração pequena; "não seria incrível ter esse problema?"
+- [[UI Tolerante a Falhas — Projetar para a Performance do ML]] — projete a UI para a taxa de acerto real do seu ML; se acerta 1 em 4, mostre 4 itens; single play button exige precisão 100%
+- [[Recall vs. Discovery — A Dicotomia da Homepage]] — usuários vêm 90% para recall (voltar ao conhecido) e 10% para discovery; redesign que inverte esse split causa abandono massivo; dense UI ≠ feed UI
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

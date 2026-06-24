@@ -41,6 +41,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Superpoderes Extraídos de Histórias]] — descubra superpoderes pela sobreposição de histórias de pico do passado/presente; mais eficaz que testes como StrengthsFinder
 - [[Self-Narrative como Hipótese Testável]] — histórias que você conta sobre si mesmo são hipóteses; teste-as com dados e entrevistas com colegas (user research aplicada a si)
 - [[Loop de Aprendizado PM — Execute, Generalize, Comunique, Escale]] — 4 etapas do ciclo de aceleração de carreira de PM; sem generalização e comunicação, execução não vira oportunidade
+- [[Escolher o Caminho Difícil — Ganhar Mesmo Perdendo]] — lógica assimétrica: caminho fácil que falha = perdeu tudo; caminho difícil que falha = ainda aprendeu e cresceu
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

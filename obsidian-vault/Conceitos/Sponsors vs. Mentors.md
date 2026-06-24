@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Christopher Miller]
+autores: [Christopher Miller, Fareed Mosavat]
 ---
 # Sponsors vs. Mentors
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -43,6 +43,11 @@ A aceleração de carreira real vem de sponsors. Mentores te fazem melhor; spons
 - "I think I bombed [the interview with Fareed]. I don't think I would've hired me back then. There was something where the decision-maker said 'I think I can make something out of this.' And being willing to invest in someone is what really matters."
 - "Just taking that mentality with me into product — embracing not knowing stuff, no fear of admitting inadequacy, letting the desire to be great overpower the fear of being inadequate — has helped me build bridges with people who don't owe me anything."
 - "True gasoline on the career fire: finding mentors, but also finding sponsors and advocates."
+
+### [[Fareed Mosavat]]
+- "The scale opportunity piece of the loop often requires someone from outside to notice what you're doing and trust you with a bigger opportunity. I think of this as sponsorship, not mentorship."
+- Seus key sponsors: Nabeel Hyatt (CEO Conduit Labs) → deu o primeiro papel de product leadership; Merci Grace (Slack) → promoveu para liderar growth amplo; April Underwood (CPO Slack) → entregou ownership do growth inteiro
+- A confiança não vem de nada mágico: vem de comunicar bem o trabalho, mostrar curiosidade nos dois níveis acima e abaixo, e ser visto como a referência para conectar os pontos da empresa
 
 ## Conceitos relacionados
 [[Alavancar ativamente seu líder]] · [[Confiança via Ensino Delegado]] · [[Você escolhe, eles escolhem a hora]] · [[Impacto sobre promoção]] · [[Identidade de Builder]]

@@ -12,6 +12,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 ## Conceitos (L3)
 - [[Growth como sistema, não time]] — founder-led primeiro; growth team só com PMF + dados · **⬇ tem aprofundamento**
 - [[Product-Led Growth (PLG)]] — o produto assume alavancas de crescimento
+- [[Product-Led Sales (PLS)]] — produto cria pipeline, vendas fecha contratos enterprise
+- [[PQA — Product-Qualified Account]] — sinal de conta madura para handoff de vendas
 - [[Growth Loops vs Funil]] — sistemas que se realimentam vs funil linear
 - [[Kindling vs Fire strategies]] — hacks só destravam os motores escaláveis
 - [[Explore vs. Exploit (Growth)]] — oscilar entre descobrir o insight certo e extrair o máximo dele

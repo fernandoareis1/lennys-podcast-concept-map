@@ -41,6 +41,13 @@ O **produto** assume alavancas de crescimento (aquisição, ativação, monetiza
 - Erro mais comum: contratar um head de growth sem recursos (sem tooling, sem eng, sem dados) e esperar resultados; ou desistir antes do PLG ter ciclos suficientes para mostrar retorno.
 - "A bad data hygiene is one of the biggest mistakes. If you can't measure what's happening, why?"
 
+### [[Elena Verna]] (episódio 2)
+- PLG é a base do PLS: produto adquire/ativa indivíduos → produto cria pipeline → vendas fecha enterprise.
+- Componentes PLG: self-serve activation, self-serve engagement, product-led monetization.
+- Você não precisa ser 100% PLG: basta que o produto seja accountable por pelo menos uma alavanca (acquisition/activation/monetization/retention).
+
+> 🎧 [The ultimate guide to product-led sales (1:16:10)](https://www.youtube.com/watch?v=bxghtN-OlJQ)
+
 ## Aprofundamento ⬇
 - [[Product-Led Growth (PLG) — Evidências]]
 

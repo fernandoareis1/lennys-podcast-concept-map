@@ -51,3 +51,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Contratar para Elevar o Time]] — não preencha uma caixa; contrate quem eleva o time inteiro; skills aditivas, não só baseline; "what would you do differently if you had my job?"
 - [[Pair Programming como Ferramenta de Gestão]] — mais subutilizado da engenharia; dois pares → menos código, melhor design; regra de 1h de Tobi: se não terminou, delete e recomeça
 - [[Intensidade por Minuto — Kilojoules por Hora]] — mais energia por hora > mais horas; GSD semanais + 6-week reviews + pair programming + delete code club como mecanismos de intensidade no Shopify
+- [[Um Feature Marketable por Semana — Captions]] — cada engenheiro entrega um feature pelo qual usuário assinaria o app; corte escopo não qualidade; reclamações = PMF confirmado

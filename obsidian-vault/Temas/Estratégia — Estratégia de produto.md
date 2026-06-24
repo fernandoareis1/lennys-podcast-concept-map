@@ -55,6 +55,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Inteligência Espacial — A Fronteira Além da Linguagem]] — world models como próxima fronteira da IA além da linguagem; spatial intelligence complementar às LLMs
 - [[IA Humanista — Agência Humana sobre o Futuro Tecnológico]] — IA é dupla utilidade; o que fazemos com ela depende de escolhas humanas, não determinismo tecnológico
 - [[Equação Fundacional — Iteração Não Conserta Negócio Quebrado]] — se a equação do negócio é fundamentalmente errada, nenhuma execução de produto conserta; Quibi precisava de 6-10bi, não 2bi
+- [[Post-Training como Novo Frontier — Do Pré-treinamento ao Especialista]] — pré-treinamento atingiu plateau; todos os ganhos agora vêm de dados de especialistas no post-training; generalists → experts
 - [[Incumbentes como Boa Constrictor]] — competição de big tech não é explosão imediata; é aperto gradual; Blackberry/Nokia cresceram depois do iPhone; feridas auto-infligidas matam, não o incumbente
 - [[Ponto de Inflexão Estratégico — Go All-In]] — momento de mudança fundamental exige apostar tudo em uma coisa, não hedgear; exercício mental: "e se fôssemos consultores externos?"
 - [[Plataforma por Trajetória de Workflow]] — expanda plataforma trace o workflow do usuário; casos de uso que adicionam complexidade ao produto principal viram superfícies dedicadas

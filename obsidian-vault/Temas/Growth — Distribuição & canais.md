@@ -34,6 +34,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[PR como Validação de Terceiros]] — B2B press raramente gera signups diretos; valor real é second-order: credibilidade em vendas, recruiting e fundraising; B2C pode gerar crescimento quando produto é fácil de tentar
 - [[Pitch de Incumbente — Frame de Referência para Jornalistas]] — referencie um incumbente em vez de reivindicar nova categoria; jornalistas precisam de frame de referência imediato; RAMP vs Bill.com, Gamma vs PowerPoint
 - [[Ângulo de Imprensa — O Fio Puxável]] — o anúncio raramente é a história; encontre o ângulo: incumbente desafiado, contrário à sabedoria convencional, história humana ou macro-trend; conecte o que a empresa quer dizer com o que jornalistas querem ler
+- [[Micro-Influenciadores em Câmaras de Eco]] — macro + script = ad reconhecível; micro em comunidades fechadas (educadores, consultores) converte 4–5× mais; 90% do alcance vem de <10% dos criadores → lance rede ampla
+- [[Founder-Led Marketing — Capital de Goodwill]] — deposite valor sem expectativa de retorno → construa saldo de goodwill → saque ao amplificar o produto; "nobody wants to read your shit" — o bar é alto
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

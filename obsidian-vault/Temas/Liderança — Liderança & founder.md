@@ -35,6 +35,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Intuição do Fundador vs. Expertise do Time]] — dirija novos líderes até que demonstrem julgamento melhor que o seu; o sinal de delegar vem deles, não de você
 - [[Engineer Occasion]] — CTO/EM limpa agenda por 3-4 dias, entra no time como IC; friction log vira referência de priorização por meses
 - [[Trabalho como Treadmill — O Problema de Ocupação vs Produtividade]] — estar ocupado ≠ ser produtivo; ambiente moderno projetado para interrupção; "too busy firing to aim"
+- [[Confiança Antes de Mudança — Trust First, Change Later]] — entrar "swinging" sem ganhar confiança gera rebelião; escuta primeiro, change com o time depois (Katie Dill/Airbnb)
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

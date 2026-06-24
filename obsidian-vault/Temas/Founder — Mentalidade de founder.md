@@ -10,6 +10,7 @@ fluxo: Founder & Carreira
 A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e não delegar aquilo em que é melhor. *(O conceito-âncora também vive em [[09 - Liderança & Times]], por ser igualmente sobre liderança.)*
 
 ## Conceitos (L3)
+- [[Empresa Zumbi — O Pior Resultado]] — empresa que não morre e que você odeia é pior que falhar
 - [[Founder Mode]] — operar como startup, founder no comando · **⬇ tem aprofundamento**
 - [[Pain is the New Moat]] — conhecimento acumulado pela dor de iterar é o moat incopiável em campos novos
 - [[Negócio vs emprego — a diferença é escala]] — empresa que não escala é emprego disfarçado

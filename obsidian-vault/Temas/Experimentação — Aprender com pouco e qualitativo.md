@@ -10,6 +10,7 @@ fluxo: Experimentação & Dados
 Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** pequenas e aceitar que **decidir com pouco dado é melhor que com zero** (há loops de feedback que corrigem).
 
 ## Conceitos (L3)
+- [[MVP — O Teste de Hipótese Mínimo]] — experimento mínimo para validar uma hipótese específica (não "produto mais básico")
 - [[Assumption Testing]] — testar a suposição, não a ideia inteira
 - [[Decidir com poucos dados é melhor que com zero]] — vire a pergunta do rigor
 - [[CC-CD — Calibração Contínua, Desenvolvimento Contínuo]] — ciclo iterativo de build → deploy → calibrar para produtos de IA

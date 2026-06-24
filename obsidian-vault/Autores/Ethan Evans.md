@@ -10,3 +10,4 @@ VP aposentado da Amazon (15 anos). Co-inventor do Prime Video, Amazon Appstore, 
 [[The Magic Loop — 5 Passos para Avançar na Carreira]] · [[Invenção Sistemática — 2h por mês]]
 
 > 🎧 [Taking control of your career (1:21:08)](https://www.youtube.com/watch?v=GB0P0_nFPTA) · 2024-01-14
+> 🎧 [Taking control of your career 2.0 (1:21:08)](https://www.youtube.com/watch?v=GB0P0_nFPTA) · 2024-01-14

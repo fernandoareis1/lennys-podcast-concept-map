@@ -27,3 +27,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Qualidade-Features-Deadline — Escolha Dois]] — para cada lançamento declare explicitamente o que vai ser sacrificado; mínimo de qualidade não é negociável
 - [[Ritual de Ideias Loucas]] — doc anual "Crazy Ideas": 90% não farão sentido, 10% fazem diferença de 10x-100x; 3-8 itens implementados por ano; cria permissão cultural para pensar grande
 - [[Roadmap Secreto — Criar o Que Ninguém Pediu]] — roadmap público = pedidos de usuários (todos concorrentes têm); roadmap secreto = ideias que mudam comportamento para sempre e ninguém antecipou; maiores wins vêm do secreto
+- [[Feature Factory — Construir Features sem Impacto Real]] — equipe que entrega features sem saber se mudam comportamento do cliente; raiz: founder apresenta soluções (táticas) em vez de problemas; antídoto: medir impacto de cada feature

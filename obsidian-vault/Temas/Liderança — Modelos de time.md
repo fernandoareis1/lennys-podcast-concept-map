@@ -52,3 +52,5 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Pair Programming como Ferramenta de Gestão]] — mais subutilizado da engenharia; dois pares → menos código, melhor design; regra de 1h de Tobi: se não terminou, delete e recomeça
 - [[Intensidade por Minuto — Kilojoules por Hora]] — mais energia por hora > mais horas; GSD semanais + 6-week reviews + pair programming + delete code club como mecanismos de intensidade no Shopify
 - [[Um Feature Marketable por Semana — Captions]] — cada engenheiro entrega um feature pelo qual usuário assinaria o app; corte escopo não qualidade; reclamações = PMF confirmado
+- [[Contratar o Segundo ao Mando — Lieutenants de Best-in-Class]] — para contratar líder funcional: identifique empresa best-in-class no segmento + função; contrate o segundo ao mando (não o líder), que está pronto para o próximo nível
+- [[Primeiro PM de Dentro — Evitar a Rejeição pelo Organismo]] — primeiro PM deve ser engenheiro/designer/analista já na empresa; PM externo pode ser "rejeitado pelo organismo"; confiança bilateral (founder + engenheiros) é pré-requisito

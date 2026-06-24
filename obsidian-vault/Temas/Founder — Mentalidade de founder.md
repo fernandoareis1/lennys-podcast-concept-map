@@ -27,6 +27,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Curiosidade como Bússola de Carreira]] — norte científico baseado em paixão, não otimização de carreira; intellectual fearlessness como qualidade-chave de contratação
 - [[A Única Coisa que só Você Poderia Construir]] — construa a coisa que não existiria sem sua expertise e obsessão específica; não pivote por valuation; startups são para tomar grandes riscos em algo em que você acredita
 - [[Zero a Um Dentro de Empresa Existente — Separação Total]] — incubar uma nova linha dentro de empresa madura exige separação quase total: time, espaço, all-hands, métricas; CEO no produto; "leave nothing to chance"
+- [[A Parábola do Pescador — Por Que Não Agora]] — se você sabe o que quer fazer com sua vida, por que esperar 10 anos? com runway + audiência + modelo testável, o plano longo pode ser o desvio
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -115,3 +115,4 @@ garrett-lord
 gaurav-misra
 geoff-charles
 geoffrey-moore
+gergely

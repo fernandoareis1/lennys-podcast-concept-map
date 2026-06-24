@@ -42,6 +42,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Self-Narrative como Hipótese Testável]] — histórias que você conta sobre si mesmo são hipóteses; teste-as com dados e entrevistas com colegas (user research aplicada a si)
 - [[Loop de Aprendizado PM — Execute, Generalize, Comunique, Escale]] — 4 etapas do ciclo de aceleração de carreira de PM; sem generalização e comunicação, execução não vira oportunidade
 - [[Escolher o Caminho Difícil — Ganhar Mesmo Perdendo]] — lógica assimétrica: caminho fácil que falha = perdeu tudo; caminho difícil que falha = ainda aprendeu e cresceu
+- [[Newsletter como SaaS — Receita Recorrente de Conteúdo]] — newsletter paga tem dinâmica SaaS: MRR composto, cada artigo bom = aumento, sem teto teórico; pré-requisitos: audiência + runway + pipeline de ideias
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

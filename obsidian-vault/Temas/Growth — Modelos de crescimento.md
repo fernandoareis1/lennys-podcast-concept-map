@@ -14,6 +14,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Product-Led Growth (PLG)]] — o produto assume alavancas de crescimento
 - [[Product-Led Sales (PLS)]] — produto cria pipeline, vendas fecha contratos enterprise
 - [[PQA — Product-Qualified Account]] — sinal de conta madura para handoff de vendas
+- [[Inovação vs Otimização — O Flip em AI]] — em AI, 95% inovação de growth vs 5% otimização
+- [[Generosidade de Produto — Dar para Crescer]] — remover barreiras de entrada como motor de crescimento
 - [[Growth Loops vs Funil]] — sistemas que se realimentam vs funil linear
 - [[Kindling vs Fire strategies]] — hacks só destravam os motores escaláveis
 - [[Explore vs. Exploit (Growth)]] — oscilar entre descobrir o insight certo e extrair o máximo dele

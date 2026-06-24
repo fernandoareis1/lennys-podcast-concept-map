@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Adam Grenier]
+autores: [Adam Grenier, Elena Verna]
 ---
 # PMF não é permanente
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -24,6 +24,13 @@ Product-market fit não é uma conquista permanente — é uma relação com um 
 - "Se você só lançar um novo canal para resolver o problema, vai errar — porque toda a sua base de clientes mudou, não só os próximos 10%."
 
 > 🎧 [When to invest in new acquisition channels (1:09:51)](https://www.youtube.com/watch?v=-PDsvl2WCZU)
+
+### [[Elena Verna]]
+- Em AI (2025-2026), o ciclo de recaptura de PMF passou de **anos para 3 meses** — cada lançamento de LLM cria um novo teto do que é possível construir.
+- "Se 10 anos atrás você me dissesse que uma empresa de $200M ARR com 10% crescimento mês a mês poderia perder PMF em 3 meses, eu diria que você é louco. Agora é a realidade."
+- Risco: ao focar demais em recapturar os early adopters (pioneers), a indústria AI corre o risco de alienar a **maioria latente** (adjacent users que ainda não chegaram).
+
+> 🎧 [The new AI growth playbook for 2026 | Lovable (1:31:56)](https://www.youtube.com/watch?v=6qAB6aUMIeA)
 
 ## Conceitos relacionados
 [[Sean Ellis Test (40%)]] · [[Estratégia — Estratégia de produto]] · [[Retenção é a base do crescimento]] · [[Growth — Anti-táticas]]

@@ -11,6 +11,7 @@ Como extrair a **verdade** do usuário: coletar **histórias concretas** de epis
 
 ## Conceitos (L3)
 - [[Entrevista baseada em história]] — a técnica · **⬇ tem aprofundamento**
+- [[Melhores Clientes Recentes como Espelho]] — entreviste clientes que: têm alto valor percebido + pagam + são felizes + assinaram há 3–6 meses (ainda lembram vida antes do produto)
 
 ## Descer mais (L4) ⬇
 [[Entrevista — Playbook (Moesta + Torres)]] — roteiro, camadas de linguagem, nº de entrevistas, quem entrevistar

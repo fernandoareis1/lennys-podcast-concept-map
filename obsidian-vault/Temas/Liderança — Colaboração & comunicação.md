@@ -30,3 +30,6 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Flashtags — Escala de Influência sem Mandatos]] — hashtags com grau de convicção (#fyi → #suggestion → #recommendation → #plea); escala influência de fundador sem mandatos formais
 - [[Loved vs Liked — Liderança por Amor]] — amor = estender-se pelo crescimento espiritual de outra pessoa; conversas difíceis são atos de amor, não de gentileza superficial
 - [[Trifecta de Feedback — Expectativas, Gap e Ajuda]] — feedback eficaz exige os três: expectativa clara + gap específico + ajuda para fechar; sem os três vira julgamento; sempre em privado, nunca no palco
+- [[Departamentos do Cérebro — Science, Art e History]] — cérebro como campus universitário; history=lookup, science=experimentação, art=criatividade; maioria das pessoas usa history por padrão (menor custo energético)
+- [[Priming em Reuniões — Antes de Decidir, Alinhar]] — alinhar objetivo, princípios e modo antes de decidir; sem priming inevitavelmente há cat fight; cabe na convocação em 3 minutos
+- [[Personalidade como Dado — Vulnerabilidade como Desbloqueador]] — declarar seu perfil Big 5 ao time elimina a tradução desnecessária e aumenta a velocidade; vulnerabilidade é a opção menos arriscada das três

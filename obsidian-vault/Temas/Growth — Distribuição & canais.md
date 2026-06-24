@@ -30,6 +30,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Advocates técnicos — o Fator Tom]] — contrate praticantes (não marketers) como bridge técnico para marketing e vendas; DA sem quota; closes de deal aumentam quando Tom entra na call
 - [[SEO como Produto — O PM deve Liderar]] — SEO é uma questão de produto, não de marketing; PM lidera; gerir com milestones e PRDs; medir conversões de negócio, não rankings
 - [[IA devora o Topo do Funil de Busca]] — AI Overviews destroem o SEO informacional de topo de funil; oportunidade migra para mid-funnel e bottom-funnel onde há intenção de compra
+- [[AEO — Answer Engine Optimization]] — aparecer em respostas de LLMs via múltiplas citações (não só #1); early-stage pode ganhar rápido; tráfego LLM converte 6X mais que Google
 - [[PR como Validação de Terceiros]] — B2B press raramente gera signups diretos; valor real é second-order: credibilidade em vendas, recruiting e fundraising; B2C pode gerar crescimento quando produto é fácil de tentar
 - [[Pitch de Incumbente — Frame de Referência para Jornalistas]] — referencie um incumbente em vez de reivindicar nova categoria; jornalistas precisam de frame de referência imediato; RAMP vs Bill.com, Gamma vs PowerPoint
 - [[Ângulo de Imprensa — O Fio Puxável]] — o anúncio raramente é a história; encontre o ângulo: incumbente desafiado, contrário à sabedoria convencional, história humana ou macro-trend; conecte o que a empresa quer dizer com o que jornalistas querem ler

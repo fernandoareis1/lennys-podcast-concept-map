@@ -105,3 +105,4 @@ eric-ries
 eric-simons
 ethan-evans
 ethan-evans-20
+ethan-smith

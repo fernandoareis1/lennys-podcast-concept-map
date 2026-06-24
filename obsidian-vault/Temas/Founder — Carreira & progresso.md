@@ -44,6 +44,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Escolher o Caminho Difícil — Ganhar Mesmo Perdendo]] — lógica assimétrica: caminho fácil que falha = perdeu tudo; caminho difícil que falha = ainda aprendeu e cresceu
 - [[Newsletter como SaaS — Receita Recorrente de Conteúdo]] — newsletter paga tem dinâmica SaaS: MRR composto, cada artigo bom = aumento, sem teto teórico; pré-requisitos: audiência + runway + pipeline de ideias
 - [[A-Side e B-Side da Carreira — Mostrar o Lado Difícil]] — carreiras têm highlights (A-side) e bastidores caóticos (B-side); mostrar B-sides normaliza o processo real e mantém as pessoas na corrida
+- [[Framework do Gênio — O Que Faria Sem Medo de Falhar]] — imagine um gênio garantindo sucesso em qualquer caminho; o que você escolheria? resposta "absent the fear of failure" revela o objetivo de carreira real
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

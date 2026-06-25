@@ -35,6 +35,8 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Highlight do Dia — A Âncora de Tudo]] — escolha UMA coisa que, ao final do dia, seria o ponto alto; 3 estratégias: satisfação, urgência, alegria; escreva num post-it; Groundhog Day: repita amanhã sem julgamento
 - [[Busy Bandwagon + Infinity Pools — O Loop do Desperdício]] — Busy Bandwagon = norma cultural de estar sempre reativo; Infinity Pools = apps que se reabastecem infinitamente; juntos formam flywheel que sequestra atenção e substitui trabalho significativo
 - [[Barreiras à Distração — Engenharia Reversa da Distrabilidade]] — força de vontade nunca vence; crie fricção estrutural: delete apps, fique deslogado, 2FA como speed bump, sem internet no escritório, resetar expectativas de inbox
+- [[Insight Proprietário — Por Que Eu, Por Que Agora]] — alpha = insight que outros não têm; "por que em um mundo de 1M empreendedores eu tenho esse insight?"; pesquisa influenciada por consenso = insight de consenso; 3 filtros: qual insight, por que eu, por que 5-10 anos
+- [[Não Perder como Precursor de Vencer]] — sobrevivência é pré-requisito; decisões assimetricamente positivas; maioria desiste antes do timing; "o fim nunca é o fim"; em ciclos de hype, não coloque a empresa em risco existencial
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

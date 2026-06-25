@@ -44,6 +44,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] — paid é dependência; sem LTV, CAC não tem sentido; low-hanging fruit seca com escala; orgânico (AB, brand, PR, retenção) é o único modelo que não esconde problemas do produto
 - [[Máquina de Word-of-Mouth — Sinal Real de PMF]] — PMF real é quando WoM orgânico dispara sozinho; se >50% da aquisição vem de paid, o motor está quebrado; performance marketing amplifica sinal — não o cria
 - [[Audit de Funil PLG — Da Aquisição à Conversão]] — 4 buckets (aquisição, ativação, conversão, PQL/PQA); percorra o funil como usuário; ativação é o ponto de maior alavanca para maioria dos B2B
+- [[B2C2B — O Loop de Crescimento do Horizontal]] — conquiste o usuário pessoal → ele traz para o trabalho → bottom-up vira enterprise; 50% dos clientes B2B da Notion vieram de uso pessoal
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

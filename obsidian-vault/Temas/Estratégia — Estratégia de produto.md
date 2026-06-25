@@ -67,6 +67,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Curation para Recommendation para Generation — As 3 Eras da Internet]] — internet foi de curadoria humana → recomendação algorítmica → geração; cada transição exige repensar UX e modelo de negócio do zero
 - [[Refundar para IA — Teste Existencial]] — teste: se você fundasse sua empresa do zero hoje com AI-native, como faria? Quem não consegue responder deve encontrar um comprador; IA não é transição de form factor pontual, é revolução contínua
 - [[Copiloto, não Piloto — IA como Amplificador de Devs]] — AI amplifica, não substitui; devs escrevem <25% do tempo; corte de headcount é o ROI errado; amplificação funciona em todos os níveis
+- [[Brócolis com Açúcar — Esconder a Visão no Formato Familiar]] — embale visão radical em formato familiar; use case popular é porta de entrada, não o destino
+- [[Bundling e Unbundling — Ondas do Mercado de Software]] — mercado oscila entre fragmentação e unificação; AI acelera rebundling; diagnose a onda antes de posicionar o produto
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

@@ -22,6 +22,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Experimentação com amostras pequenas]] — quando A/B não é viável (baixo volume): power analysis primeiro; cidades-gêmeas; diff-in-diff; 80% de confiança; e quando nada funciona, ship na intuição + loop de feedback pós-lançamento
 - [[Evals para Produtos de IA]] — ciclo de medição e melhoria sistemática de aplicações de IA: de vibe checks a métricas acionáveis
 - [[LLM como Juiz]] — avaliador automatizado de modos de falha subjetivos; obrigatoriamente binário e escopo único
+- [[Medidor de Confiança — Calibrando Evidência antes de Investir]] — escala 0-10 que mapeia tipo de evidência ao nível de confiança permitido; opinião dá 0,1; AB test dá 9; calibra investimento pelo nível de certeza real
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

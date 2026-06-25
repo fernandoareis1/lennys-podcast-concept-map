@@ -15,6 +15,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[Tudo no backlog é uma aposta]] — discovery melhora a aposta, não elimina o risco
 - [[Métricas de input vs. output]] — foque em inputs controláveis (seleção, preço, velocidade); outputs (receita) seguem automaticamente; gestão por output gera fire drills inúteis
 - [[PM Orientado a Impacto]] — PM relentless até impacto validado; 2 perguntas obrigatórias: o que muda para usuários? como saberemos?; "melhorar/expandir" sem métrica = smell
+- [[GIST Framework — Goals, Ideas, Steps, Tasks]] — meta-framework para produto evidence-guided: Goals → Ideas (ICE) → Steps (learning milestones) → Tasks; GIST board conecta planejamento e execução
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

@@ -13,6 +13,7 @@ Como extrair a **verdade** do usuário: coletar **histórias concretas** de epis
 - [[Entrevista baseada em história]] — a técnica · **⬇ tem aprofundamento**
 - [[Melhores Clientes Recentes como Espelho]] — entreviste clientes que: têm alto valor percebido + pagam + são felizes + assinaram há 3–6 meses (ainda lembram vida antes do produto)
 - [[Indiferença é Pior que Rejeição — O Medo Errado]] — pessoas que não usam são indiferentes, não hostis; você sempre tem uma segunda chance; early adopters são ~10% de qualquer grupo; medo de rejeição é infundado
+- [[Hipótese Antes da Pesquisa — Juiz, Não Advogado]] — sem hipótese clara, pesquisa vira "conversa interessante"; com hipótese, cada entrevista é um veredito; seja juiz, não advogado da sua ideia
 
 ## Descer mais (L4) ⬇
 [[Entrevista — Playbook (Moesta + Torres)]] — roteiro, camadas de linguagem, nº de entrevistas, quem entrevistar

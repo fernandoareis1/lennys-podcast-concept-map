@@ -43,6 +43,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Counter-Programming — Tomar o Golpe na Carreira]] — quando percebido negativamente, não litigue o passado; tome UMA ação pequena que demonstra o oposto do que você teme que pensam de você
 - [[Ativação Comportamental — Agir antes de Sentir]] — da TCC: "vou agir e então vou me sentir melhor" (não o inverso); mantenha lista de ativações pessoais; aplicável a times e adoção de IA
 - [[Não Sou o Protagonista — Operacionalizar a Visão]] — como CPO, seu trabalho é entender como o CEO pensa e operacionalizar essa visão em produto — não empurrar sua própria visão
+- [[IC CEO — Chief Taste Maker na Era de IA]] — CEOs retornando ao papel de IC em IA: prototipar, usar ferramentas intensamente, ser o maior usuário interno; "não dá para provar a sopa sem participar da criação"
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

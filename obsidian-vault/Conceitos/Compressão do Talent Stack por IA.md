@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Liderança & Times
-autores: [Alexander Embiricos, Anton Osika]
+autores: [Alexander Embiricos, Anton Osika, Howie Liu]
 ---
 # Compressão do Talent Stack por IA
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
@@ -34,6 +34,12 @@ autores: [Alexander Embiricos, Anton Osika]
 - Na Lovable (18 pessoas), 12 escrevem código ao menos part-time, mas todos criam conteúdo, falam com usuários, e pensam no produto como um todo — a divisão de papéis é fluida por design.
 - Habilidade cognitiva bruta + mindset de startup (mover rápido, pensar no negócio como um todo) são os atributos que mais correlacionam com sucesso no time.
 > 🎧 [Building Lovable: $10M ARR in 60 days with 15 people (1:09:48)](https://www.youtube.com/watch?v=DZtGxNs9AVg) · 2025-03-09
+
+### [[Howie Liu]]
+- O triângulo PM-Eng-Design no Airtable AI: cada papel deve ter baseline mínimo nos outros dois — "você precisa ficar decentemente bom nos três; pode ter profundidade na sua especialidade, mas precisa de competência mínima nas outras duas."
+- PMs devem se tornar "hybrid PM prototypers com boas sensibilidades de design." Designers devem ser "técnicos o suficiente para ser perigosos." Engenheiros devem pensar sobre produto e negócio.
+- "Algumas das melhores culturas de Eng/PM/Design sempre foram multidisciplinares por natureza. O spec original do APM do Google exigia que PMs fossem tecnicamente competentes e um pouco 'designy'."
+> 🎧 [How we restructured Airtable's entire org for AI (1:40:42)](https://www.youtube.com/watch?v=GT0jtVjRy2E)
 
 ## Conceitos relacionados
 [[Proatividade como Destino dos Agentes]] · [[Times cross-funcionais com especialistas de domínio]] · [[PM responsável por valor e viabilidade]] · [[Liderança — Modelos de time]] · [[Democratização do software via IA]]

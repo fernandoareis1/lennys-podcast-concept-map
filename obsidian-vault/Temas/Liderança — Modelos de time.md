@@ -58,3 +58,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Dynamic Reteaming — 5 Padrões de Mudança de Times]] — 5 padrões recorrentes de mudança de times (one-by-one, grow-and-split, merge, isolation, switching); reconhecer o padrão certo muda a abordagem de comunicação e gestão
 - [[Isolação como Inovação — Beneficial Silos]] — isolar subgrupo com liberdade de processo + acesso direto ao decisor + localização separada para proteger inovação do core business
 - [[Reteaming Transparente — Whiteboards e Self-Selection]] — whiteboard público com nomes/times/vagas + self-selection com time-box; surpresa é o maior custo de uma mudança de time
+- [[Fast Thinking vs Slow Thinking — Dois Modos de Produto]] — reorg em dois grupos complementares: fast (AI features, weekly shipping, autonomia entrepreneurial) e slow (infra, enterprise, multi-quarter); fast cria tração, slow cria profundidade

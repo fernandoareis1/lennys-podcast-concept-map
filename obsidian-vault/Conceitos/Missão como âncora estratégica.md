@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Alex Hardiman]
+autores: [Alex Hardiman, Hari Srinivasan]
 ---
 # Missão como âncora estratégica
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Visão, missão & narrativa]] · **Camada:** L3
@@ -25,6 +25,13 @@ O erro mais comum em empresas orientadas a missão é inverter a hierarquia: "no
 - Impacto para um PM do NYT: "você está dirigindo métricas de engajamento e assinantes, mas também ajudando histórias a encontrar seu verdadeiro público de maneiras que ativam um lado completamente diferente de missão e propósito."
 
 > 🎧 [An inside look at how the New York Times builds product (1:07:21)](https://www.youtube.com/watch?v=y3-cwoHMwQs)
+
+### [[Hari Srinivasan]]
+- No LinkedIn, a missão ("conectar pessoas à oportunidade econômica") tornou-se o "sistema imunológico" da cultura: quando alguém não opera por ela, outros percebem e corrigem.
+- "Quando você consegue explicar por que este item específico ajuda alguém a fazer o que quer — seja ter um podcast incrível ou conseguir um emprego — o mundo fica muito mais simples."
+- "A cultura tem um sistema imunológico bastante forte agora. Quando você não opera por [a missão], as pessoas percebem e operam contra isso."
+- Missão operacionalizada em métricas: número de contratações convertidas + número de skills aprendidas — derivadas diretamente da missão, não inventadas como KPIs.
+> 🎧 [LinkedIn's product evolution and the art of building complex systems (1:04:48)](https://www.youtube.com/watch?v=ZUwkTs_QWqg)
 
 ## Conceitos relacionados
 [[Estratégia — Visão, missão & narrativa]] · [[Estratégia — Estratégia de produto]] · [[Outcomes vs Outputs]] · [[Priorização — Outcomes & metas]]

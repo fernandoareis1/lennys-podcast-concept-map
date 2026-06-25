@@ -2,7 +2,7 @@
 tipo: framework
 fluxo: Growth & Aquisição
 nivel: 3
-autores: [Elena Verna, Annie Pearl, Carilu Dietrich, Christopher Miller]
+autores: [Elena Verna, Annie Pearl, Carilu Dietrich, Christopher Miller, Hila Qu]
 ---
 # Product-Led Growth (PLG)
 
@@ -47,6 +47,14 @@ O **produto** assume alavancas de crescimento (aquisição, ativação, monetiza
 - Você não precisa ser 100% PLG: basta que o produto seja accountable por pelo menos uma alavanca (acquisition/activation/monetization/retention).
 
 > 🎧 [The ultimate guide to product-led sales (1:16:10)](https://www.youtube.com/watch?v=bxghtN-OlJQ)
+
+### [[Hila Qu]]
+- PLG é fundamentalmente **DLG — Data-Led Growth**: dar o produto gratuito e obter em troca alcance mais amplo + dados de comportamento de uso. Sem base de dados, você dá produto de graça para nada.
+- O funil PLG tem dois caminhos de conversão: (1) self-checkout direto para produtos de baixo ticket; (2) PQL/PQA → sales team para contas enterprise com alto uso.
+- Compromisso real com PLG = 1-2 anos de roadmap, time dedicado, mudança de processos internos (não só adicionar "free trial" no site).
+- Red flags de falso comprometimento: "PLG = lançar versão free" (sem pensar na jornada completa); uma única pessoa responsável sem recursos; fazer porque está na moda sem verificar fit estratégico.
+- "Você nunca vai imaginar: um cliente meu, quando eu tentei comprar, o formulário de checkout pedia informações que só clientes do Reino Unido precisam. Qualquer pessoa de fora simplesmente desistia ali."
+> 🎧 [The ultimate guide to adding a PLG motion (1:33:23)](https://www.youtube.com/watch?v=7l1fIxk7SnA)
 
 ## Aprofundamento ⬇
 - [[Product-Led Growth (PLG) — Evidências]]

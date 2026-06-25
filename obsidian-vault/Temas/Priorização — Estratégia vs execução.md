@@ -19,3 +19,5 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[PR-FAQ — Trabalhar ao Contrário]] — escreva o press release (cliente + problema + solução) antes de qualquer linha de código; funil de ideias, não túnel
 - [[Reescrita como Armadilha]] — rewrites raros cumprem promessa; lógica enterrada no legacy + migração subestimada; evolua incrementalmente
 - [[Tradeoffs Explícitos para Aumentar Velocidade]] — apresente o que vai E o que NÃO vai ser feito; dar menu com trade-offs ao CEO não é pushback, é o mecanismo que cria velocidade; 4 coisas bem > 8 na metade
+- [[Estratégia como Conexão de Pontos — Visão, Framework e Roadmap]] — 3 partes: visão + framework + roadmap como sanity check; estratégia = cadeia de raciocínio de meta de negócio até feature
+- [[Desvios Repetidos como Sintoma de Estratégia Incompleta]] — debate recorrente de feature = conflito estratégico não explicitado; resolva no nível do princípio, não da feature

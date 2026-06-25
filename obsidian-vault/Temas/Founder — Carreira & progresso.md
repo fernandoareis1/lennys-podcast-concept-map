@@ -48,6 +48,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Framework do Gênio — O Que Faria Sem Medo de Falhar]] — imagine um gênio garantindo sucesso em qualquer caminho; o que você escolheria? resposta "absent the fear of failure" revela o objetivo de carreira real
 - [[Eloquência como Steering de IA — O Poder dos Tokens]] — saber o vocabulário técnico e estético dos domínios (tokens) é o que diferencia quem consegue guiar a IA; word cells + shape rotators = a interseção de liberal arts e tecnologia
 - [[Atributos do PM Top 1% — Manual do Operador]] — dois conjuntos de skills (novos PMs: comunicar, priorizar, executar; seniores: think big, earn trust, driven by impact)
+- [[Template de Promoção — Conversa que Ativa seu Manager]] — declare a meta no futuro, peça orientação; transforma manager de árbitro em parceiro ativo; filtra feedback para o que importa
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

@@ -32,6 +32,9 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Tudo Começa Pior — O Custo do Primeiro Passo]] — "everything you want is on the other side of worse first"; o primeiro passo em qualquer meta é negativo; se otimizar para amanhã, você não muda nada
 - [[Escorecard Interno vs. Externo — A Ilusão da Conquista]] — conquistar o scorecard externo (dinheiro, título) não muda como você se sente por dentro; o jogo real da vida é interno
 - [[Quatro Atributos de Founders Bem-Sucedidos — YC Pattern]] — determinação inabalável; capacidade técnica; execução sem esperar permissão; comunicação e storytelling; padrão extraído de 600+ startups no YC
+- [[Highlight do Dia — A Âncora de Tudo]] — escolha UMA coisa que, ao final do dia, seria o ponto alto; 3 estratégias: satisfação, urgência, alegria; escreva num post-it; Groundhog Day: repita amanhã sem julgamento
+- [[Busy Bandwagon + Infinity Pools — O Loop do Desperdício]] — Busy Bandwagon = norma cultural de estar sempre reativo; Infinity Pools = apps que se reabastecem infinitamente; juntos formam flywheel que sequestra atenção e substitui trabalho significativo
+- [[Barreiras à Distração — Engenharia Reversa da Distrabilidade]] — força de vontade nunca vence; crie fricção estrutural: delete apps, fique deslogado, 2FA como speed bump, sem internet no escritório, resetar expectativas de inbox
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

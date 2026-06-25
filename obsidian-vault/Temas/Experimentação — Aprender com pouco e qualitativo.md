@@ -19,6 +19,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Medição vs Insight — Instrumentação Rica]] — medição = fato sem contexto; insight = contexto + por quê + ação; eventos com 5-10 propriedades permitem segmentar o "porquê"
 - [[Falha Conclusiva — Design de Experimento Definitivo]] — falha = não aprender; maximize o treatment para poder descartar a hipótese definitivamente e parar de repetir o mesmo teste
 - [[Error Analysis — Open e Axial Coding]] — metodologia qualitativa para mapear modos de falha de produtos de IA: anotar traces, agrupar padrões e contar
+- [[Design Sprint — Do Zero ao Protótipo em 5 Dias]] — script de 5 dias: Map → Sketch → Decide → Prototype → Test; especialmente valioso para alto risco comportamental e startups pré-PMF; converte debate abstrato em reação real de cliente
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

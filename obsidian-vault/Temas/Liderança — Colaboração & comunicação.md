@@ -35,3 +35,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Personalidade como Dado — Vulnerabilidade como Desbloqueador]] — declarar seu perfil Big 5 ao time elimina a tradução desnecessária e aumenta a velocidade; vulnerabilidade é a opção menos arriscada das três
 - [[RAPID — Framework de Decisão em Ecossistemas Complexos]] — 1 decisor + papéis claros + regra dos 5 dias; elimina paralisia em produtos interconectados
 - [[Transparência Cognitiva — Compartilhe Como, Não O Que]] — compartilhe como líderes pensam (não só o que decidiram); ritual semanal: verbatim + interpretação + implicação; elimina cadeias de aprovação desnecessárias
+- [[Calcificação Cultural — Mudança por Bolsões]] — cultura de grande empresa é calcário; encontre um bolsão com líder aliado, isole, documente resultados, deixe se expandir; precisa de sponsor sênior; ferramentas que codificam práticas aceleram a mudança

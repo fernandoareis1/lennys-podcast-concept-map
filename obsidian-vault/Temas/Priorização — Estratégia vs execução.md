@@ -21,3 +21,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Tradeoffs Explícitos para Aumentar Velocidade]] — apresente o que vai E o que NÃO vai ser feito; dar menu com trade-offs ao CEO não é pushback, é o mecanismo que cria velocidade; 4 coisas bem > 8 na metade
 - [[Estratégia como Conexão de Pontos — Visão, Framework e Roadmap]] — 3 partes: visão + framework + roadmap como sanity check; estratégia = cadeia de raciocínio de meta de negócio até feature
 - [[Desvios Repetidos como Sintoma de Estratégia Incompleta]] — debate recorrente de feature = conflito estratégico não explicitado; resolva no nível do princípio, não da feature
+- [[Now, Next, Later — Roadmap como Protótipo de Estratégia]] — 3 colunas sem timeline; roadmap = protótipo de estratégia (verificação de suposições); PM tem mesma accountability que vendas: experimentos, não datas; separar soft launch de hard launch

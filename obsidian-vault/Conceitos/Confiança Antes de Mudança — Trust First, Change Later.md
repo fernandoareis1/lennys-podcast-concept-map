@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Liderança & Times
-autores: []
+autores: [Inbal Shani]
 ---
 # Confiança Antes de Mudança — Trust First, Change Later
 
@@ -36,6 +36,14 @@ Apesar da dor, o insight foi claro: o problema não era se as mudanças eram cor
 - "Instead of coming in swinging, come in listening."
 
 > 🎧 [Failure (1:01:12)](https://www.youtube.com/watch?v=9euy9gC48lc) · 2023-12-13 (compilação)
+
+### [[Inbal Shani]]
+- Ao ingressar na TomTom como líder de times de location-based services, tentou mudar tudo imediatamente: "I saw all the issues that needed to be fixed. I'm a very go, go, go person and I have a lot of energy."
+- Resultado: feedback constante de "you're moving too fast, slow down, explain the why."
+- Aprendizado: "Not everyone appreciates change the way you are. Not everyone has that mindset. Really figure out — take a step back and assess what is happening so you can take the team with you on that journey of changing."
+- Peculiaridade: nem sempre é sobre cultura local ou idioma — às vezes é simplesmente que o time não sabe se você tem os interesses deles no coração.
+
+> 🎧 [The future of AI in software development (50:04)](https://www.youtube.com/watch?v=f10s3rxKaJw) · 2023-12-01
 
 ## Conceitos relacionados
 [[Curious radical — antídoto ao ego]] · [[Explorer não Lecturer — Coaching Baseado em Hipóteses]] · [[Trifecta de Feedback — Expectativas, Gap e Ajuda]]

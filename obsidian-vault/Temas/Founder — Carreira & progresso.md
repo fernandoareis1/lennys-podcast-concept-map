@@ -47,6 +47,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[A-Side e B-Side da Carreira — Mostrar o Lado Difícil]] — carreiras têm highlights (A-side) e bastidores caóticos (B-side); mostrar B-sides normaliza o processo real e mantém as pessoas na corrida
 - [[Framework do Gênio — O Que Faria Sem Medo de Falhar]] — imagine um gênio garantindo sucesso em qualquer caminho; o que você escolheria? resposta "absent the fear of failure" revela o objetivo de carreira real
 - [[Eloquência como Steering de IA — O Poder dos Tokens]] — saber o vocabulário técnico e estético dos domínios (tokens) é o que diferencia quem consegue guiar a IA; word cells + shape rotators = a interseção de liberal arts e tecnologia
+- [[Atributos do PM Top 1% — Manual do Operador]] — dois conjuntos de skills (novos PMs: comunicar, priorizar, executar; seniores: think big, earn trust, driven by impact)
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

@@ -17,6 +17,7 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 - [[Jornada do Cliente — 3 Fases e a Crise do Funil]] — funnels são métrica da empresa, não do cliente; 3 fases: Struggle (problema→interesse) → Evaluation (first value→value realization) → Growth; inclui pré-descoberta
 - [[Primeiros 30 Segundos — Onboarding Mágico]] — usuário novo é lazy, vain e selfish; um ovo por vez; reconstruir a IA no onboarding foi o momento "bet the company" da Gamma; time-to-value <30s
 - [[Momento Aha — Metodologia de Descoberta e Validação]] — brainstorm de ações candidatas → correlação dupla (retenção + conversão) → experimento para provar causalidade; GitLab: 2 users + 2 features em 14 dias
+- [[Copy como Mecanismo de Comprometimento]] — "Commit to My Goal" vs "Continue" → top DAU win; copy testa mais barato que feature; frame em outcome; opt-out intencional > pré-seleção forçada
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]

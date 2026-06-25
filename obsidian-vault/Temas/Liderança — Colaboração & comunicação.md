@@ -34,3 +34,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Priming em Reuniões — Antes de Decidir, Alinhar]] — alinhar objetivo, princípios e modo antes de decidir; sem priming inevitavelmente há cat fight; cabe na convocação em 3 minutos
 - [[Personalidade como Dado — Vulnerabilidade como Desbloqueador]] — declarar seu perfil Big 5 ao time elimina a tradução desnecessária e aumenta a velocidade; vulnerabilidade é a opção menos arriscada das três
 - [[RAPID — Framework de Decisão em Ecossistemas Complexos]] — 1 decisor + papéis claros + regra dos 5 dias; elimina paralisia em produtos interconectados
+- [[Transparência Cognitiva — Compartilhe Como, Não O Que]] — compartilhe como líderes pensam (não só o que decidiram); ritual semanal: verbatim + interpretação + implicação; elimina cadeias de aprovação desnecessárias

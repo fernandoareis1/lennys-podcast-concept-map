@@ -20,6 +20,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Métricas absolutas vs. taxas de conversão]] — times otimizando taxas locais criam incentivo perverso de restringir o funil acima; use números absolutos
 - [[Holdout de longo prazo]] — manter cohort de controle e revisitar experimentos em 3/6/9/12 meses; 30-40% dos winners não têm lift de longo prazo
 - [[Experimentação com amostras pequenas]] — quando A/B não é viável (baixo volume): power analysis primeiro; cidades-gêmeas; diff-in-diff; 80% de confiança; e quando nada funciona, ship na intuição + loop de feedback pós-lançamento
+- [[LLM como Juiz — avaliação automatizada de qualidade]] — eval binário (pass/fail) para um único modo de falha em apps de IA; uso em CI e monitoramento online
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

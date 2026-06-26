@@ -18,6 +18,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Experimentos Wizard of Oz]] — simule a feature sem construir: WhatsApp + interns, screenshot overlay, Typeform; 30 dados pontos > zero; tendência é estável, só a precisão muda
 - [[Medição vs Insight — Instrumentação Rica]] — medição = fato sem contexto; insight = contexto + por quê + ação; eventos com 5-10 propriedades permitem segmentar o "porquê"
 - [[Falha Conclusiva — Design de Experimento Definitivo]] — falha = não aprender; maximize o treatment para poder descartar a hipótese definitivamente e parar de repetir o mesmo teste
+- [[Análise de erros qualitativa para produtos de IA]] — open coding → axial coding → contagem para descobrir modos de falha reais em apps de LLM
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

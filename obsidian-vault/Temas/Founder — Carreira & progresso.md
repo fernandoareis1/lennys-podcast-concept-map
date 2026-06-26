@@ -47,6 +47,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Framework do Gênio — O Que Faria Sem Medo de Falhar]] — imagine um gênio garantindo sucesso em qualquer caminho; o que você escolheria? resposta "absent the fear of failure" revela o objetivo de carreira real
 - [[Eloquência como Steering de IA — O Poder dos Tokens]] — saber o vocabulário técnico e estético dos domínios (tokens) é o que diferencia quem consegue guiar a IA; word cells + shape rotators = a interseção de liberal arts e tecnologia
 - [[Triângulo de Skills do PM — Criador, Dados, GM]] — três vértices: criador, cientista de dados, GM; grandes PMs vivem nas arestas (pico em dois), não no centro médio
+- [[PM Full-Stack — Colapso de Silos de Função]] — IA apaga fronteiras entre PM, design e eng; baseline em todas as três + profundidade em uma; se estende a vendas (SE-fluent) e marketing (campanha completa de uma pessoa)
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

@@ -64,6 +64,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[IA Otimizada para Dopamina vs. Verdade]] — labs otimizam para engajamento/leaderboards em vez de verdade; mesmo ciclo vicioso das redes sociais; a função-objetivo define o produto
 - [[Você É sua Função Objetivo]] — você é o que otimiza; proxies fáceis (cliques, likes, benchmarks) desviam do objetivo real; escolha funções-objetivo ricas e complexas
 - [[Curation para Recommendation para Generation — As 3 Eras da Internet]] — internet foi de curadoria humana → recomendação algorítmica → geração; cada transição exige repensar UX e modelo de negócio do zero
+- [[Refundar com IA — Clean Slate]] — "se fundássemos do zero com a mesma missão, como executaríamos AI-native?" se não consegue alavancar ativos existentes melhor que um entrante, considere uma saída; vantagem da Airtable: no-code como DSL para agentes
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

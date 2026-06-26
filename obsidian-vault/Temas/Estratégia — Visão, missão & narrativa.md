@@ -16,5 +16,7 @@ A missão não é decoração: ela define **o que importa medir**, quem a empres
 - [[Visão como Fotografia do Futuro]] — avance 5 anos, tire uma foto do mundo transformado e volte; 4 critérios: lofty + realistic + sem constraints atuais + problema potente de usuário
 - [[Três Formatos de Comunicação de Visão]] — Mad Libs ("once upon a time"), TechCrunch headline trabalhando de trás para frente, e screenshot visual do futuro
 
+- [[North Star como Filtro de Decisão]] — North Star funcionando de verdade como decisor em ecossistemas complexos; você consegue ver quem a conhece e quem não
+
 ## Fluxos vizinhos
 [[09 - Liderança & Times]] · [[03 - Priorização & Roadmap]]

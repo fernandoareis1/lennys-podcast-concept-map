@@ -24,3 +24,5 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Evidence-Guided vs. Opinion-Based]] — Google+ (opinion) vs. Gmail Tabbed Inbox (evidence); mito Steve Jobs; evidence supercharges, não elimina, a opinião
 - [[Outcome Roadmap vs. Release Roadmap]] — roadmaps de datas de feature matam aprendizado; roadmaps de outcomes liberam o time para encontrar o melhor caminho
 - [[Conectar os Pontos — Estratégia como Cadeia de Lógica]] — estratégia boa é cadeia completa do objetivo de negócio até a feature; pontos faltantes causam confusão silenciosa de stakeholders
+- [[Now/Next/Later — Roadmap por Zona de Certeza]] — substitui Gantt chart por 3 zonas de certeza; agora (detalhado), próximo (vago), depois (direção); datas só onde há dependência real
+- [[Roadmap como Protótipo de Estratégia]] — roadmap não é plano, é protótipo: serve para testar suposições sobre problemas, não para comprometer com soluções; valor está no processo, não no documento

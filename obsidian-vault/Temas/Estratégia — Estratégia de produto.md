@@ -44,6 +44,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Incubação pelo Uso Próprio]] — descubra produtos vivendo no edge da IA; valide com o próprio time primeiro; unbundle de ferramentas gerais para apps específicos; GPT wrappers são legítimos; software vira conteúdo
 - [[Destruir-se antes que Alguém o Destrua — O Imperativo da IA]] — para SaaS estabelecido, AI não é oportunidade mas imperativo de sobrevivência; não dá para fazer pela metade; se o founder não vai all-in, contrate alguém que vai
 - [[Clean Slate com IA — Refundar o Produto]] — "se fundássemos do zero hoje, como executaríamos AI-native?" → 3 respostas: ativos dão vantagem (refunde internamente), ativos são legado (venda), dúvida (honestidade radical sobre o que é vantagem vs. racionalização
+- [[Copiloto, não Piloto — O Desenvolvedor como Arquiteto]] — IA não substitui o desenvolvedor; eleva o nível: de escritor de código para arquiteto de sistemas; junior devs chegam ao nível sistêmico mais cedo
+- [[Adotar IA pelo Problema, não pelo Hype]] — dois erros: esperar mágica sem change management; perguntar "o que fazer com IA?" em vez de "qual problema resolver?"; trabalhar de trás para frente do problema
+- [[Dogfooding como Mecanismo de Inovação]] — "se não conseguimos usar, nossos clientes não conseguem"; nada sai antes de meses cozinhando internamente; GitHub roda no GitHub em todos os personas
 
 - [[Alavancas de Crescimento como Problema de Estratégia]] — novo produto, geo, segmento ou canal nunca pode ser objetivo de um departamento; exige alinhamento de toda a empresa com OKRs compartilhados
 - [[Processo de Estratégia de Produto em 5 Fases]] — playbook operacional de 8-12 semanas: preparação → strategy sprint → design sprint → doc → rollout; alinhamento embutido em cada fase

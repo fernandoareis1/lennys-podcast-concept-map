@@ -60,3 +60,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Isolamento como Inovação]] — silo benéfico para nova linha de produto: localização separada + proteção executiva + liberdade de processo + decisor claro
 - [[Anti-padrões de Reteaming]] — percentual anti-pattern, poof-they're-gone, espalhar high performers destroem a dinâmica que você quer replicar
 - [[Fast Thinking e Slow Thinking — Dois Grupos no EPD]] — EPD dividido em fast (ship semanalmente, jaw-drop, polimatas) e slow (infraestrutura robusta, meses); sem ambos, produto ou morre de irrelevância ou não retém
+- [[Time de Pesquisa que Chega à Produção]] — evitar os dois modos de falha: universidade (papers sem produção) e super-tático (vira engenharia); GitHub Next: horizonte 3-5 anos + conexão contínua com produto

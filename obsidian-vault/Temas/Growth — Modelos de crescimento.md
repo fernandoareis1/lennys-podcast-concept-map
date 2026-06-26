@@ -43,6 +43,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Comunicação como Sentimento — Voz Irreverente de Marca]] — comunicação é fazer o receptor sentir algo; voz única (inesperada, engraçada, irreverente) é a base de word-of-mouth orgânico e brand durável
 - [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] — paid é dependência; sem LTV, CAC não tem sentido; low-hanging fruit seca com escala; orgânico (AB, brand, PR, retenção) é o único modelo que não esconde problemas do produto
 - [[Máquina de Word-of-Mouth — Sinal Real de PMF]] — PMF real é quando WoM orgânico dispara sozinho; se >50% da aquisição vem de paid, o motor está quebrado; performance marketing amplifica sinal — não o cria
+- [[Auditoria de Funil PLG]] — 4 checkpoints (landing page → signup → aha moment → checkout); cruzar experiência qualitativa com dados; PLG é DLG: produto grátis como câmbio de dados de comportamento
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

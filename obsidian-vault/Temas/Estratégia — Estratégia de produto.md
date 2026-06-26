@@ -75,6 +75,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Bundling vs Unbundling — O Ciclo Histórico]] — software alterna entre bundling e unbundling com cada ruptura tecnológica; IA é o próximo momento de re-bundling
 - [[Três Partes da Estratégia de Produto]] — visão (imagem do futuro) + framework estratégico (onde jogar/como ganhar) + roadmap como teste de sanidade, não compromisso
 - [[Fundamentalmente Diferente, Não Incrementalmente Melhor]] — só produtos categoricamente distintos geram amor fanático e WoM; incrementalmente melhor nunca atinge Sean Ellis >50%
+- [[Foundation Sprint — Alinhar Antes de Construir]] — 10 horas antes de qualquer protótipo: alinhar nas basics (quem, qual problema, quais concorrentes) + differentiators; dois modos de falha: não saber ou nunca testar
+- [[Hipótese Fundadora — Tornar o Implícito Explícito]] — "se resolvermos X para Y com Z, eles vão nos escolher sobre W por causa de A e B"; torna hipóteses testáveis em vez de debates eternos
+- [[IA Produz o Genérico — Pensar Fundo Antes de Vibar]] — LLMs treinados em produtos existentes geram o médio do mercado; Foundation Sprint primeiro, depois IA para construir o protótipo diferenciado
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

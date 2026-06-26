@@ -7,10 +7,14 @@ Co-autores de *Sprint* (metodologia de design sprint para times de produto) e *M
 
 *Make Time* é uma rejeição da obsessão com produtividade como throughput, e uma proposta de redesenhar dias em torno de atenção com intenção.
 
-## Episódio
-🎧 [Lenny's Podcast — Making time for what matters](https://www.youtube.com/watch?v=cuce7zvOFHY)
+## Episódios
+🎧 [Lenny's Podcast — Making time for what matters (Make Time)](https://www.youtube.com/watch?v=cuce7zvOFHY)
+🎧 [Lenny's Podcast — Foundation Sprint (produto/startups)](https://www.youtube.com/watch?v=cuce7zvOFHY)
 
 ## Conceitos gerados
 - [[Highlight — A Âncora do Dia]]
 - [[Infinity Pools — Armadilha da Atenção]]
 - [[Barreiras vs. Força de Vontade — Design do Ambiente]]
+- [[Foundation Sprint — Alinhar Antes de Construir]]
+- [[Hipótese Fundadora — Tornar o Implícito Explícito]]
+- [[IA Produz o Genérico — Pensar Fundo Antes de Vibar]]

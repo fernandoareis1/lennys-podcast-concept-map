@@ -42,6 +42,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Adiar Títulos de Cargo — Head-of em vez de VP]] — director/VP causam mais tensão e promoção indevida; uma vez dados não dá para tirar sem demitir; use "head of" e "lead" que descrevem escopo sem criar hierarquia inflada
 - [[Counter-programar a narrativa]] — ao ser criticado ou mal interpretado, não defenda: tome uma ação pequena que demonstra o oposto do que você teme que o outro pense; baseado em ativação comportamental (CBT)
 - [[Habit Formation com IA — Recompensa antes de Accountability]] — adoção de IA como hábito, não educação; consistência + fricção zero + loop de recompensa imediato e emocional; 30 dias de GPT; comece com casos não-trabalho
+- [[Top 1% PM — As Habilidades que Separam]] — novos PMs: comunicar, priorizar, executar; seniors: pensar grande, construir confiança, orientado a impacto; as habilidades mais importantes mudam conforme você sobe
+- [[Confiança como Moeda do PM]] — confiança = moeda do líder; construída por definir e cumprir expectativas repetidamente; stakes aumentam conforme você sobe
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Priorização & Roadmap
-autores: [Bill Carr]
+autores: [Bill Carr, Ian McAllister]
 ---
 # PR/FAQ — Trabalhar ao Contrário
 **Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Estratégia vs execução]] · **Camada:** L3
@@ -32,5 +32,13 @@ A revisão em círculos concêntricos (de uma pessoa → para o time → para li
 - "A data do PR é um sinal direcional de complexidade percebida. Diz ao leitor se você acha que é algo para o próximo mês ou para um ano."
 > 🎧 [Unpacking Amazon's unique ways of working (1:33:28)](https://www.youtube.com/watch?v=S9WHQa_AJQo) · 2023-11-02
 
+### [[Ian McAllister]]
+- "O erro número um que vejo: as pessoas não trabalham de trás para frente. Elas têm uma solução que querem construir e então retroencaixam o problema. O mecanismo de PR/FAQ é exatamente para prevenir isso."
+- Anti-padrão: "ingredientes na dispensa" — temos essas duas tecnologias, poderíamos combiná-las e fazer algo. Isso não é working backwards; é technology-first.
+- Critérios de Bezos para investir em algo novo: **(1) é uma grande ideia? (2) é algo que deveríamos fazer? (3) há um plano legítimo de sucesso?** — o FAQ responde ao terceiro ponto.
+- "Se você não tem um parágrafo de problema no PR, talvez não exista um problema de verdade." Bezos identificou isso em revisão de PR que Ian apresentou — ele havia pulado o parágrafo porque já tinha a solução em mente.
+- O espírito importa mais que o mecanismo: se o time já tem o músculo de começar pelo problema, o PR/FAQ vira uma ferramenta opcional, não um processo obrigatório.
+> 🎧 [What it takes to become a top 1% PM (0:47:11)](https://www.youtube.com/watch?v=7gaPPrAd7nc)
+
 ## Conceitos relacionados
-[[Três PR FAQs divergentes]] · [[Problem Space vs Solution Space]] · [[Tudo no backlog é uma aposta]]
+[[Três PR FAQs divergentes]] · [[Problem Space vs Solution Space]] · [[Tudo no backlog é uma aposta]] · [[Top 1% PM — As Habilidades que Separam]]

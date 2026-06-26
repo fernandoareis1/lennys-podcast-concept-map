@@ -23,3 +23,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[GIST — Camadas do Desenvolvimento de Produto]] — Goals/Ideas/Steps/Tasks; diagnóstico por camada; Steps são marcos de aprendizado, não de feature; GIST Board para times
 - [[Evidence-Guided vs. Opinion-Based]] — Google+ (opinion) vs. Gmail Tabbed Inbox (evidence); mito Steve Jobs; evidence supercharges, não elimina, a opinião
 - [[Outcome Roadmap vs. Release Roadmap]] — roadmaps de datas de feature matam aprendizado; roadmaps de outcomes liberam o time para encontrar o melhor caminho
+- [[Conectar os Pontos — Estratégia como Cadeia de Lógica]] — estratégia boa é cadeia completa do objetivo de negócio até a feature; pontos faltantes causam confusão silenciosa de stakeholders

@@ -73,6 +73,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Sugar-Coated Broccoli — Embrulhar a Visão no Familiar]] — embrulhe a visão radical (brócolis) em forma familiar (açúcar); as pessoas adotam o açúcar e recebem o brócolis junto
 - [[Lego para Software — Primitivas vs Soluções]] — primitivas composáveis (bricks) vs soluções pré-montadas (boxes); ao subir upmarket, venda boxes mas mantenha bricks por baixo
 - [[Bundling vs Unbundling — O Ciclo Histórico]] — software alterna entre bundling e unbundling com cada ruptura tecnológica; IA é o próximo momento de re-bundling
+- [[Três Partes da Estratégia de Produto]] — visão (imagem do futuro) + framework estratégico (onde jogar/como ganhar) + roadmap como teste de sanidade, não compromisso
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

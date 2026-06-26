@@ -2,7 +2,7 @@
 tipo: framework
 fluxo: Growth & Aquisição
 nivel: 3
-autores: [Elena Verna, Annie Pearl, Carilu Dietrich, Christopher Miller]
+autores: [Elena Verna, Annie Pearl, Carilu Dietrich, Christopher Miller, Hila Qu]
 ---
 # Product-Led Growth (PLG)
 
@@ -40,6 +40,16 @@ O **produto** assume alavancas de crescimento (aquisição, ativação, monetiza
 - Exemplo HubSpot: cliente entra pelo produto, ativa sozinho, mas às vezes quer falar com alguém para negociar preço ou migrar dados — isso não torna o modelo "não-PLG", é o backstop funcionando.
 - Erro mais comum: contratar um head de growth sem recursos (sem tooling, sem eng, sem dados) e esperar resultados; ou desistir antes do PLG ter ciclos suficientes para mostrar retorno.
 - "A bad data hygiene is one of the biggest mistakes. If you can't measure what's happening, why?"
+
+### [[Hila Qu]]
+- "PLG é, fundamentalmente, DLG — data-led growth. Quando você dá o produto gratuitamente, o que quer em troca são duas coisas: maior alcance e dados de comportamento de uso. Sem essa fundação de dados, você está dando produto de graça por nada."
+- Red flags de falso comprometimento com PLG: (1) achar que free trial = PLG pronto; (2) atribuir a uma só pessoa sem equipe dedicada; (3) fazer PLG porque está na moda, não por fit estratégico do produto.
+- A diferença crucial entre SLG e PLG: no sales-led, interesse se mede por interação com campanhas de marketing (abriu email, leu whitepaper). No PLG, **uso do produto** substitui isso como indicador principal. O aha moment é o novo MQL.
+- Auditoria como primeiro passo: percorra o funil como usuário final — landing page, signup, aha moment, checkout, primeiros emails — e mapeie onde há mais oportunidade. Combinação de experiência pessoal + dados de cada etapa revela os low-hanging fruits.
+- GitLab's aha moment: 2 usuários usando 2 features nos primeiros 14 dias. O processo: listar ações de alto valor → análise de correlação com conversão + retenção a 90 dias → experimentos para provar causalidade.
+- "Do > Show > Tell": para ativação, dar ao usuário algo para fazer imediatamente (template, sample data) supera demonstração, que supera explicação.
+
+> 🎧 [The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab) (1:33:23)](https://www.youtube.com/watch?v=7l1fIxk7SnA) · 2023-04-02
 
 ### [[Elena Verna]] (episódio 2)
 - PLG é a base do PLS: produto adquire/ativa indivíduos → produto cria pipeline → vendas fecha enterprise.

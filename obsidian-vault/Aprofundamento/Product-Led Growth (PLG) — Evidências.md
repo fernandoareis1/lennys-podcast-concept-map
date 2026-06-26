@@ -3,11 +3,11 @@ tipo: aprofundamento
 nivel: 4
 fluxo: Growth & Aquisição
 conceito_pai: Product-Led Growth (PLG)
-autores: [Elena Verna, Annie Pearl, Carilu Dietrich]
+autores: [Elena Verna, Annie Pearl, Carilu Dietrich, Christopher Miller, Hila Qu]
 ---
 # 📜 Product-Led Growth (PLG) — Evidências
 **↑ Card:** [[Product-Led Growth (PLG)]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L4
-**Fontes:** [[Elena Verna]] · [[Annie Pearl]] · [[Carilu Dietrich]]
+**Fontes:** [[Elena Verna]] · [[Annie Pearl]] · [[Carilu Dietrich]] · [[Christopher Miller]] · [[Hila Qu]]
 
 ---
 
@@ -56,14 +56,37 @@ Atlassian passou de US$ 100M a US$ 500M sem time de vendas prospectando net new.
 
 ---
 
+## Hila Qu — PLG é DLG: o produto grátis em troca de dados comportamentais
+
+Hila Qu oferece a reframe mais direta sobre a natureza do PLG: é, fundamentalmente, **data-led growth**. O produto gratuito não é altruísmo nem estratégia de aquisição pura — é uma troca explícita: alcance mais amplo em troca de dados de comportamento de uso que o modelo de vendas jamais geraria.
+
+> "Quando você dá o produto gratuitamente, o que quer em troca são duas coisas: alcance mais amplo, porque produto gratuito se espalha com menor barreira de entrada, e dados de comportamento de uso — quais features os usuários gratuitos usam, quais correlacionam com conversão e retenção. Sem essa fundação de dados, você está dando produto de graça por nada."
+
+**O aha moment como substituto do MQL.** No funil sales-led, interesse se media por pontos de engajamento com marketing (abriu email, leu whitepaper, foi ao webinar). No PLG, uso do produto substitui isso: quem atingiu o aha moment é quem merece atenção de vendas. Na GitLab, o aha moment foi descoberto por processo sistemático:
+
+1. Liste ações de alto valor hipotéticas (merge de PR, primeiro pipeline rodando)
+2. Faça correlação de cada ação com taxa de conversão + retenção em 90 dias
+3. Identifique as que mais elevam ambos os indicadores acima da média
+4. Lance experimentos para provar causalidade (correlação não é suficiente)
+
+O resultado: **2 usuários usando 2 features nos primeiros 14 dias**. Os "2 usuários" capturavam o componente colaborativo da plataforma; as "2 features" qualquer combinação de alta-valor, dado que GitLab é plataforma multifuncional.
+
+**Auditoria do funil como primeiro ato.** Antes de escolher onde investir, percorra o funil como usuário final — landing page, signup, experiência de produto, checkout, primeiros emails. Combine essa experiência pessoal com dados de conversão em cada etapa. Low-hanging fruits aparecem imediatamente (ex: formulário de checkout pedindo campos irrelevantes para o mercado local; usuário travado no primeiro passo sem saber o que fazer).
+
+> "Quando faço essa auditoria, há sempre muitos low-hanging fruits no processo. Um cliente: quando fui ao checkout, o formulário era tão confuso que travei. Eles perguntavam coisas que só clientes do Reino Unido precisam responder — e eu, baseada nos EUA, abandonei ali."
+
+**Princípio Do > Show > Tell.** Para ativação, a hierarquia é: dar ao usuário algo para **fazer** imediatamente (template, sample data, demo interativo) supera mostrar (walkthrough), que supera explicar (texto/video). Remove fricção do primeiro momento de valor.
+
+---
+
 ## Síntese e playbook
 
-| Dimensão | Elena Verna | Annie Pearl | Carilu Dietrich |
-|---|---|---|---|
-| **Definição** | Produto assume alavancas | Loop viral de distribuição | Sem vendas; R&D financia crescimento |
-| **Risco** | Confundir demand gen com PLG | Contratar hunters em vez de growers | Bundle no lançamento freia conversão |
-| **Sinal de PMF** | Produto faz seu trabalho nas alavancas | 70% via loop viral | 20–40 usuários pagando antes de AE |
-| **Transição SLG** | Gradual, por alavanca | Inbound/grower, não outbound | Threshold-based; vendas amplificam, não prospectam |
+| Dimensão | Elena Verna | Annie Pearl | Carilu Dietrich | Hila Qu |
+|---|---|---|---|---|
+| **Definição** | Produto assume alavancas | Loop viral de distribuição | Sem vendas; R&D financia crescimento | PLG = DLG: troca de produto por dados comportamentais |
+| **Risco** | Confundir demand gen com PLG | Contratar hunters em vez de growers | Bundle no lançamento freia conversão | Falso comprometimento; sem dados, produto grátis é desperdício |
+| **Sinal de PMF** | Produto faz seu trabalho nas alavancas | 70% via loop viral | 20–40 usuários pagando antes de AE | Aha moment definido por correlação e validado por experimento |
+| **Transição SLG** | Gradual, por alavanca | Inbound/grower, não outbound | Threshold-based; vendas amplificam, não prospectam | PQL/PQA por sinal de uso + ICP; auditoria revela onde investir |
 
 **Playbook condensado:**
 1. Escolha uma alavanca para o produto assumir primeiro (aquisição via SEO, ativação via onboarding, expansão via loop viral)

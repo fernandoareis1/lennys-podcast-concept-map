@@ -70,6 +70,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Curation para Recommendation para Generation — As 3 Eras da Internet]] — internet foi de curadoria humana → recomendação algorítmica → geração; cada transição exige repensar UX e modelo de negócio do zero
 - [[Power Progression — Quando Cada Poder Emerge]] — cada tipo de poder tem janela de disponibilidade; counter-positioning é o poder da fase de origination
 - [[Excelência Operacional ≠ Estratégia]] — excelência operacional é necessária mas imitável; só vira poder quando é opaca e material (process power raro)
+- [[Sugar-Coated Broccoli — Embrulhar a Visão no Familiar]] — embrulhe a visão radical (brócolis) em forma familiar (açúcar); as pessoas adotam o açúcar e recebem o brócolis junto
+- [[Lego para Software — Primitivas vs Soluções]] — primitivas composáveis (bricks) vs soluções pré-montadas (boxes); ao subir upmarket, venda boxes mas mantenha bricks por baixo
+- [[Bundling vs Unbundling — O Ciclo Histórico]] — software alterna entre bundling e unbundling com cada ruptura tecnológica; IA é o próximo momento de re-bundling
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

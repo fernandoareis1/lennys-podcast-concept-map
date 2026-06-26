@@ -61,3 +61,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Anti-padrões de Reteaming]] — percentual anti-pattern, poof-they're-gone, espalhar high performers destroem a dinâmica que você quer replicar
 - [[Fast Thinking e Slow Thinking — Dois Grupos no EPD]] — EPD dividido em fast (ship semanalmente, jaw-drop, polimatas) e slow (infraestrutura robusta, meses); sem ambos, produto ou morre de irrelevância ou não retém
 - [[Time de Pesquisa que Chega à Produção]] — evitar os dois modos de falha: universidade (papers sem produção) e super-tático (vira engenharia); GitHub Next: horizonte 3-5 anos + conexão contínua com produto
+- [[Bus Pequeno — Velocidade por Densidade de Talento]] — meça densidade de talento e receita por funcionário, não headcount; ônibus menor vira esquinas mais fácil; primeiro PM aos 50 pessoas, vendedor após 10M ARR

@@ -74,6 +74,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Lego para Software — Primitivas vs Soluções]] — primitivas composáveis (bricks) vs soluções pré-montadas (boxes); ao subir upmarket, venda boxes mas mantenha bricks por baixo
 - [[Bundling vs Unbundling — O Ciclo Histórico]] — software alterna entre bundling e unbundling com cada ruptura tecnológica; IA é o próximo momento de re-bundling
 - [[Três Partes da Estratégia de Produto]] — visão (imagem do futuro) + framework estratégico (onde jogar/como ganhar) + roadmap como teste de sanidade, não compromisso
+- [[Fundamentalmente Diferente, Não Incrementalmente Melhor]] — só produtos categoricamente distintos geram amor fanático e WoM; incrementalmente melhor nunca atinge Sean Ellis >50%
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

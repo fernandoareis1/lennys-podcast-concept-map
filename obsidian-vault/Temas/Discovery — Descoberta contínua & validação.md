@@ -22,6 +22,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Clientes de Referência — PMF por reputação]] — PMF = ter 6-8 (B2B) ou 15-25 (B2C) clientes que colocam reputação em jogo para recomendar; faça manual antes de automatizar
 - [[Co-criar com Alpha Group]] — construir produto com pequeno grupo de usuários reais; só lança amplo quando o alpha está "super, super happy"
 - [[Validação Externa não é PMF]] — aceitar no YC, investidor interessado, press coverage — nenhum desses é PMF; confundir validação externa com PMF é o erro mais comum; PMF = cliente volta e usa
+- [[Segmentação Bullseye — Produto que Falhou]] — quando Sean Ellis Score geral decepciona, segmente por cohort para encontrar o nicho que ama o produto; esse wedge revela o problema de onboarding, não de produto
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

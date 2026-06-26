@@ -64,6 +64,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[IA Otimizada para Dopamina vs. Verdade]] — labs otimizam para engajamento/leaderboards em vez de verdade; mesmo ciclo vicioso das redes sociais; a função-objetivo define o produto
 - [[Você É sua Função Objetivo]] — você é o que otimiza; proxies fáceis (cliques, likes, benchmarks) desviam do objetivo real; escolha funções-objetivo ricas e complexas
 - [[Curation para Recommendation para Generation — As 3 Eras da Internet]] — internet foi de curadoria humana → recomendação algorítmica → geração; cada transição exige repensar UX e modelo de negócio do zero
+- [[Power Progression — Quando Cada Poder Emerge]] — cada tipo de poder tem janela de disponibilidade; counter-positioning é o poder da fase de origination
+- [[Excelência Operacional ≠ Estratégia]] — excelência operacional é necessária mas imitável; só vira poder quando é opaca e material (process power raro)
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

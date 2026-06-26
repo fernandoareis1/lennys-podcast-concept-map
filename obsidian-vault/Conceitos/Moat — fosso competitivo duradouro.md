@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Andrew Wilkinson]
+autores: [Andrew Wilkinson, Hamilton Helmer]
 ---
 # Moat — fosso competitivo duradouro
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
@@ -27,5 +27,10 @@ Moat (fosso) é o que torna um negócio difícil de copiar — e é o critério 
 - "Elon comprou o X, mudou o nome, 80% das pessoas foram embora. O que sobrou? A rede. O efeito de rede. É o que sustentou o negócio."
 > 🎧 [I've run 75+ businesses. Here's why you're probably chasing the wrong idea. (1:28:28)](https://www.youtube.com/watch?v=VxAwUb86MUE)
 
+### [[Hamilton Helmer]]
+- "Power requer benefício E barreira. Moat é a barreira — mas moat em torno de uma propriedade indesejável não te leva a lugar nenhum."
+- "Você pode ter um castelo (benefício) sem ter um moat suficientemente profundo. Entender *por que* é um castelo e não uma cabana é onde a maioria falha."
+> 🎧 [Business strategy with Hamilton Helmer (author of 7 Powers) (1:08:08)](https://www.youtube.com/watch?v=hKq1_KPSqy0)
+
 ## Conceitos relacionados
-[[Fish where the fish are — nicho e boring business]] · [[Pain is the New Moat]] · [[DHM Model]] · [[Estratégia — Posicionamento & diferenciação]]
+[[7 Powers — Fontes de Vantagem Competitiva Durável]] · [[Fish where the fish are — nicho e boring business]] · [[Pain is the New Moat]] · [[DHM Model]] · [[Estratégia — Posicionamento & diferenciação]]

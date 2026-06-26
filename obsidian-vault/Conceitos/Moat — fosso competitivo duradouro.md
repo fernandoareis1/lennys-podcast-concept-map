@@ -2,11 +2,11 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Andrew Wilkinson]
+autores: [Andrew Wilkinson, Hamilton Helmer]
 ---
 # Moat — fosso competitivo duradouro
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
-**Tipo:** Framework · **Fontes:** [[Andrew Wilkinson]]
+**Tipo:** Framework · **Fontes:** [[Andrew Wilkinson]] · [[Hamilton Helmer]]
 
 ## Ideia central
 Moat (fosso) é o que torna um negócio difícil de copiar — e é o critério central na compra de empresas pela Tiny. Existem três formas principais: (1) marca forte (poder de precificação + lealdade), (2) efeito de rede (cada novo usuário torna a plataforma mais valiosa para todos), (3) altos custos de troca (sair custa mais do que ficar). A presença de um moat é o que separa um negócio que pode ser "estragado" de um que sobrevive a gestão mediana.
@@ -27,5 +27,13 @@ Moat (fosso) é o que torna um negócio difícil de copiar — e é o critério 
 - "Elon comprou o X, mudou o nome, 80% das pessoas foram embora. O que sobrou? A rede. O efeito de rede. É o que sustentou o negócio."
 > 🎧 [I've run 75+ businesses. Here's why you're probably chasing the wrong idea. (1:28:28)](https://www.youtube.com/watch?v=VxAwUb86MUE)
 
+### [[Hamilton Helmer]]
+- Moat = barrier (o que protege). Mas Warren Buffett — "castelos protegidos por fossos inalcançáveis" — cobre a parte do barrier. Para ter poder, você também precisa do "castelo": um benefício real (custo menor ou preço maior que o concorrente).
+- Moat é sinônimo de barrier, não de power. Poder = benefício + barrier juntos.
+- Excelência operacional parece um moat mas geralmente não é — pode ser copiada por consultores ou contratação. A exceção: processos tão complexos e opacos que ninguém consegue imitar (ex.: TSMC, Toyota).
+- "Se você parar de correr na esteira da excelência operacional, vai ser destruído — mas isso não é poder."
+
+> 🎧 [Business strategy with Hamilton Helmer (author of 7 Powers) (1:08:08)](https://www.youtube.com/watch?v=hKq1_KPSqy0) · 2024-05-05
+
 ## Conceitos relacionados
-[[Fish where the fish are — nicho e boring business]] · [[Pain is the New Moat]] · [[DHM Model]] · [[Estratégia — Posicionamento & diferenciação]]
+[[Fish where the fish are — nicho e boring business]] · [[Pain is the New Moat]] · [[DHM Model]] · [[Estratégia — Posicionamento & diferenciação]] · [[7 Powers — Fontes de Poder Competitivo]]

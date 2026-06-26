@@ -57,3 +57,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Autonomia na Camada VP — O Ponto Ótimo da Organização]] — autonomia no nível folha (squads) = 100 estratégias em 100 direções; autonomia no topo = gargalo; ponto ótimo é na camada VP: sênior o suficiente para padrões, numeroso o suficiente para não travar
 - [[5 Padrões de Reteaming]] — one by one, grow & split, merge, isolation e switching: os 5 padrões recorrentes de mudança de times; reteaming é estado contínuo, não evento excepcional
 - [[Isolamento como Inovação — Team Off to the Side]] — separar um time fisicamente + liberdade de processo + sponsor executivo = condições para inovação radical fora do core business
+- [[Loop de Recompensa — Poderoso, Imediato, Emocional]] — mudança de comportamento no time (e no produto) requer reward loop poderoso + imediato + emocional; auditoria dos loops acidentais que você está criando ao elogiar certos comportamentos

@@ -34,3 +34,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Priming em Reuniões — Antes de Decidir, Alinhar]] — alinhar objetivo, princípios e modo antes de decidir; sem priming inevitavelmente há cat fight; cabe na convocação em 3 minutos
 - [[Personalidade como Dado — Vulnerabilidade como Desbloqueador]] — declarar seu perfil Big 5 ao time elimina a tradução desnecessária e aumenta a velocidade; vulnerabilidade é a opção menos arriscada das três
 - [[RAPID + Regra dos 5 Dias — Decisão em Ecossistemas Complexos]] — um único decisor (D) + escalada automática em 5 dias; para produtos com múltiplos marketplaces e stakeholders
+- [[Modelo Mental dos Stakeholders]] — notas semanais de liderança no Slack (verbatim + interpretação + implicação) + perguntas mágicas (afirmação + "você concorda?"); o time toma decisões sozinho quando entende como os líderes pensam

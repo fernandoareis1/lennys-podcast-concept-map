@@ -56,3 +56,6 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Contratar o Segundo ao Mando — Lieutenants de Best-in-Class]] — para contratar líder funcional: identifique empresa best-in-class no segmento + função; contrate o segundo ao mando (não o líder), que está pronto para o próximo nível
 - [[Primeiro PM de Dentro — Evitar a Rejeição pelo Organismo]] — primeiro PM deve ser engenheiro/designer/analista já na empresa; PM externo pode ser "rejeitado pelo organismo"; confiança bilateral (founder + engenheiros) é pré-requisito
 - [[Autonomia na Camada VP — O Ponto Ótimo da Organização]] — autonomia no nível folha (squads) = 100 estratégias em 100 direções; autonomia no topo = gargalo; ponto ótimo é na camada VP: sênior o suficiente para padrões, numeroso o suficiente para não travar
+- [[5 Padrões de Reteaming]] — one by one, grow and split, merging, isolation, switching; reteaming é inevitável, melhor dominá-lo do que resistir
+- [[Isolamento como Inovação]] — silo benéfico para nova linha de produto: localização separada + proteção executiva + liberdade de processo + decisor claro
+- [[Anti-padrões de Reteaming]] — percentual anti-pattern, poof-they're-gone, espalhar high performers destroem a dinâmica que você quer replicar

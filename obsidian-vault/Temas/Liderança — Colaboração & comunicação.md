@@ -35,3 +35,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Personalidade como Dado — Vulnerabilidade como Desbloqueador]] — declarar seu perfil Big 5 ao time elimina a tradução desnecessária e aumenta a velocidade; vulnerabilidade é a opção menos arriscada das três
 - [[Ditador Benevolente]] — nomear uma pessoa com expertise de domínio como árbitro de qualidade; evita paralisia de comitê sem sacrificar rigor
 - [[RAPID + Regra dos 5 Dias]] — mapeie quem decide (D único no RAPID) e escale em 5 dias; 3 emails → liga; 20 min de call → escreve para o decisor
+- [[Reteaming Transparente — Whiteboards e Self-Selection]] — mostre o plano de reorg antes de estar pronto; whiteboards com nomes + missões + vagas; framework RIDE para clareza de quem decide vs. quem dá input

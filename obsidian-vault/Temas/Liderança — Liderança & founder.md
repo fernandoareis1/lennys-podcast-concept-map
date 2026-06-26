@@ -40,6 +40,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Velocidade como Anti-Burnout]] — burnout vem de esforço sem movimento; alta velocidade + impacto visível = flow state; trabalho significativo previne burnout melhor que redução de horas
 - [[Armadilha do Gerente Médio — Responsabilidade sem Autoridade]] — gerente médio tem responsabilidade pelos resultados mas sem autoridade real: sem budget, sem poder de contratar/demitir, sem voz na estratégia
 - [[Adiar Títulos de Cargo — Head-of em vez de VP]] — director/VP causam mais tensão e promoção indevida; uma vez dados não dá para tirar sem demitir; use "head of" e "lead" que descrevem escopo sem criar hierarquia inflada
+- [[Counter-programar a narrativa]] — ao ser criticado ou mal interpretado, não defenda: tome uma ação pequena que demonstra o oposto do que você teme que o outro pense; baseado em ativação comportamental (CBT)
+- [[Habit Formation com IA — Recompensa antes de Accountability]] — adoção de IA como hábito, não educação; consistência + fricção zero + loop de recompensa imediato e emocional; 30 dias de GPT; comece com casos não-trabalho
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

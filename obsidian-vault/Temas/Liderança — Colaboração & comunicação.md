@@ -36,3 +36,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Ditador Benevolente]] — nomear uma pessoa com expertise de domínio como árbitro de qualidade; evita paralisia de comitê sem sacrificar rigor
 - [[RAPID + Regra dos 5 Dias]] — mapeie quem decide (D único no RAPID) e escale em 5 dias; 3 emails → liga; 20 min de call → escreve para o decisor
 - [[Reteaming Transparente — Whiteboards e Self-Selection]] — mostre o plano de reorg antes de estar pronto; whiteboards com nomes + missões + vagas; framework RIDE para clareza de quem decide vs. quem dá input
+- [[Transmitir como o Líder Pensa]] — compartilhe com o time como executivos pensam (não só o que decidiram); weekly rundown com verbatim + interpretação; perguntas mágicas: afirmações + "você concorda?" extraem modelos mentais mais rápido que perguntas abertas

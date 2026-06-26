@@ -19,5 +19,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Medição vs Insight — Instrumentação Rica]] — medição = fato sem contexto; insight = contexto + por quê + ação; eventos com 5-10 propriedades permitem segmentar o "porquê"
 - [[Falha Conclusiva — Design de Experimento Definitivo]] — falha = não aprender; maximize o treatment para poder descartar a hipótese definitivamente e parar de repetir o mesmo teste
 
+- [[Análise de Erro com Open Coding]] — revisar traces manualmente → open codes → axial codes; saturação teórica como critério de parada
+
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

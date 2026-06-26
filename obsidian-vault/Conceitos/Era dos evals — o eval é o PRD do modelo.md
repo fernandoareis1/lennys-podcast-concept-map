@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Brendan Foody]
+autores: [Brendan Foody, Hamel Husain, Shreya Shankar]
 ---
 # Era dos evals — o eval é o PRD do modelo
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -33,5 +33,19 @@ O mercado de trabalho humano especializado em escrever evals é uma nova categor
 
 > 🎧 [Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (1:07:08)](https://www.youtube.com/watch?v=ja6fWTDPQl4) · 2025-09-18
 
+### [[Hamel Husain]]
+- "Evals é uma forma de medir e melhorar sistematicamente uma aplicação de IA — no fundo, é data analytics no seu app de LLM."
+- "A atividade de maior ROI que você pode fazer ao construir um produto de IA é olhar os seus dados (traces)."
+- "Quando você está construindo um app de IA e encontra algo errado, vá lá e conserte. O objetivo não é ter uma bela suite de evals — é melhorar a aplicação."
+> 🎧 [Why AI evals are the hottest new skill for product builders (1:46:33)](https://www.youtube.com/watch?v=BsWxPI9UM4c)
+
+### [[Shreya Shankar]]
+- "O eval é a especificação viva do produto: você descobre falhas que nunca teria imaginado antes de ver os dados. Isso vai mudar o seu PRD."
+- "Existem muitas formas incorretas de fazer evals, mas também muitas formas corretas. Depende de onde você está no produto e dos recursos disponíveis."
+> 🎧 [Why AI evals are the hottest new skill for product builders (1:46:33)](https://www.youtube.com/watch?v=BsWxPI9UM4c)
+
+## Aprofundamento ⬇
+- [[Era dos evals — Evidências]]
+
 ## Conceitos relacionados
-[[Teste de Turing Econômico]] · [[IA Constitucional]] · [[Construir para o disco futuro]] · [[Non-determinismo em Produtos de IA]] · [[OEC - Overall Evaluation Criterion]]
+[[Análise de Erro com Open Coding]] · [[LLM como Juiz — Avaliador Binário]] · [[IA Constitucional]] · [[Non-determinismo em Produtos de IA]] · [[OEC - Overall Evaluation Criterion]]

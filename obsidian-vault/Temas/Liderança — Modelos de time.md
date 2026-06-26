@@ -17,7 +17,7 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Growth Competency Model]] — 4 quadrantes para contratar e avaliar profissionais de growth
 - [[Times cross-funcionais com especialistas de domínio]] — embutir experts de domínio no time melhora decisões em produtos de conteúdo/expertise
 - [[Organizações como Slime Mold]] — custos de coordenação crescem quadraticamente; big rig vs. enxame; emergência pode ser vantagem
-- [[Compressão do Talent Stack por IA]] — ferramentas de IA dissolvem fronteiras entre papéis; cada handoff eliminado = menos ruído organizacional
+- [[Compressão do Talent Stack por IA]] — ferramentas de IA dissolvem fronteiras entre papéis; cada handoff eliminado = menos ruído organizacional · **⬇ tem aprofundamento**
 - [[Skills-First Hiring]] — converter busca de candidatos por título em busca por skills permite cruzar fronteiras entre indústrias e encontrar 70% de fit que seria invisível
 - [[Contratar pelo ser, não pelo potencial]] — as pessoas fazem o que já fazem, não o que você quer que façam
 - [[Fundadores como funcionários]] — ~15% de ex-fundadores no time: cortam bullshit, operam sem playbook; custo = attrition em ~2 anos
@@ -59,3 +59,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[5 Padrões de Reteaming]] — one by one, grow and split, merging, isolation, switching; reteaming é inevitável, melhor dominá-lo do que resistir
 - [[Isolamento como Inovação]] — silo benéfico para nova linha de produto: localização separada + proteção executiva + liberdade de processo + decisor claro
 - [[Anti-padrões de Reteaming]] — percentual anti-pattern, poof-they're-gone, espalhar high performers destroem a dinâmica que você quer replicar
+- [[Fast Thinking e Slow Thinking — Dois Grupos no EPD]] — EPD dividido em fast (ship semanalmente, jaw-drop, polimatas) e slow (infraestrutura robusta, meses); sem ambos, produto ou morre de irrelevância ou não retém

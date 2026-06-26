@@ -2,11 +2,11 @@
 tipo: insight
 nivel: 3
 fluxo: Liderança & Times
-autores: [Alexander Embiricos, Anton Osika]
+autores: [Alexander Embiricos, Anton Osika, Howie Liu]
 ---
 # Compressão do Talent Stack por IA
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
-**Tipo:** Insight · **Fontes:** [[Alexander Embiricos]]
+**Tipo:** Insight · **Fontes:** [[Alexander Embiricos]] · [[Anton Osika]] · [[Howie Liu]]
 
 ## Ideia central
 À medida que ferramentas de IA se tornam mais capazes, as **fronteiras entre papéis profissionais se comprimem**. O conceito de Scott Belsky de "compressão do talent stack" descreve como cada papel passa a conseguir fazer mais, eliminando fronteiras de comunicação que antes eram necessárias. Na prática da OpenAI: PMs prototipam código, designers fazem PRs, marketers editam strings de interface diretamente do Slack. Cada fronteira eliminada = uma reunião a menos, um handoff a menos, uma oportunidade a menos de distorção da intenção original. Isso não significa que os papéis somem — significa que as especialidades profundas continuam importantes (sistemas engineering, comunicação e colaboração eficaz), mas as tarefas de "passagem" entre papéis podem ser executadas por quem tem o contexto, não apenas quem tem a ferramenta.
@@ -35,5 +35,12 @@ autores: [Alexander Embiricos, Anton Osika]
 - Habilidade cognitiva bruta + mindset de startup (mover rápido, pensar no negócio como um todo) são os atributos que mais correlacionam com sucesso no time.
 > 🎧 [Building Lovable: $10M ARR in 60 days with 15 people (1:09:48)](https://www.youtube.com/watch?v=DZtGxNs9AVg) · 2025-03-09
 
+### [[Howie Liu]]
+- "No grupo de fast thinking, queremos polimatas: PMs que prototipam, designers que entendem modelos, engenheiros com product taste. A liderança define a missão — 'dar superpoderes a field agents' — e o time executa sem aprovação em cascata."
+- O IC CEO como expressão máxima: o CEO deve usar modelos diretamente (via API, chat, agentes), escrever código, e prototipar features. "Você não consegue ser 'chief taste-maker' do produto sem participar, ao menos em parte, de criá-lo."
+- "Atualmente sou o usuário #1 mais caro em custo de inferência da Airtable — é intencionalmente cara. Se você não usa os ingredientes diretamente, não pode degustar a sopa."
+- No contexto do clean slate AI-native: as primitivas no-code da Airtable (componentes, automações, views) funcionam como DSL que um agente pode manipular — eliminando o handoff entre "quem sabe SQL" e "quem sabe o produto". Compressão de talent stack embutida na arquitetura.
+> 🎧 [How we restructured Airtable's entire org for AI (0:22:12)](https://www.youtube.com/watch?v=GT0jtVjRy2E)
+
 ## Conceitos relacionados
-[[Proatividade como Destino dos Agentes]] · [[Times cross-funcionais com especialistas de domínio]] · [[PM responsável por valor e viabilidade]] · [[Liderança — Modelos de time]] · [[Democratização do software via IA]]
+[[Proatividade como Destino dos Agentes]] · [[Times cross-funcionais com especialistas de domínio]] · [[PM responsável por valor e viabilidade]] · [[Liderança — Modelos de time]] · [[Democratização do software via IA]] · [[Compressão do Talent Stack por IA — Evidências]]

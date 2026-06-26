@@ -43,6 +43,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Bloqueador como vantagem]] — o maior obstáculo à adoção pode virar maior driver de crescimento e upsell se você lean into it ao invés de só remover o mínimo; design systems na Figma
 - [[Incubação pelo Uso Próprio]] — descubra produtos vivendo no edge da IA; valide com o próprio time primeiro; unbundle de ferramentas gerais para apps específicos; GPT wrappers são legítimos; software vira conteúdo
 - [[Destruir-se antes que Alguém o Destrua — O Imperativo da IA]] — para SaaS estabelecido, AI não é oportunidade mas imperativo de sobrevivência; não dá para fazer pela metade; se o founder não vai all-in, contrate alguém que vai
+- [[Clean Slate com IA — Refundar o Produto]] — "se fundássemos do zero hoje, como executaríamos AI-native?" → 3 respostas: ativos dão vantagem (refunde internamente), ativos são legado (venda), dúvida (honestidade radical sobre o que é vantagem vs. racionalização
 
 - [[Alavancas de Crescimento como Problema de Estratégia]] — novo produto, geo, segmento ou canal nunca pode ser objetivo de um departamento; exige alinhamento de toda a empresa com OKRs compartilhados
 - [[Processo de Estratégia de Produto em 5 Fases]] — playbook operacional de 8-12 semanas: preparação → strategy sprint → design sprint → doc → rollout; alinhamento embutido em cada fase

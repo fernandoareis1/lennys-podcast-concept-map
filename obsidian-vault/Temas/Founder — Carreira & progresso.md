@@ -48,6 +48,9 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Framework do Gênio — O Que Faria Sem Medo de Falhar]] — imagine um gênio garantindo sucesso em qualquer caminho; o que você escolheria? resposta "absent the fear of failure" revela o objetivo de carreira real
 - [[Eloquência como Steering de IA — O Poder dos Tokens]] — saber o vocabulário técnico e estético dos domínios (tokens) é o que diferencia quem consegue guiar a IA; word cells + shape rotators = a interseção de liberal arts e tecnologia
 - [[Pergunta de Promoção — Tornar o Manager seu Aliado]] — "o que devo trabalhar agora para estar pronto para X?" converte manager de avaliador em aliado; cria comprometimento e especifica alvo de desenvolvimento
+- [[Highlight — A Âncora do Dia]] — escolha uma coisa de 60-90 min que faria o dia valer; não é produtividade máxima, é intenção mínima; ancora o dia mesmo quando o resto é caos
+- [[Infinity Pools — Armadilha da Atenção]] — apps de conteúdo infinito (e-mail, feeds, streaming) + cultura do Busy Bandwagon formam volante de distração; captura atenção no momento de menor resistência
+- [[Barreiras vs. Força de Vontade — Design do Ambiente]] — força de vontade nunca vence apps bem-desenhados; redesenhe o ambiente para tornar a distração mais difícil que o trabalho de foco
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

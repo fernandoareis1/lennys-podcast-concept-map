@@ -65,6 +65,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Você É sua Função Objetivo]] — você é o que otimiza; proxies fáceis (cliques, likes, benchmarks) desviam do objetivo real; escolha funções-objetivo ricas e complexas
 - [[Curation para Recommendation para Generation — As 3 Eras da Internet]] — internet foi de curadoria humana → recomendação algorítmica → geração; cada transição exige repensar UX e modelo de negócio do zero
 - [[Refundar com IA — Clean Slate]] — "se fundássemos do zero com a mesma missão, como executaríamos AI-native?" se não consegue alavancar ativos existentes melhor que um entrante, considere uma saída; vantagem da Airtable: no-code como DSL para agentes
+- [[AI-Driven Testing — Fronteira Subvalorizada]] — enquanto todos focam em geração de código, testing é o gargalo subestimado; IA pode gerar suites completas (unit, carga, segurança, penetração); mais código gerado = testing mais crítico, não menos
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

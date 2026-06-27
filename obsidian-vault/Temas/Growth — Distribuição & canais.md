@@ -40,6 +40,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Press como Ativo de Credibilidade — Não Estratégia de Crescimento]] — imprensa raramente gera crescimento direto; valor real é second-order: "como visto em X" em emails e materiais; defina o objetivo antes de pitchar; wire press releases são armadilha
 - [[Primeiro Sales Hire — Pessoas de Quem Você Compraria]] — contrate dois reps que você compraria seu produto; entreviste 30; prefira quem vendeu produto mais difícil; peça pitch real do seu produto na segunda entrevista
 - [[Budget de Produto para Sales — A Regra dos 10%]] — dê ao VP de sales um budget fixo de produto por trimestre (10%); eles priorizam sozinhos; protege produto do efeito "cauda que abana o cachorro"
+- [[GTM como Produto — Experiência não Transação]] — à medida que software comoditiza, experiência de ser vendido vira diferenciador; projete cada touchpoint do buyer journey com intencionalidade de PM; whiteboarding > discovery chato
+- [[Engenheiro de GTM — Agentes no Processo de Vendas]] — papel emergente: sales expertise + engenharia para construir agentes de IA para workflows repetitivos de GTM; Vercel: 10 SDRs → 1 QA do agente ($1k/yr vs $1M+ em salários); deal-bott analisa calls Gong
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

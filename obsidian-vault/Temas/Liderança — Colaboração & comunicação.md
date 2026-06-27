@@ -37,3 +37,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Modelo Mental dos Stakeholders]] — notas semanais de liderança no Slack (verbatim + interpretação + implicação) + perguntas mágicas (afirmação + "você concorda?"); o time toma decisões sozinho quando entende como os líderes pensam
 - [[Eigenquestion — A Pergunta que Revela Tudo]] — diante de qualquer problema, existe 1-2 perguntas fundamentais cuja resposta determina todas as demais; identificar essa pergunta é a habilidade mais rara de um PM
 - [[Dizer Sim para Aprender — O PM que Fecha Demais]] — PMs defensivos perdem sinal valioso; separar a validade do problema da solução proposta abre colaboração genuína
+- [[Reframing como Ferramenta de Influência]] — "pushback" cria mentalidade adversarial; reframe: identifique o objetivo real da pessoa e mostre como sua proposta chega lá; foque em fins (ganhar, encantar cliente), não em meios (feature, escopo)

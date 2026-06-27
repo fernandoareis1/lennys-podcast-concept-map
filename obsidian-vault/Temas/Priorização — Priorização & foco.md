@@ -31,3 +31,6 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Feature como Adotar um Cachorro]] — dizer sim a uma feature é adotar um cachorro que cresce; 9 nãos para cada sim; produto excelente = mil detalhes; restraint criativo é a condição da qualidade
 - [[Execução sobre Estratégia — Startups Têm Uma Prioridade]] — estratégia é conceito de escola de negócios para grandes corporações; startups só fazem uma coisa por vez; quem quer sessão de estratégia não entende suas prioridades
 - [[Eigenquestion — A Pergunta que Desbloqueia uma Decisão]] — antes de qualquer plano, encontre as 1-2 perguntas cuja resposta determina a maioria das demais decisões; use matriz 2×2 de cenários
+- [[Framework Make Time — Highlight, Laser, Energize, Reflect]] — sistema de 4 etapas para colocar o que importa no centro do dia, mudando defaults em vez de depender de força de vontade
+- [[O Destaque Diário — Highlight como Âncora de Atenção]] — escolher uma única coisa (60–90 min) que tornará o dia memorável; âncora de toda a energia e atenção
+- [[Barreiras à Distração — Laser Mode]] — criar fricção ativa entre você e os Infinity Pools para proteger o tempo do Highlight; a força de vontade nunca vence

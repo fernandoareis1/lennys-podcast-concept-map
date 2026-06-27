@@ -2,13 +2,13 @@
 tipo: framework
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Emilie Gerber]
+autores: [Emilie Gerber, Jason Feifer]
 ---
 # Ângulo de Imprensa — O Fio Puxável
 
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Distribuição & canais]] · **Camada:** L3
 **Tipo:** Framework
-**Fontes:** [[Emilie Gerber]]
+**Fontes:** [[Emilie Gerber]] · [[Jason Feifer]]
 
 ## Ideia central
 O anúncio do produto raramente **é** a história. O trabalho de PR é encontrar o **fio puxável** — o ângulo que conecta o que a empresa quer comunicar com o que os jornalistas e seus leitores querem ler. Sem isso, até bons produtos ficam sem cobertura; com isso, empresas com produtos técnicos e sem nome ganham matérias em Fast Company e CNBC.
@@ -49,5 +49,13 @@ Empresas se perdem em mensagens que funcionam para vendas ("human in the loop co
 
 > 🎧 [The ultimate guide to PR | Emilie Gerber (founder of Six Eastern) (1:33:55)](https://www.youtube.com/watch?v=jW9GzaaRPxk) · 2024-03-21
 
+### [[Jason Feifer]]
+> 🎧 [How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine) (1:42:28)](https://www.youtube.com/watch?v=LZLdoAq3R7Y) · 2023-10-12
+
+- O ângulo certo é o que conecta a história da empresa ao que o editor precisa para servir sua audiência — não o que a empresa quer dizer
+- A fundadora da Butterie (butter dish): o produto não era a história; o teste de mercado improvisado no aeroporto era — "I put that story in the magazine... every time I repeat that story to entrepreneurs, they're all like, totally"
+- Meg O'Hara (pintora canadense): a história não era "artista vende quadros" — era "empreendedora reinventou seu negócio quando o mercado principal fechou durante a Covid"
+- Histórias de sucesso não interessam; histórias de problema resolvido interessam: "success stories are not interesting [...] what's useful is for you to hear how someone else faced challenges that you faced"
+
 ## Conceitos relacionados
-[[PR como Validação de Terceiros]] · [[Pitch de Incumbente — Frame de Referência para Jornalistas]] · [[Marketing como educação]] · [[Content Market Fit]] · [[Ser o Favorito de Alguém]]
+[[PR como Validação de Terceiros]] · [[Pitch de Incumbente — Frame de Referência para Jornalistas]] · [[Marketing como educação]] · [[Content Market Fit]] · [[Ser o Favorito de Alguém]] · [[Missão da Publicação como Guia do Pitch]] · [[Ser Parte da História, Não a História]]

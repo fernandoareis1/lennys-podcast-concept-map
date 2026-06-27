@@ -2,13 +2,13 @@
 tipo: insight
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Emilie Gerber]
+autores: [Emilie Gerber, Jason Feifer]
 ---
 # PR como Validação de Terceiros
 
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Distribuição & canais]] · **Camada:** L3
 **Tipo:** Insight
-**Fontes:** [[Emilie Gerber]]
+**Fontes:** [[Emilie Gerber]] · [[Jason Feifer]]
 
 ## Ideia central
 Para empresas B2B, press **não gera signups diretos** — e esperar isso é o erro mais comum. O valor real é de **segunda ordem**: um logotipo de publicação reconhecida no site/email aumenta credibilidade em vendas (o AE envia o link), recruiting (o recrutador referencia a matéria no LinkedIn) e fundraising (o investidor lê antes da reunião). Para B2C de produto simples e fácil de tentar (como Perplexity), press **pode** gerar crescimento direto — mas é exceção, não regra.
@@ -39,5 +39,13 @@ Perplexity atendeu as três: zero marketing paid, sem head de marketing, só PR.
 
 > 🎧 [The ultimate guide to PR | Emilie Gerber (founder of Six Eastern) (1:33:55)](https://www.youtube.com/watch?v=jW9GzaaRPxk) · 2024-03-21
 
+### [[Jason Feifer]]
+> 🎧 [How to get press for your product | Jason Feifer (editor in chief of Entrepreneur magazine) (1:42:28)](https://www.youtube.com/watch?v=LZLdoAq3R7Y) · 2023-10-12
+
+- Press é "um ótimo complemento" de growth, nunca estratégia primária — imprevisível demais
+- Cobertura na Variety pela Money News Network: "Did we get anything from that story in Variety? The answer is no, like nothing. But you better believe that every email we send out to every potential advertiser includes the link."
+- Recomenda usar o clipping como ad pago targetado: o founder redistribui a credibilidade para o público exato que precisa impressionar
+- "Sometimes what you're looking for is a prize to walk around with" — o prêmio tem valor independente de quantas pessoas leram
+
 ## Conceitos relacionados
-[[Distribuição vence produto]] · [[Lightning Strikes vs. Peanut Butter]] · [[Microapps como canal de crescimento]] · [[Content Market Fit]]
+[[Distribuição vence produto]] · [[Lightning Strikes vs. Peanut Butter]] · [[Microapps como canal de crescimento]] · [[Content Market Fit]] · [[Press como Prêmio Ambulante — "As Seen In"]] · [[Missão da Publicação como Guia do Pitch]]

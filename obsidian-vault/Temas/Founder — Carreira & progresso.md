@@ -50,6 +50,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[PM Full-Stack — Colapso de Silos de Função]] — IA apaga fronteiras entre PM, design e eng; baseline em todas as três + profundidade em uma; se estende a vendas (SE-fluent) e marketing (campanha completa de uma pessoa)
 - [[Top 1% PM — Atributos por Estágio]] — novo PM: comunicar + priorizar + executar; sênior PM: pensar grande + ganhar confiança + ser movido por impacto; confiança = moeda do líder de produto; priorização excelente = 5× o impacto
 - [[Conversa de Promoção com o Manager]] — template para alinhar com o manager sobre próximo nível de carreira; enquadra no futuro para não ameaçar o presente; recruta o manager como aliado em vez de avaliador
+- [[Opportunity Set B — Oportunidades que Ninguém Pede]] — Set A = o que é pedido de você; Set B = o que está disponível mas ninguém pede; crescimento real vive no Set B; quem só faz o A se qualifica apenas para continuar fazendo o que já faz
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

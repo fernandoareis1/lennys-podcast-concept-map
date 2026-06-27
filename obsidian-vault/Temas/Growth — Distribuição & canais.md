@@ -36,6 +36,10 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Ângulo de Imprensa — O Fio Puxável]] — o anúncio raramente é a história; encontre o ângulo: incumbente desafiado, contrário à sabedoria convencional, história humana ou macro-trend; conecte o que a empresa quer dizer com o que jornalistas querem ler
 - [[Micro-Influenciadores em Câmaras de Eco]] — macro + script = ad reconhecível; micro em comunidades fechadas (educadores, consultores) converte 4–5× mais; 90% do alcance vem de <10% dos criadores → lance rede ampla
 - [[Founder-Led Marketing — Capital de Goodwill]] — deposite valor sem expectativa de retorno → construa saldo de goodwill → saque ao amplificar o produto; "nobody wants to read your shit" — o bar é alto
+- [[Missão da Publicação como Guia do Pitch]] — cada publicação tem missão distinta; entender isso é pré-requisito do pitch; editor serve o leitor, não o founder
+- [[Press como Prêmio Ambulante — "As Seen In"]] — histórias atingem 5–10k leitores orgânicos; o valor real é o clipping que você redistribui: logotipo no site, link em emails de vendas, ad pago targetado
+- [[Freelancers como Atalho no Pitch]] — freelancers recebem menos pitches e precisam de histórias para se pagar; taxa de resposta próxima de 100% para pitches relevantes
+- [[Ser Parte da História, Não a História]] — gere dados/relatórios ou ofereça contexto de tendência; Barbara Corcoran Report, Zapier fastest-growing apps, Fred Ruckel e Amazon-eBay arbitrage
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

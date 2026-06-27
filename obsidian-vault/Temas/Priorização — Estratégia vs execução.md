@@ -22,3 +22,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[GIST — Framework de Produto Orientado a Evidência]] — meta-framework que organiza Goals → Ideas (ICE + Confidence Meter) → Steps (build-measure-learn) → Tasks para substituir "plan and execute" por decisões guiadas por evidência
 - [[Now Next Later — Roadmap sem Timeline]] — três buckets (Now/Next/Later) sem eixo de tempo; datas apenas onde realmente existem; respeita o cone de incerteza; inventor: Janna Bastow
 - [[Roadmap como Protótipo de Estratégia]] — roadmap não é plano, é protótipo de estratégia para checar premissas com time e clientes; valor está no processo, não no documento
+- [[Shape Up — Apetite Fixo e Escopo Variável]] — framework do 37signals: apetite (quanto estamos dispostos a gastar) em vez de estimativa; máximo 6 semanas, equipe de 2; work on the downslope; cool-down de 2 semanas entre ciclos

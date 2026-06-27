@@ -24,5 +24,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Validação Externa não é PMF]] — aceitar no YC, investidor interessado, press coverage — nenhum desses é PMF; confundir validação externa com PMF é o erro mais comum; PMF = cliente volta e usa
 - [[Working Backwards — Press Release Interno]] — escreva o problema antes da solução; press release com parágrafo do problema + solução + quote do cliente; FAQ = plano legítimo de sucesso; 3 testes de Bezos: big idea + fit + plano
 
+- [[Bullseye Segment — Coorte que Ama o Produto]] — quando o score geral está abaixo do threshold, segmente para encontrar o subgrupo que já ama; esse é o sinal de PMF latente; construa para expandir esse grupo
+
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

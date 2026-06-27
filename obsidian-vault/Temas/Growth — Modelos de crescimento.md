@@ -45,5 +45,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Máquina de Word-of-Mouth — Sinal Real de PMF]] — PMF real é quando WoM orgânico dispara sozinho; se >50% da aquisição vem de paid, o motor está quebrado; performance marketing amplifica sinal — não o cria
 - [[Auditoria do Funil PLG]] — percorra o funil como usuário final (landing → signup → aha moment → checkout); combine experiência pessoal + dados de conversão por etapa; ativação é o melhor ponto de partida para a maioria dos B2B SaaS
 
+- [[Fanatical Love — Clientes que Amam, Não Apenas Gostam]] — Sean Ellis Score como gate antes de escalar; 50% de "muito desapontados" no Nubank; NPS de 70-95; 80-90% de crescimento via word of mouth
+
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

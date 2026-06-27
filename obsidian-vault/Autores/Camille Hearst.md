@@ -12,3 +12,4 @@ tipo: autor
 - [[Os 3 Pilares do Criador de Sucesso]]
 - [[M&A como Processo de Fundraise]]
 - [[De-riscar os Maiores Bets Primeiro]]
+- [["Do que você se orgulha?" — Revelador de Valores]]

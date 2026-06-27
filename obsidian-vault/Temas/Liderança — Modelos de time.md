@@ -60,3 +60,8 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Loop de Recompensa — Poderoso, Imediato, Emocional]] — mudança de comportamento no time (e no produto) requer reward loop poderoso + imediato + emocional; auditoria dos loops acidentais que você está criando ao elogiar certos comportamentos
 - [[Fast Thinking vs. Slow Thinking — Dois Grupos de Produto]] — dividir EPD em dois grupos: AI Platform (ship semanal, jaw-dropping) e Infrastructure/Scale (deliberado, durável); os dois se complementam: fast cria excitação, slow converte em retenção
 - [[Pesquisa Aplicada Não-Universitária — GitHub Next]] — time de pesquisa de 3-5 anos que não vira universidade (papers sem produção) nem tático (horizonte-1); sucesso = pessoas certas + liberdade + sinergia com produto para fazer coisas reais
+- [[Autoconhecimento como Sinal de Contratação]] — 5 líderes convergem: self-awareness supera competência técnica como preditor de alto potencial; use perguntas que forçam perspectiva honesta
+- [["Do que você se orgulha?" — Revelador de Valores]] — a pergunta favorita de Katie Dill, Karri Saarinen e Camille Hearst; revela gosto, motivação intrínseca e definição pessoal de "bom"
+- [[Navegar Ambiguidade com Estrutura]] — PMs excelentes não eliminam ambiguidade; colocam estrutura, buscam inputs e definem micro-milestones de validação
+- [[Quebrar o Modo Ensaiado na Entrevista]] — perguntas que tornam impossível dar a resposta "correta" de entrevista; forçam autenticidade e revelam pensamento genuíno
+- [[Introspecção Operacional — Aprender com Decisões]] — o loop de aprendizado pós-erro é mais revelador que o histórico de sucessos; avalie como a pessoa disseca e atualiza o modelo mental

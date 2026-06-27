@@ -68,3 +68,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Ônibus Pequeno — Velocidade pelo Tamanho do Time]] — velocidade inversamente proporcional ao tamanho; cada assento define a velocidade do veículo; talent density (receita/funcionário) como métrica certa
 - [[PEARL Framework — Responder Perguntas de Entrevista]] — Problem, Epiphany, Action, Result, Learning; evolução do STAR com epifania (o insight único de PM) e aprendizado; calibrado pelo nível do candidato
 - [[Segurança Psicológica e Retrospectivas]] — segurança psicológica é o mecanismo operacional que diferencia os melhores times; retrospectivas são o ritual que a torna observável e composta
+- [[Time como Organismo — Complementaridade sobre Talento]] — compor time como organismo de forças complementares; o mesmo time do Uber Eats de $0 a $20B; três filtros: curiosidade, humildade e liderança; experiência específica importa só nos ~5% papéis críticos

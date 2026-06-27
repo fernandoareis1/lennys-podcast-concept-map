@@ -16,6 +16,7 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 - [[Programa de Embaixadores]] — 20 usuários mais vocais como semente; acesso e pertencimento, não pagamento; crescer devagar mantém densidade
 - [[Jornada do Cliente — 3 Fases e a Crise do Funil]] — funnels são métrica da empresa, não do cliente; 3 fases: Struggle (problema→interesse) → Evaluation (first value→value realization) → Growth; inclui pré-descoberta
 - [[Primeiros 30 Segundos — Onboarding Mágico]] — usuário novo é lazy, vain e selfish; um ovo por vez; reconstruir a IA no onboarding foi o momento "bet the company" da Gamma; time-to-value <30s
+- [[Comportamento Revelado vs. Declarado — Timing de Notificações]] — 23h30 após o último uso bate qualquer horário declarado pelo usuário; comportamento passado prediz disponibilidade futura
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]

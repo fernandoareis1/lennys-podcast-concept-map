@@ -18,6 +18,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 
 - [[GIST Framework — Goals, Ideas, Steps, Tasks]] — meta-framework Goals→Ideas→Steps→Tasks que combate o "opinion-based development"
 - [[Metrics Trees (Itamar Gilad)]] — North Star Metric + top KPI decompostos em sub-métricas por time
+- [[Times Orientados a Métricas, não a Features]] — times responsáveis por mover uma métrica (não por possuir uma feature) têm backlog mais claro e evitam polimento sem impacto
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

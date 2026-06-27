@@ -147,3 +147,4 @@ jason-droege
 jason-feifer
 jason-fried
 jason-m-lemkin
+jason-shah

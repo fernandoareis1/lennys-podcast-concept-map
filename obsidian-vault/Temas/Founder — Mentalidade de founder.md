@@ -34,5 +34,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Quatro Atributos de Founders Bem-Sucedidos — YC Pattern]] — determinação inabalável; capacidade técnica; execução sem esperar permissão; comunicação e storytelling; padrão extraído de 600+ startups no YC
 - [[IC CEO — Fundador como IC na Era de IA]] — CEO precisa participar da criação para ter gosto; "chief taste maker"; use IA hourly; compartilhe protótipos, não docs
 
+- [[Abstração como Alavanca — Reset Inteligente]] — jogar fora o código e reiniciar parece custo mas é alavanca; abstrações melhores crescem exponencialmente e recuperam rápido o que parece perda linear
+
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

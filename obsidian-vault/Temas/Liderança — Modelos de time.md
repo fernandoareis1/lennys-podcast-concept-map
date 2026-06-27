@@ -67,3 +67,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Introspecção Operacional — Aprender com Decisões]] — o loop de aprendizado pós-erro é mais revelador que o histórico de sucessos; avalie como a pessoa disseca e atualiza o modelo mental
 - [[Ônibus Pequeno — Velocidade pelo Tamanho do Time]] — velocidade inversamente proporcional ao tamanho; cada assento define a velocidade do veículo; talent density (receita/funcionário) como métrica certa
 - [[PEARL Framework — Responder Perguntas de Entrevista]] — Problem, Epiphany, Action, Result, Learning; evolução do STAR com epifania (o insight único de PM) e aprendizado; calibrado pelo nível do candidato
+- [[Segurança Psicológica e Retrospectivas]] — segurança psicológica é o mecanismo operacional que diferencia os melhores times; retrospectivas são o ritual que a torna observável e composta

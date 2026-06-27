@@ -20,3 +20,6 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Reescrita como Armadilha]] — rewrites raros cumprem promessa; lógica enterrada no legacy + migração subestimada; evolua incrementalmente
 - [[Tradeoffs Explícitos para Aumentar Velocidade]] — apresente o que vai E o que NÃO vai ser feito; dar menu com trade-offs ao CEO não é pushback, é o mecanismo que cria velocidade; 4 coisas bem > 8 na metade
 - [[Outcome Roadmap vs Release Roadmap]] — roadmap por resultados, não por features; só converta em entrega quando a confiança for alta
+- [[Now-Next-Later — O Roadmap sem Datas]] — três colunas de horizonte substituem o eixo de tempo; "Later" é problema a resolver, não feature comprometida; datas são exceção
+- [[Roadmap como Protótipo de Estratégia]] — o valor não está no documento mas no processo; roadmap externaliza premissas estratégicas para serem checadas com time e clientes
+- [[Soft Launch vs Hard Launch]] — separar o lançamento técnico (soft) do lançamento de marketing (hard); marketing só começa com produto real em mãos

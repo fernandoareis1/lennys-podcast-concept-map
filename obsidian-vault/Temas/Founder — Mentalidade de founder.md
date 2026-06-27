@@ -35,6 +35,9 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[IC CEO — Fundador como IC na Era de IA]] — CEO precisa participar da criação para ter gosto; "chief taste maker"; use IA hourly; compartilhe protótipos, não docs
 
 - [[Abstração como Alavanca — Reset Inteligente]] — jogar fora o código e reiniciar parece custo mas é alavanca; abstrações melhores crescem exponencialmente e recuperam rápido o que parece perda linear
+- [[Highlight do Dia — A Âncora de Atenção]] — escolha UMA coisa por dia que, se feita, faz o dia valer; 60-90 min de foco; tudo o mais se organiza ao redor; não é sobre produtividade, é sobre intenção
+- [[Infinity Pools — Armadilhas de Atenção Infinita]] — e-mail, redes sociais e streaming são reservatórios infinitos projetados para capturar atenção; solução é fricção intencional, não força de vontade
+- [[Design Your Day — Calendário como Canvas]] — use o calendário proativamente para desenhar o dia ideal, não como lista de eventos que acontecem com você; bloqueie o highlight antes que outros tomem o slot
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

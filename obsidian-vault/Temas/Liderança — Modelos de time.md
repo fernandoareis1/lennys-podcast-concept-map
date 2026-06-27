@@ -66,3 +66,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Quebrar o Modo Ensaiado na Entrevista]] — perguntas que tornam impossível dar a resposta "correta" de entrevista; forçam autenticidade e revelam pensamento genuíno
 - [[Introspecção Operacional — Aprender com Decisões]] — o loop de aprendizado pós-erro é mais revelador que o histórico de sucessos; avalie como a pessoa disseca e atualiza o modelo mental
 - [[Ônibus Pequeno — Velocidade pelo Tamanho do Time]] — velocidade inversamente proporcional ao tamanho; cada assento define a velocidade do veículo; talent density (receita/funcionário) como métrica certa
+- [[PEARL Framework — Responder Perguntas de Entrevista]] — Problem, Epiphany, Action, Result, Learning; evolução do STAR com epifania (o insight único de PM) e aprendizado; calibrado pelo nível do candidato

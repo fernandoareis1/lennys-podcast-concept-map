@@ -15,6 +15,7 @@ A escola de descoberta que parte da **demanda**, não da oferta: as pessoas "con
 - [[Estudar momentos de struggle, não produtos]] — o mindset de origem
 - [[Demand Side Sales]] — desenhar a venda do lado da demanda
 - [[Bitchin' ain't switchin']] — reclamar ≠ trocar
+- [[Urgência do Comprador — O Que Você Constrói vs O Que Eles Precisam Hoje]] — produto pode ter valor real mas não gerar urgência diária; o que importa é o que o cliente checa todo dia; mapear incentivos reais (carreira, ego, demanda incremental) é mais valioso que ouvir o que eles dizem
 
 ## Descer mais (L4) ⬇
 [[JTBD — Evidências (Bob Moesta)]] · [[JTBD — Debate (as escolas do JTBD)]] · [[JTBD — Casos]]

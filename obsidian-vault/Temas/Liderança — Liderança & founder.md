@@ -43,6 +43,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Contra-programar a Narrativa — Taking a Punch]] — quando você "leva uma porrada", não defenda o passado; pergunte "qual ação pequena demonstra o oposto do que temo que essa pessoa pensa?"; de CBT behavioral activation
 - [[Cultura como Calcificação — Mudança Incremental]] — cultura se deposita como limestone; não dá para remover de uma vez; isole um bolsão com líder forte, deixe demonstrar o novo jeito, propague por osmose; cuidado com o desalinhamento de incentivos do topo
 - [[Cultura Gut-Driven — Decisão por Intuição]] — toda decisão humana é julgamento, não otimização; crie cultura onde "como você sente?" é a pergunta central; critério de contratação: qualidade do gut sob pressão, não habilidade técnica
+- [[Sete Regras do Poder — Construir Influência como Habilidade]] — poder é habilidade, não personalidade; 7 regras: saia do seu caminho, quebre as regras, apareça poderoso, construa brand, faça networking, use o poder, sucesso perdoa tudo
+- [[Conhecer vs Fazer — O Gap que Mata o Progresso]] — saber ≠ fazer; todo conceito requer prática imediata; "Doing Power" como forcing function; 4 estágios: negação → raiva → tristeza → aceitação; 15% além da zona de conforto
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

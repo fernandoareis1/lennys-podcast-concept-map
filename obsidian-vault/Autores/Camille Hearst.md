@@ -12,3 +12,4 @@ tipo: autor
 - [[Os 3 Pilares do Criador de Sucesso]]
 - [[M&A como Processo de Fundraise]]
 - [[De-riscar os Maiores Bets Primeiro]]
+- [[Perguntas Reveladoras em Entrevistas de Seleção]]

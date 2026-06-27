@@ -70,5 +70,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Três Pilares da Estratégia de Produto]] — visão inspiradora + framework estratégico (mercado, apostas) + roadmap como verificação de viabilidade; quando os três estão presentes, qualquer interlocutor reconhece como estratégia completa
 - [[Estratégia como Aposta Concentrada]] — estratégia = plano coerente de forças aplicadas de forma alavancada contra problema central; concentrar bets, não diversificar; clareza antes de correto (Systrom/Rumelt)
 
+- [[Foundation Sprint — Da Ideia à Hipótese Fundadora]] — processo de 10h para criar uma hipótese fundadora explícita antes de qualquer linha de código; 3 fases: básicos, diferenciação e abordagem
+- [[Lentes Mágicas — Avaliar Abordagens por Perspectivas]] — avalie alternativas de implementação por múltiplas perspectivas (cliente, crescimento, finanças, convicção) para escolher com clareza
+
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

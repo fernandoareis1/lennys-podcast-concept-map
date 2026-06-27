@@ -35,5 +35,8 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Bundling e Unbundling — A Onda do Mercado]] — mercado oscila entre fragmentação e consolidação em ciclos previsíveis; reconhecer a fase atual orienta decisão vertical vs. horizontal
 - [[Fundamentalmente Diferente, Não Incrementalmente Melhor]] — só o fundamentalmente diferente gera WoM; insurgente não pode brigar no terreno do incumbente; buscar rupturas simultâneas em qualidade, simplicidade e preço
 
+- [[Hipótese Fundadora — A Sentença que Orienta Tudo]] — sentença única que torna explícita a aposta estratégica central (cliente + problema + abordagem + diferenciais + concorrentes); permite testar e revisar com precisão sprint a sprint
+- [[IA Genérica vs. Diferenciação Real — O Risco de Construir Rápido Demais]] — LLMs treinados nos mesmos dados geram produtos genéricos; construir rápido sem diferenciação clara atrasa mais do que adianta
+
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

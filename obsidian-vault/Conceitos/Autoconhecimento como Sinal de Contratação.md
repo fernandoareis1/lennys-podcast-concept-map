@@ -43,5 +43,8 @@ Cinco líderes de produto convergem para a mesma convicção: o melhor sinal de 
 
 > 🎧 [I've run 75+ businesses. Here's why you're probably chasing the wrong idea. (1:28:28)](https://www.youtube.com/watch?v=VxAwUb86MUE)
 
+## Aprofundamento ⬇
+- [[Autoconhecimento como Sinal de Contratação — Evidências]]
+
 ## Conceitos relacionados
 [[Contratar pelo ser, não pelo potencial]] · [["Do que você se orgulha?" — Revelador de Valores]] · [[Introspecção Operacional — Aprender com Decisões]] · [[Contratar para Elevar o Time]]

@@ -33,5 +33,8 @@ Alta performance em produto não é sobre não cometer erros — é sobre a qual
 
 > 🎧 [I've run 75+ businesses. Here's why you're probably chasing the wrong idea. (1:28:28)](https://www.youtube.com/watch?v=VxAwUb86MUE)
 
+## Aprofundamento ⬇
+- [[Introspecção Operacional — Evidências (Omojola + Costello + Belsky)]]
+
 ## Conceitos relacionados
 [[Autoconhecimento como Sinal de Contratação]] · [[Quebrar o Modo Ensaiado na Entrevista]] · [["Do que você se orgulha?" — Revelador de Valores]] · [[Contratar pelo ser, não pelo potencial]]

@@ -32,6 +32,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Simbolismo Sonoro — A Linguística dos Nomes]] — cada letra tem vibração específica (V=vibrante; B=confiável; Z=ruidoso); compostos são multiplicadores 1+1=3; processing fluency; 3 times com briefings distintos
 - [[Fish to Pond Ratio — Beachhead Sizing]] — segmento grande o suficiente para importar + pequeno o suficiente para liderar (30–50% share em 2 anos); ecosistemas só formam ao redor de líderes de segmento
 - [[7 Powers — Fontes de Poder Competitivo]] — benefício + barreira: os 7 tipos de poder competitivo duradouro e quando cada um fica disponível na jornada da empresa
+- [[Bundling e Unbundling — A Onda do Mercado]] — mercado oscila entre fragmentação e consolidação em ciclos previsíveis; reconhecer a fase atual orienta decisão vertical vs. horizontal
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

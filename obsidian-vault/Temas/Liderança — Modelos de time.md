@@ -65,3 +65,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Navegar Ambiguidade com Estrutura]] — PMs excelentes não eliminam ambiguidade; colocam estrutura, buscam inputs e definem micro-milestones de validação
 - [[Quebrar o Modo Ensaiado na Entrevista]] — perguntas que tornam impossível dar a resposta "correta" de entrevista; forçam autenticidade e revelam pensamento genuíno
 - [[Introspecção Operacional — Aprender com Decisões]] — o loop de aprendizado pós-erro é mais revelador que o histórico de sucessos; avalie como a pessoa disseca e atualiza o modelo mental
+- [[Ônibus Pequeno — Velocidade pelo Tamanho do Time]] — velocidade inversamente proporcional ao tamanho; cada assento define a velocidade do veículo; talent density (receita/funcionário) como métrica certa

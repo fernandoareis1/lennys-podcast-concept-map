@@ -33,6 +33,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Escorecard Interno vs. Externo — A Ilusão da Conquista]] — conquistar o scorecard externo (dinheiro, título) não muda como você se sente por dentro; o jogo real da vida é interno
 - [[Quatro Atributos de Founders Bem-Sucedidos — YC Pattern]] — determinação inabalável; capacidade técnica; execução sem esperar permissão; comunicação e storytelling; padrão extraído de 600+ startups no YC
 - [[IC CEO — Fundador como IC na Era de IA]] — CEO precisa participar da criação para ter gosto; "chief taste maker"; use IA hourly; compartilhe protótipos, não docs
+- [[Craft como Filosofia Pessoal de Produto]] — produto como marcenaria: valores + know-how técnico + trade-offs; construir autêntico a si e útil aos outros; equilíbrio pessoal ↔ negócio
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

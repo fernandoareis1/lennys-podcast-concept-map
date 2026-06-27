@@ -66,6 +66,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Curation para Recommendation para Generation — As 3 Eras da Internet]] — internet foi de curadoria humana → recomendação algorítmica → geração; cada transição exige repensar UX e modelo de negócio do zero
 - [[Refundar com IA — Clean Slate]] — "se fundássemos do zero com a mesma missão, como executaríamos AI-native?" se não consegue alavancar ativos existentes melhor que um entrante, considere uma saída; vantagem da Airtable: no-code como DSL para agentes
 - [[AI-Driven Testing — Fronteira Subvalorizada]] — enquanto todos focam em geração de código, testing é o gargalo subestimado; IA pode gerar suites completas (unit, carga, segurança, penetração); mais código gerado = testing mais crítico, não menos
+- [[Lego para Software — Produto Horizontal como Filosofia]] — produto como conjunto de blocos primitivos reutilizáveis; usuários constroem ferramentas sem programar; bricks vs. boxes como tensão permanente
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

@@ -33,6 +33,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Fish to Pond Ratio — Beachhead Sizing]] — segmento grande o suficiente para importar + pequeno o suficiente para liderar (30–50% share em 2 anos); ecosistemas só formam ao redor de líderes de segmento
 - [[7 Powers — Fontes de Poder Competitivo]] — benefício + barreira: os 7 tipos de poder competitivo duradouro e quando cada um fica disponível na jornada da empresa
 - [[Bundling e Unbundling — A Onda do Mercado]] — mercado oscila entre fragmentação e consolidação em ciclos previsíveis; reconhecer a fase atual orienta decisão vertical vs. horizontal
+- [[Fundamentalmente Diferente, Não Incrementalmente Melhor]] — só o fundamentalmente diferente gera WoM; insurgente não pode brigar no terreno do incumbente; buscar rupturas simultâneas em qualidade, simplicidade e preço
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

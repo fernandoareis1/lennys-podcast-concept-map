@@ -2,12 +2,12 @@
 tipo: insight
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Grant Lee]
+autores: [Grant Lee, Jag Duggal]
 ---
 # Máquina de Word-of-Mouth — Sinal Real de PMF
 
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L3
-**Tipo:** Insight · **Fontes:** [[Grant Lee]]
+**Tipo:** Insight · **Fontes:** [[Grant Lee]] · [[Jag Duggal]]
 
 ## Ideia central
 Product-Market Fit não é quando você ganha o Product Hunt. É quando o word-of-mouth orgânico começa a se propagar sozinho, sem que você empurre. A Gamma ganhou Product Hunt três vezes seguidas (produto do dia, da semana, do mês) — e Grant Lee reconhece que aquilo não era PMF. PMF chegou quando a curva de crescimento orgânico disparou por conta própria, sem campanha nem esforço ativo.
@@ -50,5 +50,14 @@ Performance marketing que funciona é aquele que **amplia** um sinal orgânico j
 
 > 🎧 [How Gamma reached $100M ARR with 30 people | Grant Lee (Gamma)](https://www.youtube.com/watch?v=3H0ngGU5pbM) · 2025-11-13
 
+### [[Jag Duggal]]
+- O Nubank tem 80–90% do crescimento via word-of-mouth — mais clientes do que o Bank of America operando apenas no Brasil, México e Colômbia.
+- "We want to make sure that the bucket doesn't have a hole in the bottom." — WoM só funciona se combinado com retenção: clientes que chegam precisam ficar para contar para outros.
+- A máquina de WoM está diretamente ligada ao [[Sean Ellis Test (40%)]]: produto que passa o teste de 50% gera word-of-mouth naturalmente. Produto abaixo do limiar gera marketing caro.
+- "Only fundamentally different gets customers to tell their friends. Incrementally better doesn't."
+- Nubank investiu muito menos em marketing do que concorrentes; o orçamento ia para o produto, não para o Google e o Facebook.
+
+> 🎧 [Be fundamentally different, not incrementally better | Jag Duggal (Nubank, Facebook, Google) (1:35:17)](https://www.youtube.com/watch?v=8A7wXK2MncQ) · 2024-05-16
+
 ## Conceitos relacionados
-[[Growth como sistema, não time]] · [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] · [[Kindling vs Fire strategies]] · [[Retenção como Prova de Valor Real]]
+[[Growth como sistema, não time]] · [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] · [[Kindling vs Fire strategies]] · [[Retenção como Prova de Valor Real]] · [[Fundamentalmente Diferente, Não Incrementalmente Melhor]]

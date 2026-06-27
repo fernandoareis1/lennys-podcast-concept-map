@@ -23,6 +23,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Co-criar com Alpha Group]] — construir produto com pequeno grupo de usuários reais; só lança amplo quando o alpha está "super, super happy"
 - [[Validação Externa não é PMF]] — aceitar no YC, investidor interessado, press coverage — nenhum desses é PMF; confundir validação externa com PMF é o erro mais comum; PMF = cliente volta e usa
 - [[Working Backwards — Press Release Interno]] — escreva o problema antes da solução; press release com parágrafo do problema + solução + quote do cliente; FAQ = plano legítimo de sucesso; 3 testes de Bezos: big idea + fit + plano
+- [[Bullseye Cohort — Quem Realmente Ama o Produto]] — segmente o Sean Ellis Survey por comportamento; o subgrupo com score mais alto revela o que o produto precisa ser; 5 ligações bastam para prever o que os demais vão dizer
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

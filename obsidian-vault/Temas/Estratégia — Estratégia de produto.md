@@ -68,6 +68,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[AI-Driven Testing — Fronteira Subvalorizada]] — enquanto todos focam em geração de código, testing é o gargalo subestimado; IA pode gerar suites completas (unit, carga, segurança, penetração); mais código gerado = testing mais crítico, não menos
 - [[Lego para Software — Produto Horizontal como Filosofia]] — produto como conjunto de blocos primitivos reutilizáveis; usuários constroem ferramentas sem programar; bricks vs. boxes como tensão permanente
 - [[Três Pilares da Estratégia de Produto]] — visão inspiradora + framework estratégico (mercado, apostas) + roadmap como verificação de viabilidade; quando os três estão presentes, qualquer interlocutor reconhece como estratégia completa
+- [[Estratégia como Aposta Concentrada]] — estratégia = plano coerente de forças aplicadas de forma alavancada contra problema central; concentrar bets, não diversificar; clareza antes de correto (Systrom/Rumelt)
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

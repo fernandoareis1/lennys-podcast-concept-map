@@ -41,6 +41,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Armadilha do Gerente Médio — Responsabilidade sem Autoridade]] — gerente médio tem responsabilidade pelos resultados mas sem autoridade real: sem budget, sem poder de contratar/demitir, sem voz na estratégia
 - [[Adiar Títulos de Cargo — Head-of em vez de VP]] — director/VP causam mais tensão e promoção indevida; uma vez dados não dá para tirar sem demitir; use "head of" e "lead" que descrevem escopo sem criar hierarquia inflada
 - [[Contra-programar a Narrativa — Taking a Punch]] — quando você "leva uma porrada", não defenda o passado; pergunte "qual ação pequena demonstra o oposto do que temo que essa pessoa pensa?"; de CBT behavioral activation
+- [[Cultura como Calcificação — Mudança Incremental]] — cultura se deposita como limestone; não dá para remover de uma vez; isole um bolsão com líder forte, deixe demonstrar o novo jeito, propague por osmose; cuidado com o desalinhamento de incentivos do topo
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

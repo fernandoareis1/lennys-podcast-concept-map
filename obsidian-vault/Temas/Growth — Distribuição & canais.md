@@ -42,6 +42,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Budget de Produto para Sales — A Regra dos 10%]] — dê ao VP de sales um budget fixo de produto por trimestre (10%); eles priorizam sozinhos; protege produto do efeito "cauda que abana o cachorro"
 - [[GTM como Produto — Experiência não Transação]] — à medida que software comoditiza, experiência de ser vendido vira diferenciador; projete cada touchpoint do buyer journey com intencionalidade de PM; whiteboarding > discovery chato
 - [[Engenheiro de GTM — Agentes no Processo de Vendas]] — papel emergente: sales expertise + engenharia para construir agentes de IA para workflows repetitivos de GTM; Vercel: 10 SDRs → 1 QA do agente ($1k/yr vs $1M+ em salários); deal-bott analisa calls Gong
+- [[Founder-Led Sales — Aprender Antes de Vender]] — founder é o produto em zero-a-um; sales é pesquisa antes de ser receita; não contrate vendedor antes de ~$1M ARR; só o founder vê os "budding moments" que refinam ICP e pitch
+- [[Outreach Contratuintivo — Relevância antes de Personalização]] — relevância > personalização; 4 componentes: por que você, insight contratuintivo, problema (não solução), curto o suficiente para não scrollar; evite "somos melhores"
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

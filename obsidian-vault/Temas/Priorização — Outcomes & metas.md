@@ -16,5 +16,8 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[Métricas de input vs. output]] — foque em inputs controláveis (seleção, preço, velocidade); outputs (receita) seguem automaticamente; gestão por output gera fire drills inúteis
 - [[PM Orientado a Impacto]] — PM relentless até impacto validado; 2 perguntas obrigatórias: o que muda para usuários? como saberemos?; "melhorar/expandir" sem métrica = smell
 
+- [[GIST Framework — Goals, Ideas, Steps, Tasks]] — meta-framework Goals→Ideas→Steps→Tasks que combate o "opinion-based development"
+- [[Metrics Trees (Itamar Gilad)]] — North Star Metric + top KPI decompostos em sub-métricas por time
+
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

@@ -19,6 +19,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Medição vs Insight — Instrumentação Rica]] — medição = fato sem contexto; insight = contexto + por quê + ação; eventos com 5-10 propriedades permitem segmentar o "porquê"
 - [[Falha Conclusiva — Design de Experimento Definitivo]] — falha = não aprender; maximize o treatment para poder descartar a hipótese definitivamente e parar de repetir o mesmo teste
 - [[Análise de erros qualitativa para produtos de IA]] — open coding → axial coding → contagem para descobrir modos de falha reais em apps de LLM
+- [[Confidence Meter (Itamar Gilad)]] — escala 0–10 que classifica o nível de evidência (opinião → dados → testes reais) para calibrar investimento em cada ideia
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

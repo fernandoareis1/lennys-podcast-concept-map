@@ -69,6 +69,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Produto Horizontal — Lego Brick vs Lego Box]] — produtos horizontais têm dois segmentos: brick users (flexibilidade total) e box users (solução pronta); suba de mercado com boxes, mas mantenha a arquitetura de bricks
 - [[Três Componentes de Estratégia — Visão, Framework e Roadmap]] — estratégia completa tem visão (imagem do futuro) + strategic framework (mercado, apostas) + roadmap backward (teste de sanidade e urgência)
 - [[Estratégia como Aposta Concentrada e Específica]] — estratégia não é aspiração; é plano coerente de aplicar vantagens contra problema específico; concentração > diversificação para startups
+- [[De Saber a Fazer — A Transição dos Agentes de IA]] — fronteira da IA passou de modelos que sabem para modelos que fazem; exige ambientes de RL, clareza sobre quando escalar para humano; easy to learn, hard to master; POCs chegam a 70%, o resto é como cada "nine" de uptime
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

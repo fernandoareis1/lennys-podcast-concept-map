@@ -20,3 +20,5 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Reescrita como Armadilha]] — rewrites raros cumprem promessa; lógica enterrada no legacy + migração subestimada; evolua incrementalmente
 - [[Tradeoffs Explícitos para Aumentar Velocidade]] — apresente o que vai E o que NÃO vai ser feito; dar menu com trade-offs ao CEO não é pushback, é o mecanismo que cria velocidade; 4 coisas bem > 8 na metade
 - [[GIST — Framework de Produto Orientado a Evidência]] — meta-framework que organiza Goals → Ideas (ICE + Confidence Meter) → Steps (build-measure-learn) → Tasks para substituir "plan and execute" por decisões guiadas por evidência
+- [[Now Next Later — Roadmap sem Timeline]] — três buckets (Now/Next/Later) sem eixo de tempo; datas apenas onde realmente existem; respeita o cone de incerteza; inventor: Janna Bastow
+- [[Roadmap como Protótipo de Estratégia]] — roadmap não é plano, é protótipo de estratégia para checar premissas com time e clientes; valor está no processo, não no documento

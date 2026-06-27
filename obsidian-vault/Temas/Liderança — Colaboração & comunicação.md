@@ -36,3 +36,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[RAPID + Regra dos 5 Dias — Decisão em Ecossistemas Complexos]] — um único decisor (D) + escalada automática em 5 dias; para produtos com múltiplos marketplaces e stakeholders
 - [[Modelo Mental dos Stakeholders]] — notas semanais de liderança no Slack (verbatim + interpretação + implicação) + perguntas mágicas (afirmação + "você concorda?"); o time toma decisões sozinho quando entende como os líderes pensam
 - [[Eigenquestion — A Pergunta que Revela Tudo]] — diante de qualquer problema, existe 1-2 perguntas fundamentais cuja resposta determina todas as demais; identificar essa pergunta é a habilidade mais rara de um PM
+- [[Dizer Sim para Aprender — O PM que Fecha Demais]] — PMs defensivos perdem sinal valioso; separar a validade do problema da solução proposta abre colaboração genuína

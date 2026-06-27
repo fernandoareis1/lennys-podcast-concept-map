@@ -36,6 +36,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Ângulo de Imprensa — O Fio Puxável]] — o anúncio raramente é a história; encontre o ângulo: incumbente desafiado, contrário à sabedoria convencional, história humana ou macro-trend; conecte o que a empresa quer dizer com o que jornalistas querem ler
 - [[Micro-Influenciadores em Câmaras de Eco]] — macro + script = ad reconhecível; micro em comunidades fechadas (educadores, consultores) converte 4–5× mais; 90% do alcance vem de <10% dos criadores → lance rede ampla
 - [[Founder-Led Marketing — Capital de Goodwill]] — deposite valor sem expectativa de retorno → construa saldo de goodwill → saque ao amplificar o produto; "nobody wants to read your shit" — o bar é alto
+- [[Pitch para Imprensa — Sirva o Leitor, Não a Si Mesmo]] — editores servem leitores, não você; 3 etapas: prep → identifique o writer certo (não editor-chefe) → enquadre para o leitor deles; prefira freelancers; estude a missão da publicação
+- [[Press como Ativo de Credibilidade — Não Estratégia de Crescimento]] — imprensa raramente gera crescimento direto; valor real é second-order: "como visto em X" em emails e materiais; defina o objetivo antes de pitchar; wire press releases são armadilha
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

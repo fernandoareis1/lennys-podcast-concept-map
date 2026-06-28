@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Ebi Atawodi]
+autores: [Ebi Atawodi, John Mark Nickels]
 ---
 # Visão como Fotografia do Futuro
 
@@ -39,6 +39,13 @@ Visão é uma **fotografia do futuro** — não é missão, não é estratégia.
 - Exemplo Uber: "a city without parking" — não é feature, é fotografia do mundo transformado.
 
 > 🎧 [Crafting a compelling product vision | Ebi Atawodi (YouTube, Netflix, Uber)](https://www.lennysnewsletter.com/p/crafting-a-compelling-product-vision) · 2023
+
+### [[John Mark Nickels]]
+- "Eu gosto de fechar os olhos e imaginar o futuro o mais longe possível — 5, 10 anos. Desenvolva uma imagem saliente do que o mundo parece. Não precisa ser a imagem certa; é mais sobre ter uma visão que te deixa animado."
+- "Primeiro princípio: por que precisamos de um veículo de 4.000 libras para mover um humano por 3 milhas? Essa pergunta leva a bikes, scooters, novas modalidades. É assim que você encontra oportunidades."
+- "Paixão pelo domínio é o combustível da estratégia. Se você não está apaixonado pelo espaço, é muito difícil ter grandes insights estratégicos sobre ele."
+- Processo de visão: (1) paixão pela missão como combustível → (2) imersão profunda no domínio por anos → (3) visão de pássaro absent de si mesmo (o que o mundo vai virar?) → (4) first principles para extrapollar o que será verdade → (5) co-criação com o time em sessões longas sem laptops.
+> 🎧 [Conscious leadership: Unlocking vision, strategy and purpose (1:18:06)](https://www.youtube.com/watch?v=W7o40qcYHlM) · 2024-10-06
 
 ## Conceitos relacionados
 [[Missão como âncora estratégica]] · [[Narrativa Estratégica]] · [[Três Formatos de Comunicação de Visão]] · [[Backcasting — Rejeitar a Premissa]]

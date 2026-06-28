@@ -35,6 +35,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[IC CEO — Fundador como IC na Era de IA]] — CEO precisa participar da criação para ter gosto; "chief taste maker"; use IA hourly; compartilhe protótipos, não docs
 - [[Bootstrapping como Prática de Fazer Dinheiro]] — bootstrapping não é só modelo de financiamento; é a única forma de praticar a habilidade fundamental de fazer dinheiro; VC-backed companies praticam gastar; "nunca ninguém foi à falência gerando lucro"
 
+- [[Founder vs. CEO — Dois Ofícios Distintos]] — ser founder é estado de ser (atitude, coragem); ser CEO é ofício (skills aprendíveis); confundir os dois é o erro mais caro
 - [[Earnestness como Preditor de Founder]] — autenticidade genuína + cuidado profundo pelo problema; preditor subestimado que distingue founders reais dos "fazendo startup porque é cool"
 - [[Queimar o Barco — Comprometimento Total]] — founders que mantêm emprego têm saída de emergência; a desesperação necessária vem de não ter plano B
 - [[Ignorância como Descoberta — Batch Investing]] — não saber "como se faz" permite descobrir modelos que experts jamais tentariam; batch do YC nasceu de inexperiência em angel investing

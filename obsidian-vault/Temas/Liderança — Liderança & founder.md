@@ -54,7 +54,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Fluência Emocional como Ferramenta de Performance]] — emoções são o sistema de decisão (Descartes' Error); joy é matriarca; 10% mais prazer = 10% mais eficiência
 - [[Pirâmide de Autoconsciência da Liderança]] — 4 níveis: sem autoconsciência → generaliza o mundo → acha certa a própria visão → abraça diversidade como ativo
 - [[Taxonomia das Emoções como Bússola]] — medo = atenção; tristeza = soltar; raiva = algo não serve; alegria = celebrar; energia criativa = algo quer nascer
-- [[Da Vítima ao Criador — Responsabilidade Radical]] — de "a vida acontece comigo" para "sou o pintor da minha existência"; Viktor Frankl como referência
+- [[Da Vítima ao Criador — Responsabilidade Radical]]
+- [[Modos de Fracasso do CEO — Taxonomia]] — 8 arquétipos recorrentes de falha de CEO: robot, pleaser, perfectionist, angry, laissez-faire, ready-fire-aim, brake rider, accelerator rider — de "a vida acontece comigo" para "sou o pintor da minha existência"; Viktor Frankl como referência
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

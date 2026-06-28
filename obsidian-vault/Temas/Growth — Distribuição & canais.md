@@ -45,6 +45,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Founder-Led Sales — Aprender Antes de Vender]] — founder é o produto em zero-a-um; sales é pesquisa antes de ser receita; não contrate vendedor antes de ~$1M ARR; só o founder vê os "budding moments" que refinam ICP e pitch
 - [[Outreach Contratuintivo — Relevância antes de Personalização]] — relevância > personalização; 4 componentes: por que você, insight contratuintivo, problema (não solução), curto o suficiente para não scrollar; evite "somos melhores"
 - [[Vision Selling — Venda o Gap, Não o Problema]] — na fase $1M–$10M com enterprise: não venda o problema, venda o gap (Mario on blast vs. Mario simples); tier-1 quer alpha; pricing inicial ($75K–$150K) define o teto; deal crafting = arte, não playbook
+- [[Criativo como Alavanca Central do Paid Acquisition]] — com targeting e lances automatizados, o criativo é a principal alavanca de diferenciação em paid; UGC supera assets polidos; teste uma variável por vez
+- [[Marketing Mix como Portfólio — Diversificação de Canais]] — trate canais de marketing como portfólio: não concentre em um único paid channel; inclua canais owned/earned; reconheça efeitos de halo entre canais
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

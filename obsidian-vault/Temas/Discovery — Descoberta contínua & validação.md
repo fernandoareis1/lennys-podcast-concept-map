@@ -26,6 +26,10 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 
 - [[Bullseye Segment — Coorte que Ama o Produto]] — quando o score geral está abaixo do threshold, segmente para encontrar o subgrupo que já ama; esse é o sinal de PMF latente; construa para expandir esse grupo
 - [[Foundation Sprint — Hipótese Fundadora em 10 Horas]] — 10h com time core para responder em silêncio: quem é o cliente, qual o problema, quem são os competidores, quais nossas vantagens; 3 fases (basics, diferenciação, abordagem) geram a Founding Hypothesis antes de construir qualquer coisa
+- [[Framework Macro-Meio-Micro de Pesquisa]] — três camadas: macro (estratégico/inovação, 6–24m), meio (blobular, gera "já sabíamos"), micro (usabilidade/48h, impacto mensurável direto); concentre-se no micro com parceiro certo e no macro com patrocínio executivo
+- [[Pesquisa como Performance de Centralidade no Cliente]] — "user-centered performance": fazer pesquisa simbolicamente para sinalizar customer obsession vs. para aprender e mudar decisões; sintoma: PM pede estudo de validação depois que decisão já foi tomada
+- [[Falsificar, não Validar]] — mantra do pesquisador: busque ser provado errado, não confirmado; validação cria viés de confirmação e "já sabíamos disso"; N=1 inesperado é gerador de hipótese, não prova
+- [[Função de Insights Integrada]] — unificar UX research + competitive intelligence + data science + NPS + customer feedback em uma máquina de insights única; silos geram "insights jogados sobre a grade" que o time de produto não consegue absorver
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

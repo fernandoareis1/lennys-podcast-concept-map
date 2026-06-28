@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Andy Johns]
+autores: [Andy Johns, Jerry Colonna]
 ---
 # Achievement addiction — autoestima ligada à conquista
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Mentalidade de founder]] · **Camada:** L3
@@ -27,5 +27,12 @@ Muitos high achievers em tech aprenderam cedo que conquistas = amor. O aluno not
 - "Eu tinha um belo poker face. A maioria das pessoas não conseguia ver. Mas por dentro eu estava completamente consumido por pânico quase constante."
 > 🎧 [When enough is enough (1:26:32)](https://www.youtube.com/watch?v=_93m4PriHyc)
 
+### [[Jerry Colonna]]
+- "Quando você está nessa trajetória de crescimento, como você se sente?" / "Me sinto ótimo." / "E quando não está crescendo?" / "Aquela sensação de que tudo acabou, que talvez eu não seja tão bom quanto pensava."
+- "Ao ficar ocupado e crescendo, aquela voz sussurrante — 'você não é tão bom quanto pensa' — fica um pouco menos persistente, um pouco menos alta."
+- "O apego mais profundo é: 'Olha, não sou ninguém; sou alguém' — e essa é a fonte do sofrimento."
+- "E se sua autoestima não estivesse ligada ao resultado? E se o que te motivasse fosse simplesmente: 'isso é divertido'?"
+> 🎧 [How have I been complicit... (1:22:50)](https://www.youtube.com/watch?v=PJE7etZQ9us)
+
 ## Conceitos relacionados
-[[Burnout no tech — reconhecendo os sinais]] · [[Transformação pessoal profunda — 4 etapas]] · [[Founder Mode]] · [[Founder — Mentalidade de founder]]
+[[Burnout no tech — reconhecendo os sinais]] · [[Transformação pessoal profunda — 4 etapas]] · [[Founder Mode]] · [[A Questão da Cumplicidade — Como Criei as Condições que Digo Não Querer]] · [[Founder — Mentalidade de founder]]

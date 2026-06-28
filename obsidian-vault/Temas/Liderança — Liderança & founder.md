@@ -46,6 +46,9 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Sete Regras do Poder — Construir Influência como Habilidade]] — poder é habilidade, não personalidade; 7 regras: saia do seu caminho, quebre as regras, apareça poderoso, construa brand, faça networking, use o poder, sucesso perdoa tudo
 - [[Conhecer vs Fazer — O Gap que Mata o Progresso]] — saber ≠ fazer; todo conceito requer prática imediata; "Doing Power" como forcing function; 4 estágios: negação → raiva → tristeza → aceitação; 15% além da zona de conforto
 - [[Velocidade de Decisão — Cultura de Tempo Real]] — tome decisões agora na reunião (Slack call o especialista); deadlines de planning são reais; PMs precisam ser experts de domínio para responder em 30 min; times pequenos + missão clara = zero comunicação horizontal
+- [[A Questão da Cumplicidade — Como Criei as Condições que Digo Não Querer]] — a pergunta central de coaching: como fui cúmplice em criar o que digo não querer?
+- [[Equação de Liderança — Prática + Autoconsciência + Experiências]] — habilidades práticas + radical self-inquiry + experiências compartilhadas = liderança + resiliência
+- [[Padrões Familiares em Times]] — times reproduzem padrões da família de origem; a bagagem do líder vira cultura da empresa
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

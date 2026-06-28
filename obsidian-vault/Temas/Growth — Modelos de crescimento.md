@@ -46,6 +46,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Auditoria do Funil PLG]] — percorra o funil como usuário final (landing → signup → aha moment → checkout); combine experiência pessoal + dados de conversão por etapa; ativação é o melhor ponto de partida para a maioria dos B2B SaaS
 
 - [[Fanatical Love — Clientes que Amam, Não Apenas Gostam]] — Sean Ellis Score como gate antes de escalar; 50% de "muito desapontados" no Nubank; NPS de 70-95; 80-90% de crescimento via word of mouth
+- [[Product-Led Acquisition — Quatro Mecanismos]] — aquisição orgânica via uso natural do produto: quitar dívida (Venmo/PayPal), conversa exclusiva (Slack/WhatsApp), billboarding (Hotmail/Calendly/AirPods), UGC (YouTube/Reddit); custo zero, sem dependência de terceiros; não confundir com referral programs (incentivos artificiais)
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

@@ -16,6 +16,7 @@ Reter é a base: sem retenção não há PMF nem growth. E quem **sai** (churn) 
 - [[Retenção como Prova de Valor Real]] — retenção não é métrica, é proxy binário de valor: se o produto entrega valor real, pessoas ficam; ponto de partida obrigatório antes de escalar aquisição
 - [[CURR — Retenção de Usuário Corrente como North Star]] — usuários correntes têm maior impacto no DAU que novos ou ressuscitados; CURR como North Star operacional
 - [[Streak como Motor de Retenção — Zero a Sete Dias]] — loss aversion ativa no dia 7; concentre experimentos nos primeiros 7 dias onde cada dia adicional gera salto massivo de retenção
+- [[Construção de Estado — Retenção por Ativo Não-Transferível]] — usuários acumulam ativos não-transferíveis que os prendem: reputação de mercado (eBay), audiência construída (YouTube), grafo social (Facebook), infraestrutura embedded (Twilio/AWS); mediocres como eBay/Craigslist permanecem imbatíveis por décadas por isso
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[06 - Growth & Aquisição]]

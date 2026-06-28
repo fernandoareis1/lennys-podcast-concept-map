@@ -50,6 +50,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[PM Full-Stack — Colapso de Silos de Função]] — IA apaga fronteiras entre PM, design e eng; baseline em todas as três + profundidade em uma; se estende a vendas (SE-fluent) e marketing (campanha completa de uma pessoa)
 - [[Top 1% PM — Atributos por Estágio]] — novo PM: comunicar + priorizar + executar; sênior PM: pensar grande + ganhar confiança + ser movido por impacto; confiança = moeda do líder de produto; priorização excelente = 5× o impacto
 - [[Carreira como Mapa, Não Escada]] — Escada = subir (título, poder); Mapa = ir onde é interessante; falsa precisão sobre a "escada certa" é ilusória; carreira tem 30-50 anos — dá para vários rounds de 5-10 anos em territórios distintos
+- [[Conselho Descontextualizado — O Viés do Vale do Silício]] — quase todo conselho pressupõe startup de tech SV; empresas em transformação devem adaptar frameworks como ferramenta, não adotá-los como objetivo
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

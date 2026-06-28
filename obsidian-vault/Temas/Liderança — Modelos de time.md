@@ -63,3 +63,5 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Perguntas Reveladoras em Entrevistas de Seleção]] — perguntas abertas que quebram o modo ensaiado e revelam autoconhecimento, valores e capacidade de reflexão dos candidatos
 - [[Org de Analytics Centralizada com Pods]] — hub central de analytics com pods alinhados às BUs; seat at the table, não service org
 - [[Reuniões 5 Estrelas como Diagnóstico Organizacional]] — estrutura atômica da empresa = reuniões + decisões; reunião que drena revela problema organizacional específico
+- [[Princípio Anna Karenina Reverso — Times Disfuncionais São Todos Iguais]] — times disfuncionais falham todos da mesma forma; times de alto desempenho chegam lá de formas diferentes
+- [[Coerência Estrutura-Estratégia em Times de Alto Desempenho]] — funding, incentivos, arquitetura técnica e org design precisam estar alinhados com a estratégia atual

@@ -52,6 +52,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Social Radar — Leitura de Founders em 10 Minutos]] — ler sinais sutis de comprometimento, co-founder dynamics e earnestness em 10 minutos de entrevista
 - [[Emoção que Você Evita Você Convida]] — emoção evitada aparece na vida exatamente como você temia; CEO conflito-evitante cria org cheia de conflito
 - [[Fluência Emocional como Ferramenta de Performance]] — emoções são o sistema de decisão (Descartes' Error); joy é matriarca; 10% mais prazer = 10% mais eficiência
+- [[Pirâmide de Autoconsciência da Liderança]] — 4 níveis: sem autoconsciência → generaliza o mundo → acha certa a própria visão → abraça diversidade como ativo
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

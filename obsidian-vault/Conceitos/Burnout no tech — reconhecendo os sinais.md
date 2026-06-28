@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Andy Johns]
+autores: [Andy Johns, Jonny Miller]
 ---
 # Burnout no tech — reconhecendo os sinais
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -27,5 +27,12 @@ Pelo menos 50–60% dos profissionais de tech com mais de 5–7 anos de carreira
 - "De pesquisas que fiz e experiência anedótica: pelo menos 50-60% dos profissionais de tech com 5-7+ anos de carreira experimentam alguma forma de sofrimento psicológico e emocional."
 > 🎧 [When enough is enough (1:26:32)](https://www.youtube.com/watch?v=_93m4PriHyc)
 
+### [[Jonny Miller]]
+- "Feather-Brick-Dump Truck phenomenon: o corpo dá feedback sutil primeiro (pena = acordar cansado). Se ignorado, o tijolo é uma briga ou perda de controle semanas depois. O caminhão de lixo é a crise de saúde, diabetes, demissão."
+- "Emotional debt: quando o ciclo de mobilização do sistema nervoso não se completa, o estresse é armazenado no corpo como carga alostática. Como technical debt — funcional no curto prazo, perigoso se não pago."
+- "Se você não consegue desacelerar naturalmente ao fim do dia sem vinho, CBD ou substância externa — isso é sinal de que você atingiu um threshold de dívida emocional."
+- "O custo mediano estimado de um episódio de burnout para uma startup foi $100K — mas a maioria não investe em 'seguro de burnout'."
+> 🎧 [Managing nerves, anxiety, and burnout](https://www.youtube.com/watch?v=-kN8Agqee4w) · 2024-01-28
+
 ## Conceitos relacionados
-[[Achievement addiction — autoestima ligada à conquista]] · [[Transformação pessoal profunda — 4 etapas]] · [[Founder — Carreira & progresso]]
+[[Achievement addiction — autoestima ligada à conquista]] · [[Transformação pessoal profunda — 4 etapas]] · [[Estado sobre Narrativa — Regulação pelo Sistema Nervoso]] · [[Sistema Nervoso do CEO como Cultura da Empresa]]

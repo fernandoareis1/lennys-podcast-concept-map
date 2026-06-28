@@ -55,7 +55,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Pirâmide de Autoconsciência da Liderança]] — 4 níveis: sem autoconsciência → generaliza o mundo → acha certa a própria visão → abraça diversidade como ativo
 - [[Taxonomia das Emoções como Bússola]] — medo = atenção; tristeza = soltar; raiva = algo não serve; alegria = celebrar; energia criativa = algo quer nascer
 - [[Da Vítima ao Criador — Responsabilidade Radical]]
-- [[Modos de Fracasso do CEO — Taxonomia]] — 8 arquétipos recorrentes de falha de CEO: robot, pleaser, perfectionist, angry, laissez-faire, ready-fire-aim, brake rider, accelerator rider — de "a vida acontece comigo" para "sou o pintor da minha existência"; Viktor Frankl como referência
+- [[Modos de Fracasso do CEO — Taxonomia]] — 8 arquétipos recorrentes de falha de CEO: robot, pleaser, perfectionist, angry, laissez-faire, ready-fire-aim, brake rider, accelerator rider
+- [[Sistema Nervoso do CEO como Cultura da Empresa]] — sistema nervoso da organização espelha o do CEO; contágio emocional é desproporcional; rest ethic deve acompanhar work ethic — 8 arquétipos recorrentes de falha de CEO: robot, pleaser, perfectionist, angry, laissez-faire, ready-fire-aim, brake rider, accelerator rider — de "a vida acontece comigo" para "sou o pintor da minha existência"; Viktor Frankl como referência
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

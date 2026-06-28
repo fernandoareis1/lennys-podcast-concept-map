@@ -35,6 +35,9 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[IC CEO — Fundador como IC na Era de IA]] — CEO precisa participar da criação para ter gosto; "chief taste maker"; use IA hourly; compartilhe protótipos, não docs
 - [[Bootstrapping como Prática de Fazer Dinheiro]] — bootstrapping não é só modelo de financiamento; é a única forma de praticar a habilidade fundamental de fazer dinheiro; VC-backed companies praticam gastar; "nunca ninguém foi à falência gerando lucro"
 
+- [[Earnestness como Preditor de Founder]] — autenticidade genuína + cuidado profundo pelo problema; preditor subestimado que distingue founders reais dos "fazendo startup porque é cool"
+- [[Queimar o Barco — Comprometimento Total]] — founders que mantêm emprego têm saída de emergência; a desesperação necessária vem de não ter plano B
+- [[Ignorância como Descoberta — Batch Investing]] — não saber "como se faz" permite descobrir modelos que experts jamais tentariam; batch do YC nasceu de inexperiência em angel investing
 - [[Abstração como Alavanca — Reset Inteligente]] — jogar fora o código e reiniciar parece custo mas é alavanca; abstrações melhores crescem exponencialmente e recuperam rápido o que parece perda linear
 - [[Não Perder como Precursor de Vencer]] — sobreviver é pré-condição de vencer; busque apostas assimétricas positivas; hypes amplificam o erro de tomar riscos sem entender o downside; "o fim nunca é o fim"
 - [[Highlight do Dia — A Âncora de Atenção]] — escolha UMA coisa por dia que, se feita, faz o dia valer; 60-90 min de foco; tudo o mais se organiza ao redor; não é sobre produtividade, é sobre intenção

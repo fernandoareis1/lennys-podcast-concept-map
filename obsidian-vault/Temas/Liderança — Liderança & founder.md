@@ -49,6 +49,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[A Questão da Cumplicidade — Como Criei as Condições que Digo Não Querer]] — a pergunta central de coaching: como fui cúmplice em criar o que digo não querer?
 - [[Equação de Liderança — Prática + Autoconsciência + Experiências]] — habilidades práticas + radical self-inquiry + experiências compartilhadas = liderança + resiliência
 - [[Padrões Familiares em Times]] — times reproduzem padrões da família de origem; a bagagem do líder vira cultura da empresa
+- [[Social Radar — Leitura de Founders em 10 Minutos]] — ler sinais sutis de comprometimento, co-founder dynamics e earnestness em 10 minutos de entrevista
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

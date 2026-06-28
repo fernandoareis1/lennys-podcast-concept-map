@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Anton Osika, Cameron Adams]
+autores: [Anton Osika, Cameron Adams, Jiaona Zhang]
 ---
 # Produto lovável (MLP)
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -34,6 +34,17 @@ O objetivo de lançar um produto não é chegar ao **mínimo viável** (MVP), ma
 - Padrão "Learn and Play" (Canva): a cada novo feature lançado, uma experiência interativa permite que o usuário teste o feature imediatamente com conteúdo pré-preparado — reduz a barreira de experimentação e aumenta o deleite do primeiro contato.
 
 > 🎧 [Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams (1:03:09)](https://www.youtube.com/watch?v=wgrJNHlYUA8) · 2024-06-02
+
+### [[Jiaona Zhang]]
+- MLP vs MVP: em um mundo com muitas opções, "apenas viável" não é suficiente. O usuário precisa de um motivo para escolher você, não apenas uma razão para não desistir.
+- Conceito de "pixie dust" — polvilhe encantamento extra em áreas selecionadas, não em tudo; melhor fazer 5 coisas excepcionalmente bem que 15 mediocremente.
+- "Prefiro que as pessoas recebam o MLP em 5 áreas do que o MVP em 15 áreas."
+- Pense no ecossistema como co-criador do MLP: quando a empresa chegou ao MVP mas não ao MLP, incentive sua comunidade a completar a lovability.
+- A decisão de quality bar depende do que o usuário está substituindo: se for planilhas ou processos manuais, a barra é menor; se for Adobe ou Figma, a barra é brutal.
+> 🎧 [Building minimum lovable products, stories from WeWork & Airbnb (1:07:32)](https://www.youtube.com/watch?v=gLFZNzeylCc) · 2023-07-02
+
+## Aprofundamento ⬇
+[[Produto lovável (MLP) — Evidências]]
 
 ## Conceitos relacionados
 [[DHM Model]] · [[Democratização do software via IA]] · [[Construir em público]] · [[Gargalo como bússola de priorização]] · [[Dar Lego — alegria de escalar sem segurar]]

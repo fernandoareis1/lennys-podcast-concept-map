@@ -71,6 +71,10 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Estratégia como Aposta Concentrada e Específica]] — estratégia não é aspiração; é plano coerente de aplicar vantagens contra problema específico; concentração > diversificação para startups
 - [[De Saber a Fazer — A Transição dos Agentes de IA]] — fronteira da IA passou de modelos que sabem para modelos que fazem; exige ambientes de RL, clareza sobre quando escalar para humano; easy to learn, hard to master; POCs chegam a 70%, o resto é como cada "nine" de uptime
 - [[Compound Startup — Plataforma como Vantagem Composta]] — múltiplos negócios em cima de um único sistema de registro; activation energy alta no início mas cada novo produto herda vantagens; design para o caso mais complexo primeiro; diferenciação = o que só é possível com a plataforma unificada
+- [[Double Down no Core — Investir no Alpha do Produto]] — entenda por que as pessoas te amam e invista profundamente nisso; cada adjacência deve herdar o alpha, não abandoná-lo
+
+## Descer mais (L4) ⬇
+[[Produto lovável (MLP) — Evidências]]
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

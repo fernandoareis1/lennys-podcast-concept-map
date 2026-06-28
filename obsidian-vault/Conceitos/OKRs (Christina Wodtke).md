@@ -2,7 +2,7 @@
 tipo: framework
 fluxo: Priorização & Roadmap
 nivel: 3
-autores: [Christina Wodtke]
+autores: [Christina Wodtke, Jiaona Zhang]
 ---
 # OKRs (Christina Wodtke)
 
@@ -27,6 +27,13 @@ OKR é **vitamina, não remédio**: supercarrega empresas que já têm estratég
 - Estimar é **skill aprendível**; OKRs treinam o time a estimar.
 
 > 🎧 [Christina Wodtke — The ultimate guide to OKRs (1:13:13)](https://www.youtube.com/watch?v=kvkL18Ue0dE)
+
+### [[Jiaona Zhang]]
+- Antes de definir números, pergunte qualitativamente: "o que faria você dizer 'realmente esmagamos esse trimestre'?" Isso é o espírito dos OKRs.
+- OKRs todos verdes = não eram ambiciosos o suficiente. Prefira vermelho e aprendizado a verde e mediocridade.
+- Crie cultura onde tomar risco e falhar não prejudica performance; caso contrário, os OKRs viram sandbag.
+- O PM deve sonhar grande E ter um plano de milestones mostrando o caminho — não basta "quero atingir X".
+> 🎧 [Building minimum lovable products, stories from WeWork & Airbnb (1:07:32)](https://www.youtube.com/watch?v=gLFZNzeylCc) · 2023-07-02
 
 ## Aprofundamento ⬇
 *Camada L4 — citações longas e mecânica completa:*

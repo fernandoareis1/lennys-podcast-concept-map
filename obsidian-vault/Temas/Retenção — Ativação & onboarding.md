@@ -17,6 +17,7 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 - [[Jornada do Cliente — 3 Fases e a Crise do Funil]] — funnels são métrica da empresa, não do cliente; 3 fases: Struggle (problema→interesse) → Evaluation (first value→value realization) → Growth; inclui pré-descoberta
 - [[Primeiros 30 Segundos — Onboarding Mágico]] — usuário novo é lazy, vain e selfish; um ovo por vez; reconstruir a IA no onboarding foi o momento "bet the company" da Gamma; time-to-value <30s
 - [[Intencionalidade como Alavanca de Engajamento]] — pedir ao usuário que faça uma escolha ativa aumenta engajamento futuro; "Commit to My Goal" vs "Continue"; opt-out que cria intenção
+- [[Onboarding em Cohorts — Lançar em Ondas]] — lançar em ondas pequenas; corrigir todos os bugs antes do próximo cohort; Linear usou 1 ano de private beta assim e converteu quase 100% no lançamento público
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]

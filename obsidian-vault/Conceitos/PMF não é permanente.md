@@ -2,11 +2,11 @@
 tipo: mindset
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Adam Grenier, Elena Verna]
+autores: [Adam Grenier, Elena Verna, Karri Saarinen]
 ---
 # PMF não é permanente
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
-**Tipo:** Mindset · **Fontes:** [[Adam Grenier]]
+**Tipo:** Mindset · **Fontes:** [[Adam Grenier]] · [[Elena Verna]] · [[Karri Saarinen]]
 
 ## Ideia central
 Product-market fit não é uma conquista permanente — é uma relação com um mercado específico em um momento específico. Quando o mercado muda (recessão, mudança de comportamento, nova regulação), o PMF anterior pode desaparecer. A armadilha mais comum: tentar resolver com um novo canal de aquisição o que é, na verdade, um problema de ajuste produto-mercado.
@@ -31,6 +31,14 @@ Product-market fit não é uma conquista permanente — é uma relação com um 
 - Risco: ao focar demais em recapturar os early adopters (pioneers), a indústria AI corre o risco de alienar a **maioria latente** (adjacent users que ainda não chegaram).
 
 > 🎧 [The new AI growth playbook for 2026 | Lovable (1:31:56)](https://www.youtube.com/watch?v=6qAB6aUMIeA)
+
+### [[Karri Saarinen]]
+- PMF não é binário — você o tem em alguns segmentos e não em outros ao mesmo tempo.
+- "Nos primeiros dois anos, focamos em uma pergunta: conseguimos ter fit no segmento de startups early-stage? Se sim, dobramos nisso."
+- A lição de Eric Yuan (Zoom): "Se você está indo muito bem em alguma categoria, apenas dobre nela." — conquistar segmento por segmento é mais sustentável que tentar PMF broad desde o início.
+- A Linear cresceu sequencialmente: startups early-stage → scale-ups → enterprise. Cada segmento exigiu ajuste novo; o PMF anterior não transferia automaticamente.
+- "Você não tem fit para todos ao mesmo tempo — você tem fit para quem está disposto a usar hoje."
+> 🎧 [Inside Linear: Building with taste, craft, and focus](https://www.youtube.com/watch?v=4muxFVZ4XfM) · 2023-10-08
 
 ## Conceitos relacionados
 [[Sean Ellis Test (40%)]] · [[Estratégia — Estratégia de produto]] · [[Retenção é a base do crescimento]] · [[Growth — Anti-táticas]]

@@ -2,12 +2,12 @@
 tipo: insight
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Dylan Field]
+autores: [Dylan Field, Karri Saarinen]
 ---
 # Craft e Qualidade como Moat no Mundo de IA
 
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
-**Tipo:** Insight · **Fontes:** [[Dylan Field]]
+**Tipo:** Insight · **Fontes:** [[Dylan Field]] · [[Karri Saarinen]]
 
 ## Ideia central
 Quando a IA torna mais fácil criar software, a tendência inicial é pensar que isso comodiza o produto. O insight contrário: **em um mundo de mais software, craft, taste e qualidade se tornam o diferenciador**, não o contrário.
@@ -36,6 +36,14 @@ Com ferramentas de IA gerando UI genérico rapidamente, a diferenciação vem do
 - O sucesso do Figma foi parcialmente por elevar o bar de craft em ferramentas de design — não só funcionalidade, mas prazer de usar.
 
 > 🎧 [Figma's CEO: Why AI makes design, craft, and quality the new moat (1:26:50)](https://www.youtube.com/watch?v=WyJV6VwEGA8) · 2025-10-16
+
+### [[Karri Saarinen]]
+- "Quanto mais concorrido um espaço, mais o design importa — porque as pessoas precisam de uma razão para escolher."
+- No começo da Linear, quando ninguém os conhecia, o design de alta qualidade era a única forma de fazer alguém experimentar o produto.
+- A barra sobe continuamente: qualquer cliente de e-mail hoje precisa ser genuinamente bom, porque Linear, Figma e Notion já calibraram o que "bom" significa para software B2B.
+- Craft ≠ perfeição antes de lançar: a Linear lançava internamente cedo e polía antes do GA — a distinção é entre qualidade no output final e perfeccionismo paralisante.
+- "Design é alavancagem de longo prazo — não faz a empresa crescer amanhã, mas define o teto que a empresa consegue alcançar."
+> 🎧 [Inside Linear: Building with taste, craft, and focus](https://www.youtube.com/watch?v=4muxFVZ4XfM) · 2023-10-08
 
 ## Conceitos relacionados
 [[Software opinionado]] · [[Produto lovável (MLP)]] · [[Bloqueador como vantagem]] · [[99% Done ≈ 0% Done]] · [[DHM Model]]

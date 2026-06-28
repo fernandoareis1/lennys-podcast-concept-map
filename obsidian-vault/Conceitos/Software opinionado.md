@@ -2,11 +2,11 @@
 tipo: insight
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Barbra Gago]
+autores: [Barbra Gago, Karri Saarinen]
 ---
 # Software opinionado
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
-**Tipo:** Insight · **Fontes:** [[Barbra Gago]]
+**Tipo:** Insight · **Fontes:** [[Barbra Gago]] · [[Karri Saarinen]]
 
 ## Ideia central
 Software opinionado tem **melhores práticas ou regras embutidas no produto** — o sistema força uma certa forma de trabalhar e não permite desvios arbitrários. O oposto é software maximamente customizável onde o usuário decide tudo.
@@ -31,6 +31,13 @@ O tradeoff é claro: software opinionado cria **defensibilidade e diferenciaçã
 - "Com Greenhouse, foi diferente: havia uma forma melhor de fazer e é assim que deve ser feito — nosso software te ajuda a fazer isso."
 - Sobre Pando: "Empresas que consertam gaps de compensação anualmente não estão resolvendo o problema sistêmico. O produto cria accountability em ambos os lados — gestor e funcionário — porque sem sistema isso é subjetivo demais."
 > 🎧 [Category creation and brand building (55:48)](https://www.youtube.com/watch?v=gCEaUfZUuI0) · 2022-10-27
+
+### [[Karri Saarinen]]
+- "Há sempre aquela tensão entre fazer algo para todos vs. fazer algo para alguém. E acredito muito em criar algo para alguém — uma empresa ou equipe específica — e torná-lo o melhor possível para esse caso de uso."
+- O Linear Method é a visão opinionada da Linear sobre como o desenvolvimento de software deve funcionar: ciclos de duas semanas, issues atômicas, escritas como tarefas, sem backlogs infinitos.
+- Bons defaults eliminam decisões de configuração: o usuário entra no fluxo de trabalho sem precisar montar a ferramenta.
+- "Quando eu crio algo para um produto de produtividade, ele deve te dizer como trabalhar — não deixar você escolher tudo."
+> 🎧 [Inside Linear: Building with taste, craft, and focus](https://www.youtube.com/watch?v=4muxFVZ4XfM) · 2023-10-08
 
 ## Conceitos relacionados
 [[Diferente E melhor E relevante]] · [[DHM Model]] · [[Empowered Teams vs Feature Teams]] · [[Pain is the New Moat]]

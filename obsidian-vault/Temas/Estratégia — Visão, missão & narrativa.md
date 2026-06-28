@@ -16,6 +16,7 @@ A missão não é decoração: ela define **o que importa medir**, quem a empres
 - [[Visão como Fotografia do Futuro]] — avance 5 anos, tire uma foto do mundo transformado e volte; 4 critérios: lofty + realistic + sem constraints atuais + problema potente de usuário
 - [[Três Formatos de Comunicação de Visão]] — Mad Libs ("once upon a time"), TechCrunch headline trabalhando de trás para frente, e screenshot visual do futuro
 - [[Sugar-Coated Broccoli — Esconder a Visão Radical]] — embrulhe sua visão radical em algo familiar; as pessoas precisam do açúcar para aceitar o brócoli
+- [[Logo Bom o Suficiente — Defer o Brand até o Trigger Certo]] — não invista pesado em brand antes de ter PMF; espere os triggers certos (impressão física, escala, pivô)
 
 ## Fluxos vizinhos
 [[09 - Liderança & Times]] · [[03 - Priorização & Roadmap]]

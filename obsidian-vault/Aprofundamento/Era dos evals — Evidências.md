@@ -3,11 +3,11 @@ tipo: aprofundamento
 nivel: 4
 fluxo: Estratégia & Visão
 conceito_pai: Era dos evals — o eval é o PRD do modelo
-autores: [Brendan Foody, Hamel Husain, Shreya Shankar]
+autores: [Brendan Foody, Hamel Husain, Shreya Shankar, Karina Nguyen]
 ---
 # 📜 Era dos evals — Evidências
 **↑ Card:** [[Era dos evals — o eval é o PRD do modelo]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L4
-**Fontes:** [[Brendan Foody]] (1:07:08) · [[Hamel Husain]] (1:46:33) · [[Shreya Shankar]] (1:46:33)
+**Fontes:** [[Brendan Foody]] (1:07:08) · [[Hamel Husain]] (1:46:33) · [[Shreya Shankar]] (1:46:33) · [[Karina Nguyen]] (1:14:34)
 
 ---
 
@@ -88,12 +88,47 @@ Para modos de falha que não são capturáveis com código simples (ex.: "deveri
 
 ---
 
+---
+
+## [[Karina Nguyen]] — Evals de dentro do lab: treinar comportamentos de produto (2025-02-09)
+
+> "O eval mais robusto é o que faz o baseline promtado receber a pontuação mais baixa. Porque então você sabe que, se treinou um bom modelo, ele vai subir nesse eval continuamente sem regredir em outros evals de inteligência."
+
+> "Às vezes peço aos product managers para criar uma planilha dupla com diferentes abas: qual é o comportamento atual, qual é o comportamento ideal e por quê, e algumas notas. Às vezes usamos com evals, às vezes usamos para treinamento. Porque se você der a planilha ao modelo o1, ele provavelmente vai descobrir como ensinar a si mesmo um bom comportamento."
+
+**A perspectiva do modelo para treinar produtos:**
+
+Enquanto Hamel/Shreya ensinam evals para melhorar *aplicações de LLM já deployadas*, Karina ensina evals para *treinar comportamentos novos no modelo*. A diferença é de nível: produto vs. fundação. Na prática de Karina:
+
+1. **Evals determinísticos** (pass/fail): para comportamentos de decisão clara. Exemplo de Tasks: "Se o usuário diz 7PM, o modelo deve dizer 7PM." Binário, auditável, mensurável.
+
+2. **Win-rate humano**: para qualidade de output subjetiva. Dada uma conversa e dois completions, qual modelo produziu melhor resultado? Percentual de vitória sobre o modelo anterior = sinal de progresso.
+
+3. **Evals como especificação de treinamento**: a planilha com "comportamento atual / ideal / por quê" é passada ao o1, que usa para inferir como sintetizar dados de treinamento.
+
+**Ensinar PMs e model designers a escrever evals:**
+
+> "Uma parte do meu tempo na OpenAI foi trabalho de IC de pesquisa — rodar código, treinar modelos, escrever evals, trabalhar com PMs e designers para ensiná-los a pensar em avaliação. Acho que foi uma adoção de 'como fazemos product management de feature de IA para nossos modelos de IA'."
+
+O processo criou uma nova função: *model designer* — alguém que pensa nos comportamentos do modelo como produto, escreve evals para esses comportamentos e define o que "correto" significa para cada interação.
+
+**Prompting como nova prototipagem:**
+
+> "Prompting é uma nova forma de desenvolvimento de produto ou prototipagem para designers e product managers."
+
+O demo de 100K context com file uploads foi construído inteiramente como protótipo em browser local via prompting — sem treinamento. A capacidade existia; o form factor foi validado com prompts antes de qualquer investimento em engenharia.
+
+🎧 [OpenAI researcher on why soft skills are the future of work](https://www.youtube.com/watch?v=DeskgjrLxxs) · 2025-02-09
+
+---
+
 ## Síntese — Por que evals se tornaram a habilidade mais importante
 
-Três perspectivas convergentes:
+Quatro perspectivas convergentes:
 
 1. **Nível de modelo/lab** (Brendan Foody): evals são o gargalo para melhorar fundação de modelos; sem eval, não há RL, não há validação de capacidade.
 2. **Nível de produto de IA** (Hamel + Shreya): evals são a forma sistemática de entender o que está errado com sua aplicação de LLM, priorizar melhorias e testar regressões.
 3. **Nível de PRD** (Lenny + Shreya): "evals são os novos PRDs" — o prompt do LLM judge captura as expectativas do PM de forma explícita, verificável e que melhora iterativamente com os dados reais.
+4. **Nível de treinamento de produto** (Karina Nguyen): evals definem o que "correto" significa para comportamentos específicos de produto, e essa definição alimenta diretamente a geração de dados sintéticos para pós-treinamento — fechando o loop entre produto e modelo.
 
 O que unifica: em sistemas estocásticos (como LLMs), não há garantia de comportamento — só medição sistemática. Evals são a infraestrutura de qualidade do desenvolvimento de produtos de IA, análoga a testes unitários + analytics + QA no desenvolvimento de software tradicional — mas com técnicas adaptadas ao não-determinismo.

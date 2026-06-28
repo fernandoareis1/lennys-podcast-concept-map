@@ -2,11 +2,11 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Brendan Foody, Hamel Husain, Shreya Shankar]
+autores: [Brendan Foody, Hamel Husain, Shreya Shankar, Karina Nguyen]
 ---
 # Era dos evals — o eval é o PRD do modelo
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
-**Tipo:** Framework · **Fontes:** [[Brendan Foody]] · [[Hamel Husain]] · [[Shreya Shankar]]
+**Tipo:** Framework · **Fontes:** [[Brendan Foody]] · [[Hamel Husain]] · [[Shreya Shankar]] · [[Karina Nguyen]]
 
 ## Ideia central
 "Se o modelo é o produto, o eval é o PRD." O gargalo primário para a melhoria de modelos de IA não é dados de pré-treino — é a capacidade de **definir o que é sucesso** em cada domínio que o modelo precisa dominar. Sem um eval, não há como medir progresso, recompensar os comportamentos certos no RL, ou validar que uma capacidade foi adquirida.
@@ -48,6 +48,15 @@ O mercado de trabalho humano especializado em escrever evals é uma nova categor
 - Unit tests, A/B tests e monitoramento online são todos formas de eval; a distinção rígida entre eles cria confusão desnecessária.
 
 > 🎧 [Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (1:46:33)](https://www.youtube.com/watch?v=BsWxPI9UM4c) · 2025-09-25
+
+## Insights por autor
+### [[Karina Nguyen]]
+- Dois tipos de evals: **determinísticos** (pass/fail — "se o usuário diz 7PM, o modelo deve dizer 7PM") e **win-rate humano** (qual modelo produz o output de maior qualidade?).
+- Formato prático: planilha com abas de "comportamento atual", "comportamento ideal", "notas" e "por quê" — pode ser passada ao o1 para ele descobrir como treinar o bom comportamento.
+- "O eval mais robusto é o que faz o baseline promtado receber a pontuação mais baixa. Assim você sabe que, se treinou um bom modelo, ele vai subir nesse eval continuamente."
+- Ensinou PMs e model designers a escrever evals — "product management of AI feature for AI models".
+- Prompting como nova forma de prototipagem: o demo de 100K context com file uploads foi feito como protótipo em browser local antes de qualquer treinamento.
+> 🎧 [OpenAI researcher on why soft skills are the future of work](https://www.youtube.com/watch?v=DeskgjrLxxs) · 2025-02-09
 
 ## Aprofundamento ⬇
 - [[Era dos evals — Evidências]]

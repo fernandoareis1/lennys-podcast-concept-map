@@ -23,6 +23,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Métricas Tree — Desdobramento do North Star]] — árvore que conecta North Star + KPI de negócio a todas as sub-métricas; revela interseções de alto impacto e cria ownership por time
 - [[Pior é Melhor — Tech Debt como Problema de Champanha]] — ship a versão ingênua; você não consegue antecipar edge cases sem usuários reais; tech debt = prova de que pessoas usam o produto
 - [[Diagnosticar com Dados, Tratar com Design]] — dados revelam o que está acontecendo (não o que construir); design inventa a solução; dados = quantitativo + qualitativo + comportamento social; empresas de IA crescem em "instintos e vibes" até o crescimento parar; análise conversacional requer novas metodologias
+- [[Dados Sintéticos — Sem Parede de Dados no Pós-Treinamento]] — pré-treinamento tem parede de dados; pós-treinamento via RL com tarefas sintéticas não tem; Canvas foi construído com 3 comportamentos treinados sinteticamente; diversidade de dados sintéticos é a fronteira de pesquisa ativa
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

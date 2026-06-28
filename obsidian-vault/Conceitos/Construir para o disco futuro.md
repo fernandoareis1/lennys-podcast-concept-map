@@ -2,11 +2,11 @@
 tipo: mindset
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Benjamin Mann]
+autores: [Benjamin Mann, Karina Nguyen]
 ---
 # Construir para o disco futuro
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
-**Tipo:** Mindset · **Fontes:** [[Benjamin Mann]]
+**Tipo:** Mindset · **Fontes:** [[Benjamin Mann]] · [[Karina Nguyen]]
 
 ## Ideia central
 Em era de progresso exponencial em IA, times de produto cometem o erro de construir para as capacidades **atuais** do modelo. O mindset correto é "skate to where the puck is going": **construa para as capacidades de 6 a 12 meses no futuro**.
@@ -32,5 +32,12 @@ O antídoto ao erro: internalize a curva exponencial concretamente — não como
 - "São AGI-pilled o suficiente? É a pergunta que eu sempre faço para o time."
 > 🎧 Episódio com Benjamin Mann, co-founder da Anthropic (frontmatter do transcript com erro — URL não disponível)
 
+## Insights por autor
+### [[Karina Nguyen]]
+- "A Canvas idea estava no ar desde 2022, antes do ChatGPT. Mas o modelo Claude 1.3 não estava lá para fazer edições de alta qualidade. Você constrói ideias de produto de forma que, quando os modelos estiverem realmente bons, vai funcionar muito bem."
+- "Form follows function. O form factor de file uploads pode permitir que as pessoas literalmente façam upload de qualquer coisa — livros, relatórios financeiros — e perguntem qualquer tarefa ao modelo."
+- "Notificações são muito familiares, ter lembretes é muito familiar. Então você pega um form factor familiar — Canvas é como Google Docs, Tasks é como alarme de celular — e adiciona um momento mágico de IA, e se torna muito poderoso."
+> 🎧 [OpenAI researcher on why soft skills are the future of work](https://www.youtube.com/watch?v=DeskgjrLxxs) · 2025-02-09
+
 ## Conceitos relacionados
-[[Teste de Turing Econômico]] · [[Dois de três pontos de inflexão]] · [[Hill Climb — ótimo local vs global]]
+[[Teste de Turing Econômico]] · [[Dois de três pontos de inflexão]] · [[Hill Climb — ótimo local vs global]] · [[Do Computador Pessoal ao Modelo Pessoal]]

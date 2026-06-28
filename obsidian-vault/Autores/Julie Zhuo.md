@@ -7,6 +7,7 @@ Longtime VP e Head of Design do aplicativo do Facebook (Meta), usado por mais de
 
 ## Episódios
 - 🎧 [From managing people to managing AI: The leadership skills everyone needs now](https://www.youtube.com/watch?v=c_w0LaFahxk)
+- 🎧 [How To Win Friends & Influence Decisions | Lenny & Friends Summit 2024](https://www.youtube.com/watch?v=0Z5FCYDeZXs) *(mesma entrevista, re-apresentada no Summit)*
 
 ## Conceitos
 - [[Diagnosticar com Dados, Tratar com Design]]

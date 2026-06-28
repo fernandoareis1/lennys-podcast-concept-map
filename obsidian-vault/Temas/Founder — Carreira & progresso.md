@@ -52,6 +52,9 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Carreira como Mapa, Não Escada]] — Escada = subir (título, poder); Mapa = ir onde é interessante; falsa precisão sobre a "escada certa" é ilusória; carreira tem 30-50 anos — dá para vários rounds de 5-10 anos em territórios distintos
 - [[Conselho Descontextualizado — O Viés do Vale do Silício]] — quase todo conselho pressupõe startup de tech SV; empresas em transformação devem adaptar frameworks como ferramenta, não adotá-los como objetivo
 - [[Magic Box Paradigm — Seduzir o Comprador em vez de Se Vender]] — exits de sucesso acontecem por sedução, não venda; learn → prove → quantify a fantasia do comprador; campeão interno é o ponto de entrada — quase todo conselho pressupõe startup de tech SV; empresas em transformação devem adaptar frameworks como ferramenta, não adotá-los como objetivo
+- [[Portfólio de Mentores — O Menor Pedido Possível]] — não busque "o mentor"; construa portfólio de mentores cada um expert em 1 skill; entre pelo menor pedido possível; feche o loop mostrando que usou o conselho
+- [[Força como Sombra — O Mesmo Dial]] — forças e fraquezas são o mesmo traço em contextos diferentes; "o que todos dizem que você faz bem mas você acha óbvio" = sua força real; a sombra é o contexto onde a força vira fraqueza
+- [[IQ vs. EQ — Dois Estágios do PM]] — IQ (execution, strategy, product sense) domina early career e aprende rápido (3-6m para 80%); EQ (comunicação, liderança, autoconhecimento) domina senior career e é músculo que atrofia se parar
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

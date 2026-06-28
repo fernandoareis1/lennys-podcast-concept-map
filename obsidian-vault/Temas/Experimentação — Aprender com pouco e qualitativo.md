@@ -21,6 +21,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Análise de erros qualitativa para produtos de IA]] — open coding → axial coding → contagem para descobrir modos de falha reais em apps de LLM
 - [[Confidence Meter — Calibrando Certeza com Evidência]] — escala 0–10 que mapeia classes de evidência a graus de confiança; calibra o "C" do ICE e desacopla investimento de opinião
 - [[Métricas Tree — Desdobramento do North Star]] — árvore que conecta North Star + KPI de negócio a todas as sub-métricas; revela interseções de alto impacto e cria ownership por time
+- [[Pior é Melhor — Tech Debt como Problema de Champanha]] — ship a versão ingênua; você não consegue antecipar edge cases sem usuários reais; tech debt = prova de que pessoas usam o produto
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

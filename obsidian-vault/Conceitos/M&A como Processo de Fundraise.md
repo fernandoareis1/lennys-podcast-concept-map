@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Camille Hearst]
+autores: [Camille Hearst, Julia Schottenstein]
 ---
 # M&A como Processo de Fundraise
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Mentalidade de founder]] · **Camada:** L3
@@ -31,5 +31,14 @@ A relação ideal é construída ao longo de anos: o decisor no lado comprador p
 - "Trate como um processo. Não é diferente de como você gerencia um processo de fundraise — vai pelos funis, cria paralelos, termina com resultado."
 - "O enquadramento certo é 'talvez haja uma parceria aqui' — não 'olha, estou pensando em vender'. Em 12 meses, quando você ligar de verdade, eles já te conhecem."
 
+### [[Julia Schottenstein]]
+- "M&A is always about creating plan Bs." — para qualquer empresa, existem apenas 2-3 compradores que realmente acharão o que você constrói estratégico
+- Estratégia de visibilidade: identifique a área onde você tem vantagem competitiva e **infija dor no comprador potencial** — faça impossível ignorar você — mas mantenha postura amigável e aberta; M&A falha quando founders fecham conversas prematuramente
+- Se você tem tempo: nunca mencione M&A; fale em "parceria estratégica" ou "como podemos trabalhar juntos?" — M&A é palavra suja para empresas com runway
+- Se você está em apuros: seja completamente transparente, abra o leque de compradores, envie algo simples: "estamos buscando um home para nossa empresa, construímos algo interessante, gostaríamos de manter o time junto"
+- Use o time de corp dev do potencial comprador a seu favor: é o trabalho deles conhecer todos; peça para te conectar com o GM ou líder de produto que patrocinaria o deal
+- Investidores querem que você aterrise em uma boa empresa — não se preocupe tanto em "desapontá-los"; eles entendem que 50% dos investimentos não retornam nada
+> 🎧 [M&A, competition, pricing, and investing](https://www.youtube.com/watch?v=y9hmrMBRPDI) · 2023-07-13
+
 ## Conceitos relacionados
-[[Founder — Mentalidade de founder]] · [[Carreira é progresso, não salário]] · [[Identidade de Builder]]
+[[Founder — Mentalidade de founder]] · [[Carreira é progresso, não salário]] · [[Identidade de Builder]] · [[Magic Box Paradigm — Seduzir o Comprador em vez de Se Vender]]

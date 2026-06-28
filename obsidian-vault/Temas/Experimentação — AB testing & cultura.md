@@ -22,6 +22,9 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Experimentação com amostras pequenas]] — quando A/B não é viável (baixo volume): power analysis primeiro; cidades-gêmeas; diff-in-diff; 80% de confiança; e quando nada funciona, ship na intuição + loop de feedback pós-lançamento
 - [[LLM como Juiz — avaliação automatizada de qualidade]] — eval binário (pass/fail) para um único modo de falha em apps de IA; uso em CI e monitoramento online
 - [[Métrica do Cliente — Medir do Ponto de Vista do Comprador]] — meça se o cliente conseguiu o que veio fazer (zero tickets de suporte vs. média de tickets); se o cliente ficasse animado ao ver seu dashboard, você escolheu a métrica certa; bad day chart como background noise
+- [[Métricas de Proxy para Outcomes de Longo Prazo]] — encontre métrica de curto prazo que prediz o outcome de longo prazo; retenção não é meta operacional
+- [[Métricas Simples vs Compostas — Clareza Bate Perfeição]] — métrica simples que todos entendem > composta perfeita que ninguém debate
+- [[Fail States como Métricas Obrigatórias]] — medir e zerar experiências catastróficas (Never Delivered) tem impacto desproporcional no churn vs. melhorar a média
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

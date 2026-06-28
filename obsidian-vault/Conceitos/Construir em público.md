@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Anton Osika]
+autores: [Anton Osika, Josh Miller]
 ---
 # Construir em público
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Distribuição & canais]] · **Camada:** L3
@@ -26,5 +26,12 @@ Compartilhar o que você constrói nas redes sociais — em tempo real, enquanto
 - A Lovable tem playbooks publicados no blog sobre como fundadores que usam o produto podem crescer seus apps (SEO, word of mouth, referrals) — construir em público escala para o ecossistema.
 > 🎧 [Building Lovable: $10M ARR in 60 days with 15 people (1:09:48)](https://www.youtube.com/watch?v=DZtGxNs9AVg) · 2025-03-09
 
+### [[Josh Miller]]
+- Na Browser Company, construir em público é "confiança radical", não transparência radical. A lógica: browsers têm seus dados mais sensíveis → precisam confiar em quem constrói → mostrar quem você é como humano é a única prova real.
+- "A única coisa que posso fazer é deixar você me conhecer. Se você sentir que me conhece e que me importo, quando pedir permissão você vai confiar que é para te fazer sentir melhor."
+- Incluem board meetings gravados, conversas difíceis sobre projetos atrasados, celebrações de time — não só conteúdo polido.
+- Risco identificado: evitar que o CEO se torne o herói central da narrativa quando o objetivo é humanizar o time inteiro.
+> 🎧 [Competing with giants: An inside look at how The Browser Company builds product](https://www.youtube.com/watch?v=AZpo5785v8A) · 2023-03-19
+
 ## Conceitos relacionados
-[[Produto lovável (MLP)]] · [[Growth Loops vs Funil]] · [[Distribuição vence produto]] · [[Ciclo das novas plataformas de distribuição]]
+[[Produto lovável (MLP)]] · [[Growth Loops vs Funil]] · [[Distribuição vence produto]] · [[Ciclo das novas plataformas de distribuição]] · [[Produto é o Time — Empresa como Produto Principal]]

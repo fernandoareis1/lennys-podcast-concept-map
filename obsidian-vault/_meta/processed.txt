@@ -165,3 +165,4 @@ john-mark-nickels
 jonathan-becker
 jonathan-lowenhar
 jonny-miller
+josh-miller

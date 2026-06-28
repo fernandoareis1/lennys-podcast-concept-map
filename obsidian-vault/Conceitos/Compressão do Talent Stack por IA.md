@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Liderança & Times
-autores: [Alexander Embiricos, Anton Osika]
+autores: [Alexander Embiricos, Anton Osika, Julie Zhuo]
 ---
 # Compressão do Talent Stack por IA
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
@@ -35,5 +35,17 @@ autores: [Alexander Embiricos, Anton Osika]
 - Habilidade cognitiva bruta + mindset de startup (mover rápido, pensar no negócio como um todo) são os atributos que mais correlacionam com sucesso no time.
 > 🎧 [Building Lovable: $10M ARR in 60 days with 15 people (1:09:48)](https://www.youtube.com/watch?v=DZtGxNs9AVg) · 2025-03-09
 
+### [[Julie Zhuo]]
+- No Sundial, eliminaram o papel de PM: "Se não temos um PM, comunicação é responsabilidade minha. Descobrir como entregar valor para os usuários está no meu cargo — esse é o porquê de gostar disso."
+- Insight-chave: **a existência de um papel previne que outros assumam o ownership daquele domínio.** "Quando tenho um problema e tem um PM no time, meu default é 'é o trabalho deles'. Isso é uma oportunidade perdida."
+- "We need to dissolve the boundaries of these traditional roles and call ourselves builders. I'd love for us to get to the world where that's the title."
+- Aplicável a papéis de front-end/back-end também: se um projeto tem front-end e back-end, não é automático "preciso de um de cada". O engenheiro usa IA para fazer a parte que não é sua especialidade e consulta o especialista para revisão.
+- O custo inicial existe: "Inicialmente as coisas demoram mais. Mas o investimento compensa porque você tem pessoas mais polivalentes que conseguem entregar mais coisas sozinhas."
+- Não se aplica apenas com IA: "Pre-AI, times menores e com menos papéis já permitiam que todos tivessem mais ownership."
+> 🎧 [From managing people to managing AI: The leadership skills everyone needs now](https://www.youtube.com/watch?v=c_w0LaFahxk)
+
+## Aprofundamento ⬇
+[[Compressão do Talent Stack por IA — Evidências]]
+
 ## Conceitos relacionados
-[[Proatividade como Destino dos Agentes]] · [[Times cross-funcionais com especialistas de domínio]] · [[PM responsável por valor e viabilidade]] · [[Liderança — Modelos de time]] · [[Democratização do software via IA]]
+[[Proatividade como Destino dos Agentes]] · [[Times cross-funcionais com especialistas de domínio]] · [[PM responsável por valor e viabilidade]] · [[Liderança — Modelos de time]] · [[Democratização do software via IA]] · [[Diagnosticar com Dados, Tratar com Design]]

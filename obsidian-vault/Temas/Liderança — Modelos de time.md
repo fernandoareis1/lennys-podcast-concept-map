@@ -62,3 +62,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Pesquisa Aplicada Não-Universitária — GitHub Next]] — time de pesquisa de 3-5 anos que não vira universidade (papers sem produção) nem tático (horizonte-1); sucesso = pessoas certas + liberdade + sinergia com produto para fazer coisas reais
 - [[Perguntas Reveladoras em Entrevistas de Seleção]] — perguntas abertas que quebram o modo ensaiado e revelam autoconhecimento, valores e capacidade de reflexão dos candidatos
 - [[Org de Analytics Centralizada com Pods]] — hub central de analytics com pods alinhados às BUs; seat at the table, não service org
+- [[Reuniões 5 Estrelas como Diagnóstico Organizacional]] — estrutura atômica da empresa = reuniões + decisões; reunião que drena revela problema organizacional específico

@@ -47,6 +47,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 
 - [[Fanatical Love — Clientes que Amam, Não Apenas Gostam]] — Sean Ellis Score como gate antes de escalar; 50% de "muito desapontados" no Nubank; NPS de 70-95; 80-90% de crescimento via word of mouth
 - [[Product-Led Acquisition — Quatro Mecanismos]] — aquisição orgânica via uso natural do produto: quitar dívida (Venmo/PayPal), conversa exclusiva (Slack/WhatsApp), billboarding (Hotmail/Calendly/AirPods), UGC (YouTube/Reddit); custo zero, sem dependência de terceiros; não confundir com referral programs (incentivos artificiais)
+- [[Trial Reverso — Freemium mais Trial Combinados]] — ofereça trial (premium por tempo limitado) + freemium (free para sempre) simultaneamente; usuário começa no topo e cai para free se não converter; jogo longo de user growth sobre revenue imediato
+- [[Funil PLG — Join, Evaluate, Upgrade, Expand]] — framework de 4 etapas para mapear jornada em produto PLG; "evaluate" (não "activate") porque é perspectiva do usuário; framework de comunicação e diagnóstico, não organograma
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

@@ -53,6 +53,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Dharma do Fundador — Sustentar vs. Destruir]] — CEOs que assumem de fundadores têm sucesso ao sustentar o dharma (princípios fundacionais), não ao imprimir identidade própria; oscilação Krishna (valores altos, baixa obediência) e Rama (valores altos, alta obediência)
 - [[Pensamento de Segunda Ordem — Curiosidade como Vantagem Composta]] — curiosidade sem orgulho de expertise → coleta de dots → information asymmetry; riqueza é information asymmetry; animais longevos como metáfora para founders
 - [[Naividade como Inovação — O Outsider como Vantagem]] — naividade = definição de criatividade e espaço em branco; founders que disruptam indústrias maduras frequentemente não sabem "como as coisas são feitas"; 70% dos founders de grandes B2B sem background específico na área
+- [[Medir em Centenas — Perseverança Composta]] — 5 falhas na escala de centenas = zero tentativas; compounding de múltiplas tentativas é o input crítico do sucesso; moto em Post-It: "Measure in hundreds"
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

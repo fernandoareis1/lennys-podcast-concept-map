@@ -35,6 +35,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Diferenciação como Loserville — A Matriz 2x2]] — 2x2 válido: feito com time todo, centrado na perspectiva do cliente, honesto com competidores, testado com usuários; todos os concorrentes ficam na "Loserville"; guia todo o desenvolvimento subsequente
 - [[Framework DATE — Diagnose, Analyze, Take a Different Path, Experiment]] — antes de qualquer iniciativa de marketing: diagnostique, analise a competição, tome um caminho diferente, experimente; anti-playbook playbook
 - [[Marketing é Extensão do Produto — Lançamento Começa no Uso]] — lançamento só está completo quando o usuário descobriu e usou; marketing de alta qualidade é indissociável do produto; 20%+80% review checkpoints
+- [[Verticalizar para Não Competir com a Plataforma]] — ao construir sobre IA, vá para vertical específico onde a plataforma não vai; Harvey (direito), Zapier (integrações); produto geral precisa ser radicalmente diferente em 10 dimensões para competir com ChatGPT
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

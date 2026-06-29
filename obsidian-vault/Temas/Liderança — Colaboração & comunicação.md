@@ -49,3 +49,6 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Empatia Arruinadora — O Erro Mais Comum]] — cuidar sem desafiar; história do Bob; não dizer o difícil é unkind no longo prazo; perderá os melhores performers e a pessoa que você "protegeu"
 - [[Como Solicitar Feedback de Forma Efetiva]] — pergunta-âncora autêntica → 6 segundos de silêncio → ouvir para entender → recompensar a candura visivelmente; nunca "você tem feedback para mim?"
 - [[HIP CORE — Framework de Feedback Impromptu]] — Humble+Helpful+Immediate+In-person+Public praise+Private criticism; Context+Observation+Result+Expected next step; para elogio e crítica igualmente
+- [[Catedral, não Tijolos]] — três pedreiros: "movo tijolos" vs "estamos construindo uma catedral"; grande PM ajuda o time a ver o objetivo maior; facetas diferentes para pessoas diferentes; acople comunicação de estratégia com métrica, mock e imagem
+- [[Catalyst — Ritual de Decisão em Paralelo]] — três blocos semanais onde toda empresa está livre; tópicos paralelos com participantes precisos; papéis Driver/Maker/Braintrust/Interested; resolve standing attendees e single-threading
+- [[Writeups de Duas Vias — Colaboração além do Documento]] — evolução de PowerPoint → one-way → two-way; botão "done reading", Dory (perguntas upvotadas), tabela de sentimento; captura vozes não-vocais

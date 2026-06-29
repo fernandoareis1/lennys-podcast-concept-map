@@ -56,6 +56,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Força como Sombra — O Mesmo Dial]] — forças e fraquezas são o mesmo traço em contextos diferentes; "o que todos dizem que você faz bem mas você acha óbvio" = sua força real; a sombra é o contexto onde a força vira fraqueza
 - [[IQ vs. EQ — Dois Estágios do PM]] — IQ (execution, strategy, product sense) domina early career e aprende rápido (3-6m para 80%); EQ (comunicação, liderança, autoconhecimento) domina senior career e é músculo que atrofia se parar
 - [[Soft Skills como Moat — A Inversão da IA]] — IA commoditiza hard skills (coding, design, escrita); soft skills (criatividade, listening, gestão, gosto estético) tornam-se o moat real; progresso em pesquisa de IA é literalmente bottlenecked por qualidade de gestão
+- [[Momento "Oh Shit" — Calibrador de Crescimento de Carreira]] — Seth Godin: momentos de "não deveria estar aqui" são os que você deve buscar; melhor pergunta de 1:1: "quantos momentos oh shit nos últimos 6 meses?"
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

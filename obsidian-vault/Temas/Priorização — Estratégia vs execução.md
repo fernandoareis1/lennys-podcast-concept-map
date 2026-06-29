@@ -25,3 +25,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Roadmap como Narrativa — Temas em vez de Features]] — roadmap conta uma história com temas, não uma planilha com RICE scores; scaffolding para o time descobrir o "como"
 - [[Shape Up — Apetite Fixo e Escopo Variável]] — framework do 37signals: apetite (quanto estamos dispostos a gastar) em vez de estimativa; máximo 6 semanas, equipe de 2; work on the downslope; cool-down de 2 semanas entre ciclos
 - [[Nuance acima de Frameworks — O Limite das Metodologias]] — todo framework sem nuance gera decisões ruins; o sinal: você está tornando o produto hostil ao usuário ou bloqueando apostas especulativas
+- [[OKRs não são Estratégia — Separação Crítica e Regra dos 10%]] — OKR ≠ estratégia; diagnóstico: "vocês têm processo de estratégia distinto dos OKRs?"; Regra dos 10%: não planeje mais que 10% do período de execução

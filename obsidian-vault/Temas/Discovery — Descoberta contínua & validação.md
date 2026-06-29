@@ -34,6 +34,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Automação de Pesquisa de Usuário — Gong e Calendly]] — use Gong alerts + Slack + Zapier + Calendly para automatizar agendamento de entrevistas; time de vendas é um time de pesquisa não usado; PMs nunca param de falar com usuários
 - [[Framework 3 Bs — Comportamento, Barreiras e Benefícios]] — antes de qualquer solução: defina o comportamento específico, mapeie barreiras logísticas e cognitivas, identifique o benefício imediato
 - [[Diagnóstico Comportamental — Jornada com Psicologias]] — mapa screenshot-a-screenshot sobreposto com vieses cognitivos; revela o que usuários realmente fazem vs. dizem
+- [[Sistemas, não Metas]] — Jerry Seinfeld: sistema de escrever 1h diária vs. meta de ter 1h de material; times com sistemas default-on de contato com clientes têm instintos melhores que times com metas trimestrais
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

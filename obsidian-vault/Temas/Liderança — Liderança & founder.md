@@ -65,6 +65,8 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Crítico Interior — Partes e Sabotadores]] — o crítico interior é uma parte com intenções protetoras, não sua identidade; nomear, distanciar e reatribuir papel; IFS/parts work
 - [[Arte vs Ciência do PM — As Soft Skills que Dominam]] — soft skills de comunicação e colaboração são tão ou mais importantes que skills técnicas; PMs são líderes sem autoridade desde o dia 1
 - [[Log de Decisões — Deliberate Practice de Product Sense]] — product sense melhora com repetição; registre decisões próprias e externas com rationale; revise outcomes semanas depois; escalas do pianista do PM
+- [[Branding do Mundano — Nomear para Criar Energia]] — dar nomes criativos a processos internos cria identidade, recall e energia; Air Dives (análise de CS), Slowth Team, Secret Shopping Program; o nome transforma trabalho burocrático em algo que as pessoas querem participar
+- [[Momentum Manufaturado — Deadlines Artificiais como Combustível]] — o trabalho do líder não é apenas manter momentum, é criar momentum; datas arbitrárias declaradas publicamente forçam convergência; "just because we said it — if we don't do it now, we may never do it"
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

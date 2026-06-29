@@ -64,6 +64,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Liderança Criativa vs Reativa]] — 75% dos líderes operam reativamente (medo/aprovação/controle); criativo = responder de propósito, curiosidade e visão; desbloqueio é interno, não skill
 - [[Crítico Interior — Partes e Sabotadores]] — o crítico interior é uma parte com intenções protetoras, não sua identidade; nomear, distanciar e reatribuir papel; IFS/parts work
 - [[Arte vs Ciência do PM — As Soft Skills que Dominam]] — soft skills de comunicação e colaboração são tão ou mais importantes que skills técnicas; PMs são líderes sem autoridade desde o dia 1
+- [[Log de Decisões — Deliberate Practice de Product Sense]] — product sense melhora com repetição; registre decisões próprias e externas com rationale; revise outcomes semanas depois; escalas do pianista do PM
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

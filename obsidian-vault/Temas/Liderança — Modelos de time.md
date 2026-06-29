@@ -71,3 +71,5 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Time de Crentes — Staffing com Obsessão]] — staffar apostas especulativas com pessoas que crêem, não apenas com quem está disponível
 - [[Acquihire como Agente de Mudança Cultural]] — acquihires de founders como forma de injetar urgência, ambição e mudança cultural em empresas grandes
 - [[Generalista como Vantagem Estratégica]] — generalistas geram 10x mais porque não seguem padrões estabelecidos; encontre os melhores especialistas e saia do caminho deles
+- [[PM como Conversor de Energia Potencial]] — propósito do PM é converter a energia potencial do time em valor realizado com perda mínima; PM desenha o perímetro (constraints), não a solução
+- [[Unsell Email — Honestidade Radical no Recrutamento]] — no momento da oferta, liste todas as realidades difíceis do papel; quem ainda fica é um A+ hire; 30% de dropout é filtro, não falha

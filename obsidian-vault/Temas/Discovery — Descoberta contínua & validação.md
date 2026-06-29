@@ -31,5 +31,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Falsificar, não Validar]] — mantra do pesquisador: busque ser provado errado, não confirmado; validação cria viés de confirmação e "já sabíamos disso"; N=1 inesperado é gerador de hipótese, não prova
 - [[Função de Insights Integrada]] — unificar UX research + competitive intelligence + data science + NPS + customer feedback em uma máquina de insights única; silos geram "insights jogados sobre a grade" que o time de produto não consegue absorver
 
+- [[Automação de Pesquisa de Usuário — Gong e Calendly]] — use Gong alerts + Slack + Zapier + Calendly para automatizar agendamento de entrevistas; time de vendas é um time de pesquisa não usado; PMs nunca param de falar com usuários
+
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

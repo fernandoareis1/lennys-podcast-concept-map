@@ -74,6 +74,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Double Down no Core — Investir no Alpha do Produto]] — entenda por que as pessoas te amam e invista profundamente nisso; cada adjacência deve herdar o alpha, não abandoná-lo
 - [[Do Computador Pessoal ao Modelo Pessoal]] — chatbot síncrono → agentes assíncronos → modelo pessoal que aprende preferências e prediz próximas ações; confiança é a feature central; form follows function (100K context → file uploads; notificações → Tasks; Google Docs → Canvas)
 
+- [[Vacas Sagradas como Roadmap]] — as restrições não-questionadas são um roadmap gratuito de oportunidades
+
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]
 

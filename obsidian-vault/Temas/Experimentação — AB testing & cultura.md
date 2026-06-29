@@ -26,6 +26,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Métricas Simples vs Compostas — Clareza Bate Perfeição]] — métrica simples que todos entendem > composta perfeita que ninguém debate
 - [[Fail States como Métricas Obrigatórias]] — medir e zerar experiências catastróficas (Never Delivered) tem impacto desproporcional no churn vs. melhorar a média
 - [[Atrito Estratégico — Friction para Reduzir Comportamentos]] — para reduzir comportamento indesejado, adicione atrito mínimo; TikTok label+"Tem certeza?" = -24% desinformação; delay de 16s no elevador → pessoas usam escadas
+- [[Taxa de Fracasso de 80% — A Realidade da Experimentação]] — Netflix/Microsoft: 80-90% dos experimentos falham; iterativo sempre vence big redesign; hierarquia de validação: painted door → mock → MVP vergonhoso → A/B; failure é compass, não parede
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

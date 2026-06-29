@@ -48,6 +48,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Criativo como Alavanca Central do Paid Acquisition]] — com targeting e lances automatizados, o criativo é a principal alavanca de diferenciação em paid; UGC supera assets polidos; teste uma variável por vez
 - [[Marketing Mix como Portfólio — Diversificação de Canais]] — trate canais de marketing como portfólio: não concentre em um único paid channel; inclua canais owned/earned; reconheça efeitos de halo entre canais
 - [[Brand como Moat em Mercado Competitivo]] — brand cria lealdade de identidade que transcende preço; Gojek sobreviveu com $2M vs $250M do concorrente por investimento consistente em brand
+- [[Psicologia do Developer — Autonomia antes da Confiança]] — developers pulam o marketing site, vão direto ao signup; aversão extrema a vendas; alta responsabilidade pessoal; precisam provar POC antes de confiar; self-serve é obrigatório
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

@@ -20,6 +20,7 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 - [[Onboarding em Cohorts — Lançar em Ondas]] — lançar em ondas pequenas; corrigir todos os bugs antes do próximo cohort; Linear usou 1 ano de private beta assim e converteu quase 100% no lançamento público
 - [[Perguntas de Onboarding como Ativação de Benefício]] — perguntas de múltipla escolha > carrosséis passivos; Trunk Club +133%, TytoCare 53% vs 37%, One Medical +20% agendamentos
 - [[Right for Wrong — Motivação Imediata Substituta]] — dê o motivo "errado" (social, completion, status) para fazer a coisa certa quando o benefício real é distante; donuts + vacinas; cuidado com incentivos mal-alinhados
+- [[Boa Fricção vs Má Fricção — Psicologia do Usuário no Fluxo]] — usuário novo tem "bogeyman mindset" (espera o pior); perguntas de qualificação aliviam ansiedade e aumentam conversão; "pilling the hotdog" = embute elemento assustador em contexto familiar
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]

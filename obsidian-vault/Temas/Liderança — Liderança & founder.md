@@ -36,6 +36,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Engineer Occasion]] — CTO/EM limpa agenda por 3-4 dias, entra no time como IC; friction log vira referência de priorização por meses
 - [[Trabalho como Treadmill — O Problema de Ocupação vs Produtividade]] — estar ocupado ≠ ser produtivo; ambiente moderno projetado para interrupção; "too busy firing to aim"
 - [[Confiança Antes de Mudança — Trust First, Change Later]] — entrar "swinging" sem ganhar confiança gera rebelião; escuta primeiro, change com o time depois (Katie Dill/Airbnb)
+- [[Performance = Potencial − Interferência]] — liderança tem dois vetores: aumentar potencial e remover interferências; talento sob "gesso" atrofia (Katie Dill)
 - [[Contexto em vez de Controle — Empoderar Times]] — debate upstream (metas → hipóteses → dados) antes de prescrever soluções; líder = fornecedor de contexto, não controlador
 - [[Velocidade como Anti-Burnout]] — burnout vem de esforço sem movimento; alta velocidade + impacto visível = flow state; trabalho significativo previne burnout melhor que redução de horas
 - [[Armadilha do Gerente Médio — Responsabilidade sem Autoridade]] — gerente médio tem responsabilidade pelos resultados mas sem autoridade real: sem budget, sem poder de contratar/demitir, sem voz na estratégia

@@ -2,12 +2,12 @@
 tipo: insight
 nivel: 3
 fluxo: Liderança & Times
-autores: []
+autores: [Katie Dill]
 ---
 # Confiança Antes de Mudança — Trust First, Change Later
 
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Liderança & founder]] · **Camada:** L3
-**Tipo:** Insight · **Fontes:** Katie Dill (compilação)
+**Tipo:** Insight · **Fontes:** [[Katie Dill]]
 
 ## Ideia central
 Entrar num novo papel de liderança com a agenda de mudanças já pronta e começar a implementá-la imediatamente ("coming in swinging") ignora que o time não tem base para confiar nas suas intenções. Sem confiança, mesmo mudanças corretas geram resistência e sabotagem — porque o time não sabe se você tem os interesses deles no coração. A sequência certa é: **escutar primeiro, ganhar confiança, depois mudar**.
@@ -30,12 +30,20 @@ Apesar da dor, o insight foi claro: o problema não era se as mudanças eram cor
 4. Mude **com** o time, não **em cima** do time
 
 ## Insights por fonte
-### Katie Dill (head de design Stripe; ex-Airbnb, Lyft)
+### [[Katie Dill]] — compilação Failure
 - "The missing piece was that I hadn't earned their trust."
 - "You can inflict change on people. But if you want to do it *with* them, trust is the key element."
 - "Instead of coming in swinging, come in listening."
 
 > 🎧 [Failure (1:01:12)](https://www.youtube.com/watch?v=9euy9gC48lc) · 2023-12-13 (compilação)
+
+### [[Katie Dill]] — episódio principal
+- O mesmo princípio se repetiu no Lyft: chegou com aprendizados do Airbnb, mas desta vez começou ouvindo — entendeu metas individuais, motivações, antes de propor mudanças.
+- Resultado de escutar antes de mudar no Airbnb: "A couple months later, we had the best engagement scores in the company."
+- "You can inflict change on people, but if you want to do it *with* them, trust is the key element there."
+- O sinal de que a confiança foi conquistada: o time te pede para ir mais rápido, não para frear.
+
+> 🎧 [Building beautiful products with Stripe's Head of Design | Katie Dill (Stripe, Airbnb, Lyft)](https://www.youtube.com/watch?v=gfEEcssu304) · 2023-10-15
 
 ## Conceitos relacionados
 [[Curious radical — antídoto ao ego]] · [[Explorer não Lecturer — Coaching Baseado em Hipóteses]] · [[Trifecta de Feedback — Expectativas, Gap e Ajuda]]

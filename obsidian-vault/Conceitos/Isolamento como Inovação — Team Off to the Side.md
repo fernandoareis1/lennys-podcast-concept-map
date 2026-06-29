@@ -2,11 +2,11 @@
 tipo: tecnica
 nivel: 3
 fluxo: Liderança & Times
-autores: [Heidi Helfand]
+autores: [Heidi Helfand, Keith Coleman]
 ---
 # Isolamento como Inovação — Team Off to the Side
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
-**Tipo:** Técnica · **Fontes:** [[Heidi Helfand]]
+**Tipo:** Técnica · **Fontes:** [[Heidi Helfand]] · [[Keith Coleman]]
 
 ## Ideia central
 Inovação real muitas vezes exige **separar um time do fluxo principal da empresa** — fisicamente, processualmante e hierarquicamente. Heidi Helfand chama isso de padrão de *Isolation*: um subgrupo trabalha à margem, com liberdade de processo e um sponsor executivo direto, sem as interrupções e restrições do core business.
@@ -35,6 +35,15 @@ Inovação real muitas vezes exige **separar um time do fluxo principal da empre
 - "Se você quer inovação real, você tem que criar as condições para ela. E essas condições muitas vezes contradizem os processos da sua empresa principal."
 
 > 🎧 [Dynamic Reteaming: The Art and Wisdom of Changing Teams | Heidi Helfand (1:10:21)](https://www.youtube.com/watch?v=0wN5wSImUdY) · 2024
+
+### [[Keith Coleman]]
+- No Twitter, criou o programa "Thermal" (analogia ao pássaro que planeia em correntes de ar quente): times completamente isolados do core, com um único dono do projeto, 100% de foco, decisão-maker sênior único e liberdade de processo próprio (sem OKRs corporativos).
+- "One key attribute is there's one clear driver of the project, who's effectively a founder. And there's one clear decision-maker that they go to... someone senior who can make the decisions you need made."
+- O time se auto-selecionou — ninguém foi designado ao Community Notes; todos pediram para participar. Isso foi fundamental para a coesão e comprometimento.
+- "I don't know that the project would be here if it was not for some of those elements." — a estrutura Thermal foi condição de existência do Community Notes, não apenas vantagem operacional.
+- As metas eram definidas por milestone, não por trimestre: "We would set the goal for the next milestone that mattered... whether that was two weeks, a month, three months, whatever it was."
+
+> 🎧 [An inside look at X's Community Notes | Keith Coleman & Jay Baxter (1:47:58)](https://www.youtube.com/watch?v=8dgyqYHLcCI)
 
 ## Conceitos relacionados
 [[5 Padrões de Reteaming]] · [[Single-Threaded Leader]] · [[Product Management Theater]] · [[Bursts — presença intencional no trabalho remoto]]

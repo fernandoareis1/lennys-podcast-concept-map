@@ -25,5 +25,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Diagnosticar com Dados, Tratar com Design]] — dados revelam o que está acontecendo (não o que construir); design inventa a solução; dados = quantitativo + qualitativo + comportamento social; empresas de IA crescem em "instintos e vibes" até o crescimento parar; análise conversacional requer novas metodologias
 - [[Dados Sintéticos — Sem Parede de Dados no Pós-Treinamento]] — pré-treinamento tem parede de dados; pós-treinamento via RL com tarefas sintéticas não tem; Canvas foi construído com 3 comportamentos treinados sinteticamente; diversidade de dados sintéticos é a fronteira de pesquisa ativa
 
+- [[Algoritmo de Bridging — Acordo entre Divergentes]] — buscar acordo surpresa entre divergentes como sinal mais confiável de verdade neutra
+
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

@@ -61,6 +61,9 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Dimensionality — Nenhuma Dimensão Te Define]] — cada pessoa tem dimensões infinitas; nenhuma define identidade; every strength is its own weakness; separa dimensão de identidade para receber feedback sem defensividade; IC deepens poucas dimensões, manager precisa de piso em mais
 - [[Liderança Win-Win — Não Adversarial]] — manager não aperta performance à custa do time; demitir alguém pode ser win-win; disagree-and-commit como teste colaborativo de hipóteses específicas; decomponha "não concordo com a proposta" em hipóteses granulares e teste
 - [[Ajudar Funcionários a Encontrar o Próximo Emprego]] — comprometer-se com a próxima carreira do funcionário aumenta retenção, elimina saídas surpresa e cria cultura de boomerang
+- [[Liderança Criativa vs Reativa]] — 75% dos líderes operam reativamente (medo/aprovação/controle); criativo = responder de propósito, curiosidade e visão; desbloqueio é interno, não skill
+- [[Crítico Interior — Partes e Sabotadores]] — o crítico interior é uma parte com intenções protetoras, não sua identidade; nomear, distanciar e reatribuir papel; IFS/parts work
+- [[Arte vs Ciência do PM — As Soft Skills que Dominam]] — soft skills de comunicação e colaboração são tão ou mais importantes que skills técnicas; PMs são líderes sem autoridade desde o dia 1
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

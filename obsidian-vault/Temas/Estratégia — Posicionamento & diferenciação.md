@@ -33,6 +33,8 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Fish to Pond Ratio — Beachhead Sizing]] — segmento grande o suficiente para importar + pequeno o suficiente para liderar (30–50% share em 2 anos); ecosistemas só formam ao redor de líderes de segmento
 - [[7 Powers — Fontes de Poder Competitivo]] — benefício + barreira: os 7 tipos de poder competitivo duradouro e quando cada um fica disponível na jornada da empresa
 - [[Diferenciação como Loserville — A Matriz 2x2]] — 2x2 válido: feito com time todo, centrado na perspectiva do cliente, honesto com competidores, testado com usuários; todos os concorrentes ficam na "Loserville"; guia todo o desenvolvimento subsequente
+- [[Framework DATE — Diagnose, Analyze, Take a Different Path, Experiment]] — antes de qualquer iniciativa de marketing: diagnostique, analise a competição, tome um caminho diferente, experimente; anti-playbook playbook
+- [[Marketing é Extensão do Produto — Lançamento Começa no Uso]] — lançamento só está completo quando o usuário descobriu e usou; marketing de alta qualidade é indissociável do produto; 20%+80% review checkpoints
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

@@ -41,3 +41,6 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Feedback como Prática Diária — Opt-in e Intenção]] — feedback é prática diária, não evento semestral; três práticas: opt-in explícito no início da relação (60% do trabalho), verificar intenção antes de dar feedback (80%), ser vulnerável sobre a dificuldade (100%); feedback = espelho que calibra percepção à realidade
 - [[Manual "Como Trabalhar Comigo"]] — documento escrito com traços de sucesso, pontos cegos do líder e compromissos explícitos; filtra candidatos e escala cultura antes do onboarding
 - [[Empatia como Ferramenta de Decisão em Grupo]] — steel-man recíproco + tiebreaker antecipado + horizonte de tempo: framework para resolver desacordos produtivamente
+- [[Pedir o Que Você Quer — Framework em 3 Passos]] — articular → pedir intencionalmente → aceitar a resposta e iterar; a habilidade mais negligenciada em carreira e liderança
+- [[Queixa como Sinal de Desejo]] — toda reclamação implica um sonho; use queixas como ponto de partida para articular o que você quer
+- [[Hell Yes ou Não — Consentimento Pleno]] — qualquer coisa abaixo de um hell yes é um não disfarçado; consentimento pleno é a única forma de comprometimento real

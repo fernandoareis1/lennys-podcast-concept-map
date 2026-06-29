@@ -18,6 +18,8 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 - [[Primeiros 30 Segundos — Onboarding Mágico]] — usuário novo é lazy, vain e selfish; um ovo por vez; reconstruir a IA no onboarding foi o momento "bet the company" da Gamma; time-to-value <30s
 - [[Intencionalidade como Alavanca de Engajamento]] — pedir ao usuário que faça uma escolha ativa aumenta engajamento futuro; "Commit to My Goal" vs "Continue"; opt-out que cria intenção
 - [[Onboarding em Cohorts — Lançar em Ondas]] — lançar em ondas pequenas; corrigir todos os bugs antes do próximo cohort; Linear usou 1 ano de private beta assim e converteu quase 100% no lançamento público
+- [[Perguntas de Onboarding como Ativação de Benefício]] — perguntas de múltipla escolha > carrosséis passivos; Trunk Club +133%, TytoCare 53% vs 37%, One Medical +20% agendamentos
+- [[Right for Wrong — Motivação Imediata Substituta]] — dê o motivo "errado" (social, completion, status) para fazer a coisa certa quando o benefício real é distante; donuts + vacinas; cuidado com incentivos mal-alinhados
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]

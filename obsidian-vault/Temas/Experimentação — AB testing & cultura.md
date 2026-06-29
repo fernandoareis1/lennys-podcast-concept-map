@@ -25,6 +25,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Métricas de Proxy para Outcomes de Longo Prazo]] — encontre métrica de curto prazo que prediz o outcome de longo prazo; retenção não é meta operacional
 - [[Métricas Simples vs Compostas — Clareza Bate Perfeição]] — métrica simples que todos entendem > composta perfeita que ninguém debate
 - [[Fail States como Métricas Obrigatórias]] — medir e zerar experiências catastróficas (Never Delivered) tem impacto desproporcional no churn vs. melhorar a média
+- [[Atrito Estratégico — Friction para Reduzir Comportamentos]] — para reduzir comportamento indesejado, adicione atrito mínimo; TikTok label+"Tem certeza?" = -24% desinformação; delay de 16s no elevador → pessoas usam escadas
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

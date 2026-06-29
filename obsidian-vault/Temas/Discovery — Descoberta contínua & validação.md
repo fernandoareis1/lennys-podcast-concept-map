@@ -32,6 +32,8 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Função de Insights Integrada]] — unificar UX research + competitive intelligence + data science + NPS + customer feedback em uma máquina de insights única; silos geram "insights jogados sobre a grade" que o time de produto não consegue absorver
 
 - [[Automação de Pesquisa de Usuário — Gong e Calendly]] — use Gong alerts + Slack + Zapier + Calendly para automatizar agendamento de entrevistas; time de vendas é um time de pesquisa não usado; PMs nunca param de falar com usuários
+- [[Framework 3 Bs — Comportamento, Barreiras e Benefícios]] — antes de qualquer solução: defina o comportamento específico, mapeie barreiras logísticas e cognitivas, identifique o benefício imediato
+- [[Diagnóstico Comportamental — Jornada com Psicologias]] — mapa screenshot-a-screenshot sobreposto com vieses cognitivos; revela o que usuários realmente fazem vs. dizem
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

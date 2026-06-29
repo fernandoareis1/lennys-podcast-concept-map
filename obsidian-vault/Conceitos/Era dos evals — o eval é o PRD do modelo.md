@@ -2,11 +2,11 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Brendan Foody, Hamel Husain, Shreya Shankar, Karina Nguyen]
+autores: [Brendan Foody, Hamel Husain, Shreya Shankar, Karina Nguyen, Kevin Weil]
 ---
 # Era dos evals — o eval é o PRD do modelo
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
-**Tipo:** Framework · **Fontes:** [[Brendan Foody]] · [[Hamel Husain]] · [[Shreya Shankar]] · [[Karina Nguyen]]
+**Tipo:** Framework · **Fontes:** [[Brendan Foody]] · [[Hamel Husain]] · [[Shreya Shankar]] · [[Karina Nguyen]] · [[Kevin Weil]]
 
 ## Ideia central
 "Se o modelo é o produto, o eval é o PRD." O gargalo primário para a melhoria de modelos de IA não é dados de pré-treino — é a capacidade de **definir o que é sucesso** em cada domínio que o modelo precisa dominar. Sem um eval, não há como medir progresso, recompensar os comportamentos certos no RL, ou validar que uma capacidade foi adquirida.
@@ -57,6 +57,15 @@ O mercado de trabalho humano especializado em escrever evals é uma nova categor
 - Ensinou PMs e model designers a escrever evals — "product management of AI feature for AI models".
 - Prompting como nova forma de prototipagem: o demo de 100K context com file uploads foi feito como protótipo em browser local antes de qualquer treinamento.
 > 🎧 [OpenAI researcher on why soft skills are the future of work](https://www.youtube.com/watch?v=DeskgjrLxxs) · 2025-02-09
+
+### [[Kevin Weil]]
+- Evals como habilidade central do PM de IA: escrever evals é análogo a escrever unit tests para o produto.
+- Evals determinam o que é possível construir: "entender se o modelo é 60% ou 99,5% confiável determina qual produto você pode construir."
+- Usou evals para hill-climbing durante o treinamento do Deep Research — o eval define a direção do treino.
+- "Escrever evals está se tornando uma habilidade central de PMs em empresas de IA, da mesma forma que análise de dados se tornou no ciclo anterior."
+- A distinção entre "o modelo sabe" e "o modelo faz de forma confiável" é capturada pelos evals — por isso são o gate de cada feature.
+
+> 🎧 [OpenAI's CPO on why ChatGPT is the worst AI you'll ever use | Kevin Weil](https://www.youtube.com/watch?v=scsW6_2SPC4) · 2025-04-10
 
 ## Aprofundamento ⬇
 - [[Era dos evals — Evidências]]

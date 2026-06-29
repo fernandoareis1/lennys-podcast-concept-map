@@ -78,6 +78,10 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Moonshot vs Incremento — 10X vs 10%]] — criar ambiente para apostas 10X é obrigação do líder; a Kodak inventou a câmera digital mas não criou o ambiente para persegui-la
 - [[Super App — O Mito da Sinergia]] — CAC menor e retenção maior só se materializam quando há um conceito unificador na mente do usuário; sem ele, cada serviço exige reeducação
 - [[Fazer as Coisas Difíceis como Estratégia de Moat]] — complexidade operacional (segurança privada, cofres de cash) é moat porque é igualmente difícil para concorrentes replicar
+- [[O Pior Modelo que Você Já Usará — Modelo Maximalismo]] — o modelo de hoje é o pior que você vai usar; construa para as capacidades quase lá, não para as limitações atuais
+- [[Chat como Interface Universal]] — chat é a interface mais flexível porque é como humanos se comunicam; LLMs finalmente entendem toda a nuance da linguagem humana
+- [[Ensemble de Modelos Especializados]] — quebre o problema em tarefas específicas; use modelos fine-tuned para cada; OpenAI usa 20+ chamadas de modelo para seus problemas complexos
+- [[Vibe Coding — Delegar a Execução ao Modelo]] — declare intenção, aprove rapidamente; foco humano muda de execução para direção; prototipagem em ordens de magnitude mais rápida
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

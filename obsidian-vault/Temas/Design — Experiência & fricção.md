@@ -20,6 +20,7 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Construir para o Melhor Usuário]] — construa para o usuário que entende e ama o produto; piores usuários são fração pequena; "não seria incrível ter esse problema?"
 - [[UI Tolerante a Falhas — Projetar para a Performance do ML]] — projete a UI para a taxa de acerto real do seu ML; se acerta 1 em 4, mostre 4 itens; single play button exige precisão 100%
 - [[Recall vs. Discovery — A Dicotomia da Homepage]] — usuários vêm 90% para recall (voltar ao conhecido) e 10% para discovery; redesign que inverte esse split causa abandono massivo; dense UI ≠ feed UI
+- [[Raciocinar como Humano sobre IA — UX de Modelos de Raciocínio]] — heurística central: ao projetar UX de IA, pergunte como um humano equivalente se comportaria; latência, confiança e clarificação têm análogos humanos
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

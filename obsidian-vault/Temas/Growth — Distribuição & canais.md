@@ -47,6 +47,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Vision Selling — Venda o Gap, Não o Problema]] — na fase $1M–$10M com enterprise: não venda o problema, venda o gap (Mario on blast vs. Mario simples); tier-1 quer alpha; pricing inicial ($75K–$150K) define o teto; deal crafting = arte, não playbook
 - [[Criativo como Alavanca Central do Paid Acquisition]] — com targeting e lances automatizados, o criativo é a principal alavanca de diferenciação em paid; UGC supera assets polidos; teste uma variável por vez
 - [[Marketing Mix como Portfólio — Diversificação de Canais]] — trate canais de marketing como portfólio: não concentre em um único paid channel; inclua canais owned/earned; reconheça efeitos de halo entre canais
+- [[Brand como Moat em Mercado Competitivo]] — brand cria lealdade de identidade que transcende preço; Gojek sobreviveu com $2M vs $250M do concorrente por investimento consistente em brand
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

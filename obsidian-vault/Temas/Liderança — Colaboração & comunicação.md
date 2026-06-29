@@ -44,3 +44,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Pedir o Que Você Quer — Framework em 3 Passos]] — articular → pedir intencionalmente → aceitar a resposta e iterar; a habilidade mais negligenciada em carreira e liderança
 - [[Queixa como Sinal de Desejo]] — toda reclamação implica um sonho; use queixas como ponto de partida para articular o que você quer
 - [[Hell Yes ou Não — Consentimento Pleno]] — qualquer coisa abaixo de um hell yes é um não disfarçado; consentimento pleno é a única forma de comprometimento real
+- [[Accountability = Decisor — Clareza na Tomada de Decisão]] — quem carrega accountability pelo resultado deve ser o decisor; separar os dois cria inércia disfarçada de inclusão

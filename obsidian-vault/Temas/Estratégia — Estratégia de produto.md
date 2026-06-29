@@ -76,6 +76,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 
 - [[Vacas Sagradas como Roadmap]] — as restrições não-questionadas são um roadmap gratuito de oportunidades
 - [[Moonshot vs Incremento — 10X vs 10%]] — criar ambiente para apostas 10X é obrigação do líder; a Kodak inventou a câmera digital mas não criou o ambiente para persegui-la
+- [[Super App — O Mito da Sinergia]] — CAC menor e retenção maior só se materializam quando há um conceito unificador na mente do usuário; sem ele, cada serviço exige reeducação
+- [[Fazer as Coisas Difíceis como Estratégia de Moat]] — complexidade operacional (segurança privada, cofres de cash) é moat porque é igualmente difícil para concorrentes replicar
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

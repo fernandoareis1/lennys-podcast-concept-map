@@ -82,6 +82,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Chat como Interface Universal]] — chat é a interface mais flexível porque é como humanos se comunicam; LLMs finalmente entendem toda a nuance da linguagem humana
 - [[Ensemble de Modelos Especializados]] — quebre o problema em tarefas específicas; use modelos fine-tuned para cada; OpenAI usa 20+ chamadas de modelo para seus problemas complexos
 - [[Vibe Coding — Delegar a Execução ao Modelo]] — declare intenção, aprove rapidamente; foco humano muda de execução para direção; prototipagem em ordens de magnitude mais rápida
+- [[Delta 4 — Framework de Eficiência e Irreversibilidade]] — quando a eficiência do novo produto supera a alternativa em ≥4 pontos (escala 1-10): comportamento torna-se irreversível, tolerância a falha é alta, UBP gera CAC zero
+- [[Mercados de Baixa Confiança — Concentração de Trust e Super Apps]] — em mercados sem instituições fortes, trust concentra em poucos players; super apps e conglomerados são resposta racional; ARPU baixo apesar de DAU alto
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

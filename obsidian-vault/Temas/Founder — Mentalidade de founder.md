@@ -50,6 +50,8 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Creativity Faucet — Esvaziar o Cano Ruim]] — criatividade é cano onde a água suja (ideias ruins) deve esvaziar antes da água limpa (boas ideias) chegar; identificado em Neil Gaiman, Ed Sheeran, John Mayer; não resista a ideias ruins — são progresso; fraco início de imitação → identifique fraqueza → itere até originalidade
 - [[Quest Principal vs. Side Quests — Foco como Método de Founder]] — metáfora de RPG: qualquer ação que não progride a quest principal (produto + clientes + saúde) é side quest; Linear diz não a SOC 2, VCs e podcasts até o momento certo
 - [[Crises como Construtoras de Empresa]] — períodos difíceis filtram mercenários, forçam disciplina de unit economics, liberam talento e criam foco singular; adversidade como acelerador
+- [[Dharma do Fundador — Sustentar vs. Destruir]] — CEOs que assumem de fundadores têm sucesso ao sustentar o dharma (princípios fundacionais), não ao imprimir identidade própria; oscilação Krishna (valores altos, baixa obediência) e Rama (valores altos, alta obediência)
+- [[Pensamento de Segunda Ordem — Curiosidade como Vantagem Composta]] — curiosidade sem orgulho de expertise → coleta de dots → information asymmetry; riqueza é information asymmetry; animais longevos como metáfora para founders
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -54,6 +54,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Pensamento de Segunda Ordem — Curiosidade como Vantagem Composta]] — curiosidade sem orgulho de expertise → coleta de dots → information asymmetry; riqueza é information asymmetry; animais longevos como metáfora para founders
 - [[Naividade como Inovação — O Outsider como Vantagem]] — naividade = definição de criatividade e espaço em branco; founders que disruptam indústrias maduras frequentemente não sabem "como as coisas são feitas"; 70% dos founders de grandes B2B sem background específico na área
 - [[Medir em Centenas — Perseverança Composta]] — 5 falhas na escala de centenas = zero tentativas; compounding de múltiplas tentativas é o input crítico do sucesso; moto em Post-It: "Measure in hundreds"
+- [[Auto-Reflexão Estruturada — Dashboard de Vida]] — 1 hora diária de reflexão com dashboard vermelho-amarelo-verde por área (pai, marido, líder); rastrear experimentos em si mesmo; Guild Nights como rede intencional
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -49,6 +49,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Marketing Mix como Portfólio — Diversificação de Canais]] — trate canais de marketing como portfólio: não concentre em um único paid channel; inclua canais owned/earned; reconheça efeitos de halo entre canais
 - [[Brand como Moat em Mercado Competitivo]] — brand cria lealdade de identidade que transcende preço; Gojek sobreviveu com $2M vs $250M do concorrente por investimento consistente em brand
 - [[Psicologia do Developer — Autonomia antes da Confiança]] — developers pulam o marketing site, vão direto ao signup; aversão extrema a vendas; alta responsabilidade pessoal; precisam provar POC antes de confiar; self-serve é obrigatório
+- [[SEO em Duas Categorias — Site Pequeno vs. Geração Automática de Páginas]] — pequeno site requer estratégia editorial ativa; UGC/marketplace gera páginas automaticamente criando growth loop; um único keyword posição #1 pode construir um negócio inteiro
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

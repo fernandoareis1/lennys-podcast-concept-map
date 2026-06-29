@@ -45,3 +45,7 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Queixa como Sinal de Desejo]] — toda reclamação implica um sonho; use queixas como ponto de partida para articular o que você quer
 - [[Hell Yes ou Não — Consentimento Pleno]] — qualquer coisa abaixo de um hell yes é um não disfarçado; consentimento pleno é a única forma de comprometimento real
 - [[Accountability = Decisor — Clareza na Tomada de Decisão]] — quem carrega accountability pelo resultado deve ser o decisor; separar os dois cria inércia disfarçada de inclusão
+- [[Radical Candor — Cuidar Pessoalmente e Desafiar Diretamente]] — 2x2: cuidado pessoal + desafio direto; 90% das pessoas erram 90% do tempo na empatia arruinadora; mede-se na orelha, não na boca
+- [[Empatia Arruinadora — O Erro Mais Comum]] — cuidar sem desafiar; história do Bob; não dizer o difícil é unkind no longo prazo; perderá os melhores performers e a pessoa que você "protegeu"
+- [[Como Solicitar Feedback de Forma Efetiva]] — pergunta-âncora autêntica → 6 segundos de silêncio → ouvir para entender → recompensar a candura visivelmente; nunca "você tem feedback para mim?"
+- [[HIP CORE — Framework de Feedback Impromptu]] — Humble+Helpful+Immediate+In-person+Public praise+Private criticism; Context+Observation+Result+Expected next step; para elogio e crítica igualmente

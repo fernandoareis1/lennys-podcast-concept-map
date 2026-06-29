@@ -39,3 +39,5 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Dizer Sim para Aprender — O PM que Fecha Demais]] — PMs defensivos perdem sinal valioso; separar a validade do problema da solução proposta abre colaboração genuína
 - [[Reframing como Ferramenta de Influência]] — "pushback" cria mentalidade adversarial; reframe: identifique o objetivo real da pessoa e mostre como sua proposta chega lá; foque em fins (ganhar, encantar cliente), não em meios (feature, escopo)
 - [[Feedback como Prática Diária — Opt-in e Intenção]] — feedback é prática diária, não evento semestral; três práticas: opt-in explícito no início da relação (60% do trabalho), verificar intenção antes de dar feedback (80%), ser vulnerável sobre a dificuldade (100%); feedback = espelho que calibra percepção à realidade
+- [[Manual "Como Trabalhar Comigo"]] — documento escrito com traços de sucesso, pontos cegos do líder e compromissos explícitos; filtra candidatos e escala cultura antes do onboarding
+- [[Empatia como Ferramenta de Decisão em Grupo]] — steel-man recíproco + tiebreaker antecipado + horizonte de tempo: framework para resolver desacordos produtivamente

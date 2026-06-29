@@ -60,6 +60,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Sistema Nervoso do CEO como Cultura da Empresa]] — sistema nervoso da organização espelha o do CEO; contágio emocional é desproporcional; rest ethic deve acompanhar work ethic — 8 arquétipos recorrentes de falha de CEO: robot, pleaser, perfectionist, angry, laissez-faire, ready-fire-aim, brake rider, accelerator rider — de "a vida acontece comigo" para "sou o pintor da minha existência"; Viktor Frankl como referência
 - [[Dimensionality — Nenhuma Dimensão Te Define]] — cada pessoa tem dimensões infinitas; nenhuma define identidade; every strength is its own weakness; separa dimensão de identidade para receber feedback sem defensividade; IC deepens poucas dimensões, manager precisa de piso em mais
 - [[Liderança Win-Win — Não Adversarial]] — manager não aperta performance à custa do time; demitir alguém pode ser win-win; disagree-and-commit como teste colaborativo de hipóteses específicas; decomponha "não concordo com a proposta" em hipóteses granulares e teste
+- [[Ajudar Funcionários a Encontrar o Próximo Emprego]] — comprometer-se com a próxima carreira do funcionário aumenta retenção, elimina saídas surpresa e cria cultura de boomerang
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

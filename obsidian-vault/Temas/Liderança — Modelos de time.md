@@ -70,3 +70,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Work Trial Pago — Contratação pelo Trabalho Real]] — substituir últimas rodadas de entrevista por mini-contrato pago de poucos dias; candidato acessa codebase real, Slack e reuniões; apresenta trabalho ao final; ambos os lados avaliam fit
 - [[Time de Crentes — Staffing com Obsessão]] — staffar apostas especulativas com pessoas que crêem, não apenas com quem está disponível
 - [[Acquihire como Agente de Mudança Cultural]] — acquihires de founders como forma de injetar urgência, ambição e mudança cultural em empresas grandes
+- [[Generalista como Vantagem Estratégica]] — generalistas geram 10x mais porque não seguem padrões estabelecidos; encontre os melhores especialistas e saia do caminho deles

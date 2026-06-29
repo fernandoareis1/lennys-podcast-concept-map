@@ -49,6 +49,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Função Objetivo da Vida Consciente]] — OF implícita herdada da família/comunidade vs. OF explicitamente escolhida; teste do "eu futuro"; consciência de finitude como calibrador de prioridades
 - [[Creativity Faucet — Esvaziar o Cano Ruim]] — criatividade é cano onde a água suja (ideias ruins) deve esvaziar antes da água limpa (boas ideias) chegar; identificado em Neil Gaiman, Ed Sheeran, John Mayer; não resista a ideias ruins — são progresso; fraco início de imitação → identifique fraqueza → itere até originalidade
 - [[Quest Principal vs. Side Quests — Foco como Método de Founder]] — metáfora de RPG: qualquer ação que não progride a quest principal (produto + clientes + saúde) é side quest; Linear diz não a SOC 2, VCs e podcasts até o momento certo
+- [[Crises como Construtoras de Empresa]] — períodos difíceis filtram mercenários, forçam disciplina de unit economics, liberam talento e criam foco singular; adversidade como acelerador
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

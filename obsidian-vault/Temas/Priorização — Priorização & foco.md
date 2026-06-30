@@ -31,3 +31,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Feature como Adotar um Cachorro]] — dizer sim a uma feature é adotar um cachorro que cresce; 9 nãos para cada sim; produto excelente = mil detalhes; restraint criativo é a condição da qualidade
 - [[Execução sobre Estratégia — Startups Têm Uma Prioridade]] — estratégia é conceito de escola de negócios para grandes corporações; startups só fazem uma coisa por vez; quem quer sessão de estratégia não entende suas prioridades
 - [[Ownership Mentality — Scope Claro e Mentalidade de Dono]] — escopo claro por pessoa + mentalidade ativa de "o que eu posso fazer?" em vez de "estou bloqueado"; líder modela ownership assumindo responsabilidade pública pelos resultados
+- [[Gargalos Emergentes na Era de Código com IA]] — automatizar implementação revela gargalos upstream (decisão/alinhamento) e downstream (review/merge); o gargalo migra, não desaparece; pergunte sempre "qual é o gargalo agora?"

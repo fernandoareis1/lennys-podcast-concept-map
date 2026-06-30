@@ -108,6 +108,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Sinais Reais de Product-Led Growth]] — PLG é propriedade do produto, não estratégia de go-to-market; condição necessária: valor percebível sem vendas no dia zero; facilidade de entrar = facilidade de sair
 - [[Programação por Intenção — Um Mundo Além do Código]] — futuro da programação é descrever intenção em vez de escrever código; engenheiro vira "logic designer"; representação acima do código em linguagem natural
 - [[Convicção Robusta com Flexibilidade]] — opiniões fortes fracamente mantidas; convicção para ancorar o time + flexibilidade para pivotar quando o sinal externo contradiz a hipótese; maioria das decisões é porta de dois sentidos
+- [[Produto na Interseção Modelo-Produto — Vantagem Única de IA]] — produto de AI lab tem vantagem só no cruzamento de pesquisa de modelo e produto; wrapper que qualquer pessoa faz via API é commodity; unidade de trabalho muda para participar do post-training
+- [[Contexto como Camada Diferenciadora de Produto IA]] — utilidade de produto IA = modelo + contexto/memória + UX; contexto certo é "inteiramente a diferença entre uma boa resposta e uma ruim"; MCP torna contexto composível e reutilizável
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

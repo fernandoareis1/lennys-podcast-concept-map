@@ -31,6 +31,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Experimentação como Disciplina Científica]] — estratégia é superestimada; a real estratégia do PM é "como rápido vou de hipótese a dado?"; cultura de experimentos elimina HiPPO e substitui opinião por evidência
 - [[Métricas de Produto vs. Métricas de Negócio]] — ARR é métrica de negócio; ARR por segmento/produto/feature é métrica de produto; lentes de produto sobre métricas de negócio tornam estratégia de produto acionável
 - [[Efeito de Rede por Design de Convites]] — conectores naturais convidam se o fluxo for simples; convites ubíquos e presentes em múltiplos pontos; usuários não-sociais ignoram, não sacrifique o design por eles
+- [[Métricas Além de Engajamento — Saúde vs. Vício em IA]] — otimizar likabilidade em IA gera sycophancy; o critério correto é tempo bem gasto (usuário saiu mais capaz) vs. engajamento; "você sabe quando seu produto está realmente servindo as pessoas"
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

@@ -82,3 +82,5 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Pipeline de Talentos Permanente — Cultivar antes de Precisar]] — sempre mantenha pulso no mercado; 7 meses de courtship é normal; advisors → futuros hires; back channels revelam mais que referências formais
 - [[Jogo Longo no Recrutamento — Relacionamento antes de Oportunidade]] — recrutadores que constroem rapport primeiro convertem mais; nota de vest date no calendário; "uma vez que perde a confiança do candidato, é impossível recuperar"
 - [[PM de IA — Parceria com Research Scientists]] — trabalhar com researchers exige nova dinâmica: horizonte longo (6-12 meses), incerteza alta, definição co-construída de sucesso; PM como capitão que cheerlida durante o processo
+- [[Alocação Deliberada de Recursos Insuficientes]] — understaffing proposital como política; overstaffing cria política, cruft e trabalho em itens abaixo da prioridade; understaffing é menos ruim
+- [[Matriz Alfa-Beta para Pessoas e Processos]] — alfa = inovação; beta = variância; processos reduzem beta mas suprimem alfa; aplique processo cirurgicamente onde o produto é crítico, não globalmente

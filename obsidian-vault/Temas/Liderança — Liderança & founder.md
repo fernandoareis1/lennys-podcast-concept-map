@@ -70,6 +70,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[CEO como Maestro de Orquestra]] — o erro do founder é tocar um instrumento (produto ou vendas) em vez de reger a sinfonia inteira; narrowcasting prejudica todo o ecossistema
 - [[Esforço Extraordinário para Resultados Extraordinários]] — percentil 99 de resultado exige percentil 99 de esforço; zona de conforto é erro por definição; líder não é buffer de intensidade — é amplificador
 - [[Reverter o Medo — A Aposta Oposta]] — medo distorce previsões; assuma que o medo está errado e preveja o oposto; valide com coach; especialmente eficaz em conversas difíceis com board e time
+- [[Liderança Visionária vs. Governança por Comitê]] — grandes softwares emergem de visionários, não de comitês; input é separado de autoridade; Gutenberg teria sido vetado por voto
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -55,3 +55,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Ansiedade como Entusiasmo — Recontextualização]] — ansiedade e entusiasmo têm a mesma fisiologia; recontextualizar os sintomas como excitação reduz automonitoramento e melhora a comunicação percebida
 - [[Ousar Ser Monótono — Conexão sobre Perfeição]] — autoavaliação em tempo real consome banda cognitiva; dar permissão de ser "monótono" libera recursos para conexão e responsividade real
 - [[Estrutura como Bússola — Comunicação Espontânea]] — 2-3 estruturas internalizadas (What-So What-Now What, PREP, 4 Is) transformam improviso em jazz ensaiado; estrutura resolve o "como", você só pensa no "o quê"
+- [[Transparência Estratégica contra Distorção de Narrativa]] — uma mentira circula o mundo 7x antes da verdade sair da cama; escolha médium de longa forma (podcast, blog); seja desproporcio nalmente visível; canais diretos bypassam algoritmo

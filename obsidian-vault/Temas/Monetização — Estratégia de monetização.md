@@ -15,6 +15,9 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: conquistar c
 - [[Precificação por Resultado — Do Custo ao Valor]] — pricing deriva do valor entregue, nunca dos custos; 99 cents/ticket resolvido; nexo entre valor percebido máximo e margem mínima viável; simplificar pricing vale abrir mão de receita
 - [[Negociação por Valor — Gives & Gets]] — extrair valor total do deal via gives & gets, value selling e opções de pricing
 - [[POC como Caso de Negócio]] — reframe radical: POC não testa funcionalidade, co-cria o business case do cliente
+- [[FOMU — Medo de Errar vs. FOMO]] — 40-60% dos deals B2B morrem em "no decision"; medo de errar > medo de perder; omission bias e status quo bias
+- [[Metodologia JOLT]] — Judge + Offer + Limit + Take Risk Off the Table; antídoto ao FOMU para fechar indecisão em SaaS B2B
+- [[Vendedor Challenger — Ensinar o Que o Cliente Deveria Saber]] — create the fire, sell the extinguisher; insight único → reframe → solução como consequência lógica
 
 ## Descer mais (L4) ⬇
 [[Market Share + Wallet Share — Evidências (Madhavan Ramanujam)]]

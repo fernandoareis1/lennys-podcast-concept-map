@@ -207,3 +207,4 @@ matt-lemay
 matt-macinnis
 matt-mochary
 matt-mullenweg
+matthew-dicks

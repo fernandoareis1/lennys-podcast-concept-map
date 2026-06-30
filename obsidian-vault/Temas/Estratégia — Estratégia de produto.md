@@ -85,6 +85,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Vibe Coding — Delegar a Execução ao Modelo]] — declare intenção, aprove rapidamente; foco humano muda de execução para direção; prototipagem em ordens de magnitude mais rápida
 - [[Delta 4 — Framework de Eficiência e Irreversibilidade]] — quando a eficiência do novo produto supera a alternativa em ≥4 pontos (escala 1-10): comportamento torna-se irreversível, tolerância a falha é alta, UBP gera CAC zero
 - [[Mercados de Baixa Confiança — Concentração de Trust e Super Apps]] — em mercados sem instituições fortes, trust concentra em poucos players; super apps e conglomerados são resposta racional; ARPU baixo apesar de DAU alto
+- [[Company Product Fit]] — antes do PMF, verifique se o produto encaixa no portfólio e nos pontos fortes da empresa; sem fit interno, o time se perde mesmo que o mercado queira o produto
+- [[Consumer Stack — 5 Capacidades]] — scorecard de 5 capacidades para construir produtos consumer: design-led, foco, métricas+instrumentação, ship velocity, talento; avalie de A a D e trabalhe para chegar em A em todas
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

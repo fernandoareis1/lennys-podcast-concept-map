@@ -67,6 +67,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Log de Decisões — Deliberate Practice de Product Sense]] — product sense melhora com repetição; registre decisões próprias e externas com rationale; revise outcomes semanas depois; escalas do pianista do PM
 - [[Branding do Mundano — Nomear para Criar Energia]] — dar nomes criativos a processos internos cria identidade, recall e energia; Air Dives (análise de CS), Slowth Team, Secret Shopping Program; o nome transforma trabalho burocrático em algo que as pessoas querem participar
 - [[Momentum Manufaturado — Deadlines Artificiais como Combustível]] — o trabalho do líder não é apenas manter momentum, é criar momentum; datas arbitrárias declaradas publicamente forçam convergência; "just because we said it — if we don't do it now, we may never do it"
+- [[CEO como Maestro de Orquestra]] — o erro do founder é tocar um instrumento (produto ou vendas) em vez de reger a sinfonia inteira; narrowcasting prejudica todo o ecossistema
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

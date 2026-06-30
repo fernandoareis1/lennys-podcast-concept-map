@@ -57,6 +57,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[FOMU — Medo de Errar supera o FOMO em Vendas]] — 56% das perdas para "no decision" são clientes que queriam comprar mas temem ser culpados; FOMO backfires 87% das vezes quando cliente já tem intenção de compra
 - [[JOLT Effect — Framework para Superar Indecisão de Compra]] — Judge indecision + Offer recommendation + Limit exploration + Take risk off table; quatro etapas para converter indecisão em decisão
 - [[Challenger Sale — Vender com Insight, não com Necessidade]] — mostre ao cliente o que DEVERIA estar mantendo-o acordado; lead TO sua solução única via insight; crie o problema, seja o único com o extintor
+- [[Sistema de Semáforo — Priorização de Content por Intenção de Compra]] — 700 keywords → verde/amarelo/vermelho por intenção comercial; produz na ordem: verdes de maior a menor volume; pergunta-guia: "depois de ler o artigo, o usuário volta ao Google?"
+- [[Esqueleto antes da Maquiagem — Sequência de Fundamentos de Growth]] — site rápido + indexado + encontrável + mensagem clara ANTES de paid ads; awareness B2B só depois que bottom-of-funnel está convertendo
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

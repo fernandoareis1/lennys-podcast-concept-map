@@ -88,6 +88,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Company Product Fit]] — antes do PMF, verifique se o produto encaixa no portfólio e nos pontos fortes da empresa; sem fit interno, o time se perde mesmo que o mercado queira o produto
 - [[Consumer Stack — 5 Capacidades]] — scorecard de 5 capacidades para construir produtos consumer: design-led, foco, métricas+instrumentação, ship velocity, talento; avalie de A a D e trabalhe para chegar em A em todas
 - [[Tática como Semente da Estratégia]] — lance muitas táticas em paralelo, observe o que cola e amplifique; a estratégia emerge do que funciona, não é planejada a priori; método Chris Rock de testar antes de escalar
+- [[Armadilha do AI por AI]] — não adicione IA porque é tendência; comece pelo pain point, prototype sem IA no MVP, envolva researchers só após validar o conceito; PM de IA resolve o problema certo, não o produto certo
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

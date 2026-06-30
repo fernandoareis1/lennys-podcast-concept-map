@@ -106,6 +106,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Os Três Pilares de Product Operations]] — business & data insights (quantitativo) + customer & market insights (qualitativo) + process & practices (operacional); comece pelo pilar que resolve sua maior dor
 - [[Pensamento de Primeiros Princípios em Produto]] — crie seu próprio framework a partir do contexto específico; copiar best practices de outras empresas ignora diferenças de contexto, etapa e equação econômica
 - [[Sinais Reais de Product-Led Growth]] — PLG é propriedade do produto, não estratégia de go-to-market; condição necessária: valor percebível sem vendas no dia zero; facilidade de entrar = facilidade de sair
+- [[Programação por Intenção — Um Mundo Além do Código]] — futuro da programação é descrever intenção em vez de escrever código; engenheiro vira "logic designer"; representação acima do código em linguagem natural
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

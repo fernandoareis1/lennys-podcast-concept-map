@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Kevin Weil]
+autores: [Kevin Weil, Michael Truell]
 ---
 # Ensemble de Modelos Especializados
 
@@ -40,6 +40,12 @@ A decisão de produto não é "qual modelo usar" mas "qual arquitetura de ensemb
 - "Pós-treinamento com dados de especialistas é onde toda a melhoria de modelos está acontecendo agora."
 
 > 🎧 [OpenAI's CPO on why ChatGPT is the worst AI you'll ever use | Kevin Weil](https://www.youtube.com/watch?v=scsW6_2SPC4) · 2025-04-10
+
+### [[Michael Truell]]
+- "We definitely didn't expect to be doing any of our own model development... at this point, every magic moment in Cursor involves a custom model in some way."
+- "The high level thinking is done by the smartest models, they spend a few tokens on doing that, and then these smaller specialty incredibly fast models, coupled with some inference tricks, then take those high level changes and turn them actually into full code diffs."
+- Fine-tuning em tarefas específicas (como autocomplete de diffs) resulta em modelos sem fundação — construídos do zero para aquela tarefa — que superam os foundation models disponíveis.
+> 🎧 [How Cursor is building the future of coding (Michael Truell)](https://www.youtube.com/watch?v=En5cSXgGvZM)
 
 ## Conceitos relacionados
 [[Pós-treinamento como nova fronteira]] · [[Era dos evals — o eval é o PRD do modelo]] · [[O loop e não o lane]] · [[Build and buy]] · [[Post-Training como Novo Frontier — Do Pré-treinamento ao Especialista]]

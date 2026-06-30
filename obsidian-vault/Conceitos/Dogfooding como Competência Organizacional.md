@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Design & UX
-autores: [Maya Prohovnik]
+autores: [Maya Prohovnik, Michael Truell]
 ---
 # Dogfooding como Competência Organizacional
 
@@ -31,6 +31,12 @@ Construir ferramentas para criadores exige que o time — especialmente os líde
 - "Once they finally start doing their podcast, they're like, I get it. Something clicked and now I feel like I really understand what they need."
 - "I'm constantly reminding our team to do this...I always listen to the podcast that my team makes, so it's like I know they're going to get at least one listener."
 > 🎧 [Building Anchor, selling to Spotify, and lessons learned (1:07:36)](https://www.youtube.com/watch?v=1gXNOJEWajU)
+
+### [[Michael Truell]]
+- "From the very start, our product development process was really about dogfooding, and using the tool intensely every day. And we never wanted to ship anything that wasn't useful to us."
+- "We had the benefit of doing that because we were the end users part of our product. And I think that that instills a realism in you around where the tech is right now."
+- Ser o usuário do próprio produto cria realismo sobre onde a tecnologia está — não sobre onde você gostaria que ela estivesse.
+> 🎧 [How Cursor is building the future of coding (Michael Truell)](https://www.youtube.com/watch?v=En5cSXgGvZM)
 
 ## Conceitos relacionados
 [[Obsessão por Redução de Fricção — Magia via Manual]] · [[Friction Logging]] · [[Taste como Habilidade — Horas de Exposição]] · [[Engineer Occasion]]

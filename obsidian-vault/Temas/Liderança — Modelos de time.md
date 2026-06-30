@@ -94,5 +94,6 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Feedback Direto com Cuidado Genuíno]] — radical candor: cuidar profundamente + desafiar diretamente; declare intenção antes do conteúdo; "acredito que você consegue fazer diferente"
 - [[Urgência como Cultura — Deel Speed]] — urgência + otimismo padrão + cuidado genuíno com cliente; urgência sem propósito vira pressão; otimismo sem base vira ingenuidade; combinação cria energia sustentável
 - [[Contratação para Sucesso Específico da Empresa]] — sucesso em empresa A não transfere para B; avalie compatibilidade com este contexto; work samples como melhor instrumento; contratação é via de mão dupla
+- [[Gosto Sobre Precisão — O Novo Skill do Engenheiro de IA]] — com IA assumindo implementação, o skill diferenciador muda de precisão técnica para gosto: julgar se o comportamento do sistema é correto e alinhado à intenção
 - [[Origem do Papel de Product Owner]] — PO emergiu do Scrum como facilitador tático de desenvolvimento, não da gestão de produto; sem Scrum, PO não existe; todos POs devem desenvolver competências de PM
 - [[Interspersão de Talento Experiente para Transformação]] — transformações falham sem modelo de excelência; misture 30-40% de líderes experientes lateralmente com talento emergente; aprendizado acontece por osmose, não só por treinamento

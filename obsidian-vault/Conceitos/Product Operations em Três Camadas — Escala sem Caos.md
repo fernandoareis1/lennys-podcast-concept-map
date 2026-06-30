@@ -2,12 +2,12 @@
 tipo: framework
 nivel: 3
 fluxo: Liderança & Times
-autores: [Melissa Perri]
+autores: [Melissa Perri, Denise Tilles]
 ---
 # Product Operations em Três Camadas — Escala sem Caos
 
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
-**Tipo:** Framework · **Fontes:** [[Melissa Perri]]
+**Tipo:** Framework · **Fontes:** [[Melissa Perri]], [[Denise Tilles]]
 
 ## Ideia central
 Quando uma empresa escala rapidamente, o product management começa a quebrar de formas silenciosas: roadmaps em formatos incompatíveis, os mesmos clientes sendo entrevistados 10 vezes por times diferentes, reuniões de roadmap com as pessoas erradas, sem carreira definida para PMs. Product operations resolve esse caos — mas não centralizando, e sim habilitando escala.
@@ -53,7 +53,13 @@ Product ops não toma user research dos PMs. "Não me importa como um time faz s
 - "We weren't taking user research away. We were just helping make it more scalable, more efficient."
 - "350 PMs at Athena Health. We had to make sure they weren't bothering the same hospital over and over again."
 
-> 🎧 [Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)](https://www.youtube.com/watch?v=DoEfXj1b_ko)
+### [[Denise Tilles]]
+- "That's the squishy middle" — customer and market insights é o pilar mais subestimado do product ops
+- "It's not a set it and forget it — constantly re-evaluating the processes and tools: are these working for us?"
+- "As my CPO is getting ready for a board meeting, what inputs do they need? Do we have a cohesive story?"
+
+> 🎧 [Building high-performing teams | Melissa Perri](https://www.youtube.com/watch?v=DoEfXj1b_ko)
+> 🎧 [The ultimate guide to product operations | Melissa Perri and Denise Tilles](https://www.youtube.com/watch?v=9VdixM9KPN4)
 
 ## Conceitos relacionados
-[[Product Ops — Parceiro do PM]] · [[Elo Perdido — A Camada de Estratégia que Falta]] · [[Org de Analytics Centralizada com Pods]]
+[[Product Ops como PM dos PMs — Infraestrutura sem Poder de Decisão]] · [[Product Ops — Parceiro do PM]] · [[Elo Perdido — A Camada de Estratégia que Falta]] · [[Org de Analytics Centralizada com Pods]]

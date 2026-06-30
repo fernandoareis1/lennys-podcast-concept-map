@@ -95,6 +95,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Wonder→Explore→Make→Impact→Scale — Inovação em Stage Gates]] — 5 stage gates da Atlassian para incubar novos produtos; time pequeno com liberdade de processo em cada gate; kill at any gate; Jira Product Discovery nasceu desse processo
 - [[Column B Thinking — Construir do Futuro para o Presente]] — column A = empilhar os tijolos que você tem; column B = imaginar o futuro que você quer e trabalhar de trás para frente; toda a Canva foi Column B desde universitária sem experiência tech
 - [[Caos à Clareza — Deck de Visão como Ferramenta de Execução]] — toda ideia começa no caos; clareza se adiciona incrementalmente (escrever → deck → designs → protótipo); se ainda está na cabeça, ninguém pode ver e você não consegue wil it into existence
+- [[Elo Perdido — A Camada de Estratégia que Falta]] — missing middle entre intents estratégicos e o que os times constroem; sintoma: métricas não movem apesar do esforço; 99% das empresas acham que é treinamento, é falta de estratégia implantada; teste: peça aos times para conectar o trabalho às metas
+- [[Visão que Diz Não — O Poder da Exclusão Explícita]] — boa visão também declara o que não vai fazer; "be the backbone of healthcare" é tagline, não visão; concreta o suficiente para visualizar, lofty o suficiente para não atingir em um passo; brain dump com perguntas de diferenciação e exclusão
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

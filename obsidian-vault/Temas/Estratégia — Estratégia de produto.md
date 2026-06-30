@@ -29,6 +29,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Pós-treinamento como nova fronteira]] — acima de 30B parâmetros, fine-tuning/RL em dados proprietários cria mais moat que pré-treinamento do zero
 - [[O loop e não o lane]] — o diferencial competitivo é a eficiência do loop inteiro (dados → rewards → fine-tune → observabilidade), não a expertise de uma função isolada
 - [[Template de Estratégia de Produto — Missão a Bets]] — missão → landscape → estado atual → oportunidade → desafios → 3 bets → plano; lógica encadeada visível para todo o time
+- [[Consumer Stack — 5 Capacidades para Produtos de Consumidor]] — scorecard de design, foco, métricas, velocidade de ship e talento para times de consumer
+- [[Company-Product Fit]] — antes de buscar PMF em grandes empresas, pergunte: esse produto serve ao portfólio e às forças únicas da empresa?
 - [[Build and buy]] — compre a ferramenta para 90% do problema; construa em cima para os 10% diferenciados; elimina o debate binary build vs. buy
 - [[Software opinionado]] — embutir melhores práticas no produto força comportamento correto; dois modelos: codificar prática emergente vs. ensinar forma melhor
 - [[Filtros que fragmentam supply]] — filtros de exclusão destroem liquidez invisível; converter em ranqueamento preserva preferência sem comprometer supply disponível

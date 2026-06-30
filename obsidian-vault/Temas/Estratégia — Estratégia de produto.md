@@ -102,6 +102,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Buy-In como Jornada Hipótese-Guiada]] — buy-in é jornada contínua, não reunião de aprovação; exponha hipóteses vs. fatos, envolva stakeholders cedo; honestidade epistêmica constrói mais credibilidade que falsas certezas
 - [[O Elo Perdido — O Meio Estratégico]] — entre intento estratégico e execução existe uma camada ausente que conecta business outcomes ao trabalho dos times; "problema de treinamento" é quase sempre problema de estratégia
 - [[Síntese Estratégica Multi-fonte]] — estratégia efetiva sintetiza 3 eixos: dados internos + voz do cliente/mercado + perspectiva cross-funcional (vendas, finanças, ops); aposta informada + disposição de corrigir
+- [[O Complexo Industrial de Agile — Confundir Desenvolvimento com Produto]] — SAFe e metodologias ágeis são modelos de desenvolvimento, não de produto; transformação de produto requer também: estratégia + org design + product ops + go-to-market
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

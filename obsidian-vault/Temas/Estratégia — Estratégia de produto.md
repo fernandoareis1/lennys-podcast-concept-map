@@ -100,6 +100,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Missão como Filtro Absoluto — Kill Your Darlings]] — missão é o único elemento imutável; abandone produtos e features funcionando se não apontam para a missão; regra 80/20 da minoria vocal; reframe pivôs como "evolução"
 - [[Trabalho no Detalhe Como Liderança de Alto Leverage]] — líderes identificam 1-2 problemas com impacto 10X e "movem a mesa" para trabalhar no detalhe; calendário cheio é vergonha, não mérito
 - [[Buy-In como Jornada Hipótese-Guiada]] — buy-in é jornada contínua, não reunião de aprovação; exponha hipóteses vs. fatos, envolva stakeholders cedo; honestidade epistêmica constrói mais credibilidade que falsas certezas
+- [[O Elo Perdido — O Meio Estratégico]] — entre intento estratégico e execução existe uma camada ausente que conecta business outcomes ao trabalho dos times; "problema de treinamento" é quase sempre problema de estratégia
+- [[Síntese Estratégica Multi-fonte]] — estratégia efetiva sintetiza 3 eixos: dados internos + voz do cliente/mercado + perspectiva cross-funcional (vendas, finanças, ops); aposta informada + disposição de corrigir
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

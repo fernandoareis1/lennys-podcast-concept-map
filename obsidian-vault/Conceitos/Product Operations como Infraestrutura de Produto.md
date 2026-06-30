@@ -2,12 +2,12 @@
 tipo: tecnica
 nivel: 3
 fluxo: Liderança & Times
-autores: [Melissa Perri]
+autores: [Melissa Perri, Denise Tilles]
 ---
 # Product Operations como Infraestrutura de Produto
 
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
-**Tipo:** técnica · **Fontes:** [[Melissa Perri]]
+**Tipo:** técnica · **Fontes:** [[Melissa Perri]] · [[Denise Tilles]]
 
 ## Ideia central
 Product Operations é a função que viabiliza gestão de produto em escala. Não centraliza o trabalho de PM — facilita, padroniza e escala. Tem três pilares: (1) dados e analytics internos que rastreiam progresso estratégico, (2) pesquisa de clientes e inteligência de mercado distribuída para os times, e (3) processos e cadências padronizadas que garantem alinhamento sem burocracia. A ausência de product ops em empresas com 50+ PMs resulta em redundância, inconsistência e perda de sinal.
@@ -29,6 +29,13 @@ Product Operations é a função que viabiliza gestão de produto em escala. Nã
 - "When I first started doing this, it was at Athena Health, and we had 350 product managers...How do we make sure that those things don't happen, but how do we also empower those product managers to go still talk to them when they need to? So we're not taking user research away, we're just helping make it more scalable, more efficient."
 - "I do care what format your roadmap comes in. I do care how we make sure that we have a good working relationship with sales...Those are the interactions we want to standardize."
 > 🎧 [How to build a high-performing product team (Melissa Perri)](https://www.youtube.com/watch?v=DoEfXj1b_ko)
+
+### [[Denise Tilles]]
+- "It's really about helping the product managers focus on what they were actually hired for, the strategic work."
+- "Do you want to hire 10,000 product managers and let them all do these things off the side of their desk and then concentrate on strategic work 30% of the time or do you want them concentrating on strategic work majority of the time?"
+- "It's not supposed to be something that's providing more overhead. It's supposed to be something that's a little more liberating and helps free you up from all the busy work."
+- "Product operations does not take away decision making rights from the product manager. It's there to inform them."
+> 🎧 [How to scale product operations (Melissa Perri + Denise Tilles)](https://www.youtube.com/watch?v=9VdixM9KPN4)
 
 ## Conceitos relacionados
 [[Pontos de Inflexão para Contratar um CPO]] · [[O Elo Perdido — O Meio Estratégico]] · [[Product Ops — Parceiro do PM]] · [[Modelo Operacional de Produto]]

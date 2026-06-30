@@ -103,6 +103,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[O Elo Perdido — O Meio Estratégico]] — entre intento estratégico e execução existe uma camada ausente que conecta business outcomes ao trabalho dos times; "problema de treinamento" é quase sempre problema de estratégia
 - [[Síntese Estratégica Multi-fonte]] — estratégia efetiva sintetiza 3 eixos: dados internos + voz do cliente/mercado + perspectiva cross-funcional (vendas, finanças, ops); aposta informada + disposição de corrigir
 - [[O Complexo Industrial de Agile — Confundir Desenvolvimento com Produto]] — SAFe e metodologias ágeis são modelos de desenvolvimento, não de produto; transformação de produto requer também: estratégia + org design + product ops + go-to-market
+- [[Os Três Pilares de Product Operations]] — business & data insights (quantitativo) + customer & market insights (qualitativo) + process & practices (operacional); comece pelo pilar que resolve sua maior dor
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

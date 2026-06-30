@@ -87,6 +87,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Vibe Coding — Delegar a Execução ao Modelo]] — declare intenção, aprove rapidamente; foco humano muda de execução para direção; prototipagem em ordens de magnitude mais rápida
 - [[Delta 4 — Framework de Eficiência e Irreversibilidade]] — quando a eficiência do novo produto supera a alternativa em ≥4 pontos (escala 1-10): comportamento torna-se irreversível, tolerância a falha é alta, UBP gera CAC zero
 - [[Mercados de Baixa Confiança — Concentração de Trust e Super Apps]] — em mercados sem instituições fortes, trust concentra em poucos players; super apps e conglomerados são resposta racional; ARPU baixo apesar de DAU alto
+- [[Kaizen — Better, Better, Never Best]] — melhoria contínua; competição é desejável (valida o mercado); nunca existe estado final; "better, better, better, never best"
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

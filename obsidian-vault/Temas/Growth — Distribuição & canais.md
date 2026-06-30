@@ -53,6 +53,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Zonas Erógenas Culturais]] — conecte sua mensagem às paixões que a audiência já tem; criar a bridge X→Y é mais fácil que mudar worldview
 - [[Círculos Concêntricos — Cascata de Mensagem]] — espalhe mensagem do interno para o externo; cada círculo valida o seguinte; nunca pule um círculo
 - [[Pressão = Força ÷ Área em Comms]] — reduza superfície-alvo para maximizar impacto com recursos fixos; tiny monopoly → expansão gradual
+- [[Tática → Estratégia — Testar antes de Escalar]] — lance múltiplas táticas em paralelo; encontre a vencedora; então escale como estratégia; arrogância sobre "o que vai funcionar" mata o go-to-market
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

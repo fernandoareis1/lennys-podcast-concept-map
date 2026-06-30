@@ -56,6 +56,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Medir em Centenas — Perseverança Composta]] — 5 falhas na escala de centenas = zero tentativas; compounding de múltiplas tentativas é o input crítico do sucesso; moto em Post-It: "Measure in hundreds"
 - [[Auto-Reflexão Estruturada — Dashboard de Vida]] — 1 hora diária de reflexão com dashboard vermelho-amarelo-verde por área (pai, marido, líder); rastrear experimentos em si mesmo; Guild Nights como rede intencional
 - [[Erros de Comissão vs Omissão em Comms]] — agir e errar ensina; não agir deixa o status quo vencer silenciosamente; prefira erros observáveis
+- [[Mente do Principiante — Beginner's Mind]] — Shoshin: mente de expert fecha possibilidades; mente de principiante abre todas; cultivada via meditação e mudança de geografia
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

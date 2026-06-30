@@ -81,3 +81,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Fit de Fase — Melhor para Este Papel Agora]] — não o melhor talento do mundo mas o melhor para este papel neste estágio; big-name CPOs distantes do trabalho tático falham em early-stage; 3 perfis: platform, core product, especialistas
 - [[Pipeline de Talentos Permanente — Cultivar antes de Precisar]] — sempre mantenha pulso no mercado; 7 meses de courtship é normal; advisors → futuros hires; back channels revelam mais que referências formais
 - [[Jogo Longo no Recrutamento — Relacionamento antes de Oportunidade]] — recrutadores que constroem rapport primeiro convertem mais; nota de vest date no calendário; "uma vez que perde a confiança do candidato, é impossível recuperar"
+- [[CEO como Maestro de Orquestra]] — CEO deve orquestrar todas as funções (produto, vendas, marketing, cultura), não se especializar; "you can't just be playing the clarinet"

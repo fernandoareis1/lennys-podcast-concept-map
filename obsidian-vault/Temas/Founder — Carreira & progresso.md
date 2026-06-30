@@ -62,6 +62,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Momento "Oh Shit" — Calibrador de Crescimento de Carreira]] — Seth Godin: momentos de "não deveria estar aqui" são os que você deve buscar; melhor pergunta de 1:1: "quantos momentos oh shit nos últimos 6 meses?"
 - [[Voz do Cliente como Ativo de Carreira]] — tornar-se "a pessoa que sabe os clientes" cria marca interna e carreira independente do manager; playbook: digest de insights → sessão trimestral → proposta de time; "ungate your knowledge"
 - [[Auditoria de Energia — Calendário Verde e Vermelho]] — marque cada hora do calendário com verde/vermelho por 2 semanas; elimine, delegue ou redesenhe as vermelhas para "exquisito"; objetivo: 80% verde
+- [[Homework for Life — Recuperar Seus Dias]] — registre o momento mais significativo do dia em uma planilha (uma linha); pergunta: "o que contaria se sequestrassem minha família?"; recupera dias e cria repertório infinito de stories
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

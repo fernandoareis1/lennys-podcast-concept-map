@@ -56,3 +56,6 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Ousar Ser Monótono — Conexão sobre Perfeição]] — autoavaliação em tempo real consome banda cognitiva; dar permissão de ser "monótono" libera recursos para conexão e responsividade real
 - [[Estrutura como Bússola — Comunicação Espontânea]] — 2-3 estruturas internalizadas (What-So What-Now What, PREP, 4 Is) transformam improviso em jazz ensaiado; estrutura resolve o "como", você só pensa no "o quê"
 - [[Transparência Estratégica contra Distorção de Narrativa]] — uma mentira circula o mundo 7x antes da verdade sair da cama; escolha médium de longa forma (podcast, blog); seja desproporcio nalmente visível; canais diretos bypassam algoritmo
+- [[Momento de Transformação em Cinco Segundos]] — toda boa história tem um único momento de 5s onde alguém se transforma ou tem uma realização; os outros 98% existem para iluminar esse momento
+- [[Arquitetura de Stakes — Prender a Atenção]] — 5 técnicas para manter audiência se perguntando "o que acontece?": Elephant, Backpack, Breadcrumb, Hourglass, Crystal Ball; concentre na primeira metade
+- [[Adjacência Temática — Stories por Tema, não Conteúdo]] — não busque story sobre o mesmo assunto; encontre story pessoal com mesmo tema/emoção; "estale" a conexão no final para o efeito mais poderoso

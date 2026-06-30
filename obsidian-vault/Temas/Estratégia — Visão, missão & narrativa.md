@@ -18,6 +18,7 @@ A missão não é decoração: ela define **o que importa medir**, quem a empres
 - [[Sugar-Coated Broccoli — Esconder a Visão Radical]] — embrulhe sua visão radical em algo familiar; as pessoas precisam do açúcar para aceitar o brócoli
 - [[Logo Bom o Suficiente — Defer o Brand até o Trigger Certo]] — não invista pesado em brand antes de ter PMF; espere os triggers certos (impressão física, escala, pivô)
 - [[Princípios como Fundação Inegociável do Produto]] — princípios que parecem "loucos" são restrições de design que protegem a confiança; quebrar um é destruir a proposta de valor
+- [[O Mundo Depois do Código — Engenheiro como Designer de Lógica]] — transição de linguagens formais para representação lógica legível; engenheiro especifica intent, não implementação; taste como habilidade crescente; duas visões erradas: chatbot e código-intacto
 
 ## Fluxos vizinhos
 [[09 - Liderança & Times]] · [[03 - Priorização & Roadmap]]

@@ -22,6 +22,7 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Recall vs. Discovery — A Dicotomia da Homepage]] — usuários vêm 90% para recall (voltar ao conhecido) e 10% para discovery; redesign que inverte esse split causa abandono massivo; dense UI ≠ feed UI
 - [[Raciocinar como Humano sobre IA — UX de Modelos de Raciocínio]] — heurística central: ao projetar UX de IA, pergunte como um humano equivalente se comportaria; latência, confiança e clarificação têm análogos humanos
 - [[Obsessão por Redução de Fricção — Magia via Manual]] — remover fricção obsessivamente via meios manuais não-escaláveis; "botão mágico" + estagiários nos bastidores; valide o valor antes de automatizar
+- [[Onboarding que Usa o Produto para Ensinar]] — o melhor onboarding usa o produto para ensinar o uso do produto; "no one cares about your product the way you do"; ação de aprendizado = ação de uso
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

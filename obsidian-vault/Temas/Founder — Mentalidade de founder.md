@@ -58,6 +58,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Erros de Comissão vs Omissão em Comms]] — agir e errar ensina; não agir deixa o status quo vencer silenciosamente; prefira erros observáveis
 - [[Mente do Principiante — Beginner's Mind]] — Shoshin: mente de expert fecha possibilidades; mente de principiante abre todas; cultivada via meditação e mudança de geografia
 - [[GenAI como Risco Assimétrico para PMs]] — IA amplifica vulnerabilidade de feature team PMs; empowered PMs com foco em valor e viabilidade ficam mais essenciais
+- [[Auditoria de Energia — Zona de Gênio vs. Zona de Excelência]] — quatro zonas (incompetência, competência, excelência, gênio); excelência é a armadilha: você é bom mas ela drena; elimine o que não é gênio; meta de 80% do calendário verde
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

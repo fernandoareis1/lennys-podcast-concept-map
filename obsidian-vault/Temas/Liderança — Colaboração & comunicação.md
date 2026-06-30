@@ -56,3 +56,5 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Estruturas para Fala Espontânea — Frameworks de Resposta Imediata]] — PREP, What/So What/Now What, PSB, ADD, WHAT para brindes, AAA para desculpas; reduz carga cognitiva respondendo "como" antes da situação
 - [[Reframing de Ansiedade como Excitação]] — ansiedade e excitação têm fisiologia idêntica; relabeling para "estou animado" melhora performance percebida; pesquisa Alison Wood Brooks (Harvard)
 - [[Dar para Ser Maçante — Conexão sobre Perfeição]] — dial down autocrítica em tempo real para liberar capacidade cognitiva; objetivo é conectar, não impressionar; princípio do improv
+- [[Medo e Raiva como Conselheiros Ruins]] — quando em medo ou raiva, o cérebro faz previsões exageradas; o oposto do que você teme costuma acontecer; verifique com quem não está no estado emocional
+- [[Fazer Sentir-se Ouvido — Escuta Profunda]] — três níveis: reconhecimento escrito, repetição verbal, reflexo do pensamento não dito; 25% de redução emocional via ser ouvido; obrigatório: aceitar ou recusar o feedback explicitamente

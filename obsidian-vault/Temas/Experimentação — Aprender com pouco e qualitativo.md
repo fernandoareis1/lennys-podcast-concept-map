@@ -28,6 +28,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Algoritmo de Bridging — Acordo entre Divergentes]] — buscar acordo surpresa entre divergentes como sinal mais confiável de verdade neutra
 - [[Contexto é Tudo — Engenharia de Prompt Como Habilidade Humana]] — modelo tem inteligência humana mas zero contexto; crap in crap out; forneça quem você é, o que faz e o que quer antes de qualquer pergunta; smiley faces e "faça uma pausa" melhoram outputs
 - [[Data-Driven como Red Flag de Produto]] — "super data-driven" frequentemente sinaliza ausência de pesquisa qualitativa; 10 usuários > qualquer dashboard para a maioria dos produtos
+- [[Prototipagem antes de Modelo — IA Fora do MVP]] — nunca treine modelo de ML para MVP; simule com Figma ou wizard of oz; invista em IA só quando há dados reais
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

@@ -86,6 +86,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Delta 4 — Framework de Eficiência e Irreversibilidade]] — quando a eficiência do novo produto supera a alternativa em ≥4 pontos (escala 1-10): comportamento torna-se irreversível, tolerância a falha é alta, UBP gera CAC zero
 - [[Mercados de Baixa Confiança — Concentração de Trust e Super Apps]] — em mercados sem instituições fortes, trust concentra em poucos players; super apps e conglomerados são resposta racional; ARPU baixo apesar de DAU alto
 - [[Company Product Fit]] — antes do PMF, verifique se o produto encaixa no portfólio e nos pontos fortes da empresa; sem fit interno, o time se perde mesmo que o mercado queira o produto
+- [[Pergunta Salvadora do CEO]] — "Se você fosse o CEO, financiaria totalmente seu time?" — pergunta que força clareza de impacto estratégico e protege contra layoffs
+- [[Arte de Oferecer Opções com Recomendação]] — PM nunca diz sim ou não; sempre 2-3 opções + trade-offs + recomendação; transforma pushback em apoio à decisão
 - [[Consumer Stack — 5 Capacidades]] — scorecard de 5 capacidades para construir produtos consumer: design-led, foco, métricas+instrumentação, ship velocity, talento; avalie de A a D e trabalhe para chegar em A em todas
 - [[Tática como Semente da Estratégia]] — lance muitas táticas em paralelo, observe o que cola e amplifique; a estratégia emerge do que funciona, não é planejada a priori; método Chris Rock de testar antes de escalar
 - [[Armadilha do AI por AI]] — não adicione IA porque é tendência; comece pelo pain point, prototype sem IA no MVP, envolva researchers só após validar o conceito; PM de IA resolve o problema certo, não o produto certo

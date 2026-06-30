@@ -15,6 +15,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[Tudo no backlog é uma aposta]] — discovery melhora a aposta, não elimina o risco
 - [[Métricas de input vs. output]] — foque em inputs controláveis (seleção, preço, velocidade); outputs (receita) seguem automaticamente; gestão por output gera fire drills inúteis
 - [[PM Orientado a Impacto]] — PM relentless até impacto validado; 2 perguntas obrigatórias: o que muda para usuários? como saberemos?; "melhorar/expandir" sem métrica = smell
+- [[Estrutura de Impacto em Três Degraus]] — meta de time a um degrau da meta da empresa; impacto como pano de fundo constante; mesma unidade de medida em toda a priorização
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

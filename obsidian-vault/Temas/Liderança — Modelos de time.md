@@ -90,5 +90,7 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Pontos de Inflexão para Contratar um CPO]] — gatilhos para CPO: executivos não entendem produto, multi-produto, 7-8+ PMs, expansão geo/segmento, fusão; antes dessas inflexões, o líder early-stage é suficiente
 - [[Product Operations como Infraestrutura de Produto]] — product ops em 3 pilares: analytics interno + inteligência de cliente distribuída + processos padronizados; viabiliza PM em escala sem centralizar o trabalho
 - [[Implantação de Product Ops — Uma Pessoa, Um Pilar]] — comece com uma pessoa no pilar mais crítico; demonstre vitórias antes de escalar; o perfil ideal depende do pilar escolhido (analista, research ops, PM operacional)
+- [[Desenvolvimento de Talento Interno como Vantagem Composta]] — desenvolver internamente cria conhecimento institucional + lealdade + sinal cultural; vantagem composta que contratações externas não replicam
+- [[Feedback Direto com Cuidado Genuíno]] — radical candor: cuidar profundamente + desafiar diretamente; declare intenção antes do conteúdo; "acredito que você consegue fazer diferente"
 - [[Origem do Papel de Product Owner]] — PO emergiu do Scrum como facilitador tático de desenvolvimento, não da gestão de produto; sem Scrum, PO não existe; todos POs devem desenvolver competências de PM
 - [[Interspersão de Talento Experiente para Transformação]] — transformações falham sem modelo de excelência; misture 30-40% de líderes experientes lateralmente com talento emergente; aprendizado acontece por osmose, não só por treinamento

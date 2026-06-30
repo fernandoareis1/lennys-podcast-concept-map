@@ -84,3 +84,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[PM de IA — Parceria com Research Scientists]] — trabalhar com researchers exige nova dinâmica: horizonte longo (6-12 meses), incerteza alta, definição co-construída de sucesso; PM como capitão que cheerlida durante o processo
 - [[Alocação Deliberada de Recursos Insuficientes]] — understaffing proposital como política; overstaffing cria política, cruft e trabalho em itens abaixo da prioridade; understaffing é menos ruim
 - [[Matriz Alfa-Beta para Pessoas e Processos]] — alfa = inovação; beta = variância; processos reduzem beta mas suprimem alfa; aplique processo cirurgicamente onde o produto é crítico, não globalmente
+- [[Demissão com Dignidade como Competência Crítica]] — entregar notícia em 1:1 é o único marcador que importa; tornar-se agente ativo da próxima carreira; com menos pessoas, empresa funciona melhor

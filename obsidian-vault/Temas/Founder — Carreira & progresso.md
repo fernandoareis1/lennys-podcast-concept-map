@@ -61,6 +61,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Soft Skills como Moat — A Inversão da IA]] — IA commoditiza hard skills (coding, design, escrita); soft skills (criatividade, listening, gestão, gosto estético) tornam-se o moat real; progresso em pesquisa de IA é literalmente bottlenecked por qualidade de gestão
 - [[Momento "Oh Shit" — Calibrador de Crescimento de Carreira]] — Seth Godin: momentos de "não deveria estar aqui" são os que você deve buscar; melhor pergunta de 1:1: "quantos momentos oh shit nos últimos 6 meses?"
 - [[Voz do Cliente como Ativo de Carreira]] — tornar-se "a pessoa que sabe os clientes" cria marca interna e carreira independente do manager; playbook: digest de insights → sessão trimestral → proposta de time; "ungate your knowledge"
+- [[Auditoria de Energia — Calendário Verde e Vermelho]] — marque cada hora do calendário com verde/vermelho por 2 semanas; elimine, delegue ou redesenhe as vermelhas para "exquisito"; objetivo: 80% verde
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

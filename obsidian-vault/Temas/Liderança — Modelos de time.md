@@ -90,3 +90,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Alpha-Beta em Produto e Processos]] — alpha = inovação/criatividade; beta = volatilidade; processos baixam beta mas suprimem alpha; aplique cirurgicamente por área; zero-a-um quer alpha, payroll quer baixo beta
 - [[Entropia e Intensidade — Liderança como Injeção de Energia]] — times otimizam para conforto local por padrão; única antídoto é injeção constante de energia; cada camada de gestão pode reduzir intensidade do CEO por ordem de magnitude
 - [[Demissão com Dignidade — Gerente como Agente Ativo]] — one-on-one obrigatório; prepare o amígdala; convide emoções; torne-se agente ativo no mercado; layoffs em escala: metas em dólares, manhã de 1:1s, tarde de all-hands, dias seguintes de escuta individual
+- [[Trabalho Distribuído Assíncrono como Vantagem Estrutural]] — 1700 pessoas, 90 países, async desde 2005; paridade salarial global; superpower competitivo, não concessão logística

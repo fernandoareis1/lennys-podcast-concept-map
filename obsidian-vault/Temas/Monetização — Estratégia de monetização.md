@@ -13,6 +13,8 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: conquistar c
 - [[Market Share + Wallet Share]] — os dois motores e as 6 armadilhas dos arquétipos · **⬇ tem aprofundamento**
 - [[Feature Sampling em Freemium]] — intercalar features pagas no fluxo free para revelar o produto real e dobrar upgrades
 - [[Precificação por Resultado — Do Custo ao Valor]] — pricing deriva do valor entregue, nunca dos custos; 99 cents/ticket resolvido; nexo entre valor percebido máximo e margem mínima viável; simplificar pricing vale abrir mão de receita
+- [[Negociação por Valor — Gives & Gets]] — extrair valor total do deal via gives & gets, value selling e opções de pricing
+- [[POC como Caso de Negócio]] — reframe radical: POC não testa funcionalidade, co-cria o business case do cliente
 
 ## Descer mais (L4) ⬇
 [[Market Share + Wallet Share — Evidências (Madhavan Ramanujam)]]

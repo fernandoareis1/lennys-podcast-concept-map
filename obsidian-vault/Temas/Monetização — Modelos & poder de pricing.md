@@ -14,6 +14,7 @@ Como **precificar** e onde mora o valor: cobrar pelo resultado, espelhar o conco
 - [[Pricing por modelo de competição]] — preço que espelha o concorrente do job
 - [[Willingness to Pay (regra 20-80)]] — 20% do que você constrói gera 80% da WTP
 - [[Valor percebido = ponto de partida + destino]] — valor é a distância, não só o destino
+- [[Beautifully Simple Pricing]] — pricing simples o suficiente para o cliente explicar de volta; conta história de valor
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[01 - Discovery & Pesquisa]]

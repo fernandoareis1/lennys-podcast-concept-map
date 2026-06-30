@@ -54,6 +54,9 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Círculos Concêntricos — Cascata de Mensagem]] — espalhe mensagem do interno para o externo; cada círculo valida o seguinte; nunca pule um círculo
 - [[Pressão = Força ÷ Área em Comms]] — reduza superfície-alvo para maximizar impacto com recursos fixos; tiny monopoly → expansão gradual
 - [[Tática → Estratégia — Testar antes de Escalar]] — lance múltiplas táticas em paralelo; encontre a vencedora; então escale como estratégia; arrogância sobre "o que vai funcionar" mata o go-to-market
+- [[FOMU — Medo de Errar supera o FOMO em Vendas]] — 56% das perdas para "no decision" são clientes que queriam comprar mas temem ser culpados; FOMO backfires 87% das vezes quando cliente já tem intenção de compra
+- [[JOLT Effect — Framework para Superar Indecisão de Compra]] — Judge indecision + Offer recommendation + Limit exploration + Take risk off table; quatro etapas para converter indecisão em decisão
+- [[Challenger Sale — Vender com Insight, não com Necessidade]] — mostre ao cliente o que DEVERIA estar mantendo-o acordado; lead TO sua solução única via insight; crie o problema, seja o único com o extintor
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

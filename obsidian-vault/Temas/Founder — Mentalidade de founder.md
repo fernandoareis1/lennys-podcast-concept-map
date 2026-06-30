@@ -57,6 +57,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Medir em Centenas — Perseverança Composta]] — 5 falhas na escala de centenas = zero tentativas; compounding de múltiplas tentativas é o input crítico do sucesso; moto em Post-It: "Measure in hundreds"
 - [[Auto-Reflexão Estruturada — Dashboard de Vida]] — 1 hora diária de reflexão com dashboard vermelho-amarelo-verde por área (pai, marido, líder); rastrear experimentos em si mesmo; Guild Nights como rede intencional
 - [[Shoshin — Mente de Principiante]] — na mente do principiante há infinitas possibilidades; na mente do especialista há poucas; cultivar shoshin é a proteção contra o viés de expert
+- [[Meta Impossível como Motor de Perseverança]] — metas razoáveis são abandonadas no primeiro obstáculo; meta impossível gera inadequação → esforço extremo; deve ser algo que você genuinamente quer concretizar porque o trabalho é imenso
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

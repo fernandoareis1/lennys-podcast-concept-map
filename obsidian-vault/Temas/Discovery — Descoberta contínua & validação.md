@@ -35,6 +35,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Framework 3 Bs — Comportamento, Barreiras e Benefícios]] — antes de qualquer solução: defina o comportamento específico, mapeie barreiras logísticas e cognitivas, identifique o benefício imediato
 - [[Diagnóstico Comportamental — Jornada com Psicologias]] — mapa screenshot-a-screenshot sobreposto com vieses cognitivos; revela o que usuários realmente fazem vs. dizem
 - [[Sistemas, não Metas]] — Jerry Seinfeld: sistema de escrever 1h diária vs. meta de ter 1h de material; times com sistemas default-on de contato com clientes têm instintos melhores que times com metas trimestrais
+- [[Fechar o Loop — Comunidade como Co-Criador]] — produto tem dois eixos: construir para a missão E construir o que a comunidade pede; 1M+ pedidos/ano catalogados por time dedicado; "fechar 200 loops" como accountability pública com usuários
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

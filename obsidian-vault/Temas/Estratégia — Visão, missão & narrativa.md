@@ -18,6 +18,7 @@ A missão não é decoração: ela define **o que importa medir**, quem a empres
 - [[Sugar-Coated Broccoli — Esconder a Visão Radical]] — embrulhe sua visão radical em algo familiar; as pessoas precisam do açúcar para aceitar o brócoli
 - [[Logo Bom o Suficiente — Defer o Brand até o Trigger Certo]] — não invista pesado em brand antes de ter PMF; espere os triggers certos (impressão física, escala, pivô)
 - [[Princípios como Fundação Inegociável do Produto]] — princípios que parecem "loucos" são restrições de design que protegem a confiança; quebrar um é destruir a proposta de valor
+- [[Pensamento em Coluna B]] — Coluna A = futuro provável dos recursos atuais (quase sempre modesto); Coluna B = futuro que você quer criar; grandes empresas ignoram a Coluna A e trabalham a Coluna B incrementalmente
 
 ## Fluxos vizinhos
 [[09 - Liderança & Times]] · [[03 - Priorização & Roadmap]]

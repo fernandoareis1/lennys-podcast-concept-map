@@ -59,3 +59,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Momento de Transformação em Cinco Segundos]] — toda boa história tem um único momento de 5s onde alguém se transforma ou tem uma realização; os outros 98% existem para iluminar esse momento
 - [[Arquitetura de Stakes — Prender a Atenção]] — 5 técnicas para manter audiência se perguntando "o que acontece?": Elephant, Backpack, Breadcrumb, Hourglass, Crystal Ball; concentre na primeira metade
 - [[Adjacência Temática — Stories por Tema, não Conteúdo]] — não busque story sobre o mesmo assunto; encontre story pessoal com mesmo tema/emoção; "estale" a conexão no final para o efeito mais poderoso
+- [[Mudança de Baixo para Cima sem Mandato — Show Don't Tell]] — sem mandato de cima, drive mudanças via experimentos pequenos + mostrar o problema visceralmente (vídeo de usuário) + reduzir atrito dos parceiros + escalar pelo sucesso demonstrado

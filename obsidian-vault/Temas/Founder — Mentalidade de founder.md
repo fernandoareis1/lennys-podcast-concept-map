@@ -63,6 +63,8 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Fazer Parecer Mágico — Operações Manuais como UX]] — estagiários submetendo podcasts manualmente para Apple; empacotar a experiência antes de automatizar o backend; cultura do "sim, e..." para ideias aparentemente estúpidas; o hack prova o valor e ganha a janela de tempo para a solução de escala
 - [[Superpoderes como Bússola de Carreira — Sobreposição com a Empresa]] — identifique seus superpoderes (psych assessment ou autoobservação); encontre papéis onde sucesso = usar esses superpoderes; sobreposição empresa×pessoa cria ciclo virtuoso
 - [[Compounding de Aprendizado — Empresa como Taxa de Juros]] — empresa em hipercrescimento = compounding diário de aprendizado vs anual; não otimize comp nos primeiros 15 anos; 90% do total da carreira vem no final
+- [[Crazy Big Goals — Metas que Tornam Você Inadequado]] — metas grandes o suficiente para você se sentir inadequado diante delas; acopladas a celebrações concretas (pratos, pombos, La Tomatina); sustenta a empresa nos piores momentos; Canva 2 anos sem lançar produto e não desistiu
+- [[Rejeição como Refinamento — Iteração do Pitch]] — 100+ rejeições → cada objeção vira um novo slide no deck; visão permanece igual, articulação muda; o pitch é um produto, a rejeição é um bug report; deck de 2012 ainda captura fielmente a Canva hoje
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

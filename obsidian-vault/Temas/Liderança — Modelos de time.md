@@ -83,3 +83,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Jogo Longo no Recrutamento — Relacionamento antes de Oportunidade]] — recrutadores que constroem rapport primeiro convertem mais; nota de vest date no calendário; "uma vez que perde a confiança do candidato, é impossível recuperar"
 - [[CEO como Maestro de Orquestra]] — CEO deve orquestrar todas as funções (produto, vendas, marketing, cultura), não se especializar; "you can't just be playing the clarinet"
 - [[Incerteza como Desafio Central do AI PM]] — AI PM gerencia incerteza estrutural diferente do PM convencional; meses de pesquisa sem launch; capitão do navio; alinhe métricas de progresso com liderança antecipadamente
+- [[Conteúdo Online de PM Propaga Feature Teams]] — 90% do conteúdo PM online vem de feature teams; certificações propagam o modelo errado; buyer beware com conteúdo de PM

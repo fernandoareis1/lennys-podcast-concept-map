@@ -29,6 +29,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Contexto é Tudo — Engenharia de Prompt Como Habilidade Humana]] — modelo tem inteligência humana mas zero contexto; crap in crap out; forneça quem você é, o que faz e o que quer antes de qualquer pergunta; smiley faces e "faça uma pausa" melhoram outputs
 - [[Data-Driven como Red Flag de Produto]] — "super data-driven" frequentemente sinaliza ausência de pesquisa qualitativa; 10 usuários > qualquer dashboard para a maioria dos produtos
 - [[Prototipagem antes de Modelo — IA Fora do MVP]] — nunca treine modelo de ML para MVP; simule com Figma ou wizard of oz; invista em IA só quando há dados reais
+- [[Pensar Antes de Usar IA — Human-First Prompting]] — pense primeiro, escreva sua resposta/estratégia, então use IA para desafiar e melhorar; confiar no output inicial leva à direção errada
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

@@ -28,5 +28,6 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Ritual de Ideias Loucas]] — doc anual "Crazy Ideas": 90% não farão sentido, 10% fazem diferença de 10x-100x; 3-8 itens implementados por ano; cria permissão cultural para pensar grande
 - [[Roadmap Secreto — Criar o Que Ninguém Pediu]] — roadmap público = pedidos de usuários (todos concorrentes têm); roadmap secreto = ideias que mudam comportamento para sempre e ninguém antecipou; maiores wins vêm do secreto
 - [[Feature Factory — Construir Features sem Impacto Real]] — equipe que entrega features sem saber se mudam comportamento do cliente; raiz: founder apresenta soluções (táticas) em vez de problemas; antídoto: medir impacto de cada feature
+- [[Impact-First — Três Passos para Times de Alto Impacto]] — (1) metas a 1 passo da empresa; (2) manter impacto em foco a cada etapa; (3) medir trabalho na mesma unidade da meta; antídoto ao cascateamento de OKRs
 - [[Feature como Adotar um Cachorro]] — dizer sim a uma feature é adotar um cachorro que cresce; 9 nãos para cada sim; produto excelente = mil detalhes; restraint criativo é a condição da qualidade
 - [[Execução sobre Estratégia — Startups Têm Uma Prioridade]] — estratégia é conceito de escola de negócios para grandes corporações; startups só fazem uma coisa por vez; quem quer sessão de estratégia não entende suas prioridades

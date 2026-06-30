@@ -19,6 +19,7 @@ O lugar do design na empresa: parte do **DNA desde o início** ou tratado como "
 - [[Intuição de Design — Song Exploder do Sentimento Visual]] — exercício para não-designers: observe uma fonte, anote o sentimento, reverse-justifique o porquê; revela os padrões visuais inconscientes
 - [[Brand Invisível vs. Brand como Produto]] — brand invisível (produto brilha) vs. brand como produto (reempacotamento de commodity); define quanto investir em design
 - [[Otimizar Sentimentos como Norte do Produto]] — no momento de criar, pergunte "como queremos que alguém se sinta?"; métricas são ferramentas de feedback, não o norte da criação — brand invisível (produto brilha) vs. brand como produto (reempacotamento de commodity); define quanto investir em design
+- [[Dogfooding como Competência Organizacional]] — todo time de produto deve ter podcast ativo; empatia visceral vs. intelectual; bugs ficam invisíveis até você usar; líder ouve o conteúdo do time criando accountability mútua
 
 ## Descer mais (L4) ⬇
 [[Design é cultura — Evidências (Bob Baxley)]]

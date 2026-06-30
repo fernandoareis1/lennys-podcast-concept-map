@@ -96,6 +96,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Armadilha do AI por AI]] — não adicione IA porque é tendência; comece pelo pain point, prototype sem IA no MVP, envolva researchers só após validar o conceito; PM de IA resolve o problema certo, não o produto certo
 - [[Modelo Operacional de Produto]] — transformação de produto é adotar princípios (não SAFe/Scrum); 3 dimensões: estratégia + discovery + delivery; pilot team antes de escalar; argumento interno: "time to money", não "time to market"
 - [[Viabilidade na Era do GenAI]] — com IA automatizando backlog e specs, o diferencial do PM é viabilidade: legal, compliance, ética, monetização; software probabilístico exige novo tipo de julgamento
+- [[Intuição como Dado Estruturado]] — intuição = reconhecimento de padrões comprimido; deve ser articulada (experiências passadas, analogias, anedotas) para ser acionável e testável em organizações
+- [[Missão como Filtro Absoluto — Kill Your Darlings]] — missão é o único elemento imutável; abandone produtos e features funcionando se não apontam para a missão; regra 80/20 da minoria vocal; reframe pivôs como "evolução"
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

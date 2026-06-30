@@ -50,5 +50,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Trial Reverso — Freemium mais Trial Combinados]] — ofereça trial (premium por tempo limitado) + freemium (free para sempre) simultaneamente; usuário começa no topo e cai para free se não converter; jogo longo de user growth sobre revenue imediato
 - [[Funil PLG — Join, Evaluate, Upgrade, Expand]] — framework de 4 etapas para mapear jornada em produto PLG; "evaluate" (não "activate") porque é perspectiva do usuário; framework de comunicação e diagnóstico, não organograma
 
+- [[Construção de Hype por Demonstração Emocional]] — hype se cria fazendo outros verem o que você vê; exige crença genuína + fóruns de alta concentração; demonstração emocional supera argumento racional
+
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

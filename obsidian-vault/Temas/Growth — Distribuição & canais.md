@@ -50,6 +50,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Brand como Moat em Mercado Competitivo]] — brand cria lealdade de identidade que transcende preço; Gojek sobreviveu com $2M vs $250M do concorrente por investimento consistente em brand
 - [[Psicologia do Developer — Autonomia antes da Confiança]] — developers pulam o marketing site, vão direto ao signup; aversão extrema a vendas; alta responsabilidade pessoal; precisam provar POC antes de confiar; self-serve é obrigatório
 - [[SEO em Duas Categorias — Site Pequeno vs. Geração Automática de Páginas]] — pequeno site requer estratégia editorial ativa; UGC/marketplace gera páginas automaticamente criando growth loop; um único keyword posição #1 pode construir um negócio inteiro
+- [[Framework Círculos Concêntricos]] — espalhe mensagem de dentro para fora; cada círculo segue o sinal do interior; nunca pule um círculo
+- [[Pressão = Força ÷ Área na Comunicação]] — reduza a superfície-alvo para maximizar impacto com o mesmo esforço; 10 diehards superam 1M impressões irrelevantes
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

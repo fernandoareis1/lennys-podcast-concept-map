@@ -30,6 +30,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Data-Driven como Red Flag de Produto]] — "super data-driven" frequentemente sinaliza ausência de pesquisa qualitativa; 10 usuários > qualquer dashboard para a maioria dos produtos
 - [[Prototipagem antes de Modelo — IA Fora do MVP]] — nunca treine modelo de ML para MVP; simule com Figma ou wizard of oz; invista em IA só quando há dados reais
 - [[Pensar Antes de Usar IA — Human-First Prompting]] — pense primeiro, escreva sua resposta/estratégia, então use IA para desafiar e melhorar; confiar no output inicial leva à direção errada
+- [[Intuição como Tipo de Dado — Articulando o Gut]] — gut é dado válido mas precisa ser explicitado (experiência, anedotas, user stories); em grandes orgs, gut não explicado = mandato que sempre falha; "treat gut as data, not decree"
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

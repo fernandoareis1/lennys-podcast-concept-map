@@ -60,6 +60,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[GenAI como Risco Assimétrico para PMs]] — IA amplifica vulnerabilidade de feature team PMs; empowered PMs com foco em valor e viabilidade ficam mais essenciais
 - [[Auditoria de Energia — Zona de Gênio vs. Zona de Excelência]] — quatro zonas (incompetência, competência, excelência, gênio); excelência é a armadilha: você é bom mas ela drena; elimine o que não é gênio; meta de 80% do calendário verde
 - [[Homework for Life — A Prática Diária de Coletar Momentos]] — uma linha por dia numa planilha; pergunta-gatilho sobre o que vale contar; começa com 1,8 momentos/dia e cresce para 7,6 em 12 anos; recupera o tempo, afia o lens de storytelling e recupera memórias perdidas
+- [[Fazer Parecer Mágico — Operações Manuais como UX]] — estagiários submetendo podcasts manualmente para Apple; empacotar a experiência antes de automatizar o backend; cultura do "sim, e..." para ideias aparentemente estúpidas; o hack prova o valor e ganha a janela de tempo para a solução de escala
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

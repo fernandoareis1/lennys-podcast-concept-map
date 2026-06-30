@@ -91,6 +91,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[AI PM — Gerenciar o Problema, não o Produto]] — AI PM define o problema certo, não o produto; shiny object trap; três dimensões: desejável + viável + feasível pelo modelo
 - [[Construir um Movimento, não um Produto]] — filosofia + rituais + arquitetura de contribuição criam movimento que produtos proprietários não conseguem replicar; flywheel de comunidade como moat
 - [[Plataforma Verdadeira — Quando o Ecossistema Ganha Mais que o Core]] — verdadeira plataforma = ecossistema ganha mais que o core; plataformas falsas fazem rug pull quando terceiros ficam bem-sucedidos; GPL como garantia contratual de permanência das regras
+- [[Missão como Âncora — Matar os Queridinhos]] — Anchor 1.0→3.0 com PMF em cada fase; missão imutável, estratégia mutável; regra dos 80/20 (não construa para os 20% vocais); coragem de pivotar quando tudo está funcionando
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

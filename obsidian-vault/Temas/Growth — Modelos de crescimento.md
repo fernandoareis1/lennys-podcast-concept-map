@@ -51,6 +51,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Funil PLG — Join, Evaluate, Upgrade, Expand]] — framework de 4 etapas para mapear jornada em produto PLG; "evaluate" (não "activate") porque é perspectiva do usuário; framework de comunicação e diagnóstico, não organograma
 - [[Flying Formation — DACI para Times de Crescimento]] — DACI + operating rhythms para coordenar growth com produto e marketing; growth deve ser infundido, não camada em cima; ownership de métricas explícito (signups = marketing; downstream = growth produto)
 - [[Primeiro Hire de Growth — Portfolio Manager, não Especialista]] — primeiro hire de growth é portfolio manager analítico, não especialista de canal; expertise excessiva cria falsa precisão; antes do PMF todos são growth; depois do PMF: teste, 80/20, dobre no canal que funciona
+- [[PLG Day Zero Value — Valor Imediato como Condição de Entrada]] — PLG requer valor imediato no dia zero; "em 6 meses você vai se alegrar" ≠ PLG; fácil de entrar = fácil de sair (fricção simétrica); PLG vs. bottom-up; métrica de ativação do Slack: 3 pessoas + 50 mensagens reais
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

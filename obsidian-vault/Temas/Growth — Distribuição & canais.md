@@ -59,6 +59,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Challenger Sale — Vender com Insight, não com Necessidade]] — mostre ao cliente o que DEVERIA estar mantendo-o acordado; lead TO sua solução única via insight; crie o problema, seja o único com o extintor
 - [[Sistema de Semáforo — Priorização de Content por Intenção de Compra]] — 700 keywords → verde/amarelo/vermelho por intenção comercial; produz na ordem: verdes de maior a menor volume; pergunta-guia: "depois de ler o artigo, o usuário volta ao Google?"
 - [[Esqueleto antes da Maquiagem — Sequência de Fundamentos de Growth]] — site rápido + indexado + encontrável + mensagem clara ANTES de paid ads; awareness B2B só depois que bottom-of-funnel está convertendo
+- [[Convite como Feature Distribuída, não Interrupção]] — convites cedo e frequentes no produto; persona do conector precisa de múltiplas oportunidades; uma entrevista "eu nunca convidaria" não deve suprimir a feature; dark patterns (Marco Polo) vs. convite orgânico
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

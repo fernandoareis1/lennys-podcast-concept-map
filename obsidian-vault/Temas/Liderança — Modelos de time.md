@@ -85,3 +85,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Alocação Deliberada de Recursos Insuficientes]] — understaffing proposital como política; overstaffing cria política, cruft e trabalho em itens abaixo da prioridade; understaffing é menos ruim
 - [[Matriz Alfa-Beta para Pessoas e Processos]] — alfa = inovação; beta = variância; processos reduzem beta mas suprimem alfa; aplique processo cirurgicamente onde o produto é crítico, não globalmente
 - [[Demissão com Dignidade como Competência Crítica]] — entregar notícia em 1:1 é o único marcador que importa; tornar-se agente ativo da próxima carreira; com menos pessoas, empresa funciona melhor
+- [[Ciclo de Decisão Diária — Daily Meeting como Sistema de Liderança]] — reunião diária de liderança (incluindo fins de semana) onde cada problema urgente ganha owner; nenhuma decisão bloqueada por mais de 24h; requer hipercrescimento + compensação extraordinária + missão genuína

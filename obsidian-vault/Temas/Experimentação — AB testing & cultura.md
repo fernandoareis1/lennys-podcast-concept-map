@@ -28,6 +28,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Atrito Estratégico — Friction para Reduzir Comportamentos]] — para reduzir comportamento indesejado, adicione atrito mínimo; TikTok label+"Tem certeza?" = -24% desinformação; delay de 16s no elevador → pessoas usam escadas
 - [[Taxa de Fracasso de 80% — A Realidade da Experimentação]] — Netflix/Microsoft: 80-90% dos experimentos falham; iterativo sempre vence big redesign; hierarquia de validação: painted door → mock → MVP vergonhoso → A/B; failure é compass, não parede
 - [[Experimentação Como Mitigação de Risco — Quando Não Testar]] — A/B test tem dois propósitos legítimos: precisão e mitigação de risco; na ausência de ambos, confie no processo de produto; custo do experimento é real e frequentemente ignorado
+- [[Experimentação como Disciplina Científica]] — estratégia é superestimada; a real estratégia do PM é "como rápido vou de hipótese a dado?"; cultura de experimentos elimina HiPPO e substitui opinião por evidência
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

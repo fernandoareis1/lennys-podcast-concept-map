@@ -98,6 +98,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Viabilidade na Era do GenAI]] — com IA automatizando backlog e specs, o diferencial do PM é viabilidade: legal, compliance, ética, monetização; software probabilístico exige novo tipo de julgamento
 - [[Intuição como Dado Estruturado]] — intuição = reconhecimento de padrões comprimido; deve ser articulada (experiências passadas, analogias, anedotas) para ser acionável e testável em organizações
 - [[Missão como Filtro Absoluto — Kill Your Darlings]] — missão é o único elemento imutável; abandone produtos e features funcionando se não apontam para a missão; regra 80/20 da minoria vocal; reframe pivôs como "evolução"
+- [[Trabalho no Detalhe Como Liderança de Alto Leverage]] — líderes identificam 1-2 problemas com impacto 10X e "movem a mesa" para trabalhar no detalhe; calendário cheio é vergonha, não mérito
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

@@ -86,3 +86,6 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Conteúdo Online de PM Propaga Feature Teams]] — 90% do conteúdo PM online vem de feature teams; certificações propagam o modelo errado; buyer beware com conteúdo de PM
 - [[Espiral de Morte do PM de Baixo Impacto]] — times de baixo impacto tornam o produto mais pesado, dificultando trabalho de alto impacto, gerando mais baixo impacto; ciclo até as demissões (Daniel Ek/Spotify)
 - [["Você Financiaria Seu Time?" — A Pergunta Diagnóstica de PM]] — se fosse CEO, você financiaria seu time? hesitação é o sinal de risco; ninguém está mais equipado que o time para responder
+- [[Understaffing Deliberado — Subalocar é Menos Mal]] — overstaffing gera política, cruft e trabalho nos itens errados; understaff sempre deliberadamente; injete recursos onde evidência emergente mostrar necessidade
+- [[Alpha-Beta em Produto e Processos]] — alpha = inovação/criatividade; beta = volatilidade; processos baixam beta mas suprimem alpha; aplique cirurgicamente por área; zero-a-um quer alpha, payroll quer baixo beta
+- [[Entropia e Intensidade — Liderança como Injeção de Energia]] — times otimizam para conforto local por padrão; única antídoto é injeção constante de energia; cada camada de gestão pode reduzir intensidade do CEO por ordem de magnitude

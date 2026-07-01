@@ -2,11 +2,11 @@
 tipo: framework
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Bangaly Kaba]
+autores: [Bangaly Kaba, Noah Weiss]
 ---
 # Teoria do Usuário Adjacente
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L3
-**Tipo:** Framework · **Fontes:** [[Bangaly Kaba]]
+**Tipo:** Framework · **Fontes:** [[Bangaly Kaba]] · [[Noah Weiss]]
 
 ## Ideia central
 Usuários atuais e usuários futuros são pessoas fundamentalmente diferentes. Em produtos de hipercrescimento, quem adota hoje tem um perfil de adotante inicial; quem vai adotar nos próximos 12 meses — o **usuário adjacente** — tem mais fricção, menos conhecimento técnico, expectativas diferentes e um contexto de vida diferente. Se você só constrói para quem já usa, o produto gradualmente deixa de funcionar para os próximos.
@@ -32,6 +32,15 @@ O sinal mais claro de que você entrou em território de usuário adjacente: **a
 - Exemplo Instacart: "A usuária original era uma assistente de escritório comprando para happy hours. O adjacente era a mãe de três filhos que depende do Instacart. Depois, uma pessoa sozinha em Nova York por conveniência. O que cada uma otimiza é fundamentalmente diferente."
 - TikTok usou o mesmo princípio contra o Instagram: foi atrás de criadores que não tinham audiência no Instagram (os B-list e C-list) — o adjacente que a outra plataforma não servia.
 > 🎧 [Unorthodox frameworks for growing your product, career, and impact (1:42:05)](https://www.youtube.com/watch?v=Ub9UkWByFIQ) · 2024-05-26
+
+## Insights por autor
+### [[Noah Weiss]]
+- O crescimento tem forma de S: rápido até o teto do primeiro segmento, depois achata — porque aquele cohort foi saturado
+- O erro clássico: confundir "atingimos PMF" com "missão cumprida"; na verdade é o momento de procurar a próxima curva S
+- "When your growth slows, it's usually because you've gotten all the users in that first group you could — you need to find the next S-curve."
+- Em Slack: o produto começou com startups tech-savvy; para crescer, precisou se adaptar para times enterprise com menor tolerância à curva de aprendizado
+- O mecanismo é idêntico ao Adjacent User: o perfil de quem chega muda antes que os dados tornem isso visível; preparar o produto antes que os cohorts decaiam
+- O sinal de alerta: quando você mede NPS ou retenção por coorte de chegada e vê que coortes mais recentes têm pior resultado sem que nada quebrou no produto
 
 ## Conceitos relacionados
 [[Marginal User]] · [[Growth Loops vs Funil]] · [[Ativação via onboarding]] · [[Growth — Modelos de crescimento]]

@@ -12,6 +12,7 @@ ordem: 4
 ## Temas
 - [[Design — Cultura & papel do design]] — design é cultura, não serviço
 - [[Design — Experiência & fricção]] — mapear a jornada e remover atrito
+- [[Design — Pesquisa de usuário]] — crítica coletiva e sprints de delight para enxergar com olhos de novato
 
 > 🪜 *Camadas:* hub **L1** → **Temas (L2)** → **Conceitos (L3)** → **Aprofundamento (L4)**.
 

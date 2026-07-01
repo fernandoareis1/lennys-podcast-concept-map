@@ -68,6 +68,8 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Salto na Carreira — Planejar o Job-Depois-do-Próximo]] — pense no next-do-next emprego (the skip); escolha uma especialidade early; a story que você vai contar é o critério de avaliação do role atual
 - [[Empresas Ex-Crescimento — Armadilha do Capital Latente]] — empresa com capital latente sem sucking sound de PMF e valuation descolada; como identificar e custo oportunidade de ficar
 - [[Ato Três — Segundo Norte-Estrela para Carreiras Longas]] — ato 1 = aprender a construir; ato 2 = construir a fábrica; ato 3 = o que vem depois? Carreiras de 60 anos exigem um segundo norte-estrela; metáfora do dog track
+- [[Equação de Confiança — Credibilidade Confiabilidade Autenticidade]] — Trust = (Credibilidade + Confiabilidade + Autenticidade) / Percepção de Self-Interest; "bring the insight" como alavanca de credibility para PMs jovens
+- [[Três Es de Desenvolvimento de Carreira — Experience Exposure Education]] — Exposure ("estar no carro mas não dirigindo") é o vetor mais subutilizado de desenvolvimento
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

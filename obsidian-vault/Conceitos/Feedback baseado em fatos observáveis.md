@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Liderança & Times
-autores: [Alisa Cohn, Anneka Gupta]
+autores: [Alisa Cohn, Anneka Gupta, Paige Costello]
 ---
 # Feedback baseado em fatos observáveis
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Colaboração & comunicação]] · **Camada:** L3
@@ -32,6 +32,16 @@ Feedback difícil falha quando soa como julgamento pessoal. A técnica dos fatos
 - Colabore na solução: não apenas entregue o feedback e vá embora — pergunte, explore junto, ofereça exemplos pessoais de como você enfrentou situações similares.
 - Prepare antes: pense em como o feedback vai ressoar com essa pessoa específica, em função do que ela quer da carreira.
 > 🎧 [Becoming more strategic, navigating difficult colleagues, founder mode, more (1:08:37)](https://www.youtube.com/watch?v=E3dUveqt9Bw)
+
+### [[Paige Costello]]
+- Na Intuit, o modelo padrão de feedback era **SBI — Situação, Comportamento, Impacto**: descreva a situação específica, o comportamento observável (não a interpretação), e o impacto que teve.
+- "Feedback eficaz é específico e observável. Você não diz 'você é desorganizado' — você diz 'na reunião de terça, a estrutura do doc não tinha conclusão, e o time saiu sem um próximo passo claro.'"
+- A especificidade serve dois propósitos: reduz defensividade (é um fato, não um julgamento) e torna o feedback acionável (há um comportamento específico para mudar).
+- Usou o modelo SBI como padrão de time na Intuit e levou para Intercom e Asana.
+> 🎧 [How to ask the right questions, project confidence, and win over skeptics (1:03:21)](https://www.lennyspodcast.com/how-to-ask-the-right-questions-project-confidence-and-win-over-skeptics-paige-costello-asana/)
+
+## Descer mais (L4) ⬇
+[[Feedback baseado em fatos observáveis — Evidências]]
 
 ## Conceitos relacionados
 [[Scripts para conversas difíceis]] · [[Mindset do líder — crescer, não agradar]] · [[Liderança — Colaboração & comunicação]]

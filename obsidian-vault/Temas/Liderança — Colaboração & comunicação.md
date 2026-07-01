@@ -14,7 +14,7 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Comunicação executiva em capítulos]] — contar a história no nível certo
 - [[Kayfabe Organizacional]] — distorção sistêmica camada a camada que transforma organizações em zumbis
 - [[Scripts para conversas difíceis]] — linguagem pronta para feedback, promoção negada e demissão
-- [[Feedback baseado em fatos observáveis]] — neutralizar julgamento com dados concretos
+- [[Feedback baseado em fatos observáveis]] — neutralizar julgamento com dados concretos · **⬇ tem aprofundamento**
 - [[Curiosidade radical — antídoto ao ego]] — "fascinating" como resposta ao desacordo
 - [[Dinosaur Brain — recomendação clara para executivos]] — menos info, mais recomendação nas reviews
 - [[Descoberta assíncrona]] — apenas discussão acontece na reunião; descoberta e decisão ficam de fora
@@ -63,3 +63,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Adjacência Temática — Stories por Tema, não Conteúdo]] — não busque story sobre o mesmo assunto; encontre story pessoal com mesmo tema/emoção; "estale" a conexão no final para o efeito mais poderoso
 - [[Mudança de Baixo para Cima sem Mandato — Show Don't Tell]] — sem mandato de cima, drive mudanças via experimentos pequenos + mostrar o problema visceralmente (vídeo de usuário) + reduzir atrito dos parceiros + escalar pelo sucesso demonstrado
 - [[Clareza Extrema — Canonical Everything]] — sistema tático de Naomi Gleit: doc canônico + nomenclatura canônica + semáforo de decisão + edição ao vivo em reuniões + numbered lists
+- [[Responder a Pergunta que Deveriam ter Feito]] — operar um nível acima: endereçar o problema real por trás da pergunta literal

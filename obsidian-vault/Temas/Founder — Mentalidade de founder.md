@@ -61,6 +61,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 
 - [[Guardião da Chama — PM em Projetos Zero-to-One]] — PM de zero-to-one mantém a ideia viva quando é frágil; estoca a chama, recruta crentes, expande até autossustentar; projeto morre sem guardião antes de ter grupo de crentes
 - [[Founder-Future Fit — Autenticidade como Vantagem]] — quem tem o perfil mais autenticamente alinhado com um futuro radical é quem mais rápido chega ao PMF; motivação intrínseca + conhecimento do futuro + rede no ecossistema
+- [[Como Pode Ser o Oposto Verdadeiro — Quebrar o Pensamento Binário]] — perguntar "como pode ser o oposto verdadeiro?" relaxa o frame e revela alternativas invisíveis no pensamento binário
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

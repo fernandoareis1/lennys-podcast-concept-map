@@ -99,3 +99,5 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Interspersão de Talento Experiente para Transformação]] — transformações falham sem modelo de excelência; misture 30-40% de líderes experientes lateralmente com talento emergente; aprendizado acontece por osmose, não só por treinamento
 - [[Waterline Model — Snorkel antes de Mergulhar]] — diagnostique problemas de time em 4 camadas (estrutural → dinâmicas → interpessoal → intrapessoal); 80% dos problemas estão nas camadas superiores; snorkel antes de mergulhar
 - [[PM como Condutor]] — PM como regente de orquestra: garante harmonia e cadência entre as funções; não é a estrela do show
+- [[DevEx como Produto — PM Mindset para Developer Experience]] — tratar Developer Experience como produto com PM mindset; framework Frictionless de 7 passos (listening tour → quick win → data → strategy → sell → scale → evaluate)
+- [[Flow State com IA — Blocos de 45 Minutos]] — IA encurtou o bloco mínimo de flow de 2h para 45 min via restauração de contexto por agentes; satisfação vs. felicidade como métricas distintas; senior engineers como toolchain builders

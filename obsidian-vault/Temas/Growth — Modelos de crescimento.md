@@ -57,6 +57,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Single Player to Multiplayer]] — transição para produto colaborativo amplifica aquisição, retenção e monetização simultaneamente; não pode ser retrofitada
 - [[NPS como Coeficiente Viral — O Dobro por Faixa]] — cada faixa de NPS dobra a taxa de invite e conversão; mover NPS multiplica o coeficiente viral de toda a base; ROI de NPS supera ROI de conversão
 - [[Product Marketing Dentro do Produto — Fechar o Delta de Percepção]] — fechar o gap entre valor entregue e valor percebido triplica sharing; gráfico de comparação na success page = 3× sharing rate; animação de transferência instantânea = salto em referral
+- [[Crescimento Mascara Todos os Problemas]] — crescimento rápido esconde fricção acumulada, desequilíbrio de marketplace e fragilidades de canal; PM paranoico faz a pergunta antecipada: "o que eu faria se crescimento fosse zero hoje?"
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

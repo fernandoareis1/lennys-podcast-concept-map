@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Liderança & Times
-autores: [Heidi Helfand, Keith Coleman]
+autores: [Heidi Helfand, Keith Coleman, Noam Lovinsky]
 ---
 # Isolamento como Inovação — Team Off to the Side
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
@@ -44,6 +44,16 @@ Inovação real muitas vezes exige **separar um time do fluxo principal da empre
 - As metas eram definidas por milestone, não por trimestre: "We would set the goal for the next milestone that mattered... whether that was two weeks, a month, three months, whatever it was."
 
 > 🎧 [An inside look at X's Community Notes | Keith Coleman & Jay Baxter (1:47:58)](https://www.youtube.com/watch?v=8dgyqYHLcCI)
+
+### [[Noam Lovinsky]]
+- Criou a New Product Experimentation (NPE) team no Facebook: charter era incubar grandes ideias novas, protegidas da org principal
+- "If you're a large organization and you do some performance management process twice a year and you're a 0-to-1 incubator, you've already killed it. It's the wrong incentive."
+- O sistema de incentivos é o primeiro erro — ciclos de promo semestrais criam seleção adversa de pessoas e projetos: ninguém vai apostar numa ideia de longo prazo com horizonte de avaliação trimestral
+- Liberdade de infraestrutura foi essencial: cada time fazia o que era melhor para seu problema, sem o overhead de infraestrutura corporativa da Meta
+- Referência externa: Nike tem um lab de incubação completamente separado — recrutam perfis diferentes, incentivos diferentes, e só plugam no marketing/distribuição da Nike quando encontram fit
+- Resultado da NPE: não gerou o "próximo Instagram", mas validou features que viraram outros produtos (ex: Threads), e foi um dos melhores ferramentas de recrutamento do Facebook
+
+> 🎧 [The happiness and pain of product management | Noam Lovinsky (1:09:35)](https://www.youtube.com/watch?v=a_W5Rn0bJWE) · 2024-03-17
 
 ## Conceitos relacionados
 [[5 Padrões de Reteaming]] · [[Single-Threaded Leader]] · [[Product Management Theater]] · [[Bursts — presença intencional no trabalho remoto]]

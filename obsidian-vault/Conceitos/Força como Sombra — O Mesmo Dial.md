@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Jules Walter]
+autores: [Jules Walter, Nikhyl Singhal]
 ---
 # Força como Sombra — O Mesmo Dial
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -57,5 +57,14 @@ Esse framework só funciona com feedback honesto. A maioria das pessoas nunca re
 - Lawrence Ripsher: o mentor que ajudou Jules a descobrir esse framework e a dobrar em forças em vez de compensar fraquezas
 > 🎧 [Leveraging mentors to uplevel your career](https://www.youtube.com/watch?v=zn2JNbZwf00) · 2023-01-05
 
+## Insights por autor (adicional)
+### [[Nikhyl Singhal]]
+- "Everyone focuses on your superpowers, but no one ever thinks about what shadows they create — the 'shadows of superpowers'."
+- "What gets you there isn't what got you here. The tools that made you successful today, you almost need to rebuild to get to the next phase."
+- "They're like, 'Are you kidding me? My last five performance reviews told me I was one of the best collaborators.' And you realize: you're collaborating as long as people agreed with your point of view. Now as a leader, that's exactly what's in your way."
+- "Once they have the name and the face [of the shadow], they're able to solve. But facing the name is hard when it's sitting in the shadows of superpowers."
+- "When I hit contradictory feedback — perception is reality. Don't dismiss that one. That might be it."
+- Transições de nível executivo são quando a sombra emerge com mais força: o que funcionava em velocidade e opinião como founder pode paralisar como VP ao lidar com peers seniores.
+
 ## Conceitos relacionados
-[[Portfólio de Mentores — O Menor Pedido Possível]] · [[Investir em força, não em ausência de fraqueza]] · [[Superpoderes Extraídos de Histórias]] · [[IQ vs. EQ — Dois Estágios do PM]] · [[Zona de Gênio]]
+[[Portfólio de Mentores — O Menor Pedido Possível]] · [[Investir em força, não em ausência de fraqueza]] · [[Superpoderes Extraídos de Histórias]] · [[IQ vs. EQ — Dois Estágios do PM]] · [[Zona de Gênio]] · [[Salto na Carreira — Planejar o Job-Depois-do-Próximo]]

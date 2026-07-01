@@ -65,6 +65,9 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Auditoria de Energia — Calendário Verde e Vermelho]] — marque cada hora do calendário com verde/vermelho por 2 semanas; elimine, delegue ou redesenhe as vermelhas para "exquisito"; objetivo: 80% verde
 - [[Otimizar Superpoderes Sobre Compensação — Carreira]] — 90% da compensação vem nos últimos 5 anos; otimize por: alto compounding de aprendizado + alto overlap com superpoderes + diversão genuína
 - [[Homework for Life — Recuperar Seus Dias]] — registre o momento mais significativo do dia em uma planilha (uma linha); pergunta: "o que contaria se sequestrassem minha família?"; recupera dias e cria repertório infinito de stories
+- [[Salto na Carreira — Planejar o Job-Depois-do-Próximo]] — pense no next-do-next emprego (the skip); escolha uma especialidade early; a story que você vai contar é o critério de avaliação do role atual
+- [[Empresas Ex-Crescimento — Armadilha do Capital Latente]] — empresa com capital latente sem sucking sound de PMF e valuation descolada; como identificar e custo oportunidade de ficar
+- [[Ato Três — Segundo Norte-Estrela para Carreiras Longas]] — ato 1 = aprender a construir; ato 2 = construir a fábrica; ato 3 = o que vem depois? Carreiras de 60 anos exigem um segundo norte-estrela; metáfora do dog track
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

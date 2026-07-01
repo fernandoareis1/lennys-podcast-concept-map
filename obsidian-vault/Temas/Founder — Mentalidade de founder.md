@@ -59,6 +59,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Shoshin — Mente de Principiante]] — na mente do principiante há infinitas possibilidades; na mente do especialista há poucas; cultivar shoshin é a proteção contra o viés de expert
 - [[Meta Impossível como Motor de Perseverança]] — metas razoáveis são abandonadas no primeiro obstáculo; meta impossível gera inadequação → esforço extremo; deve ser algo que você genuinamente quer concretizar porque o trabalho é imenso
 
+- [[Founder Future Fit — Estar no Futuro]] — o fit entre o founder e o futuro específico que está construindo; "por que você, agora, para este futuro?"
 - [[Guardião da Chama — PM em Projetos Zero-to-One]] — PM de zero-to-one mantém a ideia viva quando é frágil; estoca a chama, recruta crentes, expande até autossustentar; projeto morre sem guardião antes de ter grupo de crentes
 
 ## Descer mais (L4) ⬇

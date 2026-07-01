@@ -36,6 +36,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Framework DATE — Diagnose, Analyze, Take a Different Path, Experiment]] — antes de qualquer iniciativa de marketing: diagnostique, analise a competição, tome um caminho diferente, experimente; anti-playbook playbook
 - [[Marketing é Extensão do Produto — Lançamento Começa no Uso]] — lançamento só está completo quando o usuário descobriu e usou; marketing de alta qualidade é indissociável do produto; 20%+80% review checkpoints
 - [[Verticalizar para Não Competir com a Plataforma]] — ao construir sobre IA, vá para vertical específico onde a plataforma não vai; Harvey (direito), Zapier (integrações); produto geral precisa ser radicalmente diferente em 10 dimensões para competir com ChatGPT
+- [[Pattern Breaking — Assimetria, não Melhoria]] — startups vencem sendo radicalmente diferentes (mudando o assunto), não melhores; force escolha, não comparação
 - [[Zonas Erógenas Culturais]] — encaixe sua mensagem no que a audiência já ama; criar a API entre seu Y e o X deles
 
 ## Descer mais (L4) ⬇

@@ -16,6 +16,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[Métricas de input vs. output]] — foque em inputs controláveis (seleção, preço, velocidade); outputs (receita) seguem automaticamente; gestão por output gera fire drills inúteis
 - [[PM Orientado a Impacto]] — PM relentless até impacto validado; 2 perguntas obrigatórias: o que muda para usuários? como saberemos?; "melhorar/expandir" sem métrica = smell
 - [[Estrutura de Impacto em Três Degraus]] — meta de time a um degrau da meta da empresa; impacto como pano de fundo constante; mesma unidade de medida em toda a priorização
+- [[Seis Regras de Metas e Alinhamento]] — máximo 3 metas, explique como para 5 anos, estratégia deve doer, 1 meta 1 dono, goals sem processo são inúteis (Molly Graham / Facebook)
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

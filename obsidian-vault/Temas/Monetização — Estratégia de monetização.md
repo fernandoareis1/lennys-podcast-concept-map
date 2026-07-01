@@ -18,6 +18,8 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: conquistar c
 - [[FOMU — Medo de Errar vs. FOMO]] — 40-60% dos deals B2B morrem em "no decision"; medo de errar > medo de perder; omission bias e status quo bias
 - [[Metodologia JOLT]] — Judge + Offer + Limit + Take Risk Off the Table; antídoto ao FOMU para fechar indecisão em SaaS B2B
 - [[Vendedor Challenger — Ensinar o Que o Cliente Deveria Saber]] — create the fire, sell the extinguisher; insight único → reframe → solução como consequência lógica
+- [[Preço como Roadmap — Não Defina e Esqueça]] — pricing precisa ser iterado como roadmap; 3 erros: monetizar tarde, underprice e set-and-forget
+- [[Day One vs Day 100 — Empacotamento de Freemium]] — features de valor imediato no free; features de valor em escala no paid; Invoice2go dobrou upgrade + 30% de preço
 
 ## Descer mais (L4) ⬇
 [[Market Share + Wallet Share — Evidências (Madhavan Ramanujam)]]

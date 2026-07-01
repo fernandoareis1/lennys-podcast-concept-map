@@ -53,6 +53,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Construção de Hype por Demonstração Emocional]] — hype se cria fazendo outros verem o que você vê; exige crença genuína + fóruns de alta concentração; demonstração emocional supera argumento racional
 - [[Entender, Identificar, Executar]] — framework do growth team do Facebook: instrumente dados primeiro, depois identifique alavancas, só então construa produto
 - [[Growth Accounting — Contabilidade de Crescimento]] — crescimento líquido = novos − inativos + ressuscitados; revelou que retenção/reativação > aquisição como alavanca
+- [[Single Player to Multiplayer]] — transição para produto colaborativo amplifica aquisição, retenção e monetização simultaneamente; não pode ser retrofitada
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

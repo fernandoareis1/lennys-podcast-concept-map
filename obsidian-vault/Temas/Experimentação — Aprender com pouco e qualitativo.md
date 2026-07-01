@@ -28,7 +28,9 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Algoritmo de Bridging — Acordo entre Divergentes]] — buscar acordo surpresa entre divergentes como sinal mais confiável de verdade neutra
 - [[Contexto é Tudo — Engenharia de Prompt Como Habilidade Humana]] — modelo tem inteligência humana mas zero contexto; crap in crap out; forneça quem você é, o que faz e o que quer antes de qualquer pergunta; smiley faces e "faça uma pausa" melhoram outputs
 - [[Data-Driven como Red Flag]] — "data-driven" como dogma pode mascarar falta de pesquisa qualitativa; dados dizem o quê, não o porquê
+- [[Prototipagem nos Extremos — Encontrar o Espaço Certo]] — empurre para extremos opostos de um atributo, construa ambos, e use a fricção de cada ponta para encontrar o equilíbrio real
 - [[Discovery-Delivery em Paralelo, Não em Sequência]] — discovery e delivery devem ocorrer simultaneamente em loop contínuo; modelo sequencial "discovery antes do sprint" cria times que entregam com velocidade na direção errada
+- [[10% Rule — Hipótese Antes da Metade]] — após 10% do tempo alocado, deve existir algo funcional que testa a hipótese central; velocidade e qualidade não são trade-offs — são ambos produto de competência
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

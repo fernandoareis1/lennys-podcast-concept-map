@@ -16,6 +16,7 @@ Como extrair a **verdade** do usuário: coletar **histórias concretas** de epis
 - [[Obsessão com Cliente — Conversas Diretas e Urgentes]] — resposta P-0 ao feedback do cliente; seja "text-message friendly" com 5–10 clientes-alvo; ouvir em silêncio > pitch; willingness to pay ≠ pagar
 - [[Study Group — Empatia pelo Cliente em Grupo]] — grupo de 4–8 pessoas de áreas diferentes; ninguém trabalha na empresa fictícia; 2 regras: não usar conhecimento interno + não resolver na sessão; contra-peso não natural à entropia de produto
 - [[Forward Deployed Engineer — Engenheiro no Campo]] — engenheiro com mesa dentro do cliente; ciclos de iteração de 24-48h; confiança presencial que Zoom não cria; modelo Palantir que forma fundadores
+- [[Empatia Emocional — Sentir como o Usuário Sente]] — o objetivo na entrevista não é entender objetivos mas sentir o momento emocional exato que deixa o usuário mal; schlep blindness torna dores crônicas invisíveis
 
 ## Descer mais (L4) ⬇
 [[Entrevista — Playbook (Moesta + Torres)]] — roteiro, camadas de linguagem, nº de entrevistas, quem entrevistar

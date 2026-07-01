@@ -33,7 +33,8 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Efeito de Rede por Design de Convites]] — conectores naturais convidam se o fluxo for simples; convites ubíquos e presentes em múltiplos pontos; usuários não-sociais ignoram, não sacrifique o design por eles
 - [[Métricas Além de Engajamento — Saúde vs. Vício em IA]] — otimizar likabilidade em IA gera sycophancy; o critério correto é tempo bem gasto (usuário saiu mais capaz) vs. engajamento; "você sabe quando seu produto está realmente servindo as pessoas"
 - [[Métricas de Produtividade na Era da IA — SPACE vs Prescrição]] — SPACE (adaptável) vs DORA (prescritivo); Trust como nova dimensão para sistemas de IA não-determinísticos; métricas de atividade são gameable
-- [[Curva J de DevEx — Ganhos que Compõem Após o Vale]] — investimentos em DevEx: quick wins → vale → retornos compostos; maioria dos programas morre no vale antes do composto
+- [[Curva J de DevEx — Ganhos que Compõem Após o Vale]]
+- [[Processo Reprodutível de Testes — Muitas Apostas com Sinal Limpo]] — 15 apps em 5 anos; processo reduz risco mais que qualquer insight; elimine variáveis confusas; validação em cascata (core flow → spread → hop → pagar) — investimentos em DevEx: quick wins → vale → retornos compostos; maioria dos programas morre no vale antes do composto
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

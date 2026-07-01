@@ -49,6 +49,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Product-Led Acquisition — Quatro Mecanismos]] — aquisição orgânica via uso natural do produto: quitar dívida (Venmo/PayPal), conversa exclusiva (Slack/WhatsApp), billboarding (Hotmail/Calendly/AirPods), UGC (YouTube/Reddit); custo zero, sem dependência de terceiros; não confundir com referral programs (incentivos artificiais)
 - [[Trial Reverso — Freemium mais Trial Combinados]] — ofereça trial (premium por tempo limitado) + freemium (free para sempre) simultaneamente; usuário começa no topo e cai para free se não converter; jogo longo de user growth sobre revenue imediato
 - [[Funil PLG — Join, Evaluate, Upgrade, Expand]] — framework de 4 etapas para mapear jornada em produto PLG; "evaluate" (não "activate") porque é perspectiva do usuário; framework de comunicação e diagnóstico, não organograma
+- [[Demanda Latente — Cristalizar o que as Pessoas Já Querem]] — busque onde as pessoas já obtêm valor via processo tortuoso; Sarahah em árabe como #1 nos EUA = sinal máximo; cristalize a motivação e você tem adoção intensa
 
 - [[Construção de Hype por Demonstração Emocional]] — hype se cria fazendo outros verem o que você vê; exige crença genuína + fóruns de alta concentração; demonstração emocional supera argumento racional
 - [[Entender, Identificar, Executar]] — framework do growth team do Facebook: instrumente dados primeiro, depois identifique alavancas, só então construa produto

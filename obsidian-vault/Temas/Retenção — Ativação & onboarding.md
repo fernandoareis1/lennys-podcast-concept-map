@@ -22,6 +22,7 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 - [[Right for Wrong — Motivação Imediata Substituta]] — dê o motivo "errado" (social, completion, status) para fazer a coisa certa quando o benefício real é distante; donuts + vacinas; cuidado com incentivos mal-alinhados
 - [[Boa Fricção vs Má Fricção — Psicologia do Usuário no Fluxo]] — usuário novo tem "bogeyman mindset" (espera o pior); perguntas de qualificação aliviam ansiedade e aumentam conversão; "pilling the hotdog" = embute elemento assustador em contexto familiar
 - [[Métrica de Ativação de Taxa Baixa — Correlação com Retenção]] — taxa de ativação de 5-15% é melhor que 40% porque indica barra alta correlacionada com retenção longa; decomponha em sub-componentes para encontrar alavancas; complemente north star com 2-3 métricas de suporte
+- [[Aha Moment Invertido — Valor Antes do Onboarding]] — span de atenção de 3 segundos; coloque o aha moment ANTES de qualquer cadastro ou permissão; Dupe.com como exemplo de valor-sem-barreira; cada tap até o valor é uma oportunidade de churn
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]

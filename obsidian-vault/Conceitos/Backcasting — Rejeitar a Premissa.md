@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Christopher Lochhead]
+autores: [Christopher Lochhead, Mike Maples Jr]
 ---
 # Backcasting — Rejeitar a Premissa
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -36,5 +36,10 @@ A distinção não é apenas semântica — é cognitiva. Quando você está no 
 - "If you're disrupting something, by definition, your reference point is the something. And when your reference point is an existing thing, your reference point is the past."
 - "[John Bielenberg's] objective: design a bicycle. Only one design point — it cannot be rideable. When you take away the premise, you open up the aperture for legendary new thinking."
 
+### [[Mike Maples Jr]]
+- Fundadores de Pattern Breakers fazem backcasting: "It's a given that the future has to be radically different for me to be a big winner, so I'm going to look for radically different futures and work backwards from those."
+- Diferente do forecasting corporativo que parte do presente e projeta incrementos; o ponto de referência mental muda tudo
+> 🎧 [Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (1:07:20)](https://www.youtube.com/watch?v=h9o6gPQA6LA)
+
 ## Conceitos relacionados
-[[A Armadilha do "Melhor"]] · [[Frame, Name, Claim]] · [[Hill Climb — ótimo local vs global]] · [[Dois de três pontos de inflexão]] · [[Ser estratégico = articular o porquê + agir]]
+[[A Armadilha do "Melhor"]] · [[Frame, Name, Claim]] · [[Hill Climb — ótimo local vs global]] · [[Dois de três pontos de inflexão]] · [[Ser estratégico = articular o porquê + agir]] · [[Inflections — Alavanca Assimétrica da Startup]]

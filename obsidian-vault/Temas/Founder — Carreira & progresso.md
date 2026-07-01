@@ -28,6 +28,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Dar Lego — alegria de escalar sem segurar]] — em startups em escala, segurar o que você ama fazer bloqueia crescimento; encontre nova alegria em desenvolver outros e subir ao próximo nível
 - [[Mastery Técnica antes da Gestão]] — construa mastery técnica real (~10 anos) antes de migrar para gestão; resistir à promoção precoce
 - [[Checklist de Avaliação de Empresa]] — 10 critérios (Rule of 40, NDR, NPS, qualidade dos investidores…) para avaliar momentum de empresa antes de entrar ou aceitar como cliente
+- [[J-Curve vs Degraus — Carreira como Salto]] — carreiras extraordinárias seguem a J-curve: salte para o desconhecido, caia por 6-9 meses e emerge muito além dos degraus tradicionais; separe medo financeiro (calcule) de medo de capacidade (luz verde)
 - [[Midlife como Crisálida]] — meia-idade como fase de metamorfose (não crise); curva U da felicidade: mínimo aos 47-50, crescente daí em diante; sabedoria = experiência metabolizada
 - [[Impacto sobre promoção]] — focar em impacto na empresa supera focar em agradar o chefe; promoção é consequência, não objetivo
 - [[Ops que se automatiza para subir]] — em product ops (e em qualquer função especialista), construa sistemas, entregue para frente ou automatize, suba para o próximo nível estratégico

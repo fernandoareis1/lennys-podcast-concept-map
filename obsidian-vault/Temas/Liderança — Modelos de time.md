@@ -97,3 +97,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Gosto Sobre Precisão — O Novo Skill do Engenheiro de IA]] — com IA assumindo implementação, o skill diferenciador muda de precisão técnica para gosto: julgar se o comportamento do sistema é correto e alinhado à intenção
 - [[Origem do Papel de Product Owner]] — PO emergiu do Scrum como facilitador tático de desenvolvimento, não da gestão de produto; sem Scrum, PO não existe; todos POs devem desenvolver competências de PM
 - [[Interspersão de Talento Experiente para Transformação]] — transformações falham sem modelo de excelência; misture 30-40% de líderes experientes lateralmente com talento emergente; aprendizado acontece por osmose, não só por treinamento
+- [[Waterline Model — Snorkel antes de Mergulhar]] — diagnostique problemas de time em 4 camadas (estrutural → dinâmicas → interpessoal → intrapessoal); 80% dos problemas estão nas camadas superiores; snorkel antes de mergulhar

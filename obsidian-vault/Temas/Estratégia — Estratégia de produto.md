@@ -40,6 +40,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Três segmentos do mercado de IA]] — foundation models (apenas hyperscalers), tooling/picaretas (risco de commoditização), IA aplicada/agentes (o SaaS da próxima década; onde startups devem jogar)
 - [[Três pilares de IA em plataforma]] — construa onde tem vantagem de dados, parceria para o que é commodity, ecossistema de apps para distribuir capacidades de terceiros; foco sempre na experiência final
 - [[Backcasting — Rejeitar a Premissa]] — abandone o presente, projete-se no futuro de sucesso e olhe para trás; "reject the premise" como técnica de inovação não-incremental
+- [[Insight Não-Consensual — Verdade que Poucos Acreditam]] — insight de startup deve ser não-consensual E correto; amor irracional de poucos é sinal mais forte que aprovação geral
 - [[Bloqueador como vantagem]] — o maior obstáculo à adoção pode virar maior driver de crescimento e upsell se você lean into it ao invés de só remover o mínimo; design systems na Figma
 - [[Incubação pelo Uso Próprio]] — descubra produtos vivendo no edge da IA; valide com o próprio time primeiro; unbundle de ferramentas gerais para apps específicos; GPT wrappers são legítimos; software vira conteúdo
 - [[Destruir-se antes que Alguém o Destrua — O Imperativo da IA]] — para SaaS estabelecido, AI não é oportunidade mas imperativo de sobrevivência; não dá para fazer pela metade; se o founder não vai all-in, contrate alguém que vai

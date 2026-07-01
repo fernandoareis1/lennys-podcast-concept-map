@@ -37,6 +37,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Marketing é Extensão do Produto — Lançamento Começa no Uso]] — lançamento só está completo quando o usuário descobriu e usou; marketing de alta qualidade é indissociável do produto; 20%+80% review checkpoints
 - [[Verticalizar para Não Competir com a Plataforma]] — ao construir sobre IA, vá para vertical específico onde a plataforma não vai; Harvey (direito), Zapier (integrações); produto geral precisa ser radicalmente diferente em 10 dimensões para competir com ChatGPT
 - [[Zonas Erógenas Culturais]] — encaixe sua mensagem no que a audiência já ama; criar a API entre seu Y e o X deles
+- [[Inflections — Alavanca Assimétrica da Startup]] — evento externo que cria nova empoderamento; startups usam inflections para guerrear assimetricamente contra incumbentes
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

@@ -113,6 +113,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Produto na Interseção Modelo-Produto — Vantagem Única de IA]] — produto de AI lab tem vantagem só no cruzamento de pesquisa de modelo e produto; wrapper que qualquer pessoa faz via API é commodity; unidade de trabalho muda para participar do post-training
 - [[Ship to Learn em Produtos de IA]] — propriedades de produto de IA são emergentes; não dá razoar a priori; ship é o começo da iteração, não o fim — mas tem que haver follow-through
 - [[Contexto como Camada Diferenciadora de Produto IA]] — utilidade de produto IA = modelo + contexto/memória + UX; contexto certo é "inteiramente a diferença entre uma boa resposta e uma ruim"; MCP torna contexto composível e reutilizável
+- [[Quadrante de Workflows B2B — Onde Pescar o Próximo Unicórnio]] — 2 dimensões: amplitude (niche vs. todos) × frequência (diária vs. mensal); sweet spot é high-frequency niche (Hi-Ni); estratégia = navegar de quadrantes inferiores para superiores
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

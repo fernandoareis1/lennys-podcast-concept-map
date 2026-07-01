@@ -17,6 +17,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[PM Orientado a Impacto]] — PM relentless até impacto validado; 2 perguntas obrigatórias: o que muda para usuários? como saberemos?; "melhorar/expandir" sem métrica = smell
 - [[Estrutura de Impacto em Três Degraus]] — meta de time a um degrau da meta da empresa; impacto como pano de fundo constante; mesma unidade de medida em toda a priorização
 - [[Seis Regras de Metas Claras — Foco como Comunicação]] — máximo 3 metas, uma vence a briga, explicável ao estagiário, estratégia deve doer, um dono por meta, processo de acompanhamento é obrigatório
+- [[O Que Você Está Otimizando — Clareza de Trade-offs]] — pergunta mestra "what are you optimizing for?" com horizonte explícito (hoje/trimestre/ano); se o primeiro ponto não está claro, os trade-offs também não estarão; funciona em produto e em vida
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

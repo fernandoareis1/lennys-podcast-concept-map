@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Hari Srinivasan]
+autores: [Hari Srinivasan, Nikita Miller]
 ---
 # Triângulo de Skills do PM — Criador, Dados, GM
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -31,5 +31,10 @@ Um bom PM precisa de três tipos de habilidade — nos vértices de um triângul
 
 > 🎧 [LinkedIn's product evolution and the art of building complex systems | Hari Srinivasan (LinkedIn) (1:04:48)](https://www.youtube.com/watch?v=ZUwkTs_QWqg) · 2023-07-16
 
+### [[Nikita Miller]]
+- Usa o framework (na versão "artista, cientista, general manager") como pergunta de entrevista: "Where do you spike?"
+- "It totally depends on the composition of my team" — não há resposta universalmente certa; a resposta ideal varia conforme lacunas do time atual.
+- Como ferramenta de composição de time: antes de contratar, identifique qual vértice o time precisa mais, e calibre a busca de acordo.
+
 ## Conceitos relacionados
-[[PM sua Carreira como um Produto]] · [[PM como Clareza e Convicção]] · [[Portfólio de Talentos de Produto]] · [[Resiliência como Diferenciador de Carreira]] · [[Dobrar o Universo — Agência de Carreira]]
+[[PM sua Carreira como um Produto]] · [[PM como Clareza e Convicção]] · [[Portfólio de Talentos de Produto]] · [[Resiliência como Diferenciador de Carreira]] · [[Dobrar o Universo — Agência de Carreira]] · [[Contrato de Papéis no Quartet — PM, Design, Eng, Data]]

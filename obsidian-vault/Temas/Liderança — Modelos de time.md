@@ -101,3 +101,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[PM como Condutor]] — PM como regente de orquestra: garante harmonia e cadência entre as funções; não é a estrela do show
 - [[DevEx como Produto — PM Mindset para Developer Experience]] — tratar Developer Experience como produto com PM mindset; framework Frictionless de 7 passos (listening tour → quick win → data → strategy → sell → scale → evaluate)
 - [[Flow State com IA — Blocos de 45 Minutos]] — IA encurtou o bloco mínimo de flow de 2h para 45 min via restauração de contexto por agentes; satisfação vs. felicidade como métricas distintas; senior engineers como toolchain builders
+- [[Contrato de Papéis no Quartet — PM, Design, Eng, Data]] — cada função escreve seu papel E o que espera das outras; quarteto (PM+Design+Eng+Data) forma contrato compartilhado que cascateia pela org; resolve sobrecarga do PM e conflitos de ownership

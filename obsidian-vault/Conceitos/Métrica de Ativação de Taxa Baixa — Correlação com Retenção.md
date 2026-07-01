@@ -2,12 +2,12 @@
 tipo: conceito
 nivel: 3
 fluxo: Ativação & Retenção
-autores: [Lauryn Isford]
+autores: [Lauryn Isford, Naomi Gleit]
 ---
 # Métrica de Ativação de Taxa Baixa — Correlação com Retenção
 
 **Fluxo:** [[07 - Ativação & Retenção]] · **Tema:** [[Retenção — Ativação & onboarding]] · **Camada:** L3
-**Tipo:** Conceito · **Fontes:** [[Lauryn Isford]]
+**Tipo:** Conceito · **Fontes:** [[Lauryn Isford]] · [[Naomi Gleit]]
 
 ## Ideia central
 A escolha da métrica de ativação é uma das mais importantes em growth — e a armadilha mais comum é escolher uma métrica que muitos usuários atingem facilmente. **Uma taxa de ativação de 5-15% é melhor do que uma de 40-50%** porque indica que a barra é alta o suficiente para correlacionar genuinamente com retenção de longo prazo. Se 40% dos usuários "ativam" mas apenas 10% ainda estão ativos no mês 12, a métrica de ativação está capturando comportamento que não prediz retenção. O objetivo é encontrar o estado específico e exigente que só usuários que realmente encontraram valor conseguem atingir.
@@ -50,5 +50,12 @@ A escolha da métrica de ativação é uma das mais importantes em growth — e 
 
 > 🎧 [Lauryn Isford — Mastering onboarding](https://www.youtube.com/watch?v=dLku0AiGPVA)
 
+### [[Naomi Gleit]]
+- "Seven friends in 10 days was a thing. 10 friends in 14 days was also a thing. They're the same thing — just different points on a retention curve."
+- "What mattered was that it was a retention goal or an activation metric — and the majority of the value is in just having extreme clarity around the goal, which allowed everybody to work towards optimizing the same goal."
+- O insight central: a exatidão do número importa menos que a existência de um ponto de referência claro para o time inteiro se alinhar.
+- Resultado prático: a métrica levou à criação do **new user onboarding** (passo a passo para upload de foto + encontrar amigos) — inexistente antes de 2006.
+> 🎧 [Meta's head of product (1:38:14)](https://www.youtube.com/watch?v=sTYuKgzZoL8)
+
 ## Conceitos relacionados
-[[Ativação via onboarding]] · [[Métricas de Proxy para Outcomes de Longo Prazo]] · [[Métricas Simples vs Compostas — Clareza Bate Perfeição]] · [[Métricas de Guardrail — North Star com Contrapeso]]
+[[Ativação via onboarding]] · [[Métricas de Proxy para Outcomes de Longo Prazo]] · [[Métricas Simples vs Compostas — Clareza Bate Perfeição]] · [[Métricas de Guardrail — North Star com Contrapeso]] · [[Growth Accounting — Contabilidade de Crescimento]] · [[Entender, Identificar, Executar]]

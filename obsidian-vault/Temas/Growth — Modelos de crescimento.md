@@ -51,6 +51,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Funil PLG — Join, Evaluate, Upgrade, Expand]] — framework de 4 etapas para mapear jornada em produto PLG; "evaluate" (não "activate") porque é perspectiva do usuário; framework de comunicação e diagnóstico, não organograma
 
 - [[Construção de Hype por Demonstração Emocional]] — hype se cria fazendo outros verem o que você vê; exige crença genuína + fóruns de alta concentração; demonstração emocional supera argumento racional
+- [[Entender, Identificar, Executar]] — framework do growth team do Facebook: instrumente dados primeiro, depois identifique alavancas, só então construa produto
+- [[Growth Accounting — Contabilidade de Crescimento]] — crescimento líquido = novos − inativos + ressuscitados; revelou que retenção/reativação > aquisição como alavanca
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

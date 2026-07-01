@@ -2,11 +2,11 @@
 tipo: insight
 nivel: 3
 fluxo: Liderança & Times
-autores: [Claire Hughes Johnson]
+autores: [Claire Hughes Johnson, Nickey Skarstad]
 ---
 # Decisão como força de momentum
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Liderança & founder]] · **Camada:** L3
-**Tipo:** Insight · **Fontes:** [[Claire Hughes Johnson]]
+**Tipo:** Insight · **Fontes:** [[Claire Hughes Johnson]] · [[Nickey Skarstad]]
 
 ## Ideia central
 A maioria das organizações perde mais tempo em ambiguidade de decisão do que em execução. O antídoto não é um framework perfeito — é uma postura padrão: **quando não está claro quem decide, aja como se fosse você.**
@@ -38,6 +38,12 @@ Líderes que esperam consenso para tomar decisões Type 2 ensinam o time que o c
 - "Be a force for positive momentum. Every meeting, every thread — leave it more concrete than you found it."
 - "Most decisions are Type 2 being treated as Type 1. That's where velocity dies."
 - "The cost of a wrong Type 2 decision is almost always lower than the cost of no decision at all."
+
+### [[Nickey Skarstad]]
+- "The one-way vs. two-way door concept: if your team is making a really critical long-term decision that's going to be limiting to a lot of future things, that is a one-way door. If it is a two-way door — it's not going to make a huge impact, you can change it later — let your team cruise on those things."
+- Exemplos de one-way doors: definir os critérios de qualidade de uma Airbnb Experience (construiu política, produto e educação de host em cima disso); decidir o que pode ser vendido no Etsy (impacta todos os listings do ecossistema).
+- O ganho de dar autonomia nos two-way doors é duplo: velocidade E motivação — times autônomos ficam mais comprados na visão e resistem mais a distrações de shiny objects.
+> 🎧 [Nickey Skarstad on translating vision into goals (1:00:54)](https://open.spotify.com/episode/6FKUgLvnlpyLOyMbykXm6u) · 2022-07-18
 
 ## Conceitos relacionados
 [[Princípios Operacionais Pessoais]] · [[Casa da Empresa — 3 Camadas Estruturais]] · [[Clareza vence consenso]] · [[Descoberta assíncrona]] · [[Can't, Won't, Not Set Up]]

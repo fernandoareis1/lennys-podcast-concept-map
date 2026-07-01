@@ -18,6 +18,7 @@ Reter é a base: sem retenção não há PMF nem growth. E quem **sai** (churn) 
 - [[Streak como Motor de Retenção — Zero a Sete Dias]] — loss aversion ativa no dia 7; concentre experimentos nos primeiros 7 dias onde cada dia adicional gera salto massivo de retenção
 - [[Construção de Estado — Retenção por Ativo Não-Transferível]] — usuários acumulam ativos não-transferíveis que os prendem: reputação de mercado (eBay), audiência construída (YouTube), grafo social (Facebook), infraestrutura embedded (Twilio/AWS); mediocres como eBay/Craigslist permanecem imbatíveis por décadas por isso
 - [[Regra de Terços — Retenção em Produtos de IA]] — retenção de AI product vem de 3 alavancas iguais: melhorias de modelo (~1/3), novas capacidades de produto como busca e memória (~1/3) e trabalho clássico de PM de remoção de fricção (~1/3)
+- [[Qualidade como Balanceador — Crescer sem Perder o Produto]] — usar métrica de qualidade (review rate, primeira venda em 7 dias) como north star ao lado de métricas de crescimento; adicionar fricção no onboarding pode melhorar retenção de longo prazo
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[06 - Growth & Aquisição]]

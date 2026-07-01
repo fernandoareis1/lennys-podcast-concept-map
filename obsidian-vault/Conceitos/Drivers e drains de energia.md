@@ -2,11 +2,11 @@
 tipo: tecnica
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Bob Moesta]
+autores: [Bob Moesta, Nickey Skarstad]
 ---
 # Drivers e drains de energia
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
-**Tipo:** Técnica · **Fontes:** [[Bob Moesta]]
+**Tipo:** Técnica · **Fontes:** [[Bob Moesta]] · [[Nickey Skarstad]]
 
 ## Ideia central
 **Energy drivers** são momentos e contextos que te dão mais energia do que você tinha ao entrar. **Energy drains** são momentos que sugam a energia. A maioria das pessoas passa 95% do tempo em drains para ter 5% de drivers — e chama isso de "trabalho normal". O objetivo não é eliminar drains (todo trabalho tem algum), mas **reequilibrar para 50/50 ou melhor**.
@@ -30,6 +30,12 @@ O mecanismo: não basta identificar o que dá energia no nível superficial ("go
 - "Se você encobre um processo em torno de algo que odeia fazer, consegue suportar. Se encobre em torno de algo que ama, arruína. Processo + gamificação funciona para drains; processo + energia favorita funciona para se empolgar de mais."
 - "Os cinco itens mais fracos do Strengths Finder são os mais importantes — são as coisas que você realmente é ruim sem saber. E geralmente é daí que vêm os maiores drains."
 > 🎧 [The ultimate guide to JTBD | Bob Moesta (1:09:55)](https://www.youtube.com/watch?v=xQV7HVyAJjc) · 2023-08-24
+
+### [[Nickey Skarstad]]
+- Técnica prática: após cada reunião, mudar a cor no Google Calendar — vermelho (energia negativa/estresse/tédio), amarelo (neutro), verde (energia positiva). Ao olhar para as últimas semanas, um calendário quase todo vermelho e amarelo é o sinal de que o papel não é o certo.
+- "I went through my calendar and I changed the colors of all of the meetings to red, yellow, and green after I had the meeting. And when I looked back at the last few weeks, it was almost all red and yellow. I was like, this is really, from an energy standpoint, I don't think I love this."
+- Conselho geral: aprenda o que te dá energia como PM (zero-to-one vs. escala, consumer vs. platform) e otimize seu próximo papel por isso, não por título ou salário.
+> 🎧 [Nickey Skarstad on translating vision into goals (1:00:54)](https://open.spotify.com/episode/6FKUgLvnlpyLOyMbykXm6u) · 2022-07-18
 
 ## Conceitos relacionados
 [[Quatro quests de transição de carreira]] · [[JTBD aplicado a carreira (Job Moves)]] · [[Gestão de energia pessoal]] · [[Explore vs. Exploit (Carreira)]]

@@ -53,6 +53,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[RAG — Qualidade de Dados como Diferencial]] — preparação de dados impacta RAG muito mais que a escolha do banco vetorial; chunking, metadata e rewrite para AI
 - [[Forward Deployed Engineering — Produto Nasce do Campo]] — FDEs embarcados no cliente, empoderados para criar produto novo; o que funciona se abstrai para plataforma
 - [[Product Leverage — Revenue por Engenheiro]] — North Star da Palantir: produto serve novo cliente sem proporcional aumento de headcount
+- [[IC-First — Recusar Features para Gerentes Intermediários]] — política explícita de recusar features que beneficiam gerentes intermediários à custa da experiência do IC; ICs são quem usa diariamente
 - [[Inflections — Portas de Entrada para o Futuro]] — eventos externos (tech, regulatório, crenças) que criam novo empoderamento e janela de timing para startups
 - [[O Segredo — Insight Não-Óbvio do Fundador]] — o insight privilegiado sobre como aproveitar uma inflection; obtido vivendo no futuro antes de ele chegar
 - [[Entropia Organizacional — Segunda Lei]] — empresas são sistemas fechados; complexidade cresce naturalmente; a luta pela simplicidade nunca termina

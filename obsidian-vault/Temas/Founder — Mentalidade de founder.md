@@ -61,6 +61,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 
 - [[Founder Future Fit — Estar no Futuro]] — o fit entre o founder e o futuro específico que está construindo; "por que você, agora, para este futuro?"
 - [[Guardião da Chama — PM em Projetos Zero-to-One]] — PM de zero-to-one mantém a ideia viva quando é frágil; estoca a chama, recruta crentes, expande até autossustentar; projeto morre sem guardião antes de ter grupo de crentes
+- [[Velocidade e Qualidade Não São Trade-offs]] — velocidade real vem de competência, não de desleixo; profissionais altamente competentes executam rápido e bem ao mesmo tempo
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -29,6 +29,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Contexto é Tudo — Engenharia de Prompt Como Habilidade Humana]] — modelo tem inteligência humana mas zero contexto; crap in crap out; forneça quem você é, o que faz e o que quer antes de qualquer pergunta; smiley faces e "faça uma pausa" melhoram outputs
 - [[Data-Driven como Red Flag]] — "data-driven" como dogma pode mascarar falta de pesquisa qualitativa; dados dizem o quê, não o porquê
 - [[Discovery-Delivery em Paralelo, Não em Sequência]] — discovery e delivery devem ocorrer simultaneamente em loop contínuo; modelo sequencial "discovery antes do sprint" cria times que entregam com velocidade na direção errada
+- [[Exploração de Extremos para Solução Certa]] — construir versões extremas de uma feature (mais rápida e mais segura) antes de encontrar o equilíbrio; expande o espaço de busca
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Kevin Aluwi]
+autores: [Kevin Aluwi, Nilan Peiris]
 ---
 # Fazer as Coisas Difíceis como Estratégia de Moat
 
@@ -36,5 +36,12 @@ Nenhuma dessas soluções era elegante ou escalável. Mas cada uma criou confian
 
 > 🎧 [Taxi mafias, cash vaults & 100% MoM growth: The story of SEA's biggest startup | Kevin Aluwi (Gojek)](https://www.youtube.com/watch?v=HVB-dqjUJks)
 
+### [[Nilan Peiris]]
+- Wise obteve a primeira licença de eKYC do mundo em Singapura (foto de selfie + ID em vez de verificação presencial) após um ano de lobbying + verificar clientes presencialmente no escritório local — o trabalho impossível convenceu o governo.
+- Conseguiu contas bancárias no Bank of England, Banco Nacional de Singapura e Banco Central da Austrália — cada uma levou anos de lobbying e parecia impossível para uma startup.
+- "Unless you're doing something hard and new, it's kind of a waste of time" — filosofia que permeia a cultura de produto do Wise.
+- Cada coisa difícil resolvida cria uma experiência que o cliente "não sabia que era possível" — e isso é o que gera word-of-mouth genuíno.
+- "Progress at Wise feels like this: 'this is going nowhere, going nowhere, going nowhere,' and then suddenly it changes."
+
 ## Conceitos relacionados
-[[Estratégia — Estratégia de produto]] · [[Super App — O Mito da Sinergia]] · [[Brand como Moat em Mercado Competitivo]] · [[Moonshot vs Incremento — 10X vs 10%]] · [[Crises como Construtoras de Empresa]]
+[[Estratégia — Estratégia de produto]] · [[Super App — O Mito da Sinergia]] · [[Brand como Moat em Mercado Competitivo]] · [[Moonshot vs Incremento — 10X vs 10%]] · [[Crises como Construtoras de Empresa]] · [[NPS como Coeficiente Viral — O Dobro por Faixa]]

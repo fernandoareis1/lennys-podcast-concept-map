@@ -55,6 +55,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Entender, Identificar, Executar]] — framework do growth team do Facebook: instrumente dados primeiro, depois identifique alavancas, só então construa produto
 - [[Growth Accounting — Contabilidade de Crescimento]] — crescimento líquido = novos − inativos + ressuscitados; revelou que retenção/reativação > aquisição como alavanca
 - [[Single Player to Multiplayer]] — transição para produto colaborativo amplifica aquisição, retenção e monetização simultaneamente; não pode ser retrofitada
+- [[NPS como Coeficiente Viral — O Dobro por Faixa]] — cada faixa de NPS dobra a taxa de invite e conversão; mover NPS multiplica o coeficiente viral de toda a base; ROI de NPS supera ROI de conversão
+- [[Product Marketing Dentro do Produto — Fechar o Delta de Percepção]] — fechar o gap entre valor entregue e valor percebido triplica sharing; gráfico de comparação na success page = 3× sharing rate; animação de transferência instantânea = salto em referral
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

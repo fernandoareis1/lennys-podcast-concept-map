@@ -35,6 +35,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Métricas de Produtividade na Era da IA — SPACE vs Prescrição]] — SPACE (adaptável) vs DORA (prescritivo); Trust como nova dimensão para sistemas de IA não-determinísticos; métricas de atividade são gameable
 - [[Curva J de DevEx — Ganhos que Compõem Após o Vale]]
 - [[Processo Reprodutível de Testes — Muitas Apostas com Sinal Limpo]] — 15 apps em 5 anos; processo reduz risco mais que qualquer insight; elimine variáveis confusas; validação em cascata (core flow → spread → hop → pagar) — investimentos em DevEx: quick wins → vale → retornos compostos; maioria dos programas morre no vale antes do composto
+- [[Convicção sobre Experimento — Não Dá para Fazer Split Test até o Amor]] — quando pilares são conhecidos, construa convicção via conversas e NPS qualitativo em vez de testar tudo; A/B test como holdout de segurança, não como oráculo de direção; "you can't split test your way to love"
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

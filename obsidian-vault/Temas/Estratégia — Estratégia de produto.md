@@ -41,6 +41,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Três pilares de IA em plataforma]] — construa onde tem vantagem de dados, parceria para o que é commodity, ecossistema de apps para distribuir capacidades de terceiros; foco sempre na experiência final
 - [[Backcasting — Rejeitar a Premissa]] — abandone o presente, projete-se no futuro de sucesso e olhe para trás; "reject the premise" como técnica de inovação não-incremental
 - [[Insight Não-Consensual — Verdade que Poucos Acreditam]] — insight de startup deve ser não-consensual E correto; amor irracional de poucos é sinal mais forte que aprovação geral
+- [[Ontologia de Dados — Humanizar o Dado para Escalar]] — mapear tabelas técnicas para conceitos humanos é a camada que transforma dado em produto; lição da Palantir/Airbus que virou o Foundry Ontology
 - [[Bloqueador como vantagem]] — o maior obstáculo à adoção pode virar maior driver de crescimento e upsell se você lean into it ao invés de só remover o mínimo; design systems na Figma
 - [[Incubação pelo Uso Próprio]] — descubra produtos vivendo no edge da IA; valide com o próprio time primeiro; unbundle de ferramentas gerais para apps específicos; GPT wrappers são legítimos; software vira conteúdo
 - [[Destruir-se antes que Alguém o Destrua — O Imperativo da IA]] — para SaaS estabelecido, AI não é oportunidade mas imperativo de sobrevivência; não dá para fazer pela metade; se o founder não vai all-in, contrate alguém que vai
@@ -111,7 +112,6 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Convicção Robusta com Flexibilidade]] — opiniões fortes fracamente mantidas; convicção para ancorar o time + flexibilidade para pivotar quando o sinal externo contradiz a hipótese; maioria das decisões é porta de dois sentidos
 - [[Produto na Interseção Modelo-Produto — Vantagem Única de IA]] — produto de AI lab tem vantagem só no cruzamento de pesquisa de modelo e produto; wrapper que qualquer pessoa faz via API é commodity; unidade de trabalho muda para participar do post-training
 - [[Contexto como Camada Diferenciadora de Produto IA]] — utilidade de produto IA = modelo + contexto/memória + UX; contexto certo é "inteiramente a diferença entre uma boa resposta e uma ruim"; MCP torna contexto composível e reutilizável
-- [[Inflexão como Alavanca de Startup]] — evento externo (tech, regulatório ou de crença) que cria potencial de mudança radical; janela de timing é o diferencial
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

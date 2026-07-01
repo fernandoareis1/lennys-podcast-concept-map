@@ -28,3 +28,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[OKRs não são Estratégia — Separação Crítica e Regra dos 10%]] — OKR ≠ estratégia; diagnóstico: "vocês têm processo de estratégia distinto dos OKRs?"; Regra dos 10%: não planeje mais que 10% do período de execução
 - [[Espiral da Morte de Baixo Impacto]] — trabalho cosmético atrai mais trabalho cosmético; rhinestones no capô do carro até não conseguir levantar o capô para chegar ao motor; sair exige coragem de perseguir trabalho de alto impacto
 - [[Incubação em Estágios — Wonder to Scale]] — novas apostas passam por Wonder → Explore → Make → Impact → Scale; times pequenos por estágio com portões de validação e standards diferentes dos produtos maduros
+- [[Murder Board — Adversário como Filtro de Qualidade]] — sessão adversarial pré-projeto: 2 páginas de plano + 3-4 críticos que não conhecem o projeto com missão de destruir; um bom princípio é aquele com o qual alguém discorda

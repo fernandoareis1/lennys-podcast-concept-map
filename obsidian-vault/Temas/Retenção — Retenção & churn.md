@@ -17,6 +17,7 @@ Reter é a base: sem retenção não há PMF nem growth. E quem **sai** (churn) 
 - [[CURR — Retenção de Usuário Corrente como North Star]] — usuários correntes têm maior impacto no DAU que novos ou ressuscitados; CURR como North Star operacional
 - [[Streak como Motor de Retenção — Zero a Sete Dias]] — loss aversion ativa no dia 7; concentre experimentos nos primeiros 7 dias onde cada dia adicional gera salto massivo de retenção
 - [[Construção de Estado — Retenção por Ativo Não-Transferível]] — usuários acumulam ativos não-transferíveis que os prendem: reputação de mercado (eBay), audiência construída (YouTube), grafo social (Facebook), infraestrutura embedded (Twilio/AWS); mediocres como eBay/Craigslist permanecem imbatíveis por décadas por isso
+- [[Regra de Terços — Retenção em Produtos de IA]] — retenção de AI product vem de 3 alavancas iguais: melhorias de modelo (~1/3), novas capacidades de produto como busca e memória (~1/3) e trabalho clássico de PM de remoção de fricção (~1/3)
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[06 - Growth & Aquisição]]

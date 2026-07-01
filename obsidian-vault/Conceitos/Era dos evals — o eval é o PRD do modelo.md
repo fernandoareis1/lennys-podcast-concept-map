@@ -2,11 +2,11 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Brendan Foody, Hamel Husain, Shreya Shankar, Karina Nguyen, Kevin Weil]
+autores: [Brendan Foody, Hamel Husain, Shreya Shankar, Karina Nguyen, Kevin Weil, Nick Turley]
 ---
 # Era dos evals — o eval é o PRD do modelo
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
-**Tipo:** Framework · **Fontes:** [[Brendan Foody]] · [[Hamel Husain]] · [[Shreya Shankar]] · [[Karina Nguyen]] · [[Kevin Weil]]
+**Tipo:** Framework · **Fontes:** [[Brendan Foody]] · [[Hamel Husain]] · [[Shreya Shankar]] · [[Karina Nguyen]] · [[Kevin Weil]] · [[Nick Turley]]
 
 ## Ideia central
 "Se o modelo é o produto, o eval é o PRD." O gargalo primário para a melhoria de modelos de IA não é dados de pré-treino — é a capacidade de **definir o que é sucesso** em cada domínio que o modelo precisa dominar. Sem um eval, não há como medir progresso, recompensar os comportamentos certos no RL, ou validar que uma capacidade foi adquirida.
@@ -66,6 +66,12 @@ O mercado de trabalho humano especializado em escrever evals é uma nova categor
 - A distinção entre "o modelo sabe" e "o modelo faz de forma confiável" é capturada pelos evals — por isso são o gate de cada feature.
 
 > 🎧 [OpenAI's CPO on why ChatGPT is the worst AI you'll ever use | Kevin Weil](https://www.youtube.com/watch?v=scsW6_2SPC4) · 2025-04-10
+
+### [[Nick Turley]]
+- "My entire OpenAI journey has been rediscovering eternal product wisdom in slightly new contexts. I started writing evals before I knew what an eval was — just outlining very clearly specified ideal behavior for various use cases."
+- "This might be the lingua franca of how to communicate what the product should be doing to people who do AI research."
+- "You ought to articulate success before you do anything else. Evals are just a new mechanism for doing that. It's not some technical magic — it's really just about articulating success in a way that is maximally useful for training."
+> 🎧 [Inside ChatGPT: The fastest growing product in history (1:35:38)](https://www.youtube.com/watch?v=ixY2PvQJ0To) · 2025-08-09
 
 ## Aprofundamento ⬇
 - [[Era dos evals — Evidências]]

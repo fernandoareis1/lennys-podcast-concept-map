@@ -37,6 +37,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Sistemas, não Metas]] — Jerry Seinfeld: sistema de escrever 1h diária vs. meta de ter 1h de material; times com sistemas default-on de contato com clientes têm instintos melhores que times com metas trimestrais
 - [[Fechar o Loop — Comunidade como Co-Criador]] — produto tem dois eixos: construir para a missão E construir o que a comunidade pede; 1M+ pedidos/ano catalogados por time dedicado; "fechar 200 loops" como accountability pública com usuários
 - [[Demanda Latente — Cristalizar o Que Está Distorcido]] — procure comportamentos distorcidos onde pessoas obtêm valor com workarounds; cristalizar a motivação real gera adoção explosiva (Sarahah em árabe #1 nos EUA, tbh jogado manualmente no Snapchat)
+- [[Complaint Storms — Olhar o Produto com Olhos Frescos]] — percorra a jornada do cliente ao vivo, registrando tudo que confunde; comece com produto concorrente para calibrar; desbloqueia perspectiva de usuário novo perdida por equipes imersas no próprio produto
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

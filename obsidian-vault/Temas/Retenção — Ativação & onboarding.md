@@ -22,6 +22,7 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 - [[Right for Wrong — Motivação Imediata Substituta]] — dê o motivo "errado" (social, completion, status) para fazer a coisa certa quando o benefício real é distante; donuts + vacinas; cuidado com incentivos mal-alinhados
 - [[Boa Fricção vs Má Fricção — Psicologia do Usuário no Fluxo]] — usuário novo tem "bogeyman mindset" (espera o pior); perguntas de qualificação aliviam ansiedade e aumentam conversão; "pilling the hotdog" = embute elemento assustador em contexto familiar
 - [[Métrica de Ativação de Taxa Baixa — Correlação com Retenção]] — taxa de ativação de 5-15% é melhor que 40% porque indica barra alta correlacionada com retenção longa; decomponha em sub-componentes para encontrar alavancas; complemente north star com 2-3 métricas de suporte
+- [[Métrica de Times com Sucesso — North Star que Alinha Toda a Org]] — Slack: 5+ pessoas × maioria da semana = 400% mais chance de upgrade; north star de ativação que alinha todos os times de produto, não só o time de self-service
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]

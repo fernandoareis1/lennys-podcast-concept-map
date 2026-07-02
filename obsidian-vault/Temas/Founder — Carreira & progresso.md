@@ -71,6 +71,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Três Atos da Carreira — Do Construir ao Dar]] — Ato 1: aprender; Ato 2: escalar; Ato 3: dar; prepare o Ato 3 antes do Ato 2 acabar; o greyhound que pega o coelho nunca mais corre
 - [[Otimização, Não Equilíbrio — Work-Life]] — substitua "balance" por "o que estou otimizando agora?"; aceite que o foco muda por período; como líder: foque o PM sobrecarregado em uma coisa de cada vez
 - [[Desconforto Produtivo — Crescimento pelo Caminho Difícil]] — priorize posições que te forçam a fazer o que ainda não fez; do outro lado da dor está a terra prometida; âncoras de 1-2 competências previnem o desconforto excessivo; não se pode prever sucesso, mas dá para prever crescimento
+- [[Três Es de Carreira — Exposição como Catalisador]] — crescimento de carreira via três modos: Educação (formal), Experiência (fazendo) e Exposição (estar no carro sem dirigir, observar decisões de alto-stakes); Exposição é o mais subestimado e permite crescer em direções que os outros dois não permitem
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

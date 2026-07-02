@@ -64,3 +64,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Mudança de Baixo para Cima sem Mandato — Show Don't Tell]] — sem mandato de cima, drive mudanças via experimentos pequenos + mostrar o problema visceralmente (vídeo de usuário) + reduzir atrito dos parceiros + escalar pelo sucesso demonstrado
 - [[Clareza Extrema — Canonical Everything]] — todos partem dos mesmos fatos; doc canônico, nomenclatura canônica, listas numeradas, visual ao vivo e ritual de pré-read/pós-reunião
 - [[Framework de Decisão com Semáforo]] — tabela 3 opções × critérios com células verde/amarelo/vermelho; substitui lista plana de prós e contras para decisões em reunião
+- [[Responder à Pergunta Certa — Altitude na Comunicação]] — em reviews e high-stakes, sempre responda a pergunta que deveriam ter feito, não só a literal; exige ter o quadro maior presente na mente enquanto ouve; separa PMs seniores de juniores

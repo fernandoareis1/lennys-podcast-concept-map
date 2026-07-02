@@ -22,6 +22,7 @@ A missão não é decoração: ela define **o que importa medir**, quem a empres
 - [[Pensamento em Coluna B]] — Coluna A = futuro provável dos recursos atuais (quase sempre modesto); Coluna B = futuro que você quer criar; grandes empresas ignoram a Coluna A e trabalham a Coluna B incrementalmente
 - [[Visão Cruzada de Funções para Inovação]] — visão mais robusta emerge da confluência de PM (problema) + design (experiência) + engenharia (possibilidade); co-criação supera apresentação de visão pronta
 - [[Movimento como Estratégia de Mercado — Crença antes de Produto]] — movimento anima crença compartilhada de uma minoria; early customers se juntam por razões estéticas, não pragmáticas; founder é Obi-Wan, cliente é o herói
+- [[Brand como Sistema — Valores como DNA Visual]] — brand como sistema onde valores viram atributos visuais; emerge naturalmente sem treinamento de touchpoints
 
 ## Fluxos vizinhos
 [[09 - Liderança & Times]] · [[03 - Priorização & Roadmap]]

@@ -33,6 +33,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[10% Rule — Hipótese Antes da Metade]] — após 10% do tempo alocado, deve existir algo funcional que testa a hipótese central; velocidade e qualidade não são trade-offs — são ambos produto de competência
 - [[Velocidade antes do Polimento em IA]] — em produtos de IA as propriedades são emergentes; você só descobre o que polir depois de ship; não polir ≠ nunca polir
 - [[Survey de Barreiras — Diagnóstico Rápido de DevEx]] — escolha as 3 maiores barreiras + frequência = score ponderado de prioridade; satisfação (não felicidade) como métrica de DevEx
+- [[Seed Controlado — Eliminar Variáveis Confusas no Teste]] — semeie artificialmente os primeiros 100 usuários para criar densidade e testar produto sem variável confusa de "poucos usuários"; seeding é para testar, não para crescer
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

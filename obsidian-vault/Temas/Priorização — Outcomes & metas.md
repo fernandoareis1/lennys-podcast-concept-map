@@ -17,6 +17,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[PM Orientado a Impacto]] — PM relentless até impacto validado; 2 perguntas obrigatórias: o que muda para usuários? como saberemos?; "melhorar/expandir" sem métrica = smell
 - [[Estrutura de Impacto em Três Degraus]] — meta de time a um degrau da meta da empresa; impacto como pano de fundo constante; mesma unidade de medida em toda a priorização
 - [[Seis Regras de Metas Claras — Foco como Comunicação]] — máximo 3 metas, uma vence a briga, explicável ao estagiário, estratégia deve doer, um dono por meta, processo de acompanhamento é obrigatório
+- [[Métrica de Qualidade como Balizador de Crescimento]] — eleger review rate ou primeira venda como norte controla crescimento sem degradar proposta de valor; crescimento sem balizador de qualidade colapsa em retenção
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

@@ -2,12 +2,12 @@
 tipo: tecnica
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Matt Mochary]
+autores: [Matt Mochary, Nickey Skarstad]
 ---
 # Auditoria de Energia — Calendário Verde e Vermelho
 
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
-**Tipo:** técnica · **Fontes:** [[Matt Mochary]]
+**Tipo:** técnica · **Fontes:** [[Matt Mochary]] · [[Nickey Skarstad]]
 
 ## Ideia central
 A maioria dos líderes passa horas em coisas nas quais são excelentes mas que não amam (Zona de Excelência) — e isso os drena. A solução: auditar o calendário hora a hora por duas semanas, marcando cada atividade com verde (ganha energia) ou vermelho (perde energia ou neutro). Depois, eliminar, delegar ou redesenhar as atividades vermelhas para que sejam "exquisitas" — alinhadas à Zona de Gênio. O resultado é que o trabalho começa a parecer mágico.
@@ -41,6 +41,12 @@ A maioria dos líderes passa horas em coisas nas quais são excelentes mas que n
 - "There's someone out there that loves to do it. You just got to find out who it is. For everything that you don't enjoy but needs to get done, there's someone who loves to do it."
 - "Once that happens, magic will occur. All of a sudden, your life will become phenomenal and you will start to create massive value."
 > 🎧 [How to become a better manager (7:00)](https://www.youtube.com/watch?v=qOrwVtZvdaE)
+
+### [[Nickey Skarstad]]
+- Após semanas de reuniões coloridas em Shopify, viu "quase tudo vermelho e amarelo" — e tomou a decisão de sair. Para ela, o exercício revela não só quais tarefas drenam, mas se o **papel inteiro** está errado para você.
+- "Fui no meu calendário e mudei as cores de todas as reuniões para vermelho, amarelo ou verde depois de tê-las. Quando olhei, era quase tudo vermelho e amarelo. Ok, do ponto de vista de energia, acho que não amo isso."
+- Complemento: identificar quais tipos de trabalho dão energia "Nickey Skarstad energy" é tão importante quanto saber fazer o trabalho bem.
+> 🎧 [Nickey Skarstad on translating vision into goals, operationalizing product quality (1:00:54)](https://www.youtube.com/watch?v=TBD) · 2022-07-18
 
 ## Conceitos relacionados
 [[Zona de Gênio]] · [[Drivers e drains de energia]] · [[Gestão de energia pessoal]] · [[Trabalho Focado vs. Overwork]]

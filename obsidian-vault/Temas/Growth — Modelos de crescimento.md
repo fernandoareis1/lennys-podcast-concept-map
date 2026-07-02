@@ -24,6 +24,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Teoria do Usuário Adjacente]] — usuários futuros têm perfil diferente dos atuais; antecipe-os antes que as curvas de cohort caiam; obrigatório em hipercrescimento
 - [[Profundidade antes de amplitude]] — um único persona + contexto + caso de uso antes de expandir; nicho estreito o suficiente para dominar, amplo o suficiente para viabilidade
 - [[Loop produto-conteúdo]] — produto gera conteúdo branded no ambiente natural do usuário-alvo (GitHub, Google) → novas aquisições automáticas; company-generated, company-distributed
+- [[Visão e Missão Cascateada para Times de Growth]] — visão = nirvana state agnóstico de solução (5–10 anos); missão = abordagem diferenciadora; aplicável do nível da empresa até o time individual
 - [[Liquidez do marketplace]] — fill rate da demanda intencional é o output; market health metric (ex: ETA threshold) é o preditor acionável; liquidez é o multiplicador de todo crescimento
 - [[Supply-First no Marketplace]] — supply é o gargalo crítico; sem prateleira cheia, demand de nada vale
 - [[Community-Led Growth — Quadrante]] — matriz PMF×consumer/enterprise define qual forma de comunidade investir

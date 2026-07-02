@@ -58,6 +58,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[NPS como Escada de Word of Mouth]] — cada salto de faixa NPS dobra a taxa de referral; mineração de comentários revela pilares de produto; Wise NPS 70% vs bancos -30%
 - [[Produto 10x — Experiência que Ninguém Sabia Ser Possível]] — advocacy só ocorre com salto qualitativo (8-10×, não 1,1×); conviction-led: construa convicção e faça a aposta grande; "you can't split test your way to love"
 - [[Marketing dentro do Produto — Fechar o Delta de Percepção]] — fecha o gap entre valor entregue e valor percebido; gráfico de comparação de preço → 3× sharing rate; animação de velocidade → salto em referrals
+- [[Viralidade como Marketing Aumentado pelo Cliente]] — viralidade real é quando clientes fazem o marketing; orgânica (Slack/WoM) precede sintética (Hotmail/badges); efeitos de rede são o layer superior
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

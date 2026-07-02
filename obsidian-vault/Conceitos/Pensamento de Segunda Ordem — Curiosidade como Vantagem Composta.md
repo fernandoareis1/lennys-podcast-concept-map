@@ -2,7 +2,7 @@
 tipo: conceito
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Kunal Shah]
+autores: [Kunal Shah, Nickey Skarstad]
 ---
 # Pensamento de Segunda Ordem — Curiosidade como Vantagem Composta
 
@@ -62,5 +62,13 @@ Predadores: "aquele que queima menos calorias para ganhar mais calorias" — met
 
 > 🎧 [Kunal Shah on winning in India, second-order thinking, the philosophy of startups](https://www.youtube.com/watch?v=EgBOVDzUUAA)
 
+### [[Nickey Skarstad]]
+- Aplicação em produto: segunda ordem = pensar nos efeitos cascata das decisões de produto no ecossistema.
+- "If I make this decision today, it's going to impact this next level of decisions and the next level after that. And that will cascade through our larger system."
+- Recomendação de livro: *Thinking in Systems* de Donella Meadows para desenvolver essa habilidade.
+- "It's a muscle that you build honestly, and you get better over time about thinking about second order thinking."
+- Aplicação prática: adicionar campo "segundo nível de efeito" em specs de produto; usar Miro para mapear cascatas.
+> 🎧 [Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals, second-order decisions (1:00:54)](https://open.spotify.com/episode/6FKUgLvnlpyLOyMbykXm6u)
+
 ## Conceitos relacionados
-[[Delta 4 — Framework de Eficiência e Irreversibilidade]] · [[Mercados de Baixa Confiança — Concentração de Trust e Super Apps]] · [[Curiosidade radical — antídoto ao ego]] · [[Eigenquestion — A Pergunta que Revela Tudo]] · [[Ser estratégico = articular o porquê + agir]]
+[[Delta 4 — Framework de Eficiência e Irreversibilidade]] · [[Mercados de Baixa Confiança — Concentração de Trust e Super Apps]] · [[Curiosidade radical — antídoto ao ego]] · [[Eigenquestion — A Pergunta que Revela Tudo]] · [[Ser estratégico = articular o porquê + agir]] · [[Portas de Mão Única vs Mão Dupla — Decisões Reversíveis]]

@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Bob Moesta]
+autores: [Bob Moesta, Rachel Lockett]
 ---
 # Drivers e drains de energia
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -30,6 +30,14 @@ O mecanismo: não basta identificar o que dá energia no nível superficial ("go
 - "Se você encobre um processo em torno de algo que odeia fazer, consegue suportar. Se encobre em torno de algo que ama, arruína. Processo + gamificação funciona para drains; processo + energia favorita funciona para se empolgar de mais."
 - "Os cinco itens mais fracos do Strengths Finder são os mais importantes — são as coisas que você realmente é ruim sem saber. E geralmente é daí que vêm os maiores drains."
 > 🎧 [The ultimate guide to JTBD | Bob Moesta (1:09:55)](https://www.youtube.com/watch?v=xQV7HVyAJjc) · 2023-08-24
+
+### [[Rachel Lockett]]
+- "When people are in their gifts and their strengths, they have more energy. We all have more energy when we're operating from the things we naturally are good at and the things we innately love doing."
+- "I try to help my leaders see that they can design their lives so they're spending 80% of their time in their gifts. That's the aspiration."
+- "It's like a slow leak in your gas tank that over time shows up in your daily amount of energy."
+- "It takes risk taking, it takes intention to design your life around your gifts."
+- "It's no one else's job to help you live in your gifts. Your manager's job is to help you perform in the job you were hired to do. It's your job to navigate your career."
+> 🎧 [A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett](https://www.youtube.com/watch?v=1GDVum5IarI) · 2025-11-23
 
 ## Conceitos relacionados
 [[Quatro quests de transição de carreira]] · [[JTBD aplicado a carreira (Job Moves)]] · [[Gestão de energia pessoal]] · [[Explore vs. Exploit (Carreira)]]

@@ -11,6 +11,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 
 ## Conceitos (L3)
 - [[Sabbatical como Reinicialização de Carreira]] — 3 meses de 500 de carreira; 6-8 semanas só para descomprimir; 99.9% approval; reframe financeiro como "MBA da vida"
+- [[Seguir o Calor — Onde Está o Maior Problema]] — em cada estágio da empresa o problema mais crítico se move (produto → eng → vendas → marketing); melhor impacto = onde está o calor; princípio de carreira: siga onde o problema é maior
 - [[Job Search Council — Busca de Emprego em Grupo]] — grupo de 6-8 buscadores com metodologia compartilhada; duração média de 3 meses vs. 3-6 na média nacional; gratuito em phyl.org; ansiedade vira esperança, motivação, accountability e confiança
 - [[Candidate Market Fit — Sua Candidatura como Produto]] — mercado de trabalho como marketplace supply/demand; Mnookin two-pager (o que quer e não quer) + listening tour com "golden question" + spear not net + play to win not not-to-lose
 - [[Três Es de Desenvolvimento — Experiência, Exposição, Educação]] — exposição (estar no carro sem dirigir) é o vetor mais subutilizado de crescimento; cresce em múltiplas direções ao mesmo tempo

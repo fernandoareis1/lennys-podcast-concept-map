@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Brendan Foody]
+autores: [Brendan Foody, Raaz Herzberg]
 ---
 # PMF como sinal claro do mercado
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -31,6 +31,14 @@ A tensão certa para fundadores: ter convicção sobre como o mundo vai mudar (a
 - "Quando vimos o volume e percebemos que os incumbentes estavam dormindo com relação ao que o mercado precisava, sabíamos que havia uma enorme quantidade de demanda."
 
 > 🎧 [Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (1:07:08)](https://www.youtube.com/watch?v=ja6fWTDPQl4) · 2025-09-18
+
+## Insights por autor
+### [[Raaz Herzberg]]
+- "We really felt the type of questions change. Suddenly, the call didn't end with 'sounds super interesting.' It sounded like, 'How are you pricing this? When can we start doing a POV? I know exactly who I need to connect you to.'"
+- "When it works, it works, and you do know when it works."
+- "Don't be too afraid to get the pull from the customer. I don't want to push somebody into a POV if they're not committed. I need that commitment from the other side."
+- "If you can't do something end to end yourself, the chances of just bringing somebody from the outside to solve that problem is wishful."
+> 🎧 [Building Wiz: the fastest-growing startup in history | Raaz Herzberg (CMO and VP Product Strategy)](https://www.youtube.com/watch?v=vnW3zIkrOvY) · 2024-11-17
 
 ## Conceitos relacionados
 [[PMF não é permanente]] · [[Sean Ellis Test (40%)]] · [[Bitchin' ain't switchin']] · [[Solve before Scale]] · [[Liquidez do marketplace]]

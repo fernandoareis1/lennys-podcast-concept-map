@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Jason M Lemkin]
+autores: [Jason M Lemkin, Pete Kazanjy]
 ---
 # Primeiro Sales Hire — Pessoas de Quem Você Compraria
 
@@ -28,5 +28,14 @@ O critério mais importante ao contratar os dois primeiros sales reps é simples
 - Sam Blond: saiu de vender financials (ninguém queria na cloud) para EchoSign. Tornou-se number one instantaneamente. Virou CRO da Brex, depois partner no Founders Fund.
 > 🎧 [We replaced our sales team with 20 AI agents—here's what happened next | Jason Lemkin (1:42:11)](https://www.youtube.com/watch?v=I-R1bc1rlFs)
 
+### [[Pete Kazanjy]]
+- Não comece com VP de sales — comece com 2 "pioneer sellers": pessoas com background gritty e disposição para trabalhar sem collateral pronto.
+- Perfil ideal: alguém que vendeu um produto similar na fase early-stage de outro startup (não um AE de empresa estabelecida). Exemplo: para um design tool, procure early sellers do Figma de 3 anos atrás.
+- A VP de sales "that's been there and done that" provavelmente não quer fazer isso de novo. "Por que ela quer escalar sua empresa crappy quando ela é professionalmente rica?"
+- Por que 2 (não 1 ou 4): menos de 2 não tem A/B test humano; mais de 4 é demais para gerenciar bem no early stage.
+- Sinal verde para contratar o primeiro líder de sales: tem 2 reps com win rates consistentes (20%+ cada). Aí você tem prova para convencer alguém bom de que o produto-mercado existe.
+
+> 🎧 [Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)](https://www.youtube.com/watch?v=cZd5234Eem0)
+
 ## Conceitos relacionados
-[[GTM pelo alinhamento comprador-usuário]] · [[Demand Side Sales]] · [[Growth — Distribuição & canais]]
+[[GTM pelo alinhamento comprador-usuário]] · [[Demand Side Sales]] · [[Growth — Distribuição & canais]] · [[Founder-Led Sales — Aprender Antes de Vender]]

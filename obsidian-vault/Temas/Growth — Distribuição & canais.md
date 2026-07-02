@@ -58,6 +58,8 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Adicionar Valor em Comunidades antes de Vender]] — entre nos fóruns onde clientes fazem perguntas, responda com valor genuíno, construa confiança antes de apresentar o produto
 - [[Dependência de Canal Único — Paranoia Produtiva]] — empresa dependente de um canal é frágil a mudanças externas; desenvolva paranoia produtiva e diversifique antes da crise; Thumbtack: SEO → zero → growth negativo
 - [[Estratégia Local — Alto Leverage nas Interações Presenciais]] — internet nos fez esquecer o básico: encontros presenciais geram 10-30% mais WTP, churn 20% menor, expansion 15-20% maior — inclusive em SaaS de $20/mês; meetups para P2/P3, 1-on-1 café para P1; café da manhã barato > jantar; qualquer membro do time, não só o founder
+- [[Sales Motion como Software — Iterar o Código de Vendas]] — trate a sales motion como código que você itera continuamente; cada call atualiza o "source code" (slides, scripts, discovery questions); você faz isso dezenas de vezes antes de ter uma motion reprodutível
+- [[Indicadores Antecedentes em Vendas — Segundos Dates]] — win rate é lagging; leading indicators (segundas reuniões, conversões de estágio, atividade) predizem resultado 2-3 meses antes; monitore conversões de estágio, não só receita fechada
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

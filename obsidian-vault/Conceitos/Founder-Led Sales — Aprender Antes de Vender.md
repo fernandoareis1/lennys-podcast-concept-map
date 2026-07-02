@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Jen Abel]
+autores: [Jen Abel, Pete Kazanjy]
 ---
 # Founder-Led Sales — Aprender Antes de Vender
 
@@ -29,6 +29,15 @@ Founder-led sales é o primeiro marco comercial de uma startup: como conseguir s
 - "Não fale sobre a solução no cold outreach. Fale sobre o problema. Deixe-os querendo mais."
 > 🎧 [The ultimate guide to founder-led sales | Jen Abel (1:16:05)](https://www.youtube.com/watch?v=969dwgu98qc)
 
+### [[Pete Kazanjy]]
+- Enquadramento técnico: founder-led sales é "rodar o código no local primeiro". Antes de escalar para outros, prove que você fecha negócios com arm's-length prospects a uma taxa de 15-25% — isso é o "while loop" confiável.
+- O grande erro: fundadores pulam a fase de founder-led e contratam um VP de sales muito cedo. Steve Blank sempre diz que startups quase sempre precisam demitir o primeiro VP de sales — porque pularam essa fase.
+- Razão para o founder vender (não vendedor): o founder é o especialista no domínio. Atrium em 2016-2017 — "provavelmente o especialista no mundo em sales analytics". Contratar terceiro para fazer isso teria sido catastrófico.
+- O que se perde ao terceirizar cedo: o feedback loop, os aprendizados sobre se a mensagem fit o mercado, e os "budding moments" que só o founder captura na décima quinta conversa.
+- Após o while loop rodar no "local", a próxima fase é extrair o conhecimento do founder para slides, scripts e templates — e verificar se roda em outros cérebros.
+
+> 🎧 [Founder-led sales | Pete Kazanjy (Founding Sales, Atrium)](https://www.youtube.com/watch?v=cZd5234Eem0)
+
 ## Conceitos relacionados
-[[GTM como Produto — Experiência não Transação]] · [[Primeiro Sales Hire — Pessoas de Quem Você Compraria]] · [[Demand Side Sales]]
+[[GTM como Produto — Experiência não Transação]] · [[Primeiro Sales Hire — Pessoas de Quem Você Compraria]] · [[Demand Side Sales]] · [[Sales Motion como Software — Iterar o Código de Vendas]]
 

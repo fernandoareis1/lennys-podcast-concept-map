@@ -99,5 +99,6 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Interspersão de Talento Experiente para Transformação]] — transformações falham sem modelo de excelência; misture 30-40% de líderes experientes lateralmente com talento emergente; aprendizado acontece por osmose, não só por treinamento
 - [[Waterline Model — Snorkel antes de Mergulhar]] — diagnostique problemas de time em 4 camadas (estrutural → dinâmicas → interpessoal → intrapessoal); 80% dos problemas estão nas camadas superiores; snorkel antes de mergulhar
 - [[Disagreeable Givers — O Colaborador Ideal]] — o tipo mais valioso é discordante mas doador; o mais perigoso é agradável mas tomador
+- [[DevEx como Produto — Sete Passos]] — tratar melhorias de developer experience como produto com PM mindset: listening tour → quick win → dados → estratégia → venda → mudança → avaliação
 - [[Aceleração Máxima — A Pergunta Forçante]] — "Is it maximally accelerated?" como ritual de liderança para eliminar bloqueadores; o ritmo do time é responsabilidade do líder
 - [[Barris e Munição — Throughput Organizacional]] — throughput = número de barris (pessoas empoderadas que fazem acontecer); maximize barris, não headcount total

@@ -103,3 +103,6 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Aceleração Máxima — A Pergunta Forçante]] — "Is it maximally accelerated?" como ritual de liderança para eliminar bloqueadores; o ritmo do time é responsabilidade do líder
 - [[Barris e Munição — Throughput Organizacional]] — throughput = número de barris (pessoas empoderadas que fazem acontecer); maximize barris, não headcount total
 - [[Contrato de Responsabilidades — Quarteto PM, Design, Eng e Dados]] — cada função escreve seu papel + expectativas dos outros; grupo compara e chega a contrato explícito; expande "triad" para quarteto incluindo data; elimina o acúmulo silencioso de responsabilidades no PM
+- [[Cinco Arquétipos de PM]] — Consumer (½ designer), Growth (½ data scientist), GM/Business (½ MBA), Platform (toolbuilder), Research/AI (½ researcher ½ engineer); todo PM tem primário e secundário; construir times com representação de ≥3 arquétipos
+- [[Cinco Ingredientes do Coach de PMs]] — definição de bom PM + avaliação atual + visão compartilhada + plano de desenvolvimento (deles, não seu) + follow-up sistemático; "consistency beats intensity"
+- [[PMwheel — Bússola do PM em 8 Dimensões]] — oito buckets: Understand, Find solutions, Planning, Get it done, Listen & learn, Team, Personal growth, Agile; use para autoavaliação + manager assessment + avaliação de pares

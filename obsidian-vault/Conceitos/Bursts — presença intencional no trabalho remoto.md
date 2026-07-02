@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Liderança & Times
-autores: [Brandon Chu]
+autores: [Brandon Chu, Nikita Miller]
 ---
 # Bursts — presença intencional no trabalho remoto
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
@@ -33,6 +33,12 @@ Os dados sobre frequência de bursts revelam sinais de saúde do time. Um time q
 - "Shopify dizia que podemos trabalhar de qualquer país por 90 dias por ano. Se temos infraestrutura para pessoas fazerem login de qualquer lugar, por que forçar localização?"
 
 > 🎧 Episódio com Brandon Chu, VP de Produto na Shopify (frontmatter do transcript com erro — URL não disponível)
+
+### [[Nikita Miller]]
+- Formato preferido para problemas difíceis em times remotos: 2 dias (2 noites), agenda pré-definida e acordada, com refeição/janta compartilhada.
+- "Solving a hard problem remotely with folks that you haven't spent in-person time with, that you haven't broken bread with, that you haven't disagreed with in person and built that trust is just really hard."
+- Resultado: velocidade de decisão aumenta dramaticamente vs. dias de documentos assíncronos onde "days and days have passed and we still haven't landed it."
+> 🎧 [Driving alignment within teams, work-life balance, and the changing PM landscape (59:20)](https://www.youtube.com/watch?v=4PhfAbRQpbI)
 
 ## Conceitos relacionados
 [[Colaboração vs silos funcionais]] · [[Descoberta assíncrona]] · [[Single-Threaded Leader]] · [[Alavancar ativamente seu líder]]

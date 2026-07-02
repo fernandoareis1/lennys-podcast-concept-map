@@ -69,6 +69,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Ex-Growth Companies — Armadilha da Valuation Inflada]] — empresas com valuation alto mas sem PMF real; equity provavelmente vale zero; dois testes de diagnóstico
 - [[Sombra do Superpower — Ponto Cego Executivo]] — forças que te trouxeram até aqui viram obstáculo no próximo nível; revise feedbacks descartados para encontrar o padrão
 - [[Três Atos da Carreira — Do Construir ao Dar]] — Ato 1: aprender; Ato 2: escalar; Ato 3: dar; prepare o Ato 3 antes do Ato 2 acabar; o greyhound que pega o coelho nunca mais corre
+- [[Otimização, Não Equilíbrio — Work-Life]] — substitua "balance" por "o que estou otimizando agora?"; aceite que o foco muda por período; como líder: foque o PM sobrecarregado em uma coisa de cada vez
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

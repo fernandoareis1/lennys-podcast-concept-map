@@ -100,3 +100,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Origem do Papel de Product Owner]] — PO emergiu do Scrum como facilitador tático de desenvolvimento, não da gestão de produto; sem Scrum, PO não existe; todos POs devem desenvolver competências de PM
 - [[Interspersão de Talento Experiente para Transformação]] — transformações falham sem modelo de excelência; misture 30-40% de líderes experientes lateralmente com talento emergente; aprendizado acontece por osmose, não só por treinamento
 - [[Waterline Model — Snorkel antes de Mergulhar]] — diagnostique problemas de time em 4 camadas (estrutural → dinâmicas → interpessoal → intrapessoal); 80% dos problemas estão nas camadas superiores; snorkel antes de mergulhar
+- [[Contrato de Papéis — Triad PM-Design-Eng-Data]] — cada membro do quartet escreve suas responsabilidades E expectativas dos outros; debate e chega a contrato explícito; cascadeado para a org

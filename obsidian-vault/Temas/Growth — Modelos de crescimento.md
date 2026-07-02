@@ -52,6 +52,9 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 
 - [[Construção de Hype por Demonstração Emocional]] — hype se cria fazendo outros verem o que você vê; exige crença genuína + fóruns de alta concentração; demonstração emocional supera argumento racional
 - [[Adolescentes como Audiência de Crescimento Viral]] — convites caem 20% por ano de idade (13→18); teens veem-se diariamente = densidade orgânica; adultos (+22) exigem paid acquisition
+- [[NPS como Coeficiente Viral — Duplicação por Faixa]] — NPS é proxy do coeficiente viral; cada faixa (6→7, 7→8, 9→10) dobra a taxa de convite; ROI de subir NPS supera em ordens de grandeza melhorar conversão
+- [[10x Melhor — A Barra do Word of Mouth Genuíno]] — WoM genuíno exige "experiência que não sabia que era possível"; ser 10% melhor gera uso, não recomendação; Wise precisou de 8–10x mais barato para ativar advocacy
+- [[Missão como Motor de Advocacy]] — além do racional (preço, velocidade), missão autêntica transforma usuários em recrutadores; autenticidade é o filtro — missão fabricada não funciona
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

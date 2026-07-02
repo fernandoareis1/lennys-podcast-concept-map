@@ -65,6 +65,10 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Auditoria de Energia — Calendário Verde e Vermelho]] — marque cada hora do calendário com verde/vermelho por 2 semanas; elimine, delegue ou redesenhe as vermelhas para "exquisito"; objetivo: 80% verde
 - [[Otimizar Superpoderes Sobre Compensação — Carreira]] — 90% da compensação vem nos últimos 5 anos; otimize por: alto compounding de aprendizado + alto overlap com superpoderes + diversão genuína
 - [[Homework for Life — Recuperar Seus Dias]] — registre o momento mais significativo do dia em uma planilha (uma linha); pergunta: "o que contaria se sequestrassem minha família?"; recupera dias e cria repertório infinito de stories
+- [[O Skip — O Emprego Depois do Próximo]] — pense no emprego depois do próximo e trabalhe de trás para frente; separe promoção (sistema da empresa) de carreira (arco que você controla)
+- [[Ex-Growth Companies — Armadilha da Valuation Inflada]] — empresas com valuation alto mas sem PMF real; equity provavelmente vale zero; dois testes de diagnóstico
+- [[Sombra do Superpower — Ponto Cego Executivo]] — forças que te trouxeram até aqui viram obstáculo no próximo nível; revise feedbacks descartados para encontrar o padrão
+- [[Três Atos da Carreira — Do Construir ao Dar]] — Ato 1: aprender; Ato 2: escalar; Ato 3: dar; prepare o Ato 3 antes do Ato 2 acabar; o greyhound que pega o coelho nunca mais corre
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

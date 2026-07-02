@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Priorização & Roadmap
-autores: [Kayvon Beykpour]
+autores: [Kayvon Beykpour, Oji Udezue]
 ---
 # Nuance acima de Frameworks — O Limite das Metodologias
 
@@ -33,6 +33,12 @@ O caso Amazon: esconder os detalhes do pedido no email de confirmação (forçan
 - Spaces: um bar no topo do feed para mostrar quem está ao vivo derrubava DAU e receita no curto prazo — mas era o que o produto precisava para prosperar. OKRs focados em DAU/quarter teriam matado o Spaces antes de nascer.
 
 > 🎧 [Twitter's ex-Head of Product on Elon, consumer products, culture, more | Kayvon Beykpour (1:35:27)](https://www.youtube.com/watch?v=MKDnDueTvKk)
+
+### [[Oji Udezue]]
+- "The best PMs I know create their own frameworks from first principles — they understand the underlying dynamics well enough that they don't need to borrow someone else's model."
+- Oji constrói frameworks próprios (quadrante B2B, problema agudo, virality) derivando-os das mecânicas reais do mercado — não aplicando templates externos. O resultado é nuance embutida na origem, em vez de tentar adicionar nuance a um framework importado.
+- O perigo do framework dogmático: PMs aprendem "Jobs-to-be-Done" ou "OKRs" e os aplicam universalmente, perdendo as especificidades de contexto, etapa e equação econômica que tornam cada decisão única.
+> 🎧 [Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform) (1:16:16)](https://www.youtube.com/watch?v=T8TQGbJhv6Q)
 
 ## Conceitos relacionados
 [[PM ZIRP — Frameworks sem Cérebro]] · [[Feature Factory — Construir Features sem Impacto Real]] · [[Priorização — Estratégia vs execução]] · [[Tudo no backlog é uma aposta]]

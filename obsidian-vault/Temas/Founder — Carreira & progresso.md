@@ -10,6 +10,7 @@ fluxo: Founder & Carreira
 Decisões de carreira como busca de **progresso**, não de salário — e o que carregar (valores) ao mudar de cultura.
 
 ## Conceitos (L3)
+- [[Três Es de Desenvolvimento — Experiência, Exposição, Educação]] — exposição (estar no carro sem dirigir) é o vetor mais subutilizado de crescimento; cresce em múltiplas direções ao mesmo tempo
 - [[The Magic Loop — 5 Passos para Avançar na Carreira]] — framework de 5 passos para crescer na carreira em qualquer circunstância
 - [[JTBD aplicado a carreira (Job Moves)]] — as forças do progresso explicam trocas de emprego
 - [[Carreira é progresso, não salário]] — dinheiro é proxy de respeito/responsabilidade

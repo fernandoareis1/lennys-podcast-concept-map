@@ -244,3 +244,4 @@ patrick-campbell
 paul-adams
 paul-millerd
 pete-kazanjy
+peter-deng

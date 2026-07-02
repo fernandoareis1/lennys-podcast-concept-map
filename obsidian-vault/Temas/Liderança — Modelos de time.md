@@ -100,3 +100,5 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Waterline Model — Snorkel antes de Mergulhar]] — diagnostique problemas de time em 4 camadas (estrutural → dinâmicas → interpessoal → intrapessoal); 80% dos problemas estão nas camadas superiores; snorkel antes de mergulhar
 - [[PM como Condutor]] — PM é o regente da orquestra: eleva cada músico, não toca o instrumento
 - [[Disagreeable Givers]] — os mais valiosos num time de liderança: discordam mas são movidos pelo bem da empresa, não por interesse próprio
+- [[DevEx — Os 3 Pilares Flow, Carga Cognitiva e Feedback]] — os três pilares que se reforçam: flow state (imersão), carga cognitiva (espaço mental livre) e feedback loops (ciclos curtos)
+- [[DevEx como Produto]] — aplicar mindset de PM ao developer experience: usuários=devs, MVP, comms, feedback contínuo, sunset; segue J-curve de impacto

@@ -15,6 +15,7 @@ Como **precificar** e onde mora o valor: cobrar pelo resultado, espelhar o conco
 - [[Willingness to Pay (regra 20-80)]] — 20% do que você constrói gera 80% da WTP
 - [[Valor percebido = ponto de partida + destino]] — valor é a distância, não só o destino
 - [[Beautifully Simple Pricing]] — pricing simples o suficiente para o cliente explicar de volta; conta história de valor
+- [[Métrica de Valor — A Alavanca de Pricing mais Poderosa]] — unidade em que você cobra (por usuário, por evento, por GB) é a decisão de pricing com maior ROI; se errar tudo menos isso, você sobrevive; acerta a métrica → churn 20-25% menor, expansion revenue dobra, alinhamento automático com tamanho do cliente
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[01 - Discovery & Pesquisa]]

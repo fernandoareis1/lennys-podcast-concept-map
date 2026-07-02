@@ -2,7 +2,7 @@
 tipo: conceito
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Kunal Shah]
+autores: [Kunal Shah, Nickey Skarstad]
 ---
 # Pensamento de Segunda Ordem — Curiosidade como Vantagem Composta
 
@@ -61,6 +61,14 @@ Predadores: "aquele que queima menos calorias para ganhar mais calorias" — met
 - "Curiosidade vem da segurança porque imagina — sou o fundador CEO desta empresa e alguém no WhatsApp pergunta 'o que essa palavra significa?' Você precisa ter a segurança de sentir ok com isso"
 
 > 🎧 [Kunal Shah on winning in India, second-order thinking, the philosophy of startups](https://www.youtube.com/watch?v=EgBOVDzUUAA)
+
+### [[Nickey Skarstad]]
+- Aplica segunda ordem especificamente a **decisões de produto**: cada decisão de hoje limita ou habilita decisões de amanhã; o efeito cascata no ecosistema.
+- Exemplo: truncar o título de uma listagem no Airbnb parece simples mas impacta hosts + design + display + expectativas de guests — decisão de segunda ordem.
+- Como operacionalizar: (1) adicionar linha em spec templates forçando o time a pensar nos efeitos de segunda ordem; (2) usar FigJam/Miro para mapear cascata "e daí?" com o time; (3) usar **first principles** como âncoras.
+- "Especially when you're building marketplaces or anything with UGC content. When you make a change today, and it impacts every single user in your ecosystem that then is going to act on that change, it's really hard to make those changes later."
+- Recomenda: *Thinking in Systems* (Donella Meadows) — "it will save you time and money later, if you don't constantly have to rebuild things when you want to make changes."
+> 🎧 [Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals](https://open.spotify.com/episode/6FKUgLvnlpyLOyMbykXm6u)
 
 ## Conceitos relacionados
 [[Delta 4 — Framework de Eficiência e Irreversibilidade]] · [[Mercados de Baixa Confiança — Concentração de Trust e Super Apps]] · [[Curiosidade radical — antídoto ao ego]] · [[Eigenquestion — A Pergunta que Revela Tudo]] · [[Ser estratégico = articular o porquê + agir]]

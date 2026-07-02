@@ -2,7 +2,7 @@
 tipo: tecnica
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Matt Mochary]
+autores: [Matt Mochary, Nickey Skarstad]
 ---
 # Auditoria de Energia — Calendário Verde e Vermelho
 
@@ -41,6 +41,11 @@ A maioria dos líderes passa horas em coisas nas quais são excelentes mas que n
 - "There's someone out there that loves to do it. You just got to find out who it is. For everything that you don't enjoy but needs to get done, there's someone who loves to do it."
 - "Once that happens, magic will occur. All of a sudden, your life will become phenomenal and you will start to create massive value."
 > 🎧 [How to become a better manager (7:00)](https://www.youtube.com/watch?v=qOrwVtZvdaE)
+
+### [[Nickey Skarstad]]
+- Usou o mesmo framework para diagnosticar quando um papel não é um bom fit: ao perceber que seu calendário estava "todo vermelho" no Shopify, entendeu que era hora de sair.
+- Insight adicional: a auditoria de energia é um **sinal de carreira**, não apenas de produtividade — se toda a agenda drena, talvez o problema seja o papel, não a agenda.
+> 🎧 [Nickey Skarstad (Airbnb, Etsy, Shopify, Duolingo) on translating vision into goals](https://open.spotify.com/episode/6FKUgLvnlpyLOyMbykXm6u)
 
 ## Conceitos relacionados
 [[Zona de Gênio]] · [[Drivers e drains de energia]] · [[Gestão de energia pessoal]] · [[Trabalho Focado vs. Overwork]]

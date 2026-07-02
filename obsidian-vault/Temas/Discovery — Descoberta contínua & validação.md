@@ -37,5 +37,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Sistemas, não Metas]] — Jerry Seinfeld: sistema de escrever 1h diária vs. meta de ter 1h de material; times com sistemas default-on de contato com clientes têm instintos melhores que times com metas trimestrais
 - [[Fechar o Loop — Comunidade como Co-Criador]] — produto tem dois eixos: construir para a missão E construir o que a comunidade pede; 1M+ pedidos/ano catalogados por time dedicado; "fechar 200 loops" como accountability pública com usuários
 
+- [[3 Gates de Revisão de Produto]] — três checkpoints cross-funcionais (first principles → approach/arquitetura → ship-ready); previne "você resolveu o problema errado" no final
+
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

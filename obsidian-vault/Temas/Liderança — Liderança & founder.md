@@ -73,6 +73,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Reverter o Medo — A Aposta Oposta]] — medo distorce previsões; assuma que o medo está errado e preveja o oposto; valide com coach; especialmente eficaz em conversas difíceis com board e time
 - [[Liderança Visionária vs. Governança por Comitê]] — grandes softwares emergem de visionários, não de comitês; input é separado de autoridade; Gutenberg teria sido vetado por voto
 - [[Dar os Legos — Crescer na Velocidade da Empresa]] — em escala acelerada, segurar o que domina é o caminho para ser soterrado; dar o trabalho adiante e assumir o próximo desafio é o único jeito de crescer junto com a empresa
+- [[Resting Heartbeat — Ritmo da Equipe]] — o ritmo padrão de operação do time é responsabilidade do líder; urgência não é pressão, é calibração do heartbeat
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

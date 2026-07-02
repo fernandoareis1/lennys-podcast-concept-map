@@ -43,6 +43,7 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Product Owner como Local CEO]] — product owners da Revolut têm ownership genuíno end-to-end + poder de hiring/firing; estrutura ultra-flat com 150+ local CEOs
 - [[Raw Intellect e Fome sobre Experiência]] — Revolut prioriza inteligência bruta e fome sobre experiência; transferências internas (engenheiros, ops) se tornam os PMs mais bem-sucedidos
 - [[PM como Clareza e Convicção]] — o trabalho central do PM é gerar clareza (eliminar ambiguidade) e manter convicção (sustentar direção sob pressão)
+- [[PM como Condutor de Orquestra]] — o PM rege a orquestra; não toca instrumentos, mas habilita cada especialista a brilhar no conjunto
 - [[Processo como Redutor de Variância]] — processo eleva piores à média mas traz melhores para baixo; custo invisível de toda padronização; Minimum Viable Process com escape hatches
 - [[Portfólio de Talentos de Produto]] — time de PM com competências complementares: homegrown (cultura) + externos (rigor); executores + visionários; auditoria semestral de lacunas
 - [[Marketer em Forma de π]] — primeiro marketer deve ter dois spikes (expert em uma área + proficiente em outra) + estratégia em todas; combos comuns: PMM+growth, PMM+content; content+growth é raro

@@ -18,6 +18,9 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: conquistar c
 - [[FOMU — Medo de Errar vs. FOMO]] — 40-60% dos deals B2B morrem em "no decision"; medo de errar > medo de perder; omission bias e status quo bias
 - [[Metodologia JOLT]] — Judge + Offer + Limit + Take Risk Off the Table; antídoto ao FOMU para fechar indecisão em SaaS B2B
 - [[Vendedor Challenger — Ensinar o Que o Cliente Deveria Saber]] — create the fire, sell the extinguisher; insight único → reframe → solução como consequência lógica
+- [[Monetizar Cedo — PMF Real é Pagamento]] — o sinal definitivo de PMF é alguém abrir a carteira; esperar demais cheapens o produto e perde loops de feedback críticos
+- [[Day 1 vs Day 100 — Estratégia de Paywall]] — features cujo valor é percebido no primeiro dia ficam no free; features avançadas (valor com tempo/escala) ficam no pago
+- [[Pricing como Roadmap — Não Congele]] — revise pricing a cada 6-12 meses como o roadmap; comitê cross-funcional + Van Westendorp + ranking de features
 
 ## Descer mais (L4) ⬇
 [[Market Share + Wallet Share — Evidências (Madhavan Ramanujam)]]

@@ -102,3 +102,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[DevEx como Produto — Sete Passos]] — tratar melhorias de developer experience como produto com PM mindset: listening tour → quick win → dados → estratégia → venda → mudança → avaliação
 - [[Aceleração Máxima — A Pergunta Forçante]] — "Is it maximally accelerated?" como ritual de liderança para eliminar bloqueadores; o ritmo do time é responsabilidade do líder
 - [[Barris e Munição — Throughput Organizacional]] — throughput = número de barris (pessoas empoderadas que fazem acontecer); maximize barris, não headcount total
+- [[Contrato de Responsabilidades — Quarteto PM, Design, Eng e Dados]] — cada função escreve seu papel + expectativas dos outros; grupo compara e chega a contrato explícito; expande "triad" para quarteto incluindo data; elimina o acúmulo silencioso de responsabilidades no PM

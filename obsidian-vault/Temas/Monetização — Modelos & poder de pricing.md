@@ -15,6 +15,7 @@ Como **precificar** e onde mora o valor: cobrar pelo resultado, espelhar o conco
 - [[Willingness to Pay (regra 20-80)]] — 20% do que você constrói gera 80% da WTP
 - [[Valor percebido = ponto de partida + destino]] — valor é a distância, não só o destino
 - [[Beautifully Simple Pricing]] — pricing simples o suficiente para o cliente explicar de volta; conta história de valor
+- [[Day 1 vs Day 100 — Design de Planos e Freemium]] — features de aha imediato no free; funcionalidades de escala/poder no pago; o paywall no lugar certo dobra upgrade rate
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[01 - Discovery & Pesquisa]]

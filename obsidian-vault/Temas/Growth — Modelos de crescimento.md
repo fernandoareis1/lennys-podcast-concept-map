@@ -52,6 +52,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 
 - [[Construção de Hype por Demonstração Emocional]] — hype se cria fazendo outros verem o que você vê; exige crença genuína + fóruns de alta concentração; demonstração emocional supera argumento racional
 - [[Entender → Identificar → Executar]] — instrumente dados primeiro, depois identifique oportunidades, depois construa; sem dados não há growth data-driven
+- [[Do Single-Player ao Multiplayer — Crescimento Colaborativo]] — collaboration-first desde o início; a ponte single→multiplayer multiplica aquisição, retenção e monetização ao mesmo tempo
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

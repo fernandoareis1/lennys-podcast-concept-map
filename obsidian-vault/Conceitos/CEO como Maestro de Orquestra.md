@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Liderança & Times
-autores: [Marc Benioff]
+autores: [Marc Benioff, Naomi Gleit]
 ---
 # CEO como Maestro de Orquestra
 
@@ -30,5 +30,11 @@ Nem toda empresa precisa de CEO-maestro no estágio zero: antes de PMF, foco ext
 - Referência cruzada com Steve Jobs: Jobs sabia reger (produto, marketing, hardware, retail, supply chain, messaging) — raramente apenas um instrumento.
 > 🎧 [Behind the founder: Marc Benioff (57:19)](https://www.youtube.com/watch?v=tOGK1nlHdFo)
 
+### [[Naomi Gleit]]
+- "Um PM é um maestro. O time é uma orquestra: engenharia, design, dados, legal, comms — cada função é um instrumento diferente. O trabalho do PM é garantir que todos toquem sua parte E que toquem juntos, no mesmo tempo."
+- O condutor não é a estrela do show — não fala durante a performance. PM não faz o produto; cria as condições para que cada especialista faça o melhor trabalho possível.
+- Desenvolvimento pessoal de Naomi como Head of Product: aprender a "liderar de frente" quando necessário, não apenas conduzir silenciosamente; saber quando sair do modo condutor e ter perspectiva própria.
+> 🎧 [Naomi Gleit — Meta's head of product (46:00–48:00)](https://www.youtube.com/watch?v=sTYuKgzZoL8)
+
 ## Conceitos relacionados
-[[Founder Mode]] · [[Founder vs. CEO — Dois Ofícios Distintos]] · [[Arquiteto-Otimizador-Escalador — Os Três Tipos de Executivo]] · [[PM como Conversor de Energia Potencial]]
+[[Founder Mode]] · [[Founder vs. CEO — Dois Ofícios Distintos]] · [[Arquiteto-Otimizador-Escalador — Os Três Tipos de Executivo]] · [[PM como Conversor de Energia Potencial]] · [[PM como Clareza e Convicção]]

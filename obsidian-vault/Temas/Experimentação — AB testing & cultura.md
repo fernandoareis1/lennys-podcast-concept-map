@@ -33,6 +33,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Efeito de Rede por Design de Convites]] — conectores naturais convidam se o fluxo for simples; convites ubíquos e presentes em múltiplos pontos; usuários não-sociais ignoram, não sacrifique o design por eles
 - [[Métricas Além de Engajamento — Saúde vs. Vício em IA]] — otimizar likabilidade em IA gera sycophancy; o critério correto é tempo bem gasto (usuário saiu mais capaz) vs. engajamento; "você sabe quando seu produto está realmente servindo as pessoas"
 - [[Qualidade como Métrica de Balanceamento]] — usar métrica de qualidade (ex: taxa de reviews) como north star que balanceia crescimento; protege a experiência real do usuário contra otimização de vaidade
+- [[Três Pilares do DevEx — Flow, Carga Cognitiva e Feedback Loops]] — flow state + carga cognitiva + loops de feedback: três dimensões interdependentes de experiência do desenvolvedor
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

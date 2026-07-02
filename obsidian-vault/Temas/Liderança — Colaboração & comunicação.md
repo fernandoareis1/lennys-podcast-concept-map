@@ -62,3 +62,5 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Arquitetura de Stakes — Prender a Atenção]] — 5 técnicas para manter audiência se perguntando "o que acontece?": Elephant, Backpack, Breadcrumb, Hourglass, Crystal Ball; concentre na primeira metade
 - [[Adjacência Temática — Stories por Tema, não Conteúdo]] — não busque story sobre o mesmo assunto; encontre story pessoal com mesmo tema/emoção; "estale" a conexão no final para o efeito mais poderoso
 - [[Mudança de Baixo para Cima sem Mandato — Show Don't Tell]] — sem mandato de cima, drive mudanças via experimentos pequenos + mostrar o problema visceralmente (vídeo de usuário) + reduzir atrito dos parceiros + escalar pelo sucesso demonstrado
+- [[Clareza Extrema]] — todos com o mesmo entendimento dos fatos; táticas: numeração, visual ao vivo, pre-read 24h, notas pós-reunião
+- [[Canonical Doc]] — um único doc por projeto que todos conhecem, com owners, work streams e nomenclatura; o restante é satélite

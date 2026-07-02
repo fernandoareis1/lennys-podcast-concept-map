@@ -116,6 +116,10 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Zero-to-One Interno — Incentivos Errados Matam]] — incubadoras internas em grandes empresas falham pelo incentive system errado (perf reviews bi-anuais = horizonte incompatível); NPE no Facebook; modelo Nike de incubação separada
 - [[Quadrante de Workflows B2B — Frequência × Nicho]] — 2×2 de frequência × amplitude para prever potencial de SaaS: HF-Niche (Jira, CRM) o mais produtivo; HF-Everyone (email, Slack) o maior; LF-Everyone (forms) e LF-Niche (FP&A) têm menor poder; estratégia = navegar para cima na frequência
 - [[Problema-Causa-Solução — Framework de Primeiros Princípios]] — operacionalização de primeiros princípios: não resolva o problema diretamente, liste todas as causas, ranqueie por magnitude, alinhe soluções às causas maiores; funciona em todos os níveis (estratégia, produto, suporte); mais acionável que "cinco porquês"
+- [[Momento Antes-Depois — Pontos de Inflexão Irreversíveis]] — certos eventos dividem o mundo em antes e depois; qualquer estratégia do "antes" se torna obsoleta; a resposta certa é rasgar o plano e recomeçar dos primeiros princípios
+- [[Diferenciação vs. Table Stakes — Equilibrando o Roadmap]] — duas forças em todo roadmap: diferenciação (o que atrai) + table stakes (o básico para jogar); startups devem pesar pesado em diferenciação e crescer em table stakes com o tempo
+- [[Pêndulo Estratégico — Risco de Overcorrection]] — ao corrigir um estado indesejável, a tendência é overcorrect; o swing é necessário (cruzar o limite para saber onde ele está), mas a magnitude deve ser monitorada
+- [[Product-Market-Story Fit]] — PMF é necessário mas não suficiente; a story (como você explica o produto) é o terceiro eixo; bons produtos em bons mercados falham sem a story certa
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

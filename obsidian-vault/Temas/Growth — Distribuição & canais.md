@@ -56,6 +56,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Esqueleto Antes da Maquiagem — Fundamentos antes de Otimização]] — construa fundamentos (site rápido, posicionamento claro, conteúdo descobrível) antes de escalar paid ads; otimização sobre base fraca amplifica o problema
 - [[Google Search Over — Conteúdo que Termina a Busca]] — conteúdo de qualidade = usuário para de buscar após consumir; critério mais rigoroso e correto que posição no ranking
 - [[Adicionar Valor em Comunidades antes de Vender]] — entre nos fóruns onde clientes fazem perguntas, responda com valor genuíno, construa confiança antes de apresentar o produto
+- [[Dependência de Canal Único — Paranoia Produtiva]] — empresa dependente de um canal é frágil a mudanças externas; desenvolva paranoia produtiva e diversifique antes da crise; Thumbtack: SEO → zero → growth negativo
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

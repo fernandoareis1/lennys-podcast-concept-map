@@ -113,6 +113,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Produto na Interseção Modelo-Produto — Vantagem Única de IA]] — produto de AI lab tem vantagem só no cruzamento de pesquisa de modelo e produto; wrapper que qualquer pessoa faz via API é commodity; unidade de trabalho muda para participar do post-training
 - [[Contexto como Camada Diferenciadora de Produto IA]] — utilidade de produto IA = modelo + contexto/memória + UX; contexto certo é "inteiramente a diferença entre uma boa resposta e uma ruim"; MCP torna contexto composível e reutilizável
 - [[Boulder Bets — Próxima Colina]] — "take bigger boulder bets"; times incubam em novas áreas antes de amadurecerem (huddles, clips, IA no Slack); liberdade de processo + velocidade de aprendizado como métrica do incubado
+- [[Zero-to-One Interno — Incentivos Errados Matam]] — incubadoras internas em grandes empresas falham pelo incentive system errado (perf reviews bi-anuais = horizonte incompatível); NPE no Facebook; modelo Nike de incubação separada
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

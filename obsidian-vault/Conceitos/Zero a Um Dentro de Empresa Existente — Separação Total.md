@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Garrett Lord]
+autores: [Garrett Lord, Noam Lovinsky]
 ---
 # Zero a Um Dentro de Empresa Existente — Separação Total
 
@@ -37,7 +37,23 @@ Incubar uma nova linha de negócio dentro de uma empresa madura exige **separaç
 ## Motto interno
 **"Leave nothing to chance"** — como fazer 3 meses renderem o que levaria 6? Embarque no avião, faça o push de madrugada, confira os dados 6 vezes, entregue a feature extra. Velocidade de execução como vantagem competitiva quando a demanda de mercado é ilimitada.
 
+## O Sistema de Incentivos como Prioridade Zero
+Noam Lovinsky construiu o NPE (New Product Experimentation) team no Facebook com apoio de Schrep. A principal lição: **o incentivo errado mata a incubação antes de começar**. Em uma grande empresa, o ciclo de performance management bi-anual cria adverse selection — recruta quem quer promoção previsível, não quem aceita ambiguidade de startup.
+
+Outras condições que a NPE garantiu:
+- **Infraestrutura livre**: cada time usava a stack que fazia mais sentido para o problema; código provavelmente seria jogado fora de qualquer forma
+- **Tempo de acesso a clientes**: grandes empresas não conseguem colocar PMs na mesma sala que usuários reais; constraints legais, logísticas e de escala criam jogos de telefone; a incubação deve remover esses filtros
+- **Meta ampla, não só o grand slam**: "O time não descobriu o próximo Instagram — mas mostrou o que está quebrado, recrutou pessoas incríveis e acelerou a validação de ideias que viraram features." Sucesso ≠ encontrar a próxima aplicação bilionária
+
+Melhor modelo externo encontrado: Nike Incubation Lab — processo de discovery completamente separado; quando há fit, a Nike entra com seu motor de distribuição e marketing. Dois mundos com uma ponte na fase de escala.
+
 ## Insights por autor
+### [[Noam Lovinsky]]
+- "If you're a large organization and you do some performance management process twice a year and you're a 0-to-1 incubator, you've already killed it. It's the wrong incentive."
+- "Starting with a million users is a really hard way to do community or social products. At Facebook, running an experiment with a hundred people is basically impossible."
+- "Setting the light on the hill as 'find the next Instagram' still generates many valuable byproducts along the way."
+> 🎧 [The happiness and pain of product management | Noam Lovinsky (Grammarly, FB, Thumbtack, YT)](https://www.youtube.com/watch?v=a_W5Rn0bJWE) · 2024-03-17
+
 ### [[Garrett Lord]]
 - Handshake AI: $0 → $50M ARR em 4 meses, projetando $100M no ano 1 (vs. 10 anos para o Handshake original)
 - "I've never seen anything like this where there's unlimited demand and it's just our ability to execute against it"

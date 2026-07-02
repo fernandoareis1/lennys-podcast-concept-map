@@ -54,6 +54,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Construção de Hype por Demonstração Emocional]] — hype se cria fazendo outros verem o que você vê; exige crença genuína + fóruns de alta concentração; demonstração emocional supera argumento racional
 - [[Entender → Identificar → Executar]] — instrumente dados primeiro, depois identifique oportunidades, depois construa; sem dados não há growth data-driven
 - [[Do Single-Player ao Multiplayer — Crescimento Colaborativo]] — collaboration-first desde o início; a ponte single→multiplayer multiplica aquisição, retenção e monetização ao mesmo tempo
+- [[Dependência de Canal Único — Viver e Morrer pela Espada]] — empresa de canal único é sempre risco existencial; crescimento mascara a dependência; Thumbtack/SEO: crescimento 3 dígitos → negativo quando Google mudou; paranoia produtiva: "o que faria se caísse amanhã?"
 - [[NPS como Escada de Word of Mouth]] — cada salto de faixa NPS dobra a taxa de referral; mineração de comentários revela pilares de produto; Wise NPS 70% vs bancos -30%
 - [[Produto 10x — Experiência que Ninguém Sabia Ser Possível]] — advocacy só ocorre com salto qualitativo (8-10×, não 1,1×); conviction-led: construa convicção e faça a aposta grande; "you can't split test your way to love"
 - [[Marketing dentro do Produto — Fechar o Delta de Percepção]] — fecha o gap entre valor entregue e valor percebido; gráfico de comparação de preço → 3× sharing rate; animação de velocidade → salto em referrals

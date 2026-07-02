@@ -17,6 +17,8 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: conquistar c
 - [[POC como Caso de Negócio]] — reframe radical: POC não testa funcionalidade, co-cria o business case do cliente
 - [[FOMU — Medo de Errar vs. FOMO]] — 40-60% dos deals B2B morrem em "no decision"; medo de errar > medo de perder; omission bias e status quo bias
 - [[Metodologia JOLT]] — Judge + Offer + Limit + Take Risk Off the Table; antídoto ao FOMU para fechar indecisão em SaaS B2B
+- [[Preço como Roadmap]] — revisite pricing a cada 6-12 meses como um roadmap; "do not set it and forget it"
+- [[Day One vs Day 100 Features]] — features de Day One no free, Day 100 no pago; dobra upgrade rate e aumenta ARPU simultaneamente
 - [[Vendedor Challenger — Ensinar o Que o Cliente Deveria Saber]] — create the fire, sell the extinguisher; insight único → reframe → solução como consequência lógica
 
 ## Descer mais (L4) ⬇

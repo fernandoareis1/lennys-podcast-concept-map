@@ -93,6 +93,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Startup em C-Corp — Inovação com Fundador Frustrado]] — C-corp separada + fundador de startup falha + dois times paralelos (eng vs. customer) + reporte direto ao CEO = única forma de inovar em empresa grande
 - [[Open Source como Ideologia Motriz]] — open source = liberdade humana; moat de comunidade (60k+ plugins); missão como recrutamento; código pertence igualmente a todos
 - [[Plataformas Resilientes vs. Plataformas Predatórias]] — plataforma verdadeira = ecossistema ganha mais que o core; contratos imutáveis com builders; moat = ecossistema, não lock-in
+- [[Anti-Sycophancy — Produto que Serve o Longo Prazo]] — otimize para o usuário prosperar e alcançar objetivos, não para engajamento imediato; incentivos do modelo de negócio determinam o comportamento emergente do produto
 - [[Consumer Stack — 5 Capacidades]] — scorecard de 5 capacidades para construir produtos consumer: design-led, foco, métricas+instrumentação, ship velocity, talento; avalie de A a D e trabalhe para chegar em A em todas
 - [[Tática como Semente da Estratégia]] — lance muitas táticas em paralelo, observe o que cola e amplifique; a estratégia emerge do que funciona, não é planejada a priori; método Chris Rock de testar antes de escalar
 - [[Armadilha do AI por AI]] — não adicione IA porque é tendência; comece pelo pain point, prototype sem IA no MVP, envolva researchers só após validar o conceito; PM de IA resolve o problema certo, não o produto certo

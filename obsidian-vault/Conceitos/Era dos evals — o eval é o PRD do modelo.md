@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Estratégia & Visão
-autores: [Brendan Foody, Hamel Husain, Shreya Shankar, Karina Nguyen, Kevin Weil]
+autores: [Brendan Foody, Hamel Husain, Shreya Shankar, Karina Nguyen, Kevin Weil, Nick Turley]
 ---
 # Era dos evals — o eval é o PRD do modelo
 **Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Estratégia de produto]] · **Camada:** L3
@@ -66,6 +66,13 @@ O mercado de trabalho humano especializado em escrever evals é uma nova categor
 - A distinção entre "o modelo sabe" e "o modelo faz de forma confiável" é capturada pelos evals — por isso são o gate de cada feature.
 
 > 🎧 [OpenAI's CPO on why ChatGPT is the worst AI you'll ever use | Kevin Weil](https://www.youtube.com/watch?v=scsW6_2SPC4) · 2025-04-10
+
+### [[Nick Turley]]
+- "I started writing evals before I knew what an eval was — I was just outlining very clearly specified ideal behavior for various use cases until someone told me 'Hey, you should make an eval.'"
+- "It's not some technical magic you have to understand. It's really just articulating success in a way that is maximally useful for training bots."
+- "At the end of the day, it's not different from the wisdom of: you ought to articulate success before you do anything else. It's just a new mechanism for doing that."
+- Usou evals para definir o comportamento ideal do ChatGPT antes de qualquer treinamento; o processo o ensinou que "eval" era simplesmente a forma ML de especificar produto.
+> 🎧 [Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI) (01:14:00–01:16:00)](https://www.youtube.com/watch?v=ixY2PvQJ0To) · 2025-08-09
 
 ## Aprofundamento ⬇
 - [[Era dos evals — Evidências]]

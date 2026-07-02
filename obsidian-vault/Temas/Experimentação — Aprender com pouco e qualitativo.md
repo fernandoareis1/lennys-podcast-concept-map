@@ -31,6 +31,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[Prototipagem nos Extremos — Encontrar o Espaço Certo]] — empurre para extremos opostos de um atributo, construa ambos, e use a fricção de cada ponta para encontrar o equilíbrio real
 - [[Discovery-Delivery em Paralelo, Não em Sequência]] — discovery e delivery devem ocorrer simultaneamente em loop contínuo; modelo sequencial "discovery antes do sprint" cria times que entregam com velocidade na direção errada
 - [[10% Rule — Hipótese Antes da Metade]] — após 10% do tempo alocado, deve existir algo funcional que testa a hipótese central; velocidade e qualidade não são trade-offs — são ambos produto de competência
+- [[Ship to Learn — Propriedades Emergentes em IA]] — em produtos de IA, propriedades são emergentes e não conhecíveis com antecedência; ship para descobrir o que polir, não para spec
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

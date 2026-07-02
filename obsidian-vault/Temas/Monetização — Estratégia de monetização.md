@@ -19,6 +19,7 @@ Negócio duradouro precisa dominar **dois motores ao mesmo tempo**: conquistar c
 - [[Metodologia JOLT]] — Judge + Offer + Limit + Take Risk Off the Table; antídoto ao FOMU para fechar indecisão em SaaS B2B
 - [[Vendedor Challenger — Ensinar o Que o Cliente Deveria Saber]] — create the fire, sell the extinguisher; insight único → reframe → solução como consequência lógica
 - [[Pricing como Roadmap — Revisitar a Cada 6-12 Meses]] — trate pricing como roadmap de produto: revisão periódica, nunca set-and-forget; 3 erros clássicos: cobrar tarde, underpricing, esquecer
+- [[Métrica de Valor — O Eixo de Precificação]] — "how you charge" (por usuário, por uso, por transação) é mais importante que "how much"; churn 20-25% menor, expansão 2x maior quando a métrica está certa
 
 ## Descer mais (L4) ⬇
 [[Market Share + Wallet Share — Evidências (Madhavan Ramanujam)]]

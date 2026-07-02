@@ -59,6 +59,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Produto 10x — Experiência que Ninguém Sabia Ser Possível]] — advocacy só ocorre com salto qualitativo (8-10×, não 1,1×); conviction-led: construa convicção e faça a aposta grande; "you can't split test your way to love"
 - [[Marketing dentro do Produto — Fechar o Delta de Percepção]] — fecha o gap entre valor entregue e valor percebido; gráfico de comparação de preço → 3× sharing rate; animação de velocidade → salto em referrals
 - [[Viralidade como Marketing Aumentado pelo Cliente]] — viralidade real é quando clientes fazem o marketing; orgânica (Slack/WoM) precede sintética (Hotmail/badges); efeitos de rede são o layer superior
+- [[Funil do Meio — A Oportunidade Esquecida]] — 80% do budget vai para topo e fundo; middle of funnel (freemium + inbound media) tem retenção 10-20% maior, NPS 2x; buyers convertem no próprio timing
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

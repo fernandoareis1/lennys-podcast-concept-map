@@ -76,6 +76,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Double Down no Core — Investir no Alpha do Produto]] — entenda por que as pessoas te amam e invista profundamente nisso; cada adjacência deve herdar o alpha, não abandoná-lo
 - [[Do Computador Pessoal ao Modelo Pessoal]] — chatbot síncrono → agentes assíncronos → modelo pessoal que aprende preferências e prediz próximas ações; confiança é a feature central; form follows function (100K context → file uploads; notificações → Tasks; Google Docs → Canvas)
 
+- [[Mapeamento Produto × IA — Substituição ou Augmentação]] — mapeie funções do produto × IA: substituição total ou augmentação humana; base para reconstruir estratégia AI-native
+- [[Diferenciação vs. Table Stakes]] — dois motores de adoção: atração da solução nova + requisitos de entrada; ratio 70/30 → 50/50 na maturidade
 - [[Quadrante de Workflows B2B — Onde Pescar um Unicórnio]] — dois eixos (amplitude × frequência); "high-ni" (alta frequência + nicho) é o sweet spot de unicórnios B2B
 - [[Zona de Benefício — 3x para Mudar]] — produto precisa ser ≥3x melhor para usuário mudar; teste de compressão de workflow; distinto do limiar de advocacy de 10x
 - [[Template de Estratégia de Produto (Maggie Crowley)]] — Missão → Landscape → Estado → Oportunidade → Desafios → Solução → Plano; doc é para o PM, não para a audiência

@@ -63,6 +63,10 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Founder-Future Fit — Autenticidade como Vantagem]] — quem tem o perfil mais autenticamente alinhado com um futuro radical é quem mais rápido chega ao PMF; motivação intrínseca + conhecimento do futuro + rede no ecossistema
 - [[Forest Time — Elevar para Ver o Horizonte]] — tempo intencionalmente protegido para elevar perspectiva: de executar para refletir, de árvore para floresta; PMs oscilam entre discovery e execução em sine wave; aim errado em 5° custa meses e milhões; ritual mensal ou semanal, não espontâneo
 - [[Como Poderia o Contrário Ser Verdade — Rejeitar Falsos Trade-offs]] — quando você sente que está diante de um trade-off impossível, pergunte "como poderia o contrário ser verdade?"; interrupção cognitiva que quebra o modo de escassez e abre o espaço de possibilidades; antídoto ao estado "abaixo da linha"
+- [[O Caminho Padrão — A Armadilha do Script Social]] — o script social do que devemos fazer com nossas carreiras; o problema não é o caminho, é segui-lo inconscientemente sem perceber os contratos implícitos criados
+- [[Vivo vs. Adiante — Energia como Bússola de Carreira]] — coming alive over getting ahead; use energia intrínseca pós-atividade como bússola principal de decisões de carreira, não métricas externas de progresso
+- [[Custo da Inação — Reframing do Medo]] — além de listar medos da mudança, calcule o custo de não mudar; o status quo cobra um preço real que é fácil de ignorar por já ter sido normalizado
+- [[Desperdiçar Horas para Não Desperdiçar Anos]] — trabalho criativo exige slack estrutural; você desperdiça anos por não conseguir desperdiçar horas; espaço em branco não é ineficiência, é insumo
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

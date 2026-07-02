@@ -73,6 +73,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Reverter o Medo — A Aposta Oposta]] — medo distorce previsões; assuma que o medo está errado e preveja o oposto; valide com coach; especialmente eficaz em conversas difíceis com board e time
 - [[Liderança Visionária vs. Governança por Comitê]] — grandes softwares emergem de visionários, não de comitês; input é separado de autoridade; Gutenberg teria sido vetado por voto
 - [[Dar os Legos — Crescer na Velocidade da Empresa]] — em escala acelerada, segurar o que domina é o caminho para ser soterrado; dar o trabalho adiante e assumir o próximo desafio é o único jeito de crescer junto com a empresa
+- [[Curva-U de Envolvimento do Fundador]] — envolvimento alto no início (alinhamento estratégico), baixo no meio (time explora), alto no final (prova a sopa + bug bash coletivo); evita o projeto que chega ao fim e o fundador odeia
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

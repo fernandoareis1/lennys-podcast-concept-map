@@ -107,3 +107,6 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[5 Arquétipos de PM]] — Consumer, Growth, GM/Business, Platform, Research/AI; cada PM tem um primário e um secundário; montar time com arquétipos complementares cria tensão saudável entre craft e dados
 - [[Em 6 Meses Se Ainda Estou Mandando Fazer, Contratei Errado]] — navalha de autonomia: se em 6 meses o manager ainda diz o que fazer, contratou errado; muda meta de "bater OKR" para "calibrar na direção certa"
 - [[Growth Mindset como Filtro Final de Contratação]] — última entrevista do CPO é só sobre growth mindset; meta-bloqueador: sem abertura a feedback, nenhum outro skill pode ser desenvolvido
+- [[PMwheel — Os 8 Buckets do PM]] — 8 dimensões de competência do PM: entender problemas, soluções, planning, executar, aprender, time, crescimento pessoal, agile; base para self-assessment + manager + time
+- [[5 Ingredientes para Ser o Melhor Coach dos seus PMs]] — bússola + pino no mapa + visão compartilhada + plano de desenvolvimento + follow-up; comece pelo ingrediente 4; consistência vence intensidade
+- [[Comunidade de Prática como Desenvolvimento Barato e Escalável]] — CoP interna/externa é a alavanca mais subestimada de desenvolvimento de PMs; mais barata que treinamento, retenção maior, menos pressão sobre o lead

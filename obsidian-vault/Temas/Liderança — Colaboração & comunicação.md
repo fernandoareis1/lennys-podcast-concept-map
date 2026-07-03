@@ -76,3 +76,6 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Método Acordeão — Internalizar, não Memorizar]] — prepare discursos falando: comprima de 3 min → 30 seg (essência pura) e expanda de volta; internalizou, não decorou; discurso plástico e robusto a erros
 - [[Método Arco e Flecha — Uma Coisa para Lembrar]] — otimize pelo que o público vai lembrar (não pelo que você quer dizer); flecha = 1 frase; arco = história/dado que dá peso; aplica slide a slide
 - [[Três Tenets do PM com Stakeholders — Influência Sem Obstrução]] — levante problemas difíceis sem ser difícil; traga tópicos importantes sem se colocar no centro; faça decisões acontecerem sem tomar todas
+- [[MOO — Antecipar a Objeção Mais Óbvia]] — antes de qualquer mensagem ou reunião, pergunte qual é a objeção mais óbvia e endereça-a proativamente; post-it como lembrete; torna-se músculo
+- [[Blast Radius do Memo — Custo Oculto da Comunicação Ruim]] — memo mal escrito para 15 pessoas cria desperdício massivo downstream; concisão = economia de palavras, não brevidade; preparação é a única solução confiável
+- [[Signposting — Guiar o Leitor com Palavras Âncora]] — palavras como "por exemplo," "porque," "como próximo passo," "primeiro/segundo/terceiro" sinalizam ao leitor o que vem; elimina releitura e reduz custo cognitivo

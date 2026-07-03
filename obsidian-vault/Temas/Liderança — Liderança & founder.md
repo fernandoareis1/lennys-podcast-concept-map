@@ -77,6 +77,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Dar os Legos — Crescer na Velocidade da Empresa]] — em escala acelerada, segurar o que domina é o caminho para ser soterrado; dar o trabalho adiante e assumir o próximo desafio é o único jeito de crescer junto com a empresa
 - [[Sombra dos Superpoderes]] — o que te levou ao nível atual se torna obstáculo no próximo; superpoderes (decisividade, opinião forte) projetam sombras (não ouvir, não colaborar) em novos níveis de liderança
 - [[Princípios de Produto como Linguagem Comum com o Founder]]
+- [[Liderança Escalável vs. Microgestão Seletiva]] — dois modos eficazes (escalável + seletivo) vs. dois disfuncionais; range dinâmico como objetivo de crescimento do líder
 - [[Pêndulo — Evitar a Sobre-correção]] — ao corrigir um estado indesejável, o perigo é a sobre-correção; monitore o ratio e pare antes do novo extremo — destile intuição do founder em princípios explícitos; curva U de envolvimento (alto no início, baixo no meio, alto no final para "taste the soup"); revisão final sempre em código, não em mock
 
 ## Descer mais (L4) ⬇

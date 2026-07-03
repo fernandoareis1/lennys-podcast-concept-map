@@ -20,5 +20,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[Métrica de Qualidade como Balizador de Crescimento]] — eleger review rate ou primeira venda como norte controla crescimento sem degradar proposta de valor; crescimento sem balizador de qualidade colapsa em retenção
 - [[Framework SPACE — Medindo a Experiência do Desenvolvedor]] — 5 dimensões (Satisfação, Performance, Atividade, Comunicação, Eficiência) para medir DevEx; adaptável à era da IA vs. DORA prescritivo
 
+- [[Fronteira do Entendimento — Tipos de Risco nos Objetivos]] — 4 tipos de risco (entendimento, dependência, execução, estratégico); meta certa para cada fronteira; NCTs vs OKRs
+
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

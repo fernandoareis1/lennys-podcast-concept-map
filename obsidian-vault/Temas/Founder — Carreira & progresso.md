@@ -73,5 +73,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[The Skip — Carreira como Job-After-Next]] — pense no job after next (skip), não só no próximo; escreva hoje a história que você vai contar no skip; use "eu", não "nós"
 - [[Empresa Ex-Growth — Armadilha do Capital Estagnado]] — empresa que captou muito em alta valuation mas perdeu crescimento; equity provavelmente zero por liquidation preferences; pergunta diagnóstica: escalando produto ou ainda buscando PMF?
 
+- [[12 Competências do PM]] — 4 áreas × 3 competências (execução, cliente, estratégia, liderança); mesmo framework APM→CPO; base para feedback exponencial
+
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

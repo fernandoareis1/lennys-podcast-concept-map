@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Oji Udezue]
+autores: [Oji Udezue, Rahul Vohra]
 ---
 # Viralidade como Marketing Aumentado pelo Cliente
 
@@ -59,6 +59,13 @@ O objetivo ideal: produto que tem viralidade orgânica (cresce) **e** efeito de 
 - "Calendly worked, Acuity didn't, even with the same mechanic. Because Calendly was genuinely better. The mechanic amplified something real."
 - "Network effects are the most powerful feature you can build. Twitter survived terrible management for years because of them."
 > 🎧 [Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform, Calendly, Twitter, Atlassian)](https://www.youtube.com/watch?v=T8TQGbJhv6Q) · 2023-09-14
+
+### [[Rahul Vohra]]
+- Aprendi com Elliot Shmukler (chefe de Growth do LinkedIn): **nenhum produto sustenta fator viral >1 por qualquer período real**. Até o Facebook no auge tinha K≈0,7, por cerca de um ano. O import de agenda do LinkedIn tinha fator viral de lifetime de ~0,4 — e isso é considerado bom.
+- O que explica "viralidade" é word-of-mouth **que você não consegue medir** — um usuário que espontaneamente conta para outro sobre o produto. Isso não é mecânica, não é feature. É a consequência de ter algo que as pessoas precisam compartilhar.
+- Conclusão prática: se você está contando com um loop que se autoalimenta indefinidamente, os dados mostram que isso não existe. O que você pode construir é um produto tão bom que as pessoas queiram contar — e então amplificar esse sinal com mecânicas sintéticas.
+
+> 🎧 [Superhuman's secret to success | Rahul Vohra (CEO and founder) (1:25:08)](https://www.youtube.com/watch?v=0igjSRZyX-w)
 
 ## Conceitos relacionados
 [[Máquina de Word-of-Mouth — Sinal Real de PMF]] · [[Product-Led Acquisition — Quatro Mecanismos]] · [[Atomic Unit of Sharing]] · [[Growth Loops vs Funil]] · [[Fanatical Love — Clientes que Amam, Não Apenas Gostam]]

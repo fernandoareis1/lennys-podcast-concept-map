@@ -41,6 +41,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Assimetria como Fonte de Poder]] — poder competitivo requer assimetria; metáfora da lupa: fonte + foco + alvo afetável; IBM como caso de assimetria que virou passivo
 - [[Inflections — Alavanca Assimétrica da Startup]]
 - [[Localização Ativa — Cultura como Chave da Globalização]] — tecnologia é ferramenta; expansão global exige talento local para calibrar produto e algoritmo; cultura determina comportamento — evento externo que cria nova empoderamento; startups usam inflections para guerrear assimetricamente contra incumbentes
+- [[Tensão como Motor de Inovação]] — tensão (≠ stress) é a antecipação de resolução; toda grande estratégia, marca ou produto tem tensão no centro: "vai funcionar para mim?" é o que cria engajamento e notabilidade
 
 ## Descer mais (L4) ⬇
 [[Positioning — Evidências (April Dunford)]]

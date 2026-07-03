@@ -134,6 +134,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Contexto como Camada Diferenciadora de Produto IA]] — utilidade de produto IA = modelo + contexto/memória + UX; contexto certo é "inteiramente a diferença entre uma boa resposta e uma ruim"; MCP torna contexto composível e reutilizável
 - [[Perguntas E Se vs Por Que Não — Mindset de Inovação]] — "e se?" abre possibilidades; "por que não?" é mecanismo de defesa; bifurcação amor/ódio = sinal de disrupção; toyness critique = validação
 - [[IA como Nova Plataforma — Pixels Gratuitos]] — IA tornou pixels gratuitos como a internet tornou informação gratuita; "seu produto é uma feature da IA, não o contrário"; apps transformadores não funcionam sem IA
+- [[Menor Audiência Viável — As Quatro Escolhas Estratégicas]] — quatro escolhas que definem tudo: cliente (menor audiência viável), concorrência, fonte de validação e distribuição; ao escolher o cliente, você escolheu o produto
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

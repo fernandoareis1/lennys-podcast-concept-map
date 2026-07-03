@@ -2,12 +2,12 @@
 tipo: insight
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Grant Lee, Rahul Vohra]
+autores: [Grant Lee, Rahul Vohra, Seth Godin]
 ---
 # Máquina de Word-of-Mouth — Sinal Real de PMF
 
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L3
-**Tipo:** Insight · **Fontes:** [[Grant Lee]]
+**Tipo:** Insight · **Fontes:** [[Grant Lee]] · [[Rahul Vohra]] · [[Seth Godin]]
 
 ## Ideia central
 Product-Market Fit não é quando você ganha o Product Hunt. É quando o word-of-mouth orgânico começa a se propagar sozinho, sem que você empurre. A Gamma ganhou Product Hunt três vezes seguidas (produto do dia, da semana, do mês) — e Grant Lee reconhece que aquilo não era PMF. PMF chegou quando a curva de crescimento orgânico disparou por conta própria, sem campanha nem esforço ativo.
@@ -59,5 +59,16 @@ Performance marketing que funciona é aquele que **amplia** um sinal orgânico j
 - Identificou "whales" de indicação: usuários que convidam 25-100 pessoas; incentivo de mês grátis por referral (para usuários individuais)
 > 🎧 [Superhuman's secret to success | Rahul Vohra (1:25:08)](https://www.youtube.com/watch?v=0igjSRZyX-w)
 
+### [[Seth Godin]]
+- Definição original: "The word remarkable means worth making a remark about." WoM acontece porque o produto eleva o status de quem o menciona.
+- Ingrediente central do WoM: o remetente deve beneficiar-se de contar — o receptor deve ficar grato pela indicação.
+- "If you make something where the person's life gets better if they talk about you and you know in advance what you want them to say, then they are more likely to say it."
+- Google em 1999: 2 botões vs. 183 links do Yahoo. A promessa simples criou um script claro de WoM: "só digita o que você quer".
+- Network effect como pré-condição: "If you don't build the network effect into what you are making, you are almost certainly going to fail."
+> 🎧 [Seth Godin's best tactics for building remarkable products, strategies, brands and more](https://www.youtube.com/watch?v=UyWTDmDjNy4) · 45:16
+
+## Aprofundamento ⬇
+- [[Máquina de Word-of-Mouth — Evidências]]
+
 ## Conceitos relacionados
-[[Growth como sistema, não time]] · [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] · [[Kindling vs Fire strategies]] · [[Retenção como Prova de Valor Real]]
+[[Growth como sistema, não time]] · [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] · [[Kindling vs Fire strategies]] · [[Retenção como Prova de Valor Real]] · [[Tensão como Motor de Inovação]]

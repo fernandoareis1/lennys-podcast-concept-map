@@ -65,6 +65,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 
 - [[Marketplaces como Remoção de Transaction Costs]] — ambos os lados são clientes; a plataforma vende remoção de fricção; scaled liquidity é o litmus test de ser um marketplace
 - [[Rating Inflation e Fairness Distribuicional]] — ratings inflam ao longo do tempo; média simples penaliza novos entrantes; solução: prior bayesiano
+- [[Payback Period como Bússola de Eficiência — Além do CAC]] — CAC foca em custo e não em valor; LTV é assumption-laden; payback period em contribution margin é mais confiável e avaliável rapidamente
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

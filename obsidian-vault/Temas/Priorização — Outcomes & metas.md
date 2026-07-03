@@ -21,6 +21,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[Framework SPACE — Medindo a Experiência do Desenvolvedor]] — 5 dimensões (Satisfação, Performance, Atividade, Comunicação, Eficiência) para medir DevEx; adaptável à era da IA vs. DORA prescritivo
 
 - [[Fronteira do Entendimento — Tipos de Risco nos Objetivos]] — 4 tipos de risco (entendimento, dependência, execução, estratégico); meta certa para cada fronteira; NCTs vs OKRs
+- [[Tradução Métrica — North Star por Camadas]] — camada de conversão de métricas locais para north star da empresa; reduz sobrecarga cognitiva de decisão e habilita cross-priorização de recursos
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

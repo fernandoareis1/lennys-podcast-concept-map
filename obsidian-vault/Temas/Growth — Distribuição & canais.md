@@ -62,6 +62,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Adicionar Valor em Comunidades antes de Vender]]
 - [[Lançar com Objetivo Claro — 6 Razões]] — defina por que você está lançando; 6 razões: aquisição, recrutamento, fundraising, feedback, parcerias, moral do time (mais esquecida); copy como humano, não PR speak
 - [[Grafos de Distribuição — Conteúdo vs. Pessoas vs. Intenção]] — TikTok (conteúdo) vs Meta (pessoas) vs Google (intenção); cada grafo exige estratégia de criativo e targeting radicalmente diferente — entre nos fóruns onde clientes fazem perguntas, responda com valor genuíno, construa confiança antes de apresentar o produto
+- [[Sequência de Canais B2B — Progressão por Custo e Eficácia]] — founder-led → sales → content/comunidade/PR → paid/brand → SEO; cada canal seguinte é mais caro mas mais eficaz conforme entendimento do cliente aumenta
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

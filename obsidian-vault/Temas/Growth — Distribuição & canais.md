@@ -60,6 +60,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Adicionar Valor em Comunidades antes de Vender]] — entre nos fóruns onde clientes fazem perguntas, responda com valor genuíno, construa confiança antes de apresentar o produto
 - [[Grafos de Plataforma — Conteúdo, Pessoas e Intenção]] — TikTok = grafo de conteúdo; Meta = grafo de pessoas; Google = grafo de intenção; cada um exige estratégia de criativo e targeting radicalmente diferente
 - [[Lançamento com Propósito — Além da Aquisição]] — launches servem múltiplos propósitos: recruiting, fundraising, feedback, parcerias, morale, SEO; quase ninguém pensa nisso antes de lançar
+- [[Substack Recommendations — Viral Discovery Loop]] — curadoria humana (sem algoritmo) que gerou 1/3 das novas subscrições do Substack; endosso de alta credibilidade + loop de goodwill bidirecional
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

@@ -79,6 +79,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Princípios de Produto como Linguagem Comum com o Founder]]
 - [[Pêndulo — Evitar a Sobre-correção]] — ao corrigir um estado indesejável, o perigo é a sobre-correção; monitore o ratio e pare antes do novo extremo — destile intuição do founder em princípios explícitos; curva U de envolvimento (alto no início, baixo no meio, alto no final para "taste the soup"); revisão final sempre em código, não em mock
 - [[Microgestão Seletiva — Intervenção Temporária de Direção]] — confiança na direção + autonomia = liderança escalável; sem confiança na direção → microgestão tática e temporária para corrigir o norte
+- [[PM como Facilitador em Empresa com Founder Forte]] — primeiros meses = resolver comunicação entre founder e times; facilitador, não decision-maker; só co-decide após ganhar confiança
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

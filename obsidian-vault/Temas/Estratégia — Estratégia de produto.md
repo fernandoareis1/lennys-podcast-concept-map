@@ -128,6 +128,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Betterment — Fechar o Gap Mais Doloroso]] — estratégia não é perfeição; identifique o gap mais doloroso, mude as escolhas, feche, repita; professor que elimina pior sessão todo ano
 
 - [[IA como Amplificador — Pair Programmer Invisível]] — AI remove drudgery para que o usuário permaneça no flow criativo; par programador, não substituto; latência de 200ms; o humano sempre decide
+- [[Princípio de Controle — Filtro Estratégico]] — "control" como tiebreaker de produto; quando há duas formas de fazer, escolha a que dá mais controle ao usuário, mesmo que a alternativa algorítmica funcione melhor
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

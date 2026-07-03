@@ -29,5 +29,13 @@ No Stripe Billing: empresas como Figma e Slack já estavam usando Stripe para pa
 
 > 🎧 [Building a culture of excellence (1:30:00)](https://www.youtube.com/watch?v=F0_IKKY3HCk)
 
+### [[Sachin Monga]]
+- No Substack, o Product Lab é um grupo de ~100 escritores convidados que testam features antes do lançamento amplo.
+- "O que lançamos no dia um tende a ser diferente do que tínhamos em mente antes desse processo."
+- O PM é o proponente e defensor do processo: Dayne Rathbone (PM da equipe de Recommendations) garantiu que a feature fosse construída pela via de co-criação.
+- A lição central: quanto mais estreito o grupo inicial de co-criadores, mais rápido você encontra o insight que o lançamento amplo nunca revelaria.
+
+> 🎧 [Building Substack | Sachin Monga (1:01:00)](https://www.youtube.com/watch?v=zKP2HrMc23s) · 2022-10-30
+
 ## Conceitos relacionados
-[[Continuous Discovery]] · [[Entrevista baseada em história]] · [[Product Trio]] · [[Clientes de Referência — PMF por reputação]]
+[[Continuous Discovery]] · [[Entrevista baseada em história]] · [[Product Trio]] · [[Clientes de Referência — PMF por reputação]] · [[Substack Recommendations — Viral Discovery Loop]]

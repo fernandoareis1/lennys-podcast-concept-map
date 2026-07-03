@@ -86,6 +86,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[PM como Alinhador de Visão — Facilitar antes de Decidir]] — ao entrar em empresa founder-led: crie canal bidirecional entre founder e times antes de qualquer decisão; confiança vem de "reps"
 - [[DRI — Disagree and Champion]] — um DRI por decisão; input em escrito (RAPID); decide sozinho; "disagree and champion" vai além de commit: evangeliza ativamente; velocidade de decisão ∝ accountability do dono, não das relações
 - [[Revisão Sem Drama — Clareza de Tipo e Cadência Regular]] — espectro de opinião do exec (Zuck), declarar tipo de reunião (update/decisão/delegação), cadência regular elimina "hero meetings" de alto drama
+- [[Atividades Hiper-Realistas — O Trabalho que Parece Trabalho]] — quando não há oferta suficiente de "known valuable work", pessoas geram trabalho fake visualmente idêntico ao real; responsabilidade do líder criar clareza e eliminar
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

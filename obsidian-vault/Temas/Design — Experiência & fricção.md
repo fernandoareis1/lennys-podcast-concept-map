@@ -29,6 +29,8 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Fat Marker Sketch — Clareza sem Falsa Precisão]] — esboços grosseiros para comunicar ideia sem falsa precisão; breadboarding como esquemático de UI; não Figma desfocado, grosso intencional
 - [[Conveniência como Lei Termodinâmica da Adoção]] — adoção = valor economizado >> custo de adoção; usuários são racionalmente preguiçosos; zero fricção antes do primeiro valor; limiar de 10X para switching
 - [[Ideal End State First — Experiência 15/10]] — comece pelo ideal irrestrito (15/10) antes de introduzir constraints; Airbnb lounge em 1 cidade perfeita antes de 120 países; impaciência para começar, paciência para ver
+- [[Compreensão em vez de Cliques — A Pergunta Real de UX]] — o mantra "reduza cliques/fricção" está errado quando o obstáculo é compreensão ("o que é isso? o que faço agora?"); 8 cliques triviais > 2 cliques incompreensíveis
+- [[Ilusão do Dono — O Viés do Criador do Produto]] — criadores esquecem que usuários chegam sem contexto, com intenção mínima e prontos para sair em fração de segundo; o restaurant website problem
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

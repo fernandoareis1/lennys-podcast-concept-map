@@ -36,3 +36,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Priorizar o IC sobre o Gestor — Anti-Bloat]] — features pedidas por gestores para reporting ao custo de piorar o workflow do IC levam a dados ruins e produto abandonado; a promessa implícita do bom produto é não fazer esse trade-off
 - [[Faça Metade — Remova Features para Crescer]] — cortar metade das features no lançamento concentra uso no core loop e acelera a métrica que importa; otimize pelos problemas que você quer ter
 - [[Minimizar Custo de Oportunidade — Além do ROI Positivo]] — em papéis de alta alavancagem, pare de buscar ROI positivo; pergunte "é o MELHOR uso do meu tempo?", não apenas "é um bom uso?"
+- [[Curvas de Utilidade — O Threshold de Investimento em Features]] — S-curve: features geram zero abaixo do threshold, enorme valor no meio, zero na saturação; pergunte "em que parte da curva estamos?" antes de investir mais

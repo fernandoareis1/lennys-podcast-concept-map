@@ -66,3 +66,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Mudança de Baixo para Cima sem Mandato — Show Don't Tell]] — sem mandato de cima, drive mudanças via experimentos pequenos + mostrar o problema visceralmente (vídeo de usuário) + reduzir atrito dos parceiros + escalar pelo sucesso demonstrado
 - [[Clareza Extrema e Canonical Doc]] — canonical doc por projeto + nomenclatura + visuais editados ao vivo + listas numeradas = todos partem da mesma base de fatos
 - [[SDR — Razão Decisiva Única]] — uma razão forte > coleção de razões fracas; neutraliza viés de grupos e clarifica por que se quer tomar a decisão
+- [[Contexto sem Controle — Propriedade como Cultura]] — TikTok: dê contexto completo a todos → pensamento proativo de dona → ação reativa com colaboração; quebra silos sem criar caos

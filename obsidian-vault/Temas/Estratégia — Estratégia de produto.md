@@ -123,6 +123,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[O Crux — Foco no Problema Mais Difícil]] — o passo mais difícil da escalada = o problema mais difícil da estratégia; insight vem da imersão, não de listas genéricas
 - [[Má Estratégia — Padrões de Falha]] — 4 padrões: metas confundidas com estratégia, fluff/word salad, diagnóstico ausente, ações incoerentes
 - [[Adição Complementar vs. Substituição de Produto]] — novos formatos/features devem ser "coerentes mas distintos"; AI Mode complementa Search; Stories expandiu o feed; formatos se tornam primitivos universais
+- [[Strategy Choice Cascade — 5 Questões de Estratégia]] — 5 perguntas integradas: aspiração → where to play → how to win → capacidades → sistemas de gestão; todas devem ser respondidas juntas
+- [[Jogar para Vencer — Diferenciação ou Custo]] — só há 2 formas de vencer; não ser nenhuma = ser bullied indefinidamente; Southwest, Lego, Vanguard como exemplos
+- [[Betterment — Fechar o Gap Mais Doloroso]] — estratégia não é perfeição; identifique o gap mais doloroso, mude as escolhas, feche, repita; professor que elimina pior sessão todo ano
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

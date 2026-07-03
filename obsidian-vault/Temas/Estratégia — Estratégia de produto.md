@@ -46,6 +46,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Incubação pelo Uso Próprio]] — descubra produtos vivendo no edge da IA; valide com o próprio time primeiro; unbundle de ferramentas gerais para apps específicos; GPT wrappers são legítimos; software vira conteúdo
 - [[Destruir-se antes que Alguém o Destrua — O Imperativo da IA]] — para SaaS estabelecido, AI não é oportunidade mas imperativo de sobrevivência; não dá para fazer pela metade; se o founder não vai all-in, contrate alguém que vai
 
+- [[Expansão Vertical antes de Horizontal]] — domine seu vertical completamente antes de expandir horizontalmente; comunidade não transfere; product experience muda por categoria (Product Hunt regret)
 - [[Cascata de Escolhas Estratégicas — 5 Perguntas]] — aspiração vencedora → onde jogar → como ganhar → capacidades → sistemas de gestão; tudo compele ação desejada do cliente
 - [[Produto Complementar — Adicionar sem Substituir]] — novo produto ao lado do existente, não contorcendo-o; Stories complementou Instagram; AI Mode complementa Search; coerente mas distinto
 - [[O Kernel da Estratégia]] — 3 componentes obrigatórios: diagnóstico + política orientadora + ações coerentes; má estratégia confunde metas com estratégia

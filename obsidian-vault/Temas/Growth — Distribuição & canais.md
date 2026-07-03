@@ -58,6 +58,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Esqueleto Antes da Maquiagem — Fundamentos antes de Otimização]] — construa fundamentos (site rápido, posicionamento claro, conteúdo descobrível) antes de escalar paid ads; otimização sobre base fraca amplifica o problema
 - [[Google Search Over — Conteúdo que Termina a Busca]] — conteúdo de qualidade = usuário para de buscar após consumir; critério mais rigoroso e correto que posição no ranking
 - [[Adicionar Valor em Comunidades antes de Vender]]
+- [[Lançar com Objetivo Claro — 6 Razões]] — defina por que você está lançando; 6 razões: aquisição, recrutamento, fundraising, feedback, parcerias, moral do time (mais esquecida); copy como humano, não PR speak
 - [[Grafos de Distribuição — Conteúdo vs. Pessoas vs. Intenção]] — TikTok (conteúdo) vs Meta (pessoas) vs Google (intenção); cada grafo exige estratégia de criativo e targeting radicalmente diferente — entre nos fóruns onde clientes fazem perguntas, responda com valor genuíno, construa confiança antes de apresentar o produto
 
 ## Fluxos vizinhos

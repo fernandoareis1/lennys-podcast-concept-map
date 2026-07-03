@@ -33,5 +33,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Efeito de Rede por Design de Convites]] — conectores naturais convidam se o fluxo for simples; convites ubíquos e presentes em múltiplos pontos; usuários não-sociais ignoram, não sacrifique o design por eles
 - [[Métricas Além de Engajamento — Saúde vs. Vício em IA]] — otimizar likabilidade em IA gera sycophancy; o critério correto é tempo bem gasto (usuário saiu mais capaz) vs. engajamento; "você sabe quando seu produto está realmente servindo as pessoas"
 
+- [[Predição vs. Causalidade em Dados]] — ML prediz correlações, boas decisões precisam de causalidade; enviar promoções a alto LTV ≠ enviar a quem vai incrementar LTV por causa da promoção
+
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

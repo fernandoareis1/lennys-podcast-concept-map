@@ -61,5 +61,9 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Viralidade como Marketing Aumentado pelo Cliente]] — viralidade real é quando clientes fazem o marketing; orgânica (Slack/WoM) precede sintética (Hotmail/badges); efeitos de rede são o layer superior
 - [[Funil do Meio — A Oportunidade Esquecida]] — 80% do budget vai para topo e fundo; middle of funnel (freemium + inbound media) tem retenção 10-20% maior, NPS 2x; buyers convertem no próprio timing
 
+- [[Marketplaces como Remoção de Transaction Costs]] — ambos os lados são clientes; a plataforma vende remoção de fricção; scaled liquidity é o litmus test de ser um marketplace
+- [[Rating Inflation e Fairness Distribuicional]] — ratings inflam ao longo do tempo; média simples penaliza novos entrantes; solução: prior bayesiano
+
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]
+[[Liquidez do Marketplace — Evidências]]

@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Benjamin Lauzier, Dan Hockenmaier]
+autores: [Benjamin Lauzier, Dan Hockenmaier, Ramesh Johari]
 ---
 # Liquidez do marketplace
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L3
@@ -36,5 +36,16 @@ Mais acionável que o fill rate é a **métrica de saúde de mercado (market hea
 - "Cut scope — to a specific geography, category, or use case — to generate liquidity. Better to have an incredibly liquid slice than a thin liquid everywhere."
 - A liquidez é local: um marketplace pode ser líquido em São Paulo e ilíquido em Curitiba simultaneamente; gerencie como portfólio de mercados com estágios diferentes
 
+### [[Ramesh Johari]]
+- **Marketplace whac-a-mole:** mudanças que melhoram uma parte do marketplace frequentemente pioram outra — você só empurra os problemas de um lado para o outro. "Many of the changes that are most consequential create winners and losers."
+- "Rolling with those changes is about recognizing whether the winners you've created are more important to your business than the losers you've created in the process."
+- Exemplo real: ao melhorar métricas de novo supply, as métricas do supply existente pioraram → ao ajustar supply existente, novo supply piorou → ciclo de compensações inevitáveis
+- Framing correto: você raramente expande o pie para todos. Você geralmente realoca atenção e inventário — e precisa ter clareza sobre quem são os winners mais importantes para o negócio
+- Relacionado: o Superhost da Airbnb provavelmente reduziu bookings de não-Superhosts; o experimento ser "flat" pode esconder esse trade-off
+> 🎧 [Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (1:23:36)](https://www.youtube.com/watch?v=BVzTfsUMaK8)
+
+## Aprofundamento ⬇
+- [[Liquidez do Marketplace — Evidências]]
+
 ## Conceitos relacionados
-[[Growth Loops vs Funil]] · [[Retenção é a base do crescimento]] · [[Teoria do Usuário Adjacente]] · [[Demanda como Moeda do Marketplace]] · [[Supply-First no Marketplace]] · [[Marketplace como Jardineiro]]
+[[Growth Loops vs Funil]] · [[Retenção é a base do crescimento]] · [[Teoria do Usuário Adjacente]] · [[Demanda como Moeda do Marketplace]] · [[Supply-First no Marketplace]] · [[Marketplace como Jardineiro]] · [[Marketplaces como Remoção de Transaction Costs]]

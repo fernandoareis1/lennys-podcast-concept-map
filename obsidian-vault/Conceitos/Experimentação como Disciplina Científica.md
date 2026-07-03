@@ -2,7 +2,7 @@
 tipo: principio
 nivel: 3
 fluxo: Experimentação & Dados
-autores: [Mayur Kamat]
+autores: [Mayur Kamat, Ramesh Johari]
 ---
 # Experimentação como Disciplina Científica
 
@@ -32,5 +32,15 @@ Estratégia em produto é superestimada. Para a maioria dos PMs, a estratégia r
 - "Come to me with data. If you come to me with ideas, we'll go with mine."
 > 🎧 [Building a culture of experimentation, decisiveness, and moving fast (Mayur Kamat)](https://www.youtube.com/watch?v=UVyfuSBwbNA)
 
+### [[Ramesh Johari]]
+- "In science, it'd be weird if Ronald Fisher talked about winners. Experimentation is always very hypothesis driven — it's about what you're learning."
+- A linguagem de "winners/losers" cria incentivos perversos: data scientists otimizam para número de wins → testes mais incrementais + mais longos → menos aprendizado
+- "If you're going to reward someone for shipping winners, what I'm really telling you is all the time testing failures was wasted time." — mesmo que a empresa verbalmente diga "é ok falhar"
+- **Aprendizado tem custo:** o holdout não autorizado do marketing manager que custou milhões → mas sem ele, a empresa nunca saberia o valor real da equipe
+- "You have to put yourself in the frame of reference of when you didn't have the answer. At that moment, it's worth paying to learn."
+- **Bayesian A/B testing:** incorporar priors dos experimentos anteriores no análise do próximo experimento → experimentos que "falham" contribuem para o prior e têm valor positivo para o próximo teste
+- Fat tails: testes de impacto grande geralmente requerem coragem de falhar grande; cultura de wins droga a empresa para incrementalismo
+> 🎧 [Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (1:23:36)](https://www.youtube.com/watch?v=BVzTfsUMaK8)
+
 ## Conceitos relacionados
-[[Tudo no backlog é uma aposta]] · [[Era dos evals — o eval é o PRD do modelo]] · [[PMF como sinal claro do mercado]] · [[Trabalho no Detalhe Como Liderança de Alto Leverage]]
+[[Tudo no backlog é uma aposta]] · [[Era dos evals — o eval é o PRD do modelo]] · [[PMF como sinal claro do mercado]] · [[Trabalho no Detalhe Como Liderança de Alto Leverage]] · [[Predição vs. Causalidade em Dados]]

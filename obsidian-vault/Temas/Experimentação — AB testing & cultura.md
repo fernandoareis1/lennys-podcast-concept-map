@@ -35,6 +35,9 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 
 - [[Predição vs. Causalidade em Dados]] — ML prediz correlações, boas decisões precisam de causalidade; enviar promoções a alto LTV ≠ enviar a quem vai incrementar LTV por causa da promoção
 - [[Intencionalidade como Guia do A/B Testing]] — A/B testing é ferramenta de navegação, não de destinação; GPS analogy: você diz ao GPS onde ir, não pede que ele decida; Kevin Systrom Instagram Stories: intencionalidade primeiro
+- [[Few-Shot Prompting — Exemplos como Maior Uplift Individual]] — técnica de maior uplift isolado em prompt engineering; Q/A format; zero-shot → few-shot é o maior salto; sinaliza formato, tom e tarefa exata
+- [[Role Prompting — Mito da Persona para Precisão]] — sem impacto estatístico em precisão em modelos modernos; funciona apenas para tarefas de estilo/expressão; tokens desperdiçados para accuracy
+- [[Decomposição de Subproblemas — Perguntar Antes de Responder]] — peça os subproblemas antes da resposta; força mapeamento do espaço do problema; exemplo da concessionária; variante de chain-of-thought
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

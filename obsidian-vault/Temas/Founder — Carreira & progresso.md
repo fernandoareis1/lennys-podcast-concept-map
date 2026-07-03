@@ -79,6 +79,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Ensinar em 1 Minuto — Entrevista de PM]] — pergunta de entrevista: "ensine algo novo em 1 minuto"; avalia completeness, complexity e clarity; revela PM sense sobre comunicação
 - [[PM Upstream — Da Execução para o Problema]] — mover PM de mestre de ritual para detetive do problema; entender negócio e cliente profundamente; menos Jira, mais framing
 - [[12 Competências do PM]] — 4 áreas × 3 competências (execução, cliente, estratégia, liderança); mesmo framework APM→CPO; base para feedback exponencial
+- [[Especialização sobre Generalismo — Ir Fundo]] — "6 milhas de largura, 1cm de profundidade" é armadilha; forçar especialização revela competência real; especialista antes de generalista
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

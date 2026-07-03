@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Estratégia & Visão
-autores: []
+autores: [Tom Conrad]
 ---
 # Equação Fundacional — Iteração Não Conserta Negócio Quebrado
 

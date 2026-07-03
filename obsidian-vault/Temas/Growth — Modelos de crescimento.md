@@ -64,3 +64,4 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]
+[[Liquidez do marketplace — Evidências]]

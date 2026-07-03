@@ -117,6 +117,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Convicção Robusta com Flexibilidade]] — opiniões fortes fracamente mantidas; convicção para ancorar o time + flexibilidade para pivotar quando o sinal externo contradiz a hipótese; maioria das decisões é porta de dois sentidos
 - [[Produto na Interseção Modelo-Produto — Vantagem Única de IA]] — produto de AI lab tem vantagem só no cruzamento de pesquisa de modelo e produto; wrapper que qualquer pessoa faz via API é commodity; unidade de trabalho muda para participar do post-training
 - [[Contexto como Camada Diferenciadora de Produto IA]] — utilidade de produto IA = modelo + contexto/memória + UX; contexto certo é "inteiramente a diferença entre uma boa resposta e uma ruim"; MCP torna contexto composível e reutilizável
+- [[Product Strategy Stack — Missão ao Roadmap]] — 5 camadas: Mission → Strategy → Product Strategy → Roadmap → Goals; goals depois do roadmap; wireframes na estratégia; Tinder vs. Hinge como caso
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

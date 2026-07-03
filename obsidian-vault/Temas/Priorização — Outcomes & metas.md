@@ -19,6 +19,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 - [[Seis Regras de Metas Claras — Foco como Comunicação]] — máximo 3 metas, uma vence a briga, explicável ao estagiário, estratégia deve doer, um dono por meta, processo de acompanhamento é obrigatório
 - [[Métrica de Qualidade como Balizador de Crescimento]] — eleger review rate ou primeira venda como norte controla crescimento sem degradar proposta de valor; crescimento sem balizador de qualidade colapsa em retenção
 - [[Framework SPACE — Medindo a Experiência do Desenvolvedor]] — 5 dimensões (Satisfação, Performance, Atividade, Comunicação, Eficiência) para medir DevEx; adaptável à era da IA vs. DORA prescritivo
+- [[Fronteira de Compreensão — Tipos de Risco em Goals]] — 4 tipos de risco antes de comprometer outcome goal: Understanding → Dependency → Execution → Strategic
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

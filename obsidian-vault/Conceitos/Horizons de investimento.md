@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Priorização & Roadmap
-autores: [Annie Pearl]
+autores: [Annie Pearl, Ryan J. Salva]
 ---
 # Horizons de investimento
 **Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Priorização & foco]] · **Camada:** L3
@@ -24,6 +24,14 @@ Empresas precisam alocar recursos de produto entre três horizontes de maturidad
 - "No ano 2, fomos 50/50 entre H1 e H2 — ainda zero em H3. Entrando no ano 3, reduzimos drasticamente H1 para ~30%, colocamos 60% em H2 e 10% começando em H3."
 - A clareza de estratégia ("onde jogar e como vencer") alimenta diretamente a divisão entre horizontes — sem estratégia clara, o split vira arbitrário.
 > 🎧 [Behind the scenes of Calendly's rapid growth (1:01:49)](https://www.youtube.com/watch?v=-tUIGpgmsZw)
+
+### [[Ryan J. Salva]]
+- "Como regra geral, tento reservar 5 a 10% da capacidade do time para apostas experimentais e ousadas. Cerca de 25-30% para operações — manter produtos em mercado atendendo expectativas dos clientes. E o restante, ~60%, em progresso incremental nos produtos em mercado."
+- "Em startups, onde você é basicamente uma grande aposta, seus percentuais ficam muito diferentes — você está all-in na loteria proverbial."
+- A progressão de maturidade dita o split: quanto mais maduro o produto, mais recursos podem migrar de H1 para H2 e H3.
+- Ryan aplicou esse framework diretamente ao portfolio de GitHub: Copilot era H3 antes de virar H1.
+
+> 🎧 [The role of AI in new product development | Ryan J. Salva (1:05:00)](https://www.youtube.com/watch?v=awcd3P1DnX4) · 2022-09-04
 
 ## Conceitos relacionados
 [[Priorização — Priorização & foco]] · [[DHM Model]] · [[LNO Framework]] · [[Narrativa como filtro de priorização]]

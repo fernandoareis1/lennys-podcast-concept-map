@@ -2,7 +2,7 @@
 tipo: modelo
 nivel: 3
 fluxo: Liderança & Times
-autores: [Inbal Shani]
+autores: [Inbal Shani, Ryan J. Salva]
 ---
 # Pesquisa Aplicada Não-Universitária — GitHub Next
 **Fluxo:** [[09 - Liderança & Times]] · **Tema:** [[Liderança — Modelos de time]] · **Camada:** L3
@@ -43,6 +43,15 @@ Não estruture demais a inovação. "Se você tentar estruturar inovação, voc�
 - GitHub Next: applied scientists and research scientists thinking 3-5 years ahead, writing papers, running experiments, doing POCs — "their job is to invent the future"
 
 > 🎧 [The future of AI in software development | Inbal Shani (CPO of GitHub) (50:04)](https://www.youtube.com/watch?v=f10s3rxKaJw) · 2023-12-01
+
+### [[Ryan J. Salva]]
+- "O critério para mover pesquisadores de volta ao time de R&D não pode ser baseado em calendário. Precisa ser baseado em substituição real no cargo — quem está fazendo o trabalho e absorveu todas as habilidades necessárias."
+- "O time que assume do laboratório de R&D precisa sentir que controla o próprio futuro. Você não pode delegar roadmap para um time de R&D."
+- "Garantir que você não está terceirizando inovação exclusivamente para um time de R&D é crítico — inovação também precisa acontecer dentro do time de produto enquanto eles assumem ownership do caso de uso."
+- O Copilot atravessou a transição: GitHub Next (H3) → technical preview com dezenas de milhares de devs → equipe EPD expandida → pesquisadores voltam ao Next; o transfer de conhecimento foi condição para a saída.
+- "Trazer os pesquisadores junto — não simplesmente 'tudo bem, continuamos daqui' — foi essencial para não perder o conhecimento durante a transição."
+
+> 🎧 [The role of AI in new product development | Ryan J. Salva (1:05:00)](https://www.youtube.com/watch?v=awcd3P1DnX4) · 2022-09-04
 
 ## Conceitos relacionados
 [[Isolamento como Inovação — Team Off to the Side]] · [[Zero a Um Dentro de Empresa Existente — Separação Total]] · [[Incubação pelo Uso Próprio]] · [[Engineer Occasion]] · [[Engenharia Composta — Cada Unidade Facilita a Próxima]]

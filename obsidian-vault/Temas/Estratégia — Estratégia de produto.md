@@ -127,6 +127,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Jogar para Vencer — Diferenciação ou Custo]] — só há 2 formas de vencer; não ser nenhuma = ser bullied indefinidamente; Southwest, Lego, Vanguard como exemplos
 - [[Betterment — Fechar o Gap Mais Doloroso]] — estratégia não é perfeição; identifique o gap mais doloroso, mude as escolhas, feche, repita; professor que elimina pior sessão todo ano
 
+- [[IA como Amplificador — Pair Programmer Invisível]] — AI remove drudgery para que o usuário permaneça no flow criativo; par programador, não substituto; latência de 200ms; o humano sempre decide
+
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]
 

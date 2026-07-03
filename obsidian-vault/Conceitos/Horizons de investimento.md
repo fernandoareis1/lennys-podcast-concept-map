@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Priorização & Roadmap
-autores: [Annie Pearl]
+autores: [Annie Pearl, Ryan J. Salva]
 ---
 # Horizons de investimento
 **Fluxo:** [[03 - Priorização & Roadmap]] · **Tema:** [[Priorização — Priorização & foco]] · **Camada:** L3
@@ -25,5 +25,12 @@ Empresas precisam alocar recursos de produto entre três horizontes de maturidad
 - A clareza de estratégia ("onde jogar e como vencer") alimenta diretamente a divisão entre horizontes — sem estratégia clara, o split vira arbitrário.
 > 🎧 [Behind the scenes of Calendly's rapid growth (1:01:49)](https://www.youtube.com/watch?v=-tUIGpgmsZw)
 
+### [[Ryan J. Salva]]
+- Alocação para **grandes times em empresas estabelecidas**: ~5-10% em moonshots experimentais (H3), ~25-30% em operações (manter produtos em mercado atendendo expectativas), ~60% em melhorias incrementais de produtos existentes.
+- Para startups, esse modelo muda radicalmente: "you're all in for that one proverbial lottery ticket" — quase 100% H3 por definição.
+- H1/H2/H3 são medidas de **ambiguidade e nível de confiança**, não apenas de datas no calendário. H1 = próximo ano; H2 = próximos 3 anos; H3 = próximos 5 anos.
+- O GitHub criou o "GitHub Next" como time ring-fenced para H2/H3, completamente separado dos times EPD (Engineering, Product, Design) que entregam produtos operacionais.
+> 🎧 The role of AI in new product development | Ryan J. Salva (VP of Product at GitHub) · 2022-09-04
+
 ## Conceitos relacionados
-[[Priorização — Priorização & foco]] · [[DHM Model]] · [[LNO Framework]] · [[Narrativa como filtro de priorização]]
+[[Priorização — Priorização & foco]] · [[DHM Model]] · [[LNO Framework]] · [[Narrativa como filtro de priorização]] · [[Transição de P&D para Produto — Handoff Progressivo]]

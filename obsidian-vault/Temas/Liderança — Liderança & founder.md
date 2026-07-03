@@ -82,5 +82,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Always Day One — Anti-acomodação em Escala]] — mentalidade de startup mesmo em escala; "correr a segunda metade da maratona mais rápido que a primeira"; acesso direto ao co-founder para todos — dois modos eficazes (escalável + seletivo) vs. dois disfuncionais; range dinâmico como objetivo de crescimento do líder
 - [[Pêndulo — Evitar a Sobre-correção]] — ao corrigir um estado indesejável, o perigo é a sobre-correção; monitore o ratio e pare antes do novo extremo — destile intuição do founder em princípios explícitos; curva U de envolvimento (alto no início, baixo no meio, alto no final para "taste the soup"); revisão final sempre em código, não em mock
 
+- [[Transição de P&D para Produto — Handoff Progressivo]] — transferência gradual de pesquisa para produto; critério é substituição em seat, não data; time de produto deve sentir que controla o roadmap; engineering fundamentals são os contratos que diferem P&D de produto operacional
+
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

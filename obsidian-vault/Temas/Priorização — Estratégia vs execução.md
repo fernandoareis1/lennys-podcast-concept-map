@@ -31,3 +31,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Murder Board — Adversário como Filtro de Qualidade]] — sessão adversarial pré-projeto: 2 páginas de plano + 3-4 críticos que não conhecem o projeto com missão de destruir; um bom princípio é aquele com o qual alguém discorda
 - [[S-Curves de Produto — Bússola de Reinvestimento]] — rastreie S-curves por produto/feature; retorno marginal decrescente = sinal de reinventar; vá a primeiros princípios quando a curva achata
 - [[Sessão de Shaping — Ideação com Risco Exposto]] — sessão intensiva produto+eng+design para "crack the nut"; saída = "eu sei o que construir"; whiteboard, não PRD
+- [[Sequenciamento vs. Trade-offs Permanentes — Startup vs Escala]] — em startups: variável é tempo/ordem; em escala: decisões criam impossibilidades permanentes; order of operations em produtos formativos

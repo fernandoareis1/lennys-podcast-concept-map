@@ -83,6 +83,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Pêndulo — Evitar a Sobre-correção]] — ao corrigir um estado indesejável, o perigo é a sobre-correção; monitore o ratio e pare antes do novo extremo — destile intuição do founder em princípios explícitos; curva U de envolvimento (alto no início, baixo no meio, alto no final para "taste the soup"); revisão final sempre em código, não em mock
 
 - [[Transição de P&D para Produto — Handoff Progressivo]] — transferência gradual de pesquisa para produto; critério é substituição em seat, não data; time de produto deve sentir que controla o roadmap; engineering fundamentals são os contratos que diferem P&D de produto operacional
+- [[PM como Alinhador de Visão — Facilitar antes de Decidir]] — ao entrar em empresa founder-led: crie canal bidirecional entre founder e times antes de qualquer decisão; confiança vem de "reps"
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

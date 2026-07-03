@@ -122,6 +122,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Kernel da Estratégia — Diagnóstico, Política e Ação]] — 3 elementos indissociáveis: diagnóstico + política guia + ações coerentes; sem todos os 3, não é estratégia
 - [[O Crux — Foco no Problema Mais Difícil]] — o passo mais difícil da escalada = o problema mais difícil da estratégia; insight vem da imersão, não de listas genéricas
 - [[Má Estratégia — Padrões de Falha]] — 4 padrões: metas confundidas com estratégia, fluff/word salad, diagnóstico ausente, ações incoerentes
+- [[Adição Complementar vs. Substituição de Produto]] — novos formatos/features devem ser "coerentes mas distintos"; AI Mode complementa Search; Stories expandiu o feed; formatos se tornam primitivos universais
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

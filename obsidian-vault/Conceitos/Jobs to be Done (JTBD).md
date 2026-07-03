@@ -2,7 +2,7 @@
 tipo: framework
 fluxo: Discovery & Pesquisa
 nivel: 3
-autores: [Bob Moesta]
+autores: [Bob Moesta, Robby Stein]
 ---
 # Jobs to be Done (JTBD)
 
@@ -32,6 +32,13 @@ As pessoas **não compram produtos — elas os "contratam"** para fazer progress
 - 🎯 Caso real: na Southern New Hampshire University, anomalias de alunos adultos revelaram um job ignorado → 200k+ alunos.
 
 > 🎧 [Bob Moesta — How to find work you love (1:24:56)](https://www.youtube.com/watch?v=2wypVv9wZtI)
+
+### [[Robby Stein]]
+- Clayton Christensen distingue **utility jobs** (funcionais) de **emotional jobs**. Close Friends no Instagram falhou porque o time priorizou a utility (compartilhar com poucos) mas o job real era emocional: sentir-se conectado, receber um DM de volta, não se sentir sozinho.
+- O "big hire" — o momento em que alguém decide usar o produto pela primeira vez — é o dado mais valioso. "Onde você estava? O que você estava fazendo? O que te levou a isso?" Causação, não correlação.
+- O produto de Close Friends era funcionalmente bom mas emocionalmente quebrado: se você tem 2 pessoas na lista e nenhuma responde, o job emocional não foi feito. A correção foi recomendar 20-30 pessoas para aumentar a probabilidade de conexão.
+- Exemplo de aplicação: "Por que você não posta na sua Story?" → "Meu ex está lá. Tem um professor. Uma amiga que julga." → diagnóstico: problema de audiência → solução: Close Friends.
+- "People hire products to make progress. You have to understand what they're trying to get done — and especially the emotional dimension, which teams discount a lot."
 
 ## Aprofundamento ⬇
 *Camada L4 — citações longas, debate e casos:*

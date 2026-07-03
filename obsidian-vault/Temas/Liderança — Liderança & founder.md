@@ -87,6 +87,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[DRI — Disagree and Champion]] — um DRI por decisão; input em escrito (RAPID); decide sozinho; "disagree and champion" vai além de commit: evangeliza ativamente; velocidade de decisão ∝ accountability do dono, não das relações
 - [[Revisão Sem Drama — Clareza de Tipo e Cadência Regular]] — espectro de opinião do exec (Zuck), declarar tipo de reunião (update/decisão/delegação), cadência regular elimina "hero meetings" de alto drama
 - [[Atividades Hiper-Realistas — O Trabalho que Parece Trabalho]] — quando não há oferta suficiente de "known valuable work", pessoas geram trabalho fake visualmente idêntico ao real; responsabilidade do líder criar clareza e eliminar
+- [[Equanimidade como Superpoder do PM]] — compostura mental em caos extremo; pausar antes de reagir como causa-raiz do sucesso em stakeholder management, moral de time e decisões de produto; reactivity é o inimigo do bom PM
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

@@ -33,6 +33,7 @@ Nem tudo precisa de um experimento gigante: quebrar a ideia em **suposições** 
 - [[10% Rule — Hipótese Antes da Metade]] — após 10% do tempo alocado, deve existir algo funcional que testa a hipótese central; velocidade e qualidade não são trade-offs — são ambos produto de competência
 - [[Ship to Learn — Propriedades Emergentes em IA]] — em produtos de IA, propriedades são emergentes e não conhecíveis com antecedência; ship para descobrir o que polir, não para spec
 - [[Validação Sequencial de Consumer App]] — valide em camadas condicionais (core flow → viralidade intra-grupo → entre grupos → monetização); execute a 100% na camada em teste; elimine variáveis de confusão semeando uma escola inteira
+- [[Ensaio de Breaking News — Stress Test em Contexto Real]] — simulação roteirizada de breaking news para stress-test de plataforma em ritmo real; atores reais + scripts + observação paralela; captura feedback de comportamento, não de articulação; generalizável para qualquer produto com picos de uso críticos
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]]

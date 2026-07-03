@@ -46,6 +46,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Lighthouse Users — Construir com Poucos para Escalar para Muitos]] — programa estruturado de 10→100→1000 usuários nomeados; product engineers emergem da exposição direta; Safety Funnel limita impacto negativo antes da escala
 - [[Quatro Níveis de PMF — Nascente a Extremo]] — PMF progride em 4 níveis com foco diferente: satisfação (L1) → demanda (L2) → forte (L3) → extremo (L4); métricas claras por nível; 60% das startups trava no L2; eficiência é a terceira perna que falta no PMF falso
 - [[Quatro Ps do PMF — Alavancas de Desbloqueio]] — quando travado, mude um ou mais Ps: persona + problema + promessa + produto; Lattice manteve persona; Vanta mudou todos; Plaid manteve produto; venda com mock-ups antes de construir
+- [[Sistema de 4 Touch Points — Gestão de Usuários Indisponíveis]] — demo days + working sessions + dress rehearsals + office hours; intake sistemático para usuários com agendas voláteis; buffers obrigatórios no planejamento; renomear "user testing" para "working session" muda dinâmica de poder
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

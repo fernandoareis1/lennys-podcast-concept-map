@@ -66,3 +66,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Mudança de Baixo para Cima sem Mandato — Show Don't Tell]] — sem mandato de cima, drive mudanças via experimentos pequenos + mostrar o problema visceralmente (vídeo de usuário) + reduzir atrito dos parceiros + escalar pelo sucesso demonstrado
 - [[Clareza Extrema e Canonical Doc]] — canonical doc por projeto + nomenclatura + visuais editados ao vivo + listas numeradas = todos partem da mesma base de fatos
 - [[Razão Decisiva Única (SDR)]] — decisão sólida exige uma razão que sozinha a suporte; coleção de razões fracas nunca equivale a uma forte
+- [[Tarefas, não Problemas — Workflow com Agentes de IA]] — delegue tarefas bem-definidas a agentes de IA (não problemas abertos); rode múltiplos em paralelo de forma assíncrona; intervenha só nos 10–20% críticos

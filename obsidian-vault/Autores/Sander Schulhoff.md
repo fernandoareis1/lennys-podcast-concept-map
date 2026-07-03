@@ -12,6 +12,10 @@ Sander Schulhoff começou a documentar prompt engineering quando quase ninguém 
 - [[Role Prompting — Mito da Persona para Precisão]] — sem impacto estatístico em tarefas de precisão em modelos modernos; funciona apenas para estilo
 - [[Decomposição de Subproblemas — Perguntar Antes de Responder]] — peça os subproblemas antes da resposta; exemplo da concessionária
 - [[Você Não Pode Patchear um Cérebro — Segurança em IA Agêntica]] — prompt injection é insolucionável; intelligence gap nos guardrails; fine-tuning estreito como melhor defesa
+- [[Jailbreaking vs. Prompt Injection — Duas Superfícies de Ataque]] — jailbreak = user+model; prompt injection = user+model+system prompt; indirect = dados externos sequestram agente
+- [[CAMEL — Permissão Mínima em Sistemas Agênticos]] — restrinja permissões do agente ao mínimo necessário antes do task; único framework de defesa eficaz endossado
+- [[Espaço de Ataque Infinito — Por Que 99% de Defesa é Ilusão]] — 1 seguido de 1 milhão de zeros = espaço infinito; 99% de cobertura é estatisticamente sem sentido; falsa segurança é mais perigosa que ausência de guardrail
 
-## Episódio
-> 🎧 [AI prompt engineering in 2025: What works and what doesn't | Sander Schulhoff](https://www.youtube.com/watch?v=example) · 2025-06-19
+## Episódios
+> 🎧 [AI prompt engineering in 2025: What works and what doesn't | Sander Schulhoff](https://www.youtube.com/watch?v=J9982NLmTXg) · 2025-06-19
+> 🎧 [Why securing AI is harder than anyone expected and guardrails are failing | HackAPrompt CEO](https://www.youtube.com/watch?v=J9982NLmTXg) · 2025-12-21

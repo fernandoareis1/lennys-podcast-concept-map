@@ -86,6 +86,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Do Computador Pessoal ao Modelo Pessoal]] — chatbot síncrono → agentes assíncronos → modelo pessoal que aprende preferências e prediz próximas ações; confiança é a feature central; form follows function (100K context → file uploads; notificações → Tasks; Google Docs → Canvas)
 
 - [[Você Não Pode Patchear um Cérebro — Segurança em IA Agêntica]] — prompt injection é insolucionável (mitigável); intelligence gap torna guardrails ineficazes; fine-tuning estreito como melhor defesa; custo estratégico cresce com cada nova capacidade agêntica
+- [[Jailbreaking vs. Prompt Injection — Duas Superfícies de Ataque]] — jailbreak = user+model sem system prompt; prompt injection = ataque ao sistema prompt do desenvolvedor; indirect = dados externos sequestram agente
+- [[CAMEL — Permissão Mínima em Sistemas Agênticos]] — restrinja permissões ao mínimo necessário para o task antes de executar; único framework de defesa eficaz; principio de menor privilégio aplicado a agentes
+- [[Espaço de Ataque Infinito — Por Que 99% de Defesa é Ilusão]] — 1 seguido de 1 milhão de zeros = espaço infinito; claims de 99% são estatisticamente sem sentido; falsa segurança é mais perigosa que ausência de guardrail
 - [[Mapeamento Produto × IA — Substituição ou Augmentação]] — mapeie funções do produto × IA: substituição total ou augmentação humana; base para reconstruir estratégia AI-native
 - [[Diferenciação vs. Table Stakes]] — dois motores de adoção: atração da solução nova + requisitos de entrada; ratio 70/30 → 50/50 na maturidade
 - [[Quadrante de Workflows B2B — Onde Pescar um Unicórnio]] — dois eixos (amplitude × frequência); "high-ni" (alta frequência + nicho) é o sweet spot de unicórnios B2B

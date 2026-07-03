@@ -142,6 +142,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Miopia Competitiva — O Iceberg do Concorrente]] — fast-following = copiar decisões tomadas um ano atrás; âncora nos usuários; revisão competitiva trimestral, não diária
 - [[Por Que Agora — Urgência como Gatilho de Investimento Interno]] — bons trabalhos ficam na prateleira sem o argumento de urgência; distinga oportunidade de oportunidade perecível
 
+- [[Path Dependence — Re-derivar das Raízes]] — toda solução existente é path-dependent em suposições que já não são verdade; re-derivar da raiz com os building blocks de hoje revela caminhos melhores; fazer "boa versão do que existe" é falhar em liderança de produto
+- [[Jogo de 100 Anos — Horizonte como Estratégia]] — horizonte de 100 anos muda a estratégia: em dilema do prisioneiro iterado, coordenação sempre domina; não puxar alavancas de monetização disponíveis é a jogada certa; missão sobrevive a qualquer produto
+
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]
 

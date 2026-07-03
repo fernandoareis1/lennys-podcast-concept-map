@@ -67,3 +67,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Clareza Extrema e Canonical Doc]] — canonical doc por projeto + nomenclatura + visuais editados ao vivo + listas numeradas = todos partem da mesma base de fatos
 - [[SDR — Razão Decisiva Única]] — uma razão forte > coleção de razões fracas; neutraliza viés de grupos e clarifica por que se quer tomar a decisão
 - [[Contexto sem Controle — Propriedade como Cultura]] — TikTok: dê contexto completo a todos → pensamento proativo de dona → ação reativa com colaboração; quebra silos sem criar caos
+- [[DRI — Disagree and Champion]] — um DRI por projeto; inputs de todos em escrita; DRI faz a decisão final; outros "disagree and champion" (não só commit — ativamente evangelizar); elimina consenso como mínimo denominador comum e velocidade de decisão atrelada a relações pessoais

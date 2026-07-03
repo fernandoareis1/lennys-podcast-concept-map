@@ -21,6 +21,7 @@ O lugar do design na empresa: parte do **DNA desde o início** ou tratado como "
 - [[Otimizar Sentimentos como Norte do Produto]] — no momento de criar, pergunte "como queremos que alguém se sinta?"; métricas são ferramentas de feedback, não o norte da criação — brand invisível (produto brilha) vs. brand como produto (reempacotamento de commodity); define quanto investir em design
 - [[Dogfooding como Competência Organizacional]] — todo time de produto deve ter podcast ativo; empatia visceral vs. intelectual; bugs ficam invisíveis até você usar; líder ouve o conteúdo do time criando accountability mútua
 - [[Caos para Clareza — Articulação Incremental]] — toda ideia começa no caos (só na cabeça); move-se para clareza via passos: escrever → pitch deck → designs → protótipo; cada passo force resolução de ambiguidades invisíveis
+- [[Produto 15 de 10 — Design do Estado Ideal sem Restrições]] — comece pelo 15/10 sem restrições, não pelo 7/10 "possível"; construa a versão ideal em UMA localização/contexto, depois identifique o que funcionou e escale; "do things that don't scale" na descoberta do design
 
 ## Descer mais (L4) ⬇
 [[Design é cultura — Evidências (Bob Baxley)]]

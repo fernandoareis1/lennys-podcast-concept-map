@@ -18,6 +18,7 @@ Reter é a base: sem retenção não há PMF nem growth. E quem **sai** (churn) 
 - [[Streak como Motor de Retenção — Zero a Sete Dias]] — loss aversion ativa no dia 7; concentre experimentos nos primeiros 7 dias onde cada dia adicional gera salto massivo de retenção
 - [[Construção de Estado — Retenção por Ativo Não-Transferível]] — usuários acumulam ativos não-transferíveis que os prendem: reputação de mercado (eBay), audiência construída (YouTube), grafo social (Facebook), infraestrutura embedded (Twilio/AWS); mediocres como eBay/Craigslist permanecem imbatíveis por décadas por isso
 - [[Retenção Tática vs. Estratégica — Os 25-40% Ignorados]] — 25-40% do churn é tático (pagamentos, cancel flows) e ignorado por product teams; fluxo de cancelamento com "nostalgia question"; retenção tática deve ter dono fora do produto
+- [[Hierarquia de Engajamento — Os 3 Níveis de Produto Consumer]] — framework Sarah Tavel: L1=Ação Core (ação que prediz retorno); L2=produto fica melhor + perda montante ao sair; L3=auto-perpetuação via network effects e growth loops
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[06 - Growth & Aquisição]]

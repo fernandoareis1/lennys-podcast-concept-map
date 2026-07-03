@@ -86,6 +86,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Do Computador Pessoal ao Modelo Pessoal]] — chatbot síncrono → agentes assíncronos → modelo pessoal que aprende preferências e prediz próximas ações; confiança é a feature central; form follows function (100K context → file uploads; notificações → Tasks; Google Docs → Canvas)
 
 - [[Você Não Pode Patchear um Cérebro — Segurança em IA Agêntica]] — prompt injection é insolucionável (mitigável); intelligence gap torna guardrails ineficazes; fine-tuning estreito como melhor defesa; custo estratégico cresce com cada nova capacidade agêntica
+- [[Hierarquia de Marketplaces — Thimble, Tip, Dominate]] — framework Sarah Tavel: L1=thimble (foco no menor mercado dominável); L2=tip o mercado via growth+happiness loops; L3=dominância winner-take-most; não pule etapas
+- [[Mercado como Corrente — Dinâmicas de Mudança Acima de Tamanho]] — mercados são correntes, não oceanos; dinâmicas de mudança > TAM; Benchmark prefere mercados "pequenos de fora" com correntes fortes; "por que agora?" como pergunta central
 - [[Jailbreaking vs. Prompt Injection — Duas Superfícies de Ataque]] — jailbreak = user+model sem system prompt; prompt injection = ataque ao sistema prompt do desenvolvedor; indirect = dados externos sequestram agente
 - [[CAMEL — Permissão Mínima em Sistemas Agênticos]] — restrinja permissões ao mínimo necessário para o task antes de executar; único framework de defesa eficaz; principio de menor privilégio aplicado a agentes
 - [[Espaço de Ataque Infinito — Por Que 99% de Defesa é Ilusão]] — 1 seguido de 1 milhão de zeros = espaço infinito; claims de 99% são estatisticamente sem sentido; falsa segurança é mais perigosa que ausência de guardrail

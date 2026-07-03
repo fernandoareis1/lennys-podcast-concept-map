@@ -28,6 +28,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Liquidez do marketplace]] — fill rate da demanda intencional é o output; market health metric (ex: ETA threshold) é o preditor acionável; liquidez é o multiplicador de todo crescimento
 - [[Supply-First no Marketplace]] — supply é o gargalo crítico; sem prateleira cheia, demand de nada vale
 - [[Community-Led Growth — Quadrante]] — matriz PMF×consumer/enterprise define qual forma de comunidade investir
+- [[GMV Feliz — Vanity Metric de Marketplace]] — GMV é vanity metric; happy GMV (buyer/seller que retorna) é o que conta; mínima felicidade viável antes de escalar; Etsy vs. DoorDash como casos
 - [[Atomic Unit of Sharing]] — o artefato mínimo que o usuário cria e quer exibir; motor do crescimento comunitário orgânico
 - [[Dar valor antes de extrair valor]] — flywheel do HubSpot: entregue valor genuíno no free tier antes de pedir qualquer coisa; clientes deliciados viram advocates que trazem novos leads organicamente
 - [[Física do Crescimento — Restrições e Alavancas]] — mapeie mercado + produto + modelo + canal; mude uma variável por vez; identifique o canal subutilizado (ex: motoristas como canal de distribuição do GoPay)

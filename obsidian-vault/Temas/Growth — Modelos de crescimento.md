@@ -45,6 +45,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] — paid é dependência; sem LTV, CAC não tem sentido; low-hanging fruit seca com escala; orgânico (AB, brand, PR, retenção) é o único modelo que não esconde problemas do produto
 - [[Máquina de Word-of-Mouth — Sinal Real de PMF]] — PMF real é quando WoM orgânico dispara sozinho; se >50% da aquisição vem de paid, o motor está quebrado; performance marketing amplifica sinal — não o cria
 - [[Auditoria do Funil PLG]] — percorra o funil como usuário final (landing → signup → aha moment → checkout); combine experiência pessoal + dados de conversão por etapa; ativação é o melhor ponto de partida para a maioria dos B2B SaaS
+- [[Whac-a-Mole — Redistribuição em Marketplaces]] — mudanças consequentes criam ganhadores e perdedores; gestão de marketplace é redistribuição de atenção/inventário; reconheça se os ganhadores valem mais que os perdedores
 
 - [[Fanatical Love — Clientes que Amam, Não Apenas Gostam]] — Sean Ellis Score como gate antes de escalar; 50% de "muito desapontados" no Nubank; NPS de 70-95; 80-90% de crescimento via word of mouth
 - [[Product-Led Acquisition — Quatro Mecanismos]] — aquisição orgânica via uso natural do produto: quitar dívida (Venmo/PayPal), conversa exclusiva (Slack/WhatsApp), billboarding (Hotmail/Calendly/AirPods), UGC (YouTube/Reddit); custo zero, sem dependência de terceiros; não confundir com referral programs (incentivos artificiais)

@@ -2,13 +2,13 @@
 tipo: framework
 fluxo: Experimentação & Dados
 nivel: 3
-autores: [Ronny Kohavi]
+autores: [Ronny Kohavi, Ramesh Johari]
 ---
 # A/B Testing (Ronny Kohavi)
 
 **Fluxo:** [[05 - Experimentação & Dados]] · **Tema:** [[Experimentação — AB testing & cultura]] · **Camada:** L3
 **Tipo:** Disciplina de experimentação
-**Fontes:** [[Ronny Kohavi]]
+**Fontes:** [[Ronny Kohavi]] · [[Ramesh Johari]]
 
 ## Ideia central
 **Teste tudo**: toda mudança de código deve passar por experimento, porque até bugfixes pequenos têm impacto surpreendente. Mas mantenha um **portfólio** — apostas incrementais (ganho garantido no agregado) + apostas grandes de alto risco/alto retorno (prontas para falhar 80% das vezes).
@@ -27,9 +27,17 @@ autores: [Ronny Kohavi]
 
 > 🎧 [Ronny Kohavi — The ultimate guide to A/B testing (1:23:08)](https://www.youtube.com/watch?v=hEzpiDuYFoE)
 
+### [[Ramesh Johari]]
+- "Experimentos não existem no vácuo. Empresas têm incentivos. E em empresas que vão all-in em experimentação, os incentivos em torno dos experimentos ficam envoltos nisso." Data scientists medidos por vitórias tendem a fazer apostas incrementais e rodar experimentos por mais tempo que o necessário.
+- Cultura de aprendizado > cultura de vitórias: um experimento que "falha" mas testa uma hipótese relevante sobre o negócio é um ativo, não uma perda. "Experimentação na ciência nunca foi sobre vencedores e perdedores. Foi sempre sobre o que você está aprendendo."
+- **Bayesian A/B testing**: incorporar aprendizados anteriores como prior antes de cada experimento, em vez de tratar cada teste como isolado. Isso "recompensa pessoas por contribuir informação ao prior" — um experimento que moveu o prior é uma vitória de aprendizado.
+- Viés de fat tails: a maioria das empresas evita experimentos ousados (fat tails), onde o risco de falha é maior mas o potencial de aprendizado também. Aceitar que experimentos "falhos" que testam hipóteses arriscadas são parte do contrato social com data scientists.
+
+> 🎧 [Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor) (1:23:36)](https://www.youtube.com/watch?v=BVzTfsUMaK8)
+
 ## Aprofundamento ⬇
 *Camada L4 — casos, números e mecânica completa:*
 - [[A-B Testing — Evidências (Ronny Kohavi)]]
 
 ## Conceitos relacionados
-[[OEC - Overall Evaluation Criterion]] · [[Twyman's Law]] · [[A maioria das ideias falha no teste]] · [[Assumption Testing]]
+[[OEC - Overall Evaluation Criterion]] · [[Twyman's Law]] · [[A maioria das ideias falha no teste]] · [[Assumption Testing]] · [[Predição vs Decisão — Causalidade em Dados]]

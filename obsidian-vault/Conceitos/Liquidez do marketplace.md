@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Benjamin Lauzier, Dan Hockenmaier]
+autores: [Benjamin Lauzier, Dan Hockenmaier, Ramesh Johari]
 ---
 # Liquidez do marketplace
 **Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Modelos de crescimento]] · **Camada:** L3
@@ -36,5 +36,13 @@ Mais acionável que o fill rate é a **métrica de saúde de mercado (market hea
 - "Cut scope — to a specific geography, category, or use case — to generate liquidity. Better to have an incredibly liquid slice than a thin liquid everywhere."
 - A liquidez é local: um marketplace pode ser líquido em São Paulo e ilíquido em Curitiba simultaneamente; gerencie como portfólio de mercados com estágios diferentes
 
+### [[Ramesh Johari]]
+- **Litmus test da "liquidez escalada" (scaled liquidity):** você tem muitos compradores E muitos vendedores na plataforma? Se não — independente do nome que você dê ao seu negócio — você não é um marketplace. Se você tem apenas um lado escalonado, seu trabalho é usar essa vantagem para atrair o outro lado (ex: Uber subsidiava drivers em novas cidades para atrair riders).
+- "Não há sentido em falar de marketplace se você não tem nenhum dos dois lados escalados ainda. Escale um primeiro. Nesse momento, a melhor orientação é a mesma de qualquer startup." 
+- Insight fundacional: o marketplace não vende o produto (o quarto, a corrida); o marketplace vende a **remoção da fricção** de encontrar e transacionar. O valor é o custo de transação eliminado — o que significa que os dois lados (supply e demand) são igualmente clientes.
+- **Não pense em si como "fundador de marketplace":** todo fundador vai eventualmente enfrentar a oportunidade de ser uma plataforma. Pensar nisso cedo demais pode fazer você assumir compromissos que travam a empresa (ex: model de monetização que não funciona em relações longas → disintermediação). Seja um fundador. O marketplace é uma escolha posterior.
+
+> 🎧 [Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (Stanford professor) (1:23:36)](https://www.youtube.com/watch?v=BVzTfsUMaK8)
+
 ## Conceitos relacionados
-[[Growth Loops vs Funil]] · [[Retenção é a base do crescimento]] · [[Teoria do Usuário Adjacente]] · [[Demanda como Moeda do Marketplace]] · [[Supply-First no Marketplace]] · [[Marketplace como Jardineiro]]
+[[Growth Loops vs Funil]] · [[Retenção é a base do crescimento]] · [[Teoria do Usuário Adjacente]] · [[Demanda como Moeda do Marketplace]] · [[Supply-First no Marketplace]] · [[Marketplace como Jardineiro]] · [[Whac-a-Mole — Redistribuição em Marketplaces]]

@@ -44,6 +44,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Comunicação lowercase vs uppercase C]] — IA substitui troca funcional de informação (lowercase c); influência, boldness e carisma (uppercase C) permanecem humanos
 - [[Economia de Alocação]] — do conhecimento à alocação: vision, gosto e talent evaluation sobem de valor; todos se tornam gestores de agentes; generalistas ressurgem
 - [[PM sua Carreira como um Produto]] — escreva um spec para sua carreira: milestones, skills, success metrics; use como régua de decisão serial
+- [[Seguir Pessoas, não Domínios — Estratégia de Carreira por Aprendizado]] — o melhor predictor de aprendizado não é o domínio ou o salário, mas quem está ao seu redor; skills adquiridas nunca podem ser tiradas
 - [[Visibilidade sem Autopromoção]] — reframe: não é autopromoção, é educar seu manager sobre o trabalho do time para conseguir mais recursos
 - [[Superpoderes Extraídos de Histórias]] — descubra superpoderes pela sobreposição de histórias de pico do passado/presente; mais eficaz que testes como StrengthsFinder
 - [[Self-Narrative como Hipótese Testável]] — histórias que você conta sobre si mesmo são hipóteses; teste-as com dados e entrevistas com colegas (user research aplicada a si)

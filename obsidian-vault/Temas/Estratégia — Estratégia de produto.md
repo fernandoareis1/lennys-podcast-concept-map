@@ -137,6 +137,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Menor Audiência Viável — As Quatro Escolhas Estratégicas]] — quatro escolhas que definem tudo: cliente (menor audiência viável), concorrência, fonte de validação e distribuição; ao escolher o cliente, você escolheu o produto
 - [[Dados como Contexto da IA — Moat do SaaS B2B]] — LLMs são bons quanto os dados recebidos; moat do SaaS B2B são regras de negócio acumuladas, não UI; 90% das calorias em produtos de IA vão para dados
 - [[Disrupa-se Antes do Disruptor — Inovação Interna Forçada]] — grandes empresas ficam incrementais e são disrompidas; disrompa seu próprio modelo antes que outro o faça; Amazon Honey Code como exemplo
+- [[Empresa Bem-Gerida vs. PMF — O Que Realmente Importa]] — caos + PMF vence operação polida + sem PMF; a única distinção que importa é caos operacional (tolerável) vs. caos de direção (fatal)
+- [[Produto que Melhora com o LLM — Anti-Compensação]] — não construa compensações para limitações atuais dos LLMs; construa o que fica mais valioso conforme os modelos melhoram
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

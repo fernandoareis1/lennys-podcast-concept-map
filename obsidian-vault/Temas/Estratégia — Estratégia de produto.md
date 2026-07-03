@@ -148,6 +148,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[PM de IA — Controlar Ingredientes, não a Experiência]] — com AI, PM define objetivo do algoritmo + features + dados + fine-tuning; não controla a experiência, controla os ingredientes; delegar isso ao ML é o erro fatal
 - [[Autocanibalização Deliberada — Produto Que Se Torna Ridículo]] — a cada 6-12 meses, o produto deve tornar o estado atual ridículo; ser seu próprio disruptor antes que a concorrência o faça
 - [[Ser Primeiro a Bater na Parede — Velocidade como Diferenciador]] — em mercados competitivos, velocidade é o único determinante real de sucesso; descobrir o que está errado antes do concorrente é a vantagem
+- [[Investir Lucros, Não Pessoas — Armadilha da Expansão de Produto]] — mantenha engineering no core; expanda apenas com os lucros que o core gera; mover pessoas do core abre espaço para concorrentes
+- [[Categorias Adjacentes como Armadilha — Sexto Melhor não Vende]] — bolt-ons em categorias adjacentes chegam como 5º-6º melhor, contribuem 5-10% de receita e drenam engineering do core
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

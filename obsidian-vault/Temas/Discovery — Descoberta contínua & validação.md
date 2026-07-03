@@ -48,6 +48,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Quatro Ps do PMF — Alavancas de Desbloqueio]] — quando travado, mude um ou mais Ps: persona + problema + promessa + produto; Lattice manteve persona; Vanta mudou todos; Plaid manteve produto; venda com mock-ups antes de construir
 - [[Sistema de 4 Touch Points — Gestão de Usuários Indisponíveis]] — demo days + working sessions + dress rehearsals + office hours; intake sistemático para usuários com agendas voláteis; buffers obrigatórios no planejamento; renomear "user testing" para "working session" muda dinâmica de poder
 - [[Retenção como Única Métrica de PMF]] — se criou valor, eles voltam; se não voltam, não criou valor; retenção 3 meses de 30-50% para alta frequência; conversão ocorre na 3ª ou 4ª tentativa
+- [[Feed Bruto de Cliente — Cultura Sem Gatekeepers]] — pipeline CS/sales/NPS/Twitter → Slack sem curadoria; qualquer engenheiro lê o feedback direto e age sem precisar de PM como intermediário
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

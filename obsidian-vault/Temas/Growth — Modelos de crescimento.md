@@ -69,6 +69,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Payback Period como Bússola de Eficiência — Além do CAC]] — CAC foca em custo e não em valor; LTV é assumption-laden; payback period em contribution margin é mais confiável e avaliável rapidamente
 
 - [[Valores como Argumento de Conversão — Copy Alinhada à Identidade]] — copy de valores no momento de fricção do funil (carrinho, checkout) → uplift de conversão para segmentos identity-driven; funciona quando a marca tem posição autêntica no valor e o segmento compra por identidade
+- [[Três Motores de Crescimento para Subscription]] — virality/network effects (inerentes, não manufaturáveis), SEO (2 de 3: ângulo editorial/programático/dados), paid (LTV alto, conversão >5%); foco antes de diversificar; 80% em um motor antes de expandir
+- [[Conversão Free-to-Paid — Benchmarks de Saúde]] — prosumer SaaS: visit→signup 20-35%, free→paid >5% (idealmente >7%); abaixo de 5% não sustenta empresa independente; onboarding é o maior alavancador
 
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]

@@ -40,6 +40,8 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Complaint Storms — Olhar o Produto com Olhos Frescos]] — percorra a jornada do cliente ao vivo, registrando tudo que confunde; comece com produto concorrente para calibrar; desbloqueia perspectiva de usuário novo perdida por equipes imersas no próprio produto
 - [[Diário de Problemas — Insight antes da Solução]] — escreva o problema que irritou você, sem tentar resolver; observe comunidades de nicho; consumer behavior shifts como fonte de ideias
 - [[Framing — Estreitar o Problema antes de Shapear]] — negociar o input (pedido de feature, ideia do CEO) até ser específico o suficiente para shapear; "calendar" ≠ "empty spaces"; pré-requisito do Shape Up
+- [[Perguntas "E Se" vs. "Por Que Não" — O Filtro do Inovador]] — perguntas what-if abrem espaço de possibilidade; why-not é útil só na fase de engenharia, não na avaliação; o browser não suportava Google Docs — mas suportou; otimismo custa um experimento, pessimismo custa a oportunidade
+- [[Bifurcação Amor/Ódio como Sinal de Disrupção]] — distribuição bimodal (ama/odeia) é sinal de impacto real; curva sino de indiferença = produto incremental; "toy" como keyword de ameaça real que não conseguem criticar melhor; Google Docs e ChatGPT como exemplos
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

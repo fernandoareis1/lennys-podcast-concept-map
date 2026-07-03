@@ -129,6 +129,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 
 - [[IA como Amplificador — Pair Programmer Invisível]] — AI remove drudgery para que o usuário permaneça no flow criativo; par programador, não substituto; latência de 200ms; o humano sempre decide
 - [[Princípio de Controle — Filtro Estratégico]] — "control" como tiebreaker de produto; quando há duas formas de fazer, escolha a que dá mais controle ao usuário, mesmo que a alternativa algorítmica funcione melhor
+- [[Produto como Feature da IA]] — "IA não é feature do produto; produto é feature da IA"; valor transformativo vem de construir o que só existe porque existe IA como plataforma; pixels vão ficar gratuitos como a distribuição de informação ficou
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

@@ -59,6 +59,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Google Search Over — Conteúdo que Termina a Busca]] — conteúdo de qualidade = usuário para de buscar após consumir; critério mais rigoroso e correto que posição no ranking
 - [[Adicionar Valor em Comunidades antes de Vender]] — entre nos fóruns onde clientes fazem perguntas, responda com valor genuíno, construa confiança antes de apresentar o produto
 - [[Grafos de Plataforma — Conteúdo, Pessoas e Intenção]] — TikTok = grafo de conteúdo; Meta = grafo de pessoas; Google = grafo de intenção; cada um exige estratégia de criativo e targeting radicalmente diferente
+- [[Lançamento com Propósito — Além da Aquisição]] — launches servem múltiplos propósitos: recruiting, fundraising, feedback, parcerias, morale, SEO; quase ninguém pensa nisso antes de lançar
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

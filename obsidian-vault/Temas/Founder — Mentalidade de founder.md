@@ -65,6 +65,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Founder-Future Fit — Autenticidade como Vantagem]] — quem tem o perfil mais autenticamente alinhado com um futuro radical é quem mais rápido chega ao PMF; motivação intrínseca + conhecimento do futuro + rede no ecossistema
 - [[Latência vs Velocidade — Vantagem da Startup]] — vantagem da startup é latência (ideia→teste em dias), não velocity; grandes empresas têm mais recursos mas raio de curva longo
 - [[Melhoria Implacável — Insatisfação como Força Motriz]] — "dissatisfied" como combustível; Tony Fadell sticker; compounding iteration até o tipping point; recusar habituar o que sucks
+- [[Momentum Reflexivo — Motor das Empresas Early Stage]] — momentum é autorreforcador; alto gera mais alto; baixo gera mais baixo; energia que percorre a empresa early stage
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

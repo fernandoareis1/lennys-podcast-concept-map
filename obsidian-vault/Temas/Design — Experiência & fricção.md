@@ -26,6 +26,7 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Padrão de Especificação Incremental com IA]] — especificação incremental com IA: pequeno escopo → produz → revisa → repete; menor variância, detecção rápida de erros, qualidade superior ao "tarefa grande → espera resultado"
 - [[Game Design vs. Gamificação]] — construir com princípios de game design (goals/emotions/toys/controls/flow) cria produtos que se espalham; gamificação (badges, pontos) destrói motivação intrínseca
 - [[Clareza sobre Engenhosidade — Design Legível]] — lean into standards; pessoas pensam espacialmente; Close Friends green ring fora vs. dentro; Don Norman e portas que não comunicam
+- [[Fat Marker Sketch — Clareza sem Falsa Precisão]] — esboços grosseiros para comunicar ideia sem falsa precisão; breadboarding como esquemático de UI; não Figma desfocado, grosso intencional
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

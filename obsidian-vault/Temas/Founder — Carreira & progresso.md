@@ -75,6 +75,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[Empresa Ex-Growth — Armadilha do Capital Estagnado]] — empresa que captou muito em alta valuation mas perdeu crescimento; equity provavelmente zero por liquidation preferences; pergunta diagnóstica: escalando produto ou ainda buscando PMF?
 
 - [[Ensinar em 1 Minuto — Entrevista de PM]] — pergunta de entrevista: "ensine algo novo em 1 minuto"; avalia completeness, complexity e clarity; revela PM sense sobre comunicação
+- [[PM Upstream — Da Execução para o Problema]] — mover PM de mestre de ritual para detetive do problema; entender negócio e cliente profundamente; menos Jira, mais framing
 - [[12 Competências do PM]] — 4 áreas × 3 competências (execução, cliente, estratégia, liderança); mesmo framework APM→CPO; base para feedback exponencial
 
 ## Fluxos vizinhos

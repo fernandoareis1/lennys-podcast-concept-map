@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Priorização & Roadmap
-autores: [Jason Fried]
+autores: [Jason Fried, Ryan Singer]
 ---
 # Shape Up — Apetite Fixo e Escopo Variável
 
@@ -27,6 +27,15 @@ Shape Up é o framework de desenvolvimento de produto criado pelo 37signals. A d
 - "Trabalho se expande para preencher o tempo disponível. Por isso usamos apetite, não estimativa."
 - Projetos longos que não terminam são a principal causa de desengajamento em times.
 > 🎧 [Jason Fried challenges your thinking on fundraising, goals, growth, and more (1:50:00)](https://www.youtube.com/watch?v=dAnF0tk0di8)
+
+### [[Ryan Singer]]
+- "A pergunta não é 'quanto tempo vai levar?' — é 'quanto estamos dispostos a gastar nisso?'. Isso muda tudo sobre como você decide o escopo."
+- Seis semanas é o teto, não a prescrição: projetos menores podem ter apetite de 1-2 semanas.
+- Circuit breaker: se o projeto não está completo ao fim do ciclo, o padrão é cancelar e voltar ao shaping — não prorrogar indefinidamente.
+- Cool-down de duas semanas entre ciclos permite shaping do próximo ciclo sem pressão de execução.
+- Parkinson's Law invertido: ao fixar o tempo, o time varia o escopo em vez de expandir o trabalho.
+- "O que vai deixar de fora é tão importante quanto o que vai dentro."
+> 🎧 [A better way to plan, build, and ship products | Ryan Singer (creator of Shape Up)](https://www.youtube.com/watch?v=) · 2025-03-30
 
 ## Conceitos relacionados
 [[Cultura como Calcificação — Mudança Incremental]] · [[Processo de Estratégia de Produto em 5 Fases]] · [[Priorização — Estratégia vs execução]]

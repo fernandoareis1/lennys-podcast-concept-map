@@ -30,3 +30,4 @@ A maioria dos "problemas de execução" é, na verdade, **estratégia mal defini
 - [[Incubação em Estágios — Wonder to Scale]] — novas apostas passam por Wonder → Explore → Make → Impact → Scale; times pequenos por estágio com portões de validação e standards diferentes dos produtos maduros
 - [[Murder Board — Adversário como Filtro de Qualidade]] — sessão adversarial pré-projeto: 2 páginas de plano + 3-4 críticos que não conhecem o projeto com missão de destruir; um bom princípio é aquele com o qual alguém discorda
 - [[S-Curves de Produto — Bússola de Reinvestimento]] — rastreie S-curves por produto/feature; retorno marginal decrescente = sinal de reinventar; vá a primeiros princípios quando a curva achata
+- [[Sessão de Shaping — Ideação com Risco Exposto]] — sessão intensiva produto+eng+design para "crack the nut"; saída = "eu sei o que construir"; whiteboard, não PRD

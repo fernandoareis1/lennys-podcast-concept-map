@@ -40,6 +40,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Complaint Storms — Olhar o Produto com Olhos Frescos]] — percorra a jornada do cliente ao vivo, registrando tudo que confunde; comece com produto concorrente para calibrar; desbloqueia perspectiva de usuário novo perdida por equipes imersas no próprio produto
 
 - [[Diário de Problemas — Ideação sem Solução]] — registre problemas/aborrecimentos SEM propor solução; separação deliberada entre observação e ideação; pergunte "por que agora?" ao revisitar
+- [[Framing antes de Shaping — Estreitar o Problema]] — estreite o problema antes de shapear; "calendário" → "espaços vazios"; conecta JTBD/demanda à oferta (Shape Up)
 - [[Motor de PMF — Engine de Superhuman]] — algoritmo para aumentar o score de PMF: segmentar "um pouco decepcionados" que ressoam com o benefício principal e montar roadmap com isso
 
 ## Descer mais (L4) ⬇

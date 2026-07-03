@@ -2,7 +2,7 @@
 tipo: framework
 fluxo: Discovery & Pesquisa
 nivel: 3
-autores: [Bob Moesta]
+autores: [Bob Moesta, Robby Stein]
 ---
 # Jobs to be Done (JTBD)
 
@@ -38,6 +38,14 @@ As pessoas **não compram produtos — elas os "contratam"** para fazer progress
 - [[JTBD — Evidências (Bob Moesta)]]
 - [[JTBD — Debate (as escolas do JTBD)]]
 - [[JTBD — Casos]]
+
+### [[Robby Stein]] — VP de Produto, Google Search / ex-Instagram
+- "Deeply understand people" é o capítulo 1 do seu framework de produto. "Don't think of users as using your product. Think of users as hiring you to do something for them."
+- **Jobs têm dimensão emocional, não só funcional**: no Close Friends, o job real não era "postar uma história privada" — era **sentir-se conectado a amigos**. Com lista de 1-2 pessoas, a chance de resposta era zero e o produto falhava no job emocional.
+- **"The big hire"** — o momento em que alguém decide usar seu produto pela primeira vez é o mais valioso de estudar. O que causou isso? Christensen chama de "interrogação": onde você estava? O que estava fazendo? Por que aquilo provocou a decisão?
+- **Design do sistema em torno do job real**: ao descobrir que usuários com 20-30 pessoas na lista do Close Friends recebiam DMs e se sentiam conectados, toda a UX foi redesenhada para maximizar esse resultado — não o ato de postar.
+- Cita Clayton Christensen, *Competing Against Luck*: "People don't want a quarter inch drill, they want a quarter inch hole."
+> 🎧 [Inside Google's AI turnaround: AI Mode, AI Overviews, and vision for AI-powered search | Robby Stein (1:21:38)](https://www.youtube.com/watch?v=kOnsqqVbIeY) · 2025-10-10
 
 ## Conceitos relacionados
 [[Forças do Progresso (Push-Pull-Ansiedade-Hábito)]] · [[Entrevista baseada em história]] · [[Demand Side Sales]] · [[Estudar momentos de struggle, não produtos]] · [[Bitchin' ain't switchin']] · [[JTBD aplicado a carreira (Job Moves)]]

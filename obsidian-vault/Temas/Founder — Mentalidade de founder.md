@@ -60,6 +60,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Meta Impossível como Motor de Perseverança]] — metas razoáveis são abandonadas no primeiro obstáculo; meta impossível gera inadequação → esforço extremo; deve ser algo que você genuinamente quer concretizar porque o trabalho é imenso
 
 - [[Estratégia de Startup como Aposta Adaptativa]] — startup é aposta sobre produto-mercado-solução; seja de duas mentes (convicção + disposição de mudar); farejar como truffle hound
+- [[Insatisfação Produtiva — Melhoria Sem Acomodação]] — recuse habituar-se ao que existe; melhoria composta até o tipping point; Tony Fadell e o sticker da fruta
 - [[Latência como Vantagem da Startup]] — vantagem real é latência (ciclo ideia→teste), não velocidade; em early stage sem dados, decida por convicção
 - [[Forest Time — Ver a Floresta pelas Árvores]]
 - [[Caminho Padrão vs. Caminho sem Trilha]] — default path = script social; pathless path = abraçar incerteza; bússola: "coming alive over getting ahead" — 1-2 dias/mês fora da execução para recalibrar perspectiva estratégica; worksheet estruturado; aim errado = $1-2M de esforço de equipe na direção errada

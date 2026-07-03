@@ -119,6 +119,9 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Contexto como Camada Diferenciadora de Produto IA]] — utilidade de produto IA = modelo + contexto/memória + UX; contexto certo é "inteiramente a diferença entre uma boa resposta e uma ruim"; MCP torna contexto composível e reutilizável
 - [[Product Strategy Stack — Missão ao Roadmap]] — 5 camadas: Mission → Strategy → Product Strategy → Roadmap → Goals; goals depois do roadmap; wireframes na estratégia; Tinder vs. Hinge como caso
 - [[Globalização pelo Enraizamento Local]] — globalização real exige times locais e entendimento cultural profundo; o algoritmo distribui mas o seeding exige humanos
+- [[Kernel da Estratégia — Diagnóstico, Política e Ação]] — 3 elementos indissociáveis: diagnóstico + política guia + ações coerentes; sem todos os 3, não é estratégia
+- [[O Crux — Foco no Problema Mais Difícil]] — o passo mais difícil da escalada = o problema mais difícil da estratégia; insight vem da imersão, não de listas genéricas
+- [[Má Estratégia — Padrões de Falha]] — 4 padrões: metas confundidas com estratégia, fluff/word salad, diagnóstico ausente, ações incoerentes
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

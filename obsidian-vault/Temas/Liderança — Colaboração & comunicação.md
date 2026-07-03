@@ -81,3 +81,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Signposting — Guiar o Leitor com Palavras Âncora]] — palavras como "por exemplo," "porque," "como próximo passo," "primeiro/segundo/terceiro" sinalizam ao leitor o que vem; elimina releitura e reduz custo cognitivo
 - [[EM e PM com Nota Compartilhada — Incentivos Alinhados]] — EM e PM do mesmo time recebem a mesma nota de performance; antes de resolver conflito, entenda as necessidades reais de cada parte; "não há vilões, apenas incentivos complexos"
 - [[Memificação — Insight que Cola na Organização]] — transferência de conhecimento acontece por memes organizacionais; teste: CEO cita seu insight de cabeça numa reunião sem relação; story é só tão boa quanto a ação que compele
+- [[CEO como Repetidor Chefe]] — repita as mesmas 3 mensagens centrais 5.000 vezes; o vácuo de repetição é preenchido com interpretações improvisadas; CEO é o repetidor-chefe da organização

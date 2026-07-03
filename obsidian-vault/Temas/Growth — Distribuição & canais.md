@@ -65,6 +65,7 @@ Produto ótimo é necessário, mas **não suficiente** — quem ganha constrói 
 - [[Grafos de Distribuição — Conteúdo vs. Pessoas vs. Intenção]] — TikTok (conteúdo) vs Meta (pessoas) vs Google (intenção); cada grafo exige estratégia de criativo e targeting radicalmente diferente — entre nos fóruns onde clientes fazem perguntas, responda com valor genuíno, construa confiança antes de apresentar o produto
 - [[Sequência de Canais B2B — Progressão por Custo e Eficácia]] — founder-led → sales → content/comunidade/PR → paid/brand → SEO; cada canal seguinte é mais caro mas mais eficaz conforme entendimento do cliente aumenta
 - [[Crescimento Liderado pelo Campeão — Comunidade antes de Sales]] — motor real do Figma: community-led growth; sales equipa o campeão interno (designer apaixonado) em vez de vender diretamente; produto open source de templates cria comunidade que cria crescimento
+- [[Elevar a Profissão, Não Criar Categoria]] — categoria de software é linha de item de orçamento; profissão é identidade — pessoas lutam por ela; Gainsight criou customer success como profissão; Notion = extensão da identidade do criador de sistemas; mais eficiente que conquistar quadrante no Gartner
 
 ## Fluxos vizinhos
 [[02 - Estratégia & Visão]] · [[08 - Monetização & Pricing]]

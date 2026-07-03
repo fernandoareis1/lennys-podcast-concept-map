@@ -24,6 +24,7 @@ A missão não é decoração: ela define **o que importa medir**, quem a empres
 - [[Movimento como Estratégia de Mercado — Crença antes de Produto]] — movimento anima crença compartilhada de uma minoria; early customers se juntam por razões estéticas, não pragmáticas; founder é Obi-Wan, cliente é o herói
 - [[Brand como Sistema — Valores como DNA Visual]] — brand como sistema onde valores viram atributos visuais; emerge naturalmente sem treinamento de touchpoints
 - [[Product-Market-Story Fit]] — PMF estendido: mercado + produto + narrativa; Rdio vs. Spotify; story não é packaging, é parte do produto
+- [[Apaixone-se pelo Problema — North Star e Narrativa Compelente]] — o problema como estrela-guia; narrativa "evitar congestionamentos" supera "AI crowdsourced navigation"; valide com 20 desconhecidos
 
 ## Fluxos vizinhos
 [[09 - Liderança & Times]] · [[03 - Priorização & Roadmap]]

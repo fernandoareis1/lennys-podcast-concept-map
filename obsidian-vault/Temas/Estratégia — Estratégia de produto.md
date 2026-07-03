@@ -135,6 +135,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Perguntas E Se vs Por Que Não — Mindset de Inovação]] — "e se?" abre possibilidades; "por que não?" é mecanismo de defesa; bifurcação amor/ódio = sinal de disrupção; toyness critique = validação
 - [[IA como Nova Plataforma — Pixels Gratuitos]] — IA tornou pixels gratuitos como a internet tornou informação gratuita; "seu produto é uma feature da IA, não o contrário"; apps transformadores não funcionam sem IA
 - [[Menor Audiência Viável — As Quatro Escolhas Estratégicas]] — quatro escolhas que definem tudo: cliente (menor audiência viável), concorrência, fonte de validação e distribuição; ao escolher o cliente, você escolheu o produto
+- [[Dados como Contexto da IA — Moat do SaaS B2B]] — LLMs são bons quanto os dados recebidos; moat do SaaS B2B são regras de negócio acumuladas, não UI; 90% das calorias em produtos de IA vão para dados
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

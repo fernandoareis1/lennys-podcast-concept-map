@@ -35,3 +35,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Gargalos Emergentes na Era de Código com IA]] — automatizar implementação revela gargalos upstream (decisão/alinhamento) e downstream (review/merge); o gargalo migra, não desaparece; pergunte sempre "qual é o gargalo agora?"
 - [[Priorizar o IC sobre o Gestor — Anti-Bloat]] — features pedidas por gestores para reporting ao custo de piorar o workflow do IC levam a dados ruins e produto abandonado; a promessa implícita do bom produto é não fazer esse trade-off
 - [[Faça Metade — Remova Features para Crescer]] — cortar metade das features no lançamento concentra uso no core loop e acelera a métrica que importa; otimize pelos problemas que você quer ter
+- [[Minimizar Custo de Oportunidade — Além do ROI Positivo]] — em papéis de alta alavancagem, pare de buscar ROI positivo; pergunte "é o MELHOR uso do meu tempo?", não apenas "é um bom uso?"

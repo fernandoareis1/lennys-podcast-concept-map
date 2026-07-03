@@ -85,6 +85,7 @@ O papel do líder/fundador: dar **clareza**, estar **nos detalhes** sem microger
 - [[Transição de P&D para Produto — Handoff Progressivo]] — transferência gradual de pesquisa para produto; critério é substituição em seat, não data; time de produto deve sentir que controla o roadmap; engineering fundamentals são os contratos que diferem P&D de produto operacional
 - [[PM como Alinhador de Visão — Facilitar antes de Decidir]] — ao entrar em empresa founder-led: crie canal bidirecional entre founder e times antes de qualquer decisão; confiança vem de "reps"
 - [[DRI — Disagree and Champion]] — um DRI por decisão; input em escrito (RAPID); decide sozinho; "disagree and champion" vai além de commit: evangeliza ativamente; velocidade de decisão ∝ accountability do dono, não das relações
+- [[Revisão Sem Drama — Clareza de Tipo e Cadência Regular]] — espectro de opinião do exec (Zuck), declarar tipo de reunião (update/decisão/delegação), cadência regular elimina "hero meetings" de alto drama
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

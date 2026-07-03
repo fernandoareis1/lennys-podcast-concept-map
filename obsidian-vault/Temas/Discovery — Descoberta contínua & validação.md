@@ -44,6 +44,8 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Framing antes de Shaping — Estreitar o Problema]] — estreite o problema antes de shapear; "calendário" → "espaços vazios"; conecta JTBD/demanda à oferta (Shape Up)
 - [[Motor de PMF — Engine de Superhuman]] — algoritmo para aumentar o score de PMF: segmentar "um pouco decepcionados" que ressoam com o benefício principal e montar roadmap com isso
 - [[Lighthouse Users — Construir com Poucos para Escalar para Muitos]] — programa estruturado de 10→100→1000 usuários nomeados; product engineers emergem da exposição direta; Safety Funnel limita impacto negativo antes da escala
+- [[Quatro Níveis de PMF — Nascente a Extremo]] — PMF progride em 4 níveis com foco diferente: satisfação (L1) → demanda (L2) → forte (L3) → extremo (L4); métricas claras por nível; 60% das startups trava no L2; eficiência é a terceira perna que falta no PMF falso
+- [[Quatro Ps do PMF — Alavancas de Desbloqueio]] — quando travado, mude um ou mais Ps: persona + problema + promessa + produto; Lattice manteve persona; Vanta mudou todos; Plaid manteve produto; venda com mock-ups antes de construir
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

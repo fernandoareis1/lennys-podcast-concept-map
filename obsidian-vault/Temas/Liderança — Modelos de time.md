@@ -109,3 +109,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[PMwheel — Bússola do PM em 8 Dimensões]] — oito buckets: Understand, Find solutions, Planning, Get it done, Listen & learn, Team, Personal growth, Agile; use para autoavaliação + manager assessment + avaliação de pares
 - [[Modelo GROW — Coaching em 4 Perguntas]] — Goal, Reality, Options, Way Forward; quando coachiar vs. quando aconselhar; a pessoa tem o contexto para resolver o próprio problema — o líder cria espaço
 - [[Content vs. Process — Contratar pelo Conhecimento Situacional]] — content = saber o que fazer quando; process = como fazer; startups precisam de content; processo é ensinável, julgamento situacional não; processo virando produto é o sinal de deterioração
+- [[Point A — Incubação em 4 Fases]] — framework de incubadora interna (Wonder→Explore→Make→Impact) com gates formais e founders na banca; "falha como resultado mais provável" como proteção de processo

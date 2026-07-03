@@ -139,6 +139,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Disrupa-se Antes do Disruptor — Inovação Interna Forçada]] — grandes empresas ficam incrementais e são disrompidas; disrompa seu próprio modelo antes que outro o faça; Amazon Honey Code como exemplo
 - [[Empresa Bem-Gerida vs. PMF — O Que Realmente Importa]] — caos + PMF vence operação polida + sem PMF; a única distinção que importa é caos operacional (tolerável) vs. caos de direção (fatal)
 - [[Produto que Melhora com o LLM — Anti-Compensação]] — não construa compensações para limitações atuais dos LLMs; construa o que fica mais valioso conforme os modelos melhoram
+- [[Miopia Competitiva — O Iceberg do Concorrente]] — fast-following = copiar decisões tomadas um ano atrás; âncora nos usuários; revisão competitiva trimestral, não diária
+- [[Por Que Agora — Urgência como Gatilho de Investimento Interno]] — bons trabalhos ficam na prateleira sem o argumento de urgência; distinga oportunidade de oportunidade perecível
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

@@ -43,6 +43,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Diário de Problemas — Ideação sem Solução]] — registre problemas/aborrecimentos SEM propor solução; separação deliberada entre observação e ideação; pergunte "por que agora?" ao revisitar
 - [[Framing antes de Shaping — Estreitar o Problema]] — estreite o problema antes de shapear; "calendário" → "espaços vazios"; conecta JTBD/demanda à oferta (Shape Up)
 - [[Motor de PMF — Engine de Superhuman]] — algoritmo para aumentar o score de PMF: segmentar "um pouco decepcionados" que ressoam com o benefício principal e montar roadmap com isso
+- [[Lighthouse Users — Construir com Poucos para Escalar para Muitos]] — programa estruturado de 10→100→1000 usuários nomeados; product engineers emergem da exposição direta; Safety Funnel limita impacto negativo antes da escala
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

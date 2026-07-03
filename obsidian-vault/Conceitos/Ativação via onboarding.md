@@ -2,7 +2,7 @@
 tipo: mindset
 nivel: 3
 fluxo: Ativação & Retenção
-autores: [Sean Ellis, Adam Fishman]
+autores: [Sean Ellis, Adam Fishman, Rahul Vohra]
 ---
 # Ativação via onboarding
 
@@ -30,6 +30,17 @@ Melhorar retenção é, na maioria das vezes, **levar o usuário à experiência
 - "Onboarding é a única parte do seu produto que 100% das pessoas vão tocar."
 
 > 🎧 [How to build a high-performing growth team (1:05:46)](https://www.youtube.com/watch?v=wP8YyWH524A)
+
+### [[Rahul Vohra]]
+- No Superhuman, o onboarding 1:1 concierge foi obrigatório por anos — nenhum usuário ativava sem uma sessão individual com um humano da equipe.
+- No pico: ~20 pessoas dedicadas ao onboarding manual. Resultado: métricas de engajamento, retenção, PMF score e NPS muito acima dos benchmarks do setor.
+- Lógica estratégica: enquanto o produto ainda busca PMF, o onboarding humano libera 100% da engenharia para solution deepening em vez de gastar metade dos recursos em fluxos self-service para um produto que pode precisar mudar completamente.
+- "We always made money doing onboarding." A transição para self-service ocorre quando o mass-market exige funil mais largo do que humanos conseguem suportar.
+
+> 🎧 [Superhuman's secret to success | Rahul Vohra (CEO and founder)](https://www.youtube.com/watch?v=0igjSRZyX-w) · 1:25:08
+
+## Aprofundamento ⬇
+[[Ativação via onboarding — Evidências]]
 
 ## Conceitos relacionados
 [[Sean Ellis Test (40%)]] · [[Retenção é a base do crescimento]] · [[Gatilhos internos vs externos (hábito)]] · [[Reduzir fricção em vez de adicionar features]]

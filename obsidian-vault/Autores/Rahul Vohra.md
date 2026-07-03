@@ -12,6 +12,7 @@ Rahul Vohra é designer de jogos profissional de formação, o que molda como pe
 - [[Razão Decisiva Única (SDR)]] — decisões exigem uma única razão suficiente, não coleção de razões fracas
 - [[Game Design vs. Gamificação]] — produtos devem ser construídos com princípios de game design (não gamificação); motivação intrínseca vs. extrínseca
 - [[Máquina de Word-of-Mouth — Sinal Real de PMF]] — nenhum produto sustenta fator viral >1; o crescimento real é word of mouth não-mensurável
+- [[Ativação via onboarding]] — onboarding 1:1 concierge obrigatório por anos; ~20 pessoas no pico; libera engenharia para PMF
 
 ## Episódio
 > 🎧 [Superhuman's secret to success | Rahul Vohra (1:25:08)](https://www.youtube.com/watch?v=0igjSRZyX-w) · 2025-03-23

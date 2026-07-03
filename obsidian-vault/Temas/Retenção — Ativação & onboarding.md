@@ -26,3 +26,4 @@ Levar o novo usuário **à experiência de valor** rápido e conectar o produto 
 
 ## Descer mais (L4) ⬇
 [[Gatilhos internos vs externos — Evidências (Nir Eyal)]]
+[[Ativação via onboarding — Evidências]]

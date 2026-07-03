@@ -28,6 +28,7 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Clareza sobre Engenhosidade — Design Legível]] — lean into standards; pessoas pensam espacialmente; Close Friends green ring fora vs. dentro; Don Norman e portas que não comunicam
 - [[Fat Marker Sketch — Clareza sem Falsa Precisão]] — esboços grosseiros para comunicar ideia sem falsa precisão; breadboarding como esquemático de UI; não Figma desfocado, grosso intencional
 - [[Conveniência como Lei Termodinâmica da Adoção]] — adoção = valor economizado >> custo de adoção; usuários são racionalmente preguiçosos; zero fricção antes do primeiro valor; limiar de 10X para switching
+- [[Ideal End State First — Experiência 15/10]] — comece pelo ideal irrestrito (15/10) antes de introduzir constraints; Airbnb lounge em 1 cidade perfeita antes de 120 países; impaciência para começar, paciência para ver
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

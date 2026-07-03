@@ -34,6 +34,7 @@ A disciplina de testar com **rigor e humildade**: a métrica certa, o ceticismo 
 - [[Métricas Além de Engajamento — Saúde vs. Vício em IA]] — otimizar likabilidade em IA gera sycophancy; o critério correto é tempo bem gasto (usuário saiu mais capaz) vs. engajamento; "você sabe quando seu produto está realmente servindo as pessoas"
 
 - [[Predição vs. Causalidade em Dados]] — ML prediz correlações, boas decisões precisam de causalidade; enviar promoções a alto LTV ≠ enviar a quem vai incrementar LTV por causa da promoção
+- [[Intencionalidade como Guia do A/B Testing]] — A/B testing é ferramenta de navegação, não de destinação; GPS analogy: você diz ao GPS onde ir, não pede que ele decida; Kevin Systrom Instagram Stories: intencionalidade primeiro
 
 ## Descer mais (L4) ⬇
 [[A-B Testing — Evidências (Ronny Kohavi)]]

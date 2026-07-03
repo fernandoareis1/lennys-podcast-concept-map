@@ -107,3 +107,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Cinco Ingredientes do Coach de PMs]] — definição de bom PM + avaliação atual + visão compartilhada + plano de desenvolvimento (deles, não seu) + follow-up sistemático; "consistency beats intensity"
 - [[PMwheel — Bússola do PM em 8 Dimensões]] — oito buckets: Understand, Find solutions, Planning, Get it done, Listen & learn, Team, Personal growth, Agile; use para autoavaliação + manager assessment + avaliação de pares
 - [[Modelo GROW — Coaching em 4 Perguntas]] — Goal, Reality, Options, Way Forward; quando coachiar vs. quando aconselhar; a pessoa tem o contexto para resolver o próprio problema — o líder cria espaço
+- [[Content vs. Process — Contratar pelo Conhecimento Situacional]] — content = saber o que fazer quando; process = como fazer; startups precisam de content; processo é ensinável, julgamento situacional não; processo virando produto é o sinal de deterioração

@@ -67,6 +67,8 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Rating Inflation e Fairness Distribuicional]] — ratings inflam ao longo do tempo; média simples penaliza novos entrantes; solução: prior bayesiano
 - [[Payback Period como Bússola de Eficiência — Além do CAC]] — CAC foca em custo e não em valor; LTV é assumption-laden; payback period em contribution margin é mais confiável e avaliável rapidamente
 
+- [[Valores como Argumento de Conversão — Copy Alinhada à Identidade]] — copy de valores no momento de fricção do funil (carrinho, checkout) → uplift de conversão para segmentos identity-driven; funciona quando a marca tem posição autêntica no valor e o segmento compra por identidade
+
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]
 [[Liquidez do Marketplace — Evidências]]

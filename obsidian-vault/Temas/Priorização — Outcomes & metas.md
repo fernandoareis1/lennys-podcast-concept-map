@@ -22,6 +22,7 @@ Perseguir **resultados** (outcomes), não entregas (outputs). Metas que criam **
 
 - [[Fronteira do Entendimento — Tipos de Risco nos Objetivos]] — 4 tipos de risco (entendimento, dependência, execução, estratégico); meta certa para cada fronteira; NCTs vs OKRs
 - [[Tradução Métrica — North Star por Camadas]] — camada de conversão de métricas locais para north star da empresa; reduz sobrecarga cognitiva de decisão e habilita cross-priorização de recursos
+- [[OKRs Legíveis, Acionáveis e Autênticos]] — 3 testes: legível (qualquer um entende), acionável (muda comportamento), autêntico (descreve o que o time faz de verdade); dois modos de falha: métrica irrelevante mensurável ou métrica relevante impossível de mover
 
 ## Descer mais (L4) ⬇
 [[OKRs — Evidências (Christina Wodtke)]]

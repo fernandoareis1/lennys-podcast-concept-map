@@ -49,6 +49,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Sistema de 4 Touch Points — Gestão de Usuários Indisponíveis]] — demo days + working sessions + dress rehearsals + office hours; intake sistemático para usuários com agendas voláteis; buffers obrigatórios no planejamento; renomear "user testing" para "working session" muda dinâmica de poder
 - [[Retenção como Única Métrica de PMF]] — se criou valor, eles voltam; se não voltam, não criou valor; retenção 3 meses de 30-50% para alta frequência; conversão ocorre na 3ª ou 4ª tentativa
 - [[Feed Bruto de Cliente — Cultura Sem Gatekeepers]] — pipeline CS/sales/NPS/Twitter → Slack sem curadoria; qualquer engenheiro lê o feedback direto e age sem precisar de PM como intermediário
+- [[PM é Dono do Porquê — Escala pela Clareza de Propósito]] — PM possui o porquê (não o o quê ou o como); o porquê escala decisões locais sem supervisão; Five Whys aplicado ao produto: volte até a condição raiz que criou o problema
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

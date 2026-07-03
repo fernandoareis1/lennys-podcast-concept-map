@@ -38,6 +38,8 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Estado sobre Narrativa — Regulação pelo Sistema Nervoso]] — mudar o estado fisiológico via respiração (bottom-up) é mais eficaz do que tentar mudar pensamentos; 4x mais neurônios vão do corpo ao cérebro
 - [[Founder vs. CEO — Dois Ofícios Distintos]] — ser founder é estado de ser (atitude, coragem); ser CEO é ofício (skills aprendíveis); confundir os dois é o erro mais caro
 - [[Earnestness como Preditor de Founder]] — autenticidade genuína + cuidado profundo pelo problema; preditor subestimado que distingue founders reais dos "fazendo startup porque é cool"
+- [[Plano Conservador com Milestones de Desbloqueio]] — plano base conservador + milestones que desbloqueiam aceleração; decisões pré-tomadas para eliminar viés de otimismo do founder em downturn
+- [[Mudar as Regras do Jogo — Inovar o Modelo em Downturn]] — não otimize para fora de um problema de mercado; mude as regras; encontre o desequilíbrio criado pela crise e sirva-o
 - [[Queimar o Barco — Comprometimento Total]] — founders que mantêm emprego têm saída de emergência; a desesperação necessária vem de não ter plano B
 - [[Ignorância como Descoberta — Batch Investing]] — não saber "como se faz" permite descobrir modelos que experts jamais tentariam; batch do YC nasceu de inexperiência em angel investing
 - [[Abstração como Alavanca — Reset Inteligente]] — jogar fora o código e reiniciar parece custo mas é alavanca; abstrações melhores crescem exponencialmente e recuperam rápido o que parece perda linear

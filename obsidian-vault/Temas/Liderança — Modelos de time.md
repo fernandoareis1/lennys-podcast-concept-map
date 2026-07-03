@@ -115,3 +115,4 @@ Como o time de produto se **organiza e decide**: times empoderados que perseguem
 - [[Teste de 30 Dias — Decisão de Demissão Rápida]] — 30 dias após contratar: "sabendo o que sei hoje, contrataria essa pessoa?"; se não, demita imediatamente; indecisão expulsa os top performers; confirmação pelo peer: "como você se sentiria se X fosse amanhã?"
 - [[Menor Empresa Possível — Headcount como Forcing Function]] — contrate só quando o time está submerso; headcount extra manufatura trabalho e política; a menor empresa que satisfaz a ambição é o objetivo
 - [[AMPED — Produto como Time de 5 Funções]] — Analytics + Marketing + Product + Engineering + Design como unidade única; PMM embedada em streams; perspectivas diversas chegam no discovery, não no lançamento
+- [[Três W's — Framework de Crescimento do PM]] — O Que Você Produz (output→outcome→direção) + O Que Traz à Mesa (artefatos de qualidade) + Qual é Seu Modelo Operacional; forte nos três = crescimento

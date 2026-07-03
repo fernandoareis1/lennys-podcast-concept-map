@@ -75,3 +75,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Ficar no Personagem — Não Vazar Inseguranças]] — stay in character do início ao fim; público não vê o que você sente a menos que você revele; end strong; não interrompa o voo para anunciar problemas imaginários
 - [[Método Acordeão — Internalizar, não Memorizar]] — prepare discursos falando: comprima de 3 min → 30 seg (essência pura) e expanda de volta; internalizou, não decorou; discurso plástico e robusto a erros
 - [[Método Arco e Flecha — Uma Coisa para Lembrar]] — otimize pelo que o público vai lembrar (não pelo que você quer dizer); flecha = 1 frase; arco = história/dado que dá peso; aplica slide a slide
+- [[Três Tenets do PM com Stakeholders — Influência Sem Obstrução]] — levante problemas difíceis sem ser difícil; traga tópicos importantes sem se colocar no centro; faça decisões acontecerem sem tomar todas

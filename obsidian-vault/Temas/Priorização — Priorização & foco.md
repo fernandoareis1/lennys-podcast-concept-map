@@ -39,3 +39,4 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Curvas de Utilidade — O Threshold de Investimento em Features]] — S-curve: features geram zero abaixo do threshold, enorme valor no meio, zero na saturação; pergunte "em que parte da curva estamos?" antes de investir mais
 - [[Minoria Vocal — Design para o Usuário de Amanhã]] — PM trap: sobre-indexar nos usuários insatisfeitos de hoje; usuários futuros pesam mais; solução é transparência, não reverter a decisão
 - [[GPA vs. A+ em Uma Classe — Priorização Radical]] — empresas não vencem fazendo 10 coisas bem; A+ em uma única classe que importa; F nas outras é deprioritização deliberada, não negligência
+- [[Rolling Roadmap 80-50 — Flexibilidade com Responsabilidade]] — roadmap de 6 meses atualizado a cada 3; primeiros 3 meses: 80% de commitment; próximos 3 meses: 50%; permite pivô sem penalidade e mantém accountability

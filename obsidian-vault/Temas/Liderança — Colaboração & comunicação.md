@@ -71,3 +71,7 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Regra dos 7 Emails — Comunicação que Converge]] — após 7 trocas sem resolução, pare e ligue; threads longas que não convergem são desperdício coletivo
 - [[Âncora Semanal de Foco — Ritual de Prioridades]] — post semanal de "no que estou focado esta semana + como foi a semana passada?" cria accountability leve e revela padrões de tempo ao longo de semanas
 - [[Pode Estar Errado, Mas Não Confuso]] — clareza de pensamento e execução supera estar certo; alpha types se apegam a não errar; melhor puxar todos na mesma direção com clareza do que hedgear em confusão
+- [[Oratória como Jogo Subconsciente — Fluir, não Pensar]] — falar bem é processo de flow subconsciente; endereço causas-raiz (desconforto com pausas, falta de confiança emocional), não sintomas (ums, monotonia); diversão é o barômetro
+- [[Ficar no Personagem — Não Vazar Inseguranças]] — stay in character do início ao fim; público não vê o que você sente a menos que você revele; end strong; não interrompa o voo para anunciar problemas imaginários
+- [[Método Acordeão — Internalizar, não Memorizar]] — prepare discursos falando: comprima de 3 min → 30 seg (essência pura) e expanda de volta; internalizou, não decorou; discurso plástico e robusto a erros
+- [[Método Arco e Flecha — Uma Coisa para Lembrar]] — otimize pelo que o público vai lembrar (não pelo que você quer dizer); flecha = 1 frase; arco = história/dado que dá peso; aplica slide a slide

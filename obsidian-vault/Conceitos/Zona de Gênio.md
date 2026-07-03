@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Claire Vo, Dharmesh Shah]
+autores: [Claire Vo, Dharmesh Shah, Rahul Vohra]
 ---
 # Zona de Gênio
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -55,6 +55,18 @@ Muitas pessoas aceitam escopo baseado no que são boas, não no que as energiza.
 - "I have learned that I suck at management. I'm a reasonably smart person. I could become passively okay at management with some training. I don't want to spend any years of my life becoming passively okay at something."
 - Preferiu investir todas as "calorias" naquilo em que é excepcional — produto, visão, cultura — ao invés de crescimento forçado em gestão de pessoas.
 - Correlação observada: você tende a ser bom no que gosta, e gostar do que é bom — a zona de gênio é autoamplificante.
+
+## Insights por autor
+### [[Rahul Vohra]]
+- Rastreou que gastava apenas 6-7% do tempo em produto, design, tecnologia e marketing — as áreas onde é genuinamente world-class.
+- Saiu de 8 direct reports para 2 ao contratar um presidente; o tempo em suas zonas de gênio subiu para 60-70% da semana.
+- Usa o **Switch Log**: a cada mudança de tarefa, Slack DM ao EA com "TS: [tarefa]" — registra o que fez de verdade, não o que o calendário planejava. "Your calendar says what you thought you were going to do; your trail of work describes what you actually did."
+- "As CEO, once you get to a certain scale, you can actually define what the role of CEO means at your company."
+- "The Superhuman opportunity deserves everyone to spend as much time as possible in their zone of genius — including me."
+> 🎧 [Superhuman's secret to success | Rahul Vohra (1:25:08)](https://www.youtube.com/watch?v=0igjSRZyX-w)
+
+## Aprofundamento ⬇
+- [[Zona de Gênio — Evidências]]
 
 ## Conceitos relacionados
 [[Dobrar o Universo — Agência de Carreira]] · [[Drivers e drains de energia]] · [[Gestão de energia pessoal]] · [[Identidade de Builder]] · [[Dar Lego — alegria de escalar sem segurar]]

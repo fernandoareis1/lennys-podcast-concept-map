@@ -24,6 +24,7 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Obsessão por Redução de Fricção — Magia via Manual]] — remover fricção obsessivamente via meios manuais não-escaláveis; "botão mágico" + estagiários nos bastidores; valide o valor antes de automatizar
 - [[Onboarding que Usa o Produto para Ensinar]] — o melhor onboarding usa o produto para ensinar o uso do produto; "no one cares about your product the way you do"; ação de aprendizado = ação de uso
 - [[Padrão de Especificação Incremental com IA]] — especificação incremental com IA: pequeno escopo → produz → revisa → repete; menor variância, detecção rápida de erros, qualidade superior ao "tarefa grande → espera resultado"
+- [[Game Design vs. Gamificação]] — construir com princípios de game design (goals/emotions/toys/controls/flow) cria produtos que se espalham; gamificação (badges, pontos) destrói motivação intrínseca
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

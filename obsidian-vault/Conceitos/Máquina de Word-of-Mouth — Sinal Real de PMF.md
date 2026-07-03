@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Growth & Aquisição
-autores: [Grant Lee]
+autores: [Grant Lee, Rahul Vohra]
 ---
 # Máquina de Word-of-Mouth — Sinal Real de PMF
 
@@ -49,6 +49,15 @@ Performance marketing que funciona é aquele que **amplia** um sinal orgânico j
 - "When word of mouth is happening, you know it. It's not something you have to search for."
 
 > 🎧 [How Gamma reached $100M ARR with 30 people | Grant Lee (Gamma)](https://www.youtube.com/watch?v=3H0ngGU5pbM) · 2025-11-13
+
+## Insights por autor
+### [[Rahul Vohra]]
+- "There is no such thing as a truly viral product. No app has sustained a viral factor greater than one for any real period of time." — Facebook no auge tinha fator viral ~0.7 por cerca de um ano
+- Viral factor 0.4 é bom, 0.6 é ótimo, 0.7 é estratosférico — e todos convergem para uma assíntota; nenhum mecanismo compõe infinitamente
+- "The true secret is word of mouth — the virality you can't measure, that isn't a mechanic, that isn't in a feature. It is when one user spontaneously tells another user about your product."
+- Baked word of mouth nos valores da empresa: "criar deleite", "entregar qualidade notável", "construir o extraordinário" — literalmente os ingredientes brutos para crescimento
+- Identificou "whales" de indicação: usuários que convidam 25-100 pessoas; incentivo de mês grátis por referral (para usuários individuais)
+> 🎧 [Superhuman's secret to success | Rahul Vohra (1:25:08)](https://www.youtube.com/watch?v=0igjSRZyX-w)
 
 ## Conceitos relacionados
 [[Growth como sistema, não time]] · [[Crescimento Orgânico Primeiro — A Armadilha do Paid]] · [[Kindling vs Fire strategies]] · [[Retenção como Prova de Valor Real]]

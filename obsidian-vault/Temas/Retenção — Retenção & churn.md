@@ -19,6 +19,7 @@ Reter é a base: sem retenção não há PMF nem growth. E quem **sai** (churn) 
 - [[Construção de Estado — Retenção por Ativo Não-Transferível]] — usuários acumulam ativos não-transferíveis que os prendem: reputação de mercado (eBay), audiência construída (YouTube), grafo social (Facebook), infraestrutura embedded (Twilio/AWS); mediocres como eBay/Craigslist permanecem imbatíveis por décadas por isso
 - [[Retenção Tática vs. Estratégica — Os 25-40% Ignorados]] — 25-40% do churn é tático (pagamentos, cancel flows) e ignorado por product teams; fluxo de cancelamento com "nostalgia question"; retenção tática deve ter dono fora do produto
 - [[Retenção sobre Aquisição — Virar a Mesa no Downturn]] — em recessão, cold outreach cai, ciclos enterprise dobram; aloque seus melhores recursos para proteger a base; torne-se advisor com benchmarks cross-cliente, não apenas ferramenta
+- [[Hierarquia de Engajamento — Ação Core, Retenção e Auto-Perpetuação]] — 3 níveis: (1) identificar ação core que define usuário real; (2) produto fica melhor com uso + mounting loss; (3) loops auto-perpétuos (network effect, growth loops, re-engagement); MAU é vanity metric
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[06 - Growth & Aquisição]]

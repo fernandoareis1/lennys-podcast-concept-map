@@ -62,6 +62,9 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Viralidade como Marketing Aumentado pelo Cliente]] — viralidade real é quando clientes fazem o marketing; orgânica (Slack/WoM) precede sintética (Hotmail/badges); efeitos de rede são o layer superior
 - [[Funil do Meio — A Oportunidade Esquecida]] — 80% do budget vai para topo e fundo; middle of funnel (freemium + inbound media) tem retenção 10-20% maior, NPS 2x; buyers convertem no próprio timing
 
+- [[Happy GMV e Estratégia do Dedal — Foco de Marketplace]] — GMV é vanity metric; focar em happy GMV (retenção pós-transação); thimble strategy: concentre no segmento pequeno e aqueça até ferver antes de expandir; DoorDash (subúrbios) vs Postmates (dispersão)
+- [[Loops de Tipping — Como Marketplaces Atingem Dominância]] — tipping = momento em que crescer fica fácil; 2 loops: growth loops (supply atrai demand e vice-versa) + happiness loops (ranking e churn saudável de supply ruim); condições que impedem tipping: supply concentrado, homogêneo ou baixa frequência
+
 ## Descer mais (L4) ⬇
 [[Growth como sistema — Evidências (Elena Verna)]]
 [[Liquidez do marketplace — Evidências]]

@@ -70,3 +70,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[Rituais de Ouro — 3 Regras de Bing Gordon]] — rituais nomeados + conhecidos na 1ª sexta + templados; cultura = produto para funcionários; Dory/Pulse (Coda), 6-pagers (Amazon), OKRs (Google) como casos
 - [[Regra dos 7 Emails — Comunicação que Converge]] — após 7 trocas sem resolução, pare e ligue; threads longas que não convergem são desperdício coletivo
 - [[Âncora Semanal de Foco — Ritual de Prioridades]] — post semanal de "no que estou focado esta semana + como foi a semana passada?" cria accountability leve e revela padrões de tempo ao longo de semanas
+- [[Pode Estar Errado, Mas Não Confuso]] — clareza de pensamento e execução supera estar certo; alpha types se apegam a não errar; melhor puxar todos na mesma direção com clareza do que hedgear em confusão

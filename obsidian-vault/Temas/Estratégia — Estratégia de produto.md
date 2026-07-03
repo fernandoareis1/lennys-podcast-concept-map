@@ -144,6 +144,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 
 - [[Path Dependence — Re-derivar das Raízes]] — toda solução existente é path-dependent em suposições que já não são verdade; re-derivar da raiz com os building blocks de hoje revela caminhos melhores; fazer "boa versão do que existe" é falhar em liderança de produto
 - [[Jogo de 100 Anos — Horizonte como Estratégia]] — horizonte de 100 anos muda a estratégia: em dilema do prisioneiro iterado, coordenação sempre domina; não puxar alavancas de monetização disponíveis é a jogada certa; missão sobrevive a qualquer produto
+- [[Minus-One-to-One — Turnaround de Produto]] — turnaround é mais difícil internamente que 0→1; mudar o DNA de produto entrincheirado; tática do carve-out de cohort para provar sem mover métricas gerais
+- [[PM de IA — Controlar Ingredientes, não a Experiência]] — com AI, PM define objetivo do algoritmo + features + dados + fine-tuning; não controla a experiência, controla os ingredientes; delegar isso ao ML é o erro fatal
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

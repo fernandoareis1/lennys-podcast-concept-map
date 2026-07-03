@@ -46,6 +46,10 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Incubação pelo Uso Próprio]] — descubra produtos vivendo no edge da IA; valide com o próprio time primeiro; unbundle de ferramentas gerais para apps específicos; GPT wrappers são legítimos; software vira conteúdo
 - [[Destruir-se antes que Alguém o Destrua — O Imperativo da IA]] — para SaaS estabelecido, AI não é oportunidade mas imperativo de sobrevivência; não dá para fazer pela metade; se o founder não vai all-in, contrate alguém que vai
 
+- [[O Kernel da Estratégia]] — 3 componentes obrigatórios: diagnóstico + política orientadora + ações coerentes; má estratégia confunde metas com estratégia
+- [[Agenda de Ação, não Estratégia]] — comece pelo desafio concreto; filtre por importante E endereçável; missão/valores é outra conversa
+- [[O Crux — Focar no Mais Difícil]] — identifique o passo mais difícil; insight vem de imergir na dificuldade, não de análise top-down
+- [[Negação de Valor — Inovação como Gap]] — "o que deveria existir mas não existe?"; exercício da janela perfeita; barreiras como oportunidade
 - [[Stack de Estratégia de Produto]] — 5 camadas (missão → estratégia → produto → roadmap → metas); metas vêm depois do roadmap; wireframes como alinhamento
 - [[Alavancas de Crescimento como Problema de Estratégia]] — novo produto, geo, segmento ou canal nunca pode ser objetivo de um departamento; exige alinhamento de toda a empresa com OKRs compartilhados
 - [[Processo de Estratégia de Produto em 5 Fases]] — playbook operacional de 8-12 semanas: preparação → strategy sprint → design sprint → doc → rollout; alinhamento embutido em cada fase

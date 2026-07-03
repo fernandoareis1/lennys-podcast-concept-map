@@ -32,6 +32,8 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Tudo Começa Pior — O Custo do Primeiro Passo]] — "everything you want is on the other side of worse first"; o primeiro passo em qualquer meta é negativo; se otimizar para amanhã, você não muda nada
 - [[Escorecard Interno vs. Externo — A Ilusão da Conquista]] — conquistar o scorecard externo (dinheiro, título) não muda como você se sente por dentro; o jogo real da vida é interno
 - [[Quatro Atributos de Founders Bem-Sucedidos — YC Pattern]] — determinação inabalável; capacidade técnica; execução sem esperar permissão; comunicação e storytelling; padrão extraído de 600+ startups no YC
+- [[CEO é Vendedor — A Função Central do Fundador]] — toda etapa de fundação é uma venda: você mesmo, talento, investidores, primeiros clientes, imprensa; CEO e VC são vendedores em tempo integral
+- [[Inovação Contra-cíclica — Mudar as Regras do Jogo]] — quando o mercado muda fundamentalmente, otimização incremental não basta; mude as regras; Bravado Flex emergiu de restrições e virou melhor mês da empresa
 - [[IC CEO — Fundador como IC na Era de IA]] — CEO precisa participar da criação para ter gosto; "chief taste maker"; use IA hourly; compartilhe protótipos, não docs
 - [[Bootstrapping como Prática de Fazer Dinheiro]] — bootstrapping não é só modelo de financiamento; é a única forma de praticar a habilidade fundamental de fazer dinheiro; VC-backed companies praticam gastar; "nunca ninguém foi à falência gerando lucro"
 

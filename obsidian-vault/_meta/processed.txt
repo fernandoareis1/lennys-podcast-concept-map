@@ -275,3 +275,4 @@ seth-godin
 shaun-clowes
 shishir-mehrotra
 shreyas-doshi
+shreyas-doshi-live

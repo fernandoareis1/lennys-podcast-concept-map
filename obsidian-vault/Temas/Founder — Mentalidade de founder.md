@@ -79,6 +79,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Founder-Future Fit — Autenticidade como Vantagem]] — quem tem o perfil mais autenticamente alinhado com um futuro radical é quem mais rápido chega ao PMF; motivação intrínseca + conhecimento do futuro + rede no ecossistema
 - [[Nem Todo Mundo Precisa Fundar]] — operadores excelentes alcançam as mesmas metas (impacto, financeiro, reconhecimento) trabalhando em empresas com equação vencedora; pressão cultural de fundar desperdiça talento
 - [[Managing Up Nunca Acaba — Sobe de Importância com a Senioridade]] — managing up fica mais importante, não menos, conforme a senioridade; mandatos menos definidos exigem mais alinhamento proativo; "play like it's game day" com cada stakeholder
+- [[Escrita Movida por Energia — Publicar Sempre]] — escreva sobre o que dá energia, não sobre o que as pessoas querem; publique quase tudo; maior risco é desistir por burnout; para carreira: 2-3 peças ótimas > newsletter semanal
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

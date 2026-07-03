@@ -150,6 +150,7 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Ser Primeiro a Bater na Parede — Velocidade como Diferenciador]] — em mercados competitivos, velocidade é o único determinante real de sucesso; descobrir o que está errado antes do concorrente é a vantagem
 - [[Investir Lucros, Não Pessoas — Armadilha da Expansão de Produto]] — mantenha engineering no core; expanda apenas com os lucros que o core gera; mover pessoas do core abre espaço para concorrentes
 - [[Categorias Adjacentes como Armadilha — Sexto Melhor não Vende]] — bolt-ons em categorias adjacentes chegam como 5º-6º melhor, contribuem 5-10% de receita e drenam engineering do core
+- [[Estratégia Chata — Restrições como Foco de Engenharia]] — melhores estratégias de engenharia são chatas: um monolith, um cloud, um kit padrão; restrições forçam energia para o que importa; diagnóstico + políticas guia + ações (Rumelt)
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

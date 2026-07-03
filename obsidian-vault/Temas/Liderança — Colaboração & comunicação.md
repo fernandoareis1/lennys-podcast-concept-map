@@ -79,3 +79,4 @@ Como o time trabalha junto de verdade: quebrar a cultura de silos e comunicar (s
 - [[MOO — Antecipar a Objeção Mais Óbvia]] — antes de qualquer mensagem ou reunião, pergunte qual é a objeção mais óbvia e endereça-a proativamente; post-it como lembrete; torna-se músculo
 - [[Blast Radius do Memo — Custo Oculto da Comunicação Ruim]] — memo mal escrito para 15 pessoas cria desperdício massivo downstream; concisão = economia de palavras, não brevidade; preparação é a única solução confiável
 - [[Signposting — Guiar o Leitor com Palavras Âncora]] — palavras como "por exemplo," "porque," "como próximo passo," "primeiro/segundo/terceiro" sinalizam ao leitor o que vem; elimina releitura e reduz custo cognitivo
+- [[EM e PM com Nota Compartilhada — Incentivos Alinhados]] — EM e PM do mesmo time recebem a mesma nota de performance; antes de resolver conflito, entenda as necessidades reais de cada parte; "não há vilões, apenas incentivos complexos"

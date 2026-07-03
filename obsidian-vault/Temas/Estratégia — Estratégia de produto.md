@@ -126,6 +126,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Convicção Robusta com Flexibilidade]] — opiniões fortes fracamente mantidas; convicção para ancorar o time + flexibilidade para pivotar quando o sinal externo contradiz a hipótese; maioria das decisões é porta de dois sentidos
 - [[Produto na Interseção Modelo-Produto — Vantagem Única de IA]] — produto de AI lab tem vantagem só no cruzamento de pesquisa de modelo e produto; wrapper que qualquer pessoa faz via API é commodity; unidade de trabalho muda para participar do post-training
 - [[Contexto como Camada Diferenciadora de Produto IA]] — utilidade de produto IA = modelo + contexto/memória + UX; contexto certo é "inteiramente a diferença entre uma boa resposta e uma ruim"; MCP torna contexto composível e reutilizável
+- [[Perguntas E Se vs Por Que Não — Mindset de Inovação]] — "e se?" abre possibilidades; "por que não?" é mecanismo de defesa; bifurcação amor/ódio = sinal de disrupção; toyness critique = validação
+- [[IA como Nova Plataforma — Pixels Gratuitos]] — IA tornou pixels gratuitos como a internet tornou informação gratuita; "seu produto é uma feature da IA, não o contrário"; apps transformadores não funcionam sem IA
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

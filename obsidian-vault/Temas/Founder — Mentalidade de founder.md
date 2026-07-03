@@ -62,6 +62,8 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Meta Impossível como Motor de Perseverança]] — metas razoáveis são abandonadas no primeiro obstáculo; meta impossível gera inadequação → esforço extremo; deve ser algo que você genuinamente quer concretizar porque o trabalho é imenso
 
 - [[Mentalidade de Experimento — Startup como Aprendizado]] — chame de experimento, não startup; a meta é aprender, não ter sucesso; Product Hunt: 4-5 meses de traction sem incorporar
+- [[Otimismo Deliberado como Ferramenta de Inovação]] — otimismo é escolha deliberada, não traço de personalidade; pessimismo perde mais oportunidades do que protege; pré-requisito para fazer perguntas "e se?"
+- [[Virtude do Erro]] — "do erro vem a virtude"; inovação exige disposição de se embaraçar; ambientes curados matam tolerância a experimento; extraia ativamente aprendizado de cada falha
 - [[Estratégia de Startup como Aposta Adaptativa]] — startup é aposta sobre produto-mercado-solução; seja de duas mentes (convicção + disposição de mudar); farejar como truffle hound
 - [[Insatisfação Produtiva — Melhoria Sem Acomodação]] — recuse habituar-se ao que existe; melhoria composta até o tipping point; Tony Fadell e o sticker da fruta
 - [[Latência como Vantagem da Startup]] — vantagem real é latência (ciclo ideia→teste), não velocidade; em early stage sem dados, decida por convicção

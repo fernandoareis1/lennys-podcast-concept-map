@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Claire Vo, Dharmesh Shah, Rahul Vohra]
+autores: [Claire Vo, Dharmesh Shah, Rahul Vohra, Sam Schillace]
 ---
 # Zona de Gênio
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -64,6 +64,13 @@ Muitas pessoas aceitam escopo baseado no que são boas, não no que as energiza.
 - "As CEO, once you get to a certain scale, you can actually define what the role of CEO means at your company."
 - "The Superhuman opportunity deserves everyone to spend as much time as possible in their zone of genius — including me."
 > 🎧 [Superhuman's secret to success | Rahul Vohra (1:25:08)](https://www.youtube.com/watch?v=0igjSRZyX-w)
+
+## Insights por autor
+### [[Sam Schillace]]
+- "Faça a coisa pela qual você se sente culpado de receber dinheiro. Essa culpa é o sinal de que você está na interseção de competência e alegria genuína."
+- "Se você está fazendo algo que ama e que é excepcionalmente bom nisso, você vai ter um impacto muito maior do que se estiver fazendo algo que acha que deveria fazer."
+- Principio operacional: "encontre o que você faria de graça se não precisasse de dinheiro, e então seja extraordinariamente bom nisso."
+- A culpa de "não posso acreditar que me pagam por isso" é o sinal mais confiável de que você encontrou sua zona — não é sinal de problema, é sinal de alinhamento.
 
 ## Aprofundamento ⬇
 - [[Zona de Gênio — Evidências]]

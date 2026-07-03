@@ -27,6 +27,7 @@ Dar forma à jornada: mapear os momentos da experiência e **remover atrito** �
 - [[Game Design vs. Gamificação]] — construir com princípios de game design (goals/emotions/toys/controls/flow) cria produtos que se espalham; gamificação (badges, pontos) destrói motivação intrínseca
 - [[Clareza sobre Engenhosidade — Design Legível]] — lean into standards; pessoas pensam espacialmente; Close Friends green ring fora vs. dentro; Don Norman e portas que não comunicam
 - [[Fat Marker Sketch — Clareza sem Falsa Precisão]] — esboços grosseiros para comunicar ideia sem falsa precisão; breadboarding como esquemático de UI; não Figma desfocado, grosso intencional
+- [[Conveniência como Lei Termodinâmica da Adoção]] — adoção = valor economizado >> custo de adoção; usuários são racionalmente preguiçosos; zero fricção antes do primeiro valor; limiar de 10X para switching
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[07 - Ativação & Retenção]]

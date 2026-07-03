@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Priorização & Roadmap
-autores: [Jason Fried]
+autores: [Jason Fried, Ryan Singer]
 ---
 # Shape Up — Apetite Fixo e Escopo Variável
 
@@ -28,5 +28,15 @@ Shape Up é o framework de desenvolvimento de produto criado pelo 37signals. A d
 - Projetos longos que não terminam são a principal causa de desengajamento em times.
 > 🎧 [Jason Fried challenges your thinking on fundraising, goals, growth, and more (1:50:00)](https://www.youtube.com/watch?v=dAnF0tk0di8)
 
+### [[Ryan Singer]]
+- Ryan Singer é o criador do Shape Up — trabalhou 17 anos no 37signals antes de escrever o livro.
+- "Trabalho se expande para preencher o tempo disponível. Mas quando você diz 'temos seis semanas e a equipe está disponível nesse tempo', isso te força a fazer trade-offs reais. Isso é completamente diferente de estimar."
+- "O circuit breaker real: se o projeto não parece que vai acabar, não é 'vamos estender'. É 'vamos tirar isso do modo build e voltar para o modo shaping'."
+- "Times com mais de 30-50 pessoas em produto + engenharia juntos geralmente começam a sentir os problemas de processo — é quando Shape Up mais tem impacto."
+- "O PM mais bem-sucedido no contexto de Shape Up é aquele que está upstream no framing — não fazendo project management dentro do build."
+- A principal falha que Ryan vê: times que adotam o ciclo de 6 semanas mas não fazem o shaping real — e aí ficam perdidos sem ver o fim porque não havia clareza sobre o que construir.
+
+> 🎧 [A better way to plan, build, and ship products | Ryan Singer (1:45:10)](https://www.youtube.com/watch?v=GF-yUANql0c) · 2025-03-30
+
 ## Conceitos relacionados
-[[Cultura como Calcificação — Mudança Incremental]] · [[Processo de Estratégia de Produto em 5 Fases]] · [[Priorização — Estratégia vs execução]]
+[[Cultura como Calcificação — Mudança Incremental]] · [[Processo de Estratégia de Produto em 5 Fases]] · [[Priorização — Estratégia vs execução]] · [[Shaping Colaborativo — O Plomeiro Emburrado na Sala]] · [[Framing — Estreitar o Problema antes de Shapear]]

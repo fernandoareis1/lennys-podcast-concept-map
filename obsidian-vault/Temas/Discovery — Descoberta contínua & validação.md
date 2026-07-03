@@ -39,6 +39,7 @@ Descoberta não é fase, é **hábito**: loops contínuos de feedback com o clie
 - [[Demanda Latente — Cristalizar o Que Está Distorcido]] — procure comportamentos distorcidos onde pessoas obtêm valor com workarounds; cristalizar a motivação real gera adoção explosiva (Sarahah em árabe #1 nos EUA, tbh jogado manualmente no Snapchat)
 - [[Complaint Storms — Olhar o Produto com Olhos Frescos]] — percorra a jornada do cliente ao vivo, registrando tudo que confunde; comece com produto concorrente para calibrar; desbloqueia perspectiva de usuário novo perdida por equipes imersas no próprio produto
 - [[Diário de Problemas — Insight antes da Solução]] — escreva o problema que irritou você, sem tentar resolver; observe comunidades de nicho; consumer behavior shifts como fonte de ideias
+- [[Framing — Estreitar o Problema antes de Shapear]] — negociar o input (pedido de feature, ideia do CEO) até ser específico o suficiente para shapear; "calendar" ≠ "empty spaces"; pré-requisito do Shape Up
 
 ## Descer mais (L4) ⬇
 [[Continuous Discovery — Evidências (Teresa Torres)]]

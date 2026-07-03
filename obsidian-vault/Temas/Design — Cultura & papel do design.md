@@ -22,6 +22,7 @@ O lugar do design na empresa: parte do **DNA desde o início** ou tratado como "
 - [[Dogfooding como Competência Organizacional]] — todo time de produto deve ter podcast ativo; empatia visceral vs. intelectual; bugs ficam invisíveis até você usar; líder ouve o conteúdo do time criando accountability mútua
 - [[Caos para Clareza — Articulação Incremental]] — toda ideia começa no caos (só na cabeça); move-se para clareza via passos: escrever → pitch deck → designs → protótipo; cada passo force resolução de ambiguidades invisíveis
 - [[Produto 15 de 10 — Design do Estado Ideal sem Restrições]] — comece pelo 15/10 sem restrições, não pelo 7/10 "possível"; construa a versão ideal em UMA localização/contexto, depois identifique o que funcionou e escale; "do things that don't scale" na descoberta do design
+- [[Golden Gut — Intuição de Redução de Produto]] — product thinkers experientes ancoram em uma única ação e removem tudo que distrai; "wonder if..." como modo mental; object model thinking (como cheguei / o que faço agora / o que faço a seguir); defaults presunçosos reduzem carga cognitiva de 90%
 
 ## Descer mais (L4) ⬇
 [[Design é cultura — Evidências (Bob Baxley)]]

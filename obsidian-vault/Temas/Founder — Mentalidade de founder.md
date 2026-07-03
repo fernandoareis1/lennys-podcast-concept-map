@@ -69,6 +69,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Melhoria Implacável — Insatisfação como Força Motriz]] — "dissatisfied" como combustível; Tony Fadell sticker; compounding iteration até o tipping point; recusar habituar o que sucks
 - [[Momentum Reflexivo — Motor das Empresas Early Stage]] — momentum é autorreforcador; alto gera mais alto; baixo gera mais baixo; energia que percorre a empresa early stage
 - [[Virtude do Erro — Inovar via Falha]] — transformar erros em ativos criativos em vez de evitá-los; não dá para inovar com medo de falhar; enviar o "email idiota" para Satya cria loop de feedback que nenhum processo formal cria
+- [[Messy Middle — Convicção como Bússola de Continuidade]] — teste de convicção: mais ou menos que no início? mais = messy middle, continue; menos = pare; progresso deve ser merchandised; micro-goals desfibrilam moral da equipe
 
 ## Descer mais (L4) ⬇
 [[Founder Mode — Evidências (Brian Chesky)]]

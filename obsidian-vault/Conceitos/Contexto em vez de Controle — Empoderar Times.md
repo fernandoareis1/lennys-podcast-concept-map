@@ -2,7 +2,7 @@
 tipo: framework
 nivel: 3
 fluxo: Liderança & Times
-autores: [Geoff Charles]
+autores: [Geoff Charles, Ray Cao]
 ---
 # Contexto em vez de Controle — Empoderar Times
 
@@ -37,6 +37,14 @@ Quanto mais o time internaliza as metas e hipóteses, menos o líder precisa rev
 - "The more that you make teams think like you, the more leverage you get over time."
 
 > 🎧 [Velocity over everything: How Ramp became the fastest-growing SaaS startup ever | Geoff Charles (1:16:57)](https://www.youtube.com/watch?v=aNJDZ_RzTVk) · 2023-08-06
+
+### [[Ray Cao]]
+- Princípio cultural do TikTok: "Context, No Control" — dar às pessoas a visão completa do negócio para que pensem como business owners, não como peças de uma máquina limitadas ao job description.
+- A metáfora do Lego: "If you don't really see the full picture, you won't be able to make the Lego as one thing at the end of the day. You have to see the other pieces."
+- Implementação prática: reunião trimestral de 180 pessoas (eng, produto, vendas) com leitura de documento compartilhado; decisões e bloqueadores discutidos ali; nem só líderes — ICs participam.
+- O erro pessoal: no início, criou caixas rígidas ("você faz isso, você não faz aquilo"), percebeu que isso atrasava tudo. "Your goal is not to deliver the go-to-market strategy. Your goal is to land your go-to-market strategy with sales together."
+- Dupla dinâmica: pensamento proativo (com o contexto) + fazer reativo (colaborar quando age) — evita caos sem criar silos.
+> 🎧 [Inside TikTok's product and growth culture | Ray Cao (1:25:15)](https://www.youtube.com/watch?v=9N4ZgNaWvI0) · 2024-03-10
 
 ## Conceitos relacionados
 [[Single-Threaded Leader]] · [[Alavancagem Gerencial]] · [[Clareza vence consenso]] · [[Gestão como Serviço — não Comando]]

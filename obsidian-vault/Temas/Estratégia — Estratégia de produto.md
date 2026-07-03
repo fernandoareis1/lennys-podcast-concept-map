@@ -131,6 +131,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 - [[Princípio de Controle — Filtro Estratégico]] — "control" como tiebreaker de produto; quando há duas formas de fazer, escolha a que dá mais controle ao usuário, mesmo que a alternativa algorítmica funcione melhor
 - [[Produto como Feature da IA]] — "IA não é feature do produto; produto é feature da IA"; valor transformativo vem de construir o que só existe porque existe IA como plataforma; pixels vão ficar gratuitos como a distribuição de informação ficou
 - [[Segurança Agentica — Não Dá para Patchar um Cérebro]] — prompt injection é mitigável, não solucionável; guardrails externos falham pelo "intelligence gap"; risco agentico é de ordem diferente (ações físicas e irreversíveis); solução tem que vir dos AI labs
+- [[CAMEL — Defesa por Permissão de Intenção]] — framework do Google: em vez de bloquear outputs maliciosos, restringe permissões disponíveis antes da execução com base no intent do usuário; "least privilege" para agentes de IA
+- [[Falsa Confiança de Guardrail — Proteção Ilusória que Amplifica o Risco]] — guardrails não só não funcionam — te deixam confiante e te fazem dar mais poder ao agente; 99% de infinito ainda é infinito; falsa proteção é pior que vulnerabilidade conhecida
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]

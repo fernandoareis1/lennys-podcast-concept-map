@@ -73,6 +73,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[The Skip — Carreira como Job-After-Next]] — pense no job after next (skip), não só no próximo; escreva hoje a história que você vai contar no skip; use "eu", não "nós"
 - [[Empresa Ex-Growth — Armadilha do Capital Estagnado]] — empresa que captou muito em alta valuation mas perdeu crescimento; equity provavelmente zero por liquidation preferences; pergunta diagnóstica: escalando produto ou ainda buscando PMF?
 - [[Artificial Social Intelligence — Comunicar com IA como Habilidade]] — habilidade de comunicar efetivamente com IA: formular perguntas, interpretar respostas, adaptar próximo prompt; prompt engineering não vai morrer; prompts ruins podem gerar 0% de accuracy onde prompts bons chegam a 90%
+- [[IA Security como Campo Híbrido — Cybersegurança Encontra IA]] — campo emergente na intersecção de cybersec clássica e AI security; clássicos perdem o blind spot de trickability; AI researchers perdem permissioning e containerização; trabalho mais valioso está no cruzamento
 
 ## Fluxos vizinhos
 [[01 - Discovery & Pesquisa]] · [[09 - Liderança & Times]]

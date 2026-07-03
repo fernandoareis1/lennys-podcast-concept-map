@@ -18,6 +18,7 @@ Decisões de carreira como busca de **progresso**, não de salário — e o que 
 - [[The Magic Loop — 5 Passos para Avançar na Carreira]] — framework de 5 passos para crescer na carreira em qualquer circunstância
 - [[JTBD aplicado a carreira (Job Moves)]] — as forças do progresso explicam trocas de emprego
 - [[Carreira é progresso, não salário]] — dinheiro é proxy de respeito/responsabilidade
+- [[Estratégia é Prática, não Talento]] — não existe estrategista natural; todos os grandes praticaram muito; não espere o momento certo para começar
 - [[Manter valores, não comportamentos]] — ao mudar de cultura, segure os valores
 - [[PM como builder — prototipagem sem engenharia]] — IA libera PMs do backlog para validação rápida
 - [[Burnout no tech — reconhecendo os sinais]] — quando corpo e vida pessoal viram o scorecard do esgotamento

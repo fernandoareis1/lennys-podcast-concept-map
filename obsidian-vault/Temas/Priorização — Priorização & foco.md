@@ -18,6 +18,7 @@ Escolher **onde investir esforço** — e o que deixar "bom o suficiente" ou nem
 - [[Gargalo como bússola de priorização]] — identifique o maior gargalo, resolva-o completamente, passe ao próximo; sem matriz complexa
 - [[Framework PPS — Problema, Pessoas, Sistema]] — ante de escolher uma solução de sistema/ferramenta, entenda o Problema → Pessoas envolvidas → Sistema; nunca pule direto para o sistema
 - [[Thinking Gray]] — não decida até que absolutamente precise; a urgência percebida é quase sempre manufaturada; esperar produz melhores decisões
+- [[Betterment — Estratégia como Eliminação de Gap]] — identifique o gap mais doloroso, elimine-o; não tente perfeição; repita; composto ao longo do tempo
 - [[Hiperimportância de poucas decisões]] — primeiro determine o quão importante é a decisão; invista fundo nas poucas críticas; delegue ou use o instinto para todo o resto
 - [[Kernel de verdade em meio ao ruído]] — o trabalho central do PM é filtrar o sinal que realmente importa de uma avalanche de boas ideias; escreva tudo para fazer pessoas se sentirem ouvidas; diga não com convicção
 - [[Armadilha do Prazo — Velocidade por Tempo, não Esforço]] — defina o deadline antes do escopo; mais tempo = mais suposições inventadas; feedback "prematuro" da v1 é o resultado correto

@@ -37,6 +37,7 @@ O **contexto** que faz seu produto parecer a escolha óbvia: contra quais altern
 - [[Marketing é Extensão do Produto — Lançamento Começa no Uso]] — lançamento só está completo quando o usuário descobriu e usou; marketing de alta qualidade é indissociável do produto; 20%+80% review checkpoints
 - [[Verticalizar para Não Competir com a Plataforma]] — ao construir sobre IA, vá para vertical específico onde a plataforma não vai; Harvey (direito), Zapier (integrações); produto geral precisa ser radicalmente diferente em 10 dimensões para competir com ChatGPT
 - [[Zonas Erógenas Culturais]] — encaixe sua mensagem no que a audiência já ama; criar a API entre seu Y e o X deles
+- [[Jogar para Ganhar — Diferenciação ou Custo]] — apenas dois caminhos: diferenciado (cliente te prefere) ou liderança de custo; stuck in the middle não protege; maré do cliente sempre vence
 - [[Assimetria como Fonte de Poder]] — poder competitivo requer assimetria; metáfora da lupa: fonte + foco + alvo afetável; IBM como caso de assimetria que virou passivo
 - [[Inflections — Alavanca Assimétrica da Startup]]
 - [[Localização Ativa — Cultura como Chave da Globalização]] — tecnologia é ferramenta; expansão global exige talento local para calibrar produto e algoritmo; cultura determina comportamento — evento externo que cria nova empoderamento; startups usam inflections para guerrear assimetricamente contra incumbentes

@@ -61,6 +61,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Shoshin — Mente de Principiante]] — na mente do principiante há infinitas possibilidades; na mente do especialista há poucas; cultivar shoshin é a proteção contra o viés de expert
 - [[Meta Impossível como Motor de Perseverança]] — metas razoáveis são abandonadas no primeiro obstáculo; meta impossível gera inadequação → esforço extremo; deve ser algo que você genuinamente quer concretizar porque o trabalho é imenso
 
+- [[O Meio Bagunçado — Convicção como Bússola]] — no período volátil intermediário de qualquer startup, a bússola é convicção: "sabendo o que sabe hoje, tem mais ou menos convicção?" — a resposta decide se deve continuar ou pivotar
 - [[Mentalidade de Experimento — Startup como Aprendizado]] — chame de experimento, não startup; a meta é aprender, não ter sucesso; Product Hunt: 4-5 meses de traction sem incorporar
 - [[Otimismo Deliberado como Ferramenta de Inovação]] — otimismo é escolha deliberada, não traço de personalidade; pessimismo perde mais oportunidades do que protege; pré-requisito para fazer perguntas "e se?"
 - [[Virtude do Erro]] — "do erro vem a virtude"; inovação exige disposição de se embaraçar; ambientes curados matam tolerância a experimento; extraia ativamente aprendizado de cada falha

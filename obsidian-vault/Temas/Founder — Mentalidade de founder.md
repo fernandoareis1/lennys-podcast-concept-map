@@ -61,6 +61,7 @@ A mentalidade de quem lidera o que constrói: reassumir o leme, dar clareza e n�
 - [[Auto-Reflexão Estruturada — Dashboard de Vida]] — 1 hora diária de reflexão com dashboard vermelho-amarelo-verde por área (pai, marido, líder); rastrear experimentos em si mesmo; Guild Nights como rede intencional
 - [[Shoshin — Mente de Principiante]] — na mente do principiante há infinitas possibilidades; na mente do especialista há poucas; cultivar shoshin é a proteção contra o viés de expert
 - [[Slide Mais Forte Primeiro — Regra do Slide Raiz]] — o 1º slide fica na tela mais tempo → coloque o ponto mais forte; o slide "obrigado" é o 2º mais longo → repita a mensagem principal; use "one more story" no final
+- [[Agência como Skill Insubstituível na Era da IA]] — escolas ensinam P-sets; o mercado precisa de pessoas que tomam iniciativa sem roteiro; agência é o diferenciador humano que IA não substitui
 - [[Meta Impossível como Motor de Perseverança]] — metas razoáveis são abandonadas no primeiro obstáculo; meta impossível gera inadequação → esforço extremo; deve ser algo que você genuinamente quer concretizar porque o trabalho é imenso
 
 - [[O Meio Bagunçado — Convicção como Bússola]] — no período volátil intermediário de qualquer startup, a bússola é convicção: "sabendo o que sabe hoje, tem mais ou menos convicção?" — a resposta decide se deve continuar ou pivotar

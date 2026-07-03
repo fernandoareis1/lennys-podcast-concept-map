@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Chris Hutchins]
+autores: [Chris Hutchins, Shweta Shrivastava]
 ---
 # Impacto sobre promoção
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -33,6 +33,14 @@ Chris Hutchins chegou a esse insight vindo de um ângulo incomum: como ex-fundad
 ### [[Chris Hutchins]]
 - "Tive o benefício sortudo de... no meu último trabalho, eu era o CEO. Não me importava com meu título, não me importava com subir de nível. Entrei e disse: 'Quero continuar tentando executar esta visão.' O que isso realmente significava era que minha única métrica era impacto e tentar construir um produto que funcionasse."
 - "As pessoas que trabalharam para mim ou ao meu lado que sempre parecem superar os outros são sempre as pessoas que estão totalmente focadas em ter o máximo de impacto na empresa. Você acha que fazer o que seu chefe quer é o que vai te promover. Não é."
+
+## Insights por autor
+### [[Shweta Shrivastava]]
+- "The way to get promoted is to not want it too badly."
+- "Focus on the impact. Work on the right things that will have the right outcome for the business. If you are and you're giving it your 100%, that will be visible."
+- "If you try to maneuver [promotion] too much, it becomes visible and it's not a positive signal to the organization."
+
+> 🎧 [Product lessons from Waymo | Shweta Shrivastava (Waymo, Amazon, Cisco)](https://www.youtube.com/watch?v=VtNmAjNF3Tc) · 2023-04-09
 
 ## Conceitos relacionados
 [[Intenção declarada ao defender ideias]] · [[Carreira é progresso, não salário]] · [[Identidade de Builder]] · [[Impacto = Ambiente × Habilidades]]

@@ -17,6 +17,7 @@ Crescimento como **sistema**, não truque: loops que se realimentam, alavancas p
 - [[Inovação vs Otimização — O Flip em AI]] — em AI, 95% inovação de growth vs 5% otimização
 - [[Generosidade de Produto — Dar para Crescer]] — remover barreiras de entrada como motor de crescimento
 - [[Growth Loops vs Funil]] — sistemas que se realimentam vs funil linear
+- [[Blue Loop e Black Loop — Os Dois Motores de Crescimento]] — Black Loop (loop interno de share→create) + Blue Loop (publicar para o mundo, loop de YouTube); cada loop tem mindset de time e pricing diferente
 - [[Kindling vs Fire strategies]] — hacks só destravam os motores escaláveis
 - [[Explore vs. Exploit (Growth)]] — oscilar entre descobrir o insight certo e extrair o máximo dele
 - [[Paradoxo de Jevons no software]] — custo de criar cai → consumo total sobe; mercado expande

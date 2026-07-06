@@ -40,5 +40,8 @@ Product-market fit não é uma conquista permanente — é uma relação com um 
 - "Você não tem fit para todos ao mesmo tempo — você tem fit para quem está disposto a usar hoje."
 > 🎧 [Inside Linear: Building with taste, craft, and focus](https://www.youtube.com/watch?v=4muxFVZ4XfM) · 2023-10-08
 
+## Aprofundamento ⬇
+- [[PMF não é permanente — Evidências]]
+
 ## Conceitos relacionados
 [[Sean Ellis Test (40%)]] · [[Estratégia — Estratégia de produto]] · [[Retenção é a base do crescimento]] · [[Growth — Anti-táticas]]

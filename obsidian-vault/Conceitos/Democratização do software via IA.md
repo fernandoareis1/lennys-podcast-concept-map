@@ -39,5 +39,8 @@ Fazer software sempre foi difícil porque era fragmentado: IDE, runtime, package
 - Times que seriam "twiddling their thumbs" esperando no roadmap do time de apps internos agora constroem eles mesmos.
 > 🎧 [How Block is becoming the most AI-native enterprise in the world (1:26:42)](https://www.youtube.com/watch?v=JMeXWVw0r3E)
 
+## Aprofundamento ⬇
+- [[Democratização do software via IA — Evidências]]
+
 ## Conceitos relacionados
 [[PM como builder — prototipagem sem engenharia]] · [[Paradoxo de Jevons no software]] · [[Compressão do Talent Stack por IA]] · [[Código como Linguagem Universal dos Agentes]] · [[Produto lovável (MLP)]]

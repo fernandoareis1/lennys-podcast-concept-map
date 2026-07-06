@@ -154,6 +154,8 @@ Como criar e **sustentar vantagem**: encantar clientes de formas difíceis de co
 
 ## Descer mais (L4) ⬇
 [[Produto lovável (MLP) — Evidências]]
+[[PMF não é permanente — Evidências]]
+[[Democratização do software via IA — Evidências]]
 
 ## Fluxos vizinhos
 [[03 - Priorização & Roadmap]] · [[07 - Ativação & Retenção]]

@@ -40,6 +40,39 @@ Todas essas perguntas compartilham:
 3. **Revelam valores** mais do que habilidades técnicas
 4. **Criam vulnerabilidade** controlada — quem foge, foge; quem enfrenta, mostra caráter
 
+## Como avaliar respostas: o que indica A-players
+
+Não há resposta "certa" nessas perguntas, mas há padrões consistentes que distinguem candidatos excepcionais:
+
+**Sinais positivos:**
+- **Especificidade sobre generalidade:** A-players falam de situações concretas, não de princípios abstratos. "Eu aprendi X quando fiz Y em Z situação" > "Acredito na importância de X."
+- **Perspectiva dos outros sem ser solicitado:** Mencionam o impacto nas outras pessoas, não só o resultado pessoal.
+- **Conforto com ambiguidade e falha:** Quando perguntados sobre erros, descrevem o aprendizado sem defensividade.
+- **Auto-conhecimento calibrado:** Conseguem nomear limitações reais sem se desculpar ou se depreciar.
+
+**Sinais negativos (red flags):**
+- Respostas que nunca terminam em falha ou dúvida — "sempre deu certo"
+- Narrativas onde o candidato é sempre o herói e os outros são obstáculos
+- Dificuldade em encontrar um exemplo específico ("bem, de forma geral...")
+- Repostas preparadas que soam ensaiadas demais — indica que a pergunta foi antecipada e "resolvida"
+
+## Perguntas sobre o entrevistador, não só o candidato
+
+Algumas das perguntas acima (especialmente a de Geoff Charles: "o que foi mais difícil que você já fez?") funcionam como **espelhos do avaliador**. O que uma pessoa chama de "difícil" revela tanto sobre seus valores quanto sobre suas habilidades.
+
+Um candidato que responde com um desafio interpersonal (conversar com um colega difícil) tem prioridades diferentes de quem responde com um desafio técnico ou estratégico. Nenhum é errado — mas revela fit cultural.
+
+## A filosofia por trás: autenticidade > preparação
+
+O problema das entrevistas tradicionais é estrutural: elas otimizam para preparação, não para autenticidade. Candidatos estudam "como passar em entrevistas", e o mercado criou uma indústria de coaching de entrevistas que ensina exatamente as respostas esperadas.
+
+As perguntas desta lista buscam o inverso: criar situações onde a resposta preparada soa falsa, e onde a resposta autêntica — incluindo incertezas e contradições — é mais reveladora.
+
+> "The best interview questions have no correct answer — only authentic or inauthentic ones." *(compilação de múltiplos convidados)*
+
+O objetivo final: descobrir não se o candidato sabe as palavras certas, mas se a pessoa que aparece naquela sala é a mesma que vai aparecer em uma situação difícil, em um one-on-one desconfortável, ou em uma decisão com impacto real.
+
 ## Fontes
 
 - Episódio compilação: [Interview Questions Compilation (1:28:28)](https://www.youtube.com/watch?v=VxAwUb86MUE) · Lenny's Podcast
+- Entrevistas individuais de: [[Eeke de Milliano]] · [[Geoff Charles]] · [[Shishir Mehrotra]] · [[Yuhki Yamashita]] · [[Katie Dill]] · [[Noah Weiss]] · [[Nikhyl Singhal]] · [[Paul Adams]] · [[Ayo Omojola]]

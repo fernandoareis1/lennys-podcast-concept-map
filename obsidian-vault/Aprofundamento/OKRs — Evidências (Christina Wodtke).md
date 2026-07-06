@@ -49,6 +49,45 @@ Ancore em **temporal landmarks** (segundas, início de trimestre) e celebre toda
 
 E cuidado com o **peanut butter** (Yahoo): espalhar 1% em tudo. OKR é "this is the big rock we're going to move este trimestre". *(09:36–10:27)*
 
+## O Monday Commitment: unidade atômica na prática
+
+A grande contribuição operacional de Wodtke é transformar OKRs de artefato trimestral em prática semanal.
+
+> "What am I doing this week to get closer to our goals? If you could answer that question, you could give up all the OKR stuff." *(11:44–12:21)*
+
+O **Monday Commitment** é exatamente isso: toda segunda-feira, cada pessoa do time responde com 3-4 tarefas concretas que conectam ao OKR do trimestre. O ritual semanal cria dois efeitos:
+
+1. **Accountability distribuída** — cada pessoa vê seu trabalho no contexto do objetivo maior
+2. **Detecção precoce de deriva** — quando alguém não consegue conectar o trabalho desta semana ao OKR, é sinal de que ou o trabalho está errado ou o OKR está mal definido
+
+A celebração semanal de progresso — mesmo que marginal — é subestimada:
+
+> "People do not value celebrations enough." *(12:21)*
+
+## Falhas comuns e como evitá-las
+
+**Erro 1: Métricas de saída (output) disfarçadas de outcomes**
+
+"Lançar feature X" é output. "Aumentar retenção D30 de 30% para 40%" é outcome. A pergunta de diagnóstico é: você poderia alcançar o sucesso sem fazer o trabalho? Se sim, é output.
+
+**Erro 2: OKRs como lista de tarefas disfarçada**
+
+O *peanut butter* da Yahoo — espalhado em tudo — é o sinal. Se o time tem 8 OKRs, não tem nenhum.
+
+> "OKR is 'this is the big rock we're going to move este trimestre'." *(09:36–10:27)*
+
+**Erro 3: Over-planning nos trimestres futuros**
+
+> "Too much strategy ties you down and too little strategy you're too responsive to everything." *(18:01–20:32)*
+
+O ponto de equilíbrio: defina o objetivo do próximo trimestre, mas deixe os key results emergirem do que você aprendeu no trimestre anterior.
+
+**Erro 4: Subestimar o custo de estimativas ruins**
+
+> "Everybody sucks at estimating when you first start (…) but it's a learned skill." *(19:35)*
+
+OKRs forçam estimativas — e estimativas ruins são visíveis rapidamente. Isso é um bug ou uma feature? Para Wodtke, é uma feature: a dor da estimativa errada é exatamente o que acelera a aprendizagem.
+
 ---
 
 ## Conceitos ligados

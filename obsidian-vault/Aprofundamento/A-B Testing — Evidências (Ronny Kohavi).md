@@ -46,6 +46,39 @@ Aposta grande real: integrar busca do Bing com social (Twitter/Facebook) custou 
 ## O perdedor que ensina
 Um novo indexador do Windows melhorava a relevância offline — mas **matava a bateria** (CPU): "something that comes from left field that you didn't expect (…) let's document it." *(18:36–19:23)*
 
+## Por que a plataforma de experimentação é o ativo nº 1
+
+Kohavi é categórico: antes de qualquer estratégia de experimentação, existe um pré-requisito de infraestrutura.
+
+> "The most important thing you can do is build a trustworthy experimentation platform. Trust is the number one asset." *(implícito em toda a conversa sobre plataforma)*
+
+Um time que desconfia dos resultados dos próprios experimentos perde a capacidade de aprender. Isso acontece quando a plataforma tem bugs de randomização, contaminação entre variantes, métricas mal definidas ou ausência de *guardrail metrics* (indicadores que sinalizam quando o experimento está causando dano).
+
+**Checklist de confiabilidade da plataforma:**
+- A randomização é verdadeiramente aleatória e consistente por usuário (não por sessão)?
+- Existe separação limpa entre variantes (sem contaminação por features compartilhadas)?
+- O OEC está definido antes do experimento começar?
+- Existem guardrail metrics que interrompem o experimento se causar dano inesperado?
+- O tamanho de amostra foi calculado beforehand para o efeito mínimo detectável?
+
+## O OEC como artefato estratégico
+
+O *Overall Evaluation Criterion* não é apenas uma métrica — é uma **declaração de valores do produto**. Escolher o OEC errado pode fazer uma empresa otimizar contra seus próprios usuários.
+
+O exemplo de Kohavi: empresas que otimizaram CTR de anúncios descobriram, anos depois, que estavam treinando usuários a clicar em coisas que não queriam ver. Já o OEC do Bing incluía métricas de qualidade da sessão (tempo na página, ausência de "pogo-sticking"), não só cliques.
+
+> "Inch by inch is how the gains come." *(10:57)*
+
+Isso significa que o OEC precisa ser sensível a movimentos pequenos — +0.1% de melhoria deve ser detectável. Uma plataforma que só detecta movimentos de +5% é efetivamente cega para a maioria das melhorias.
+
+## Como comunicar resultados para equipes não técnicas
+
+O maior desafio de Kohavi na Microsoft e no Bing não era técnico — era cultural: convencer líderes de que taxas de 66-92% de falha são **saudáveis e esperadas**, não sinais de time incompetente.
+
+> "Every group that starts to run experiments always starts off thinking that somehow they're different (…) and they're all humbled." *(13:31)*
+
+A solução: criar celebrações explícitas de experimentos **negativos** que ensinaram algo valioso. O experimento do indexador Windows que matava a bateria não foi um fracasso — foi um caso de memória institucional que evitou um dano enorme.
+
 ---
 
 ## Conceitos ligados

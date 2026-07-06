@@ -42,6 +42,22 @@ Os downsizers diziam *"não quero sala de jantar"* — mas **não se mudavam se 
 ## Marketplace de "zero a um" (Facebook Marketplace, implícito)
 Sem produto existente, estudaram **eBay, Etsy e Craigslist**: o que faz alguém dizer "hoje é o dia de montar uma loja no eBay?". A partir dos jobs de compradores e vendedores, ergueram um marketplace "de quase US$3 bilhões que não existia". A regra: **"what will people stop using when your product comes out? That's who you want to interview."** *(28:09, 43:08)*
 
+## O padrão comum nos casos: a anomalia como portal
+
+Revisando os cinco casos, o ponto de entrada é sempre uma **anomalia** — um comportamento de usuário que não deveria estar acontecendo segundo o modelo atual da empresa:
+
+| Caso | Anomalia | Job descoberto |
+|---|---|---|
+| SNHU | Alunos pagando caro mas nunca aparecendo | Adultos voltando a estudar, não estudantes tradicionais |
+| Autobooks | Demo única para clientes em estágios diferentes | Três jobs distintos de compra para bancos |
+| Intercom | Features de quatro áreas conflitantes em um produto | Quatro jobs separados que pediam produtos diferentes |
+| Downsizers | Cancelamentos consistentes em 6 semanas | Fricção da mudança, não do produto em si |
+| Mesa de jantar | Clientes dizendo "não quero sala" mas saindo sem comprar | Âncora emocional invisível (a mesa como símbolo de vida) |
+
+> "All of this starts with a struggling moment, not with a product." *(07:44–09:06)*
+
+A anomalia não é um bug no dado — é sinal de um job ainda não mapeado. Times que ignoram anomalias ("apenas 2% dos usuários fazem isso") perdem exatamente o sinal mais valioso: o comportamento que o modelo atual não consegue explicar.
+
 ---
 
 ## Conceitos ligados

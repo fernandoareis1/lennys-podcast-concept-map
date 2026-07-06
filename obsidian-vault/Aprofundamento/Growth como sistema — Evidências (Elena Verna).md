@@ -39,6 +39,43 @@ Heads of growth têm **taxa de demissão maior que CMOs**: chegam com expectativ
 
 Num declínio, growth levanta **10–15% no máximo** — não cria a curva-J de reaceleração. Antes, resolva o **elefante** (produto/marketing core). Só contrate head of growth quando a queda **estabilizou** e há sinais de vida. *(16:03–19:18)*
 
+## Quem deveria contratar antes: head of growth vs. head of sales
+
+A decisão mais prática do episódio é a matriz de primeira contratação em go-to-market:
+
+| Modelo de negócio | Primeira contratação de GTM |
+|---|---|
+| Sales-led (enterprise, contratos anuais) | **Head of Sales** — antes de qualquer growth hire |
+| Self-serve (freemium, trial, PLG) | **Head of Growth** — antes de sales |
+| Híbrido | Depende de onde está o gargalo atual |
+
+O erro mais custoso: contratar "growth marketing" em empresa sales-led. Elena é direta:
+
+> "In sales-led companies, 'growth marketing' is often just demand gen rebranded to charge 20-30% more salary." *(12:42–14:48)*
+
+A heurística prática: se o produto exige uma conversa humana para o cliente entender valor — é sales-led, contrate sales primeiro. Se o cliente consegue ativar e pagar sem falar com ninguém — é PLG, contrate growth primeiro.
+
+## O diagnóstico antes da contratação
+
+Antes de contratar qualquer papel de growth, Elena recomenda responder três perguntas:
+
+1. **PMF real ou artifício?** Retenção orgânica alta + clientes que dizem "não consigo viver sem" = PMF real.
+2. **Dados ou intuição?** "Se você tem 10 clientes, isso é uma planilha, não dados." Sem volume para hipóteses/experimentos, growth não consegue operar.
+3. **Time de produto responsável por quê?** Se produto controla aquisição, ativação, monetização ou retenção — aí growth faz sentido. Se tudo passa por vendas humanas, growth ficará sem alavanca.
+
+## Por que o timing errado destrói heads of growth
+
+O padrão observado por Elena:
+- Head of growth contratado cedo demais chega a empresa sem PMF
+- Tenta táticas de growth, nada funciona
+- Empresa culpa o head of growth
+- Head of growth demitido
+- Ciclo começa do zero
+
+> "Heads of growth have a higher turnover rate than CMOs." *(07:35)*
+
+A ironia: a empresa que mais precisa de growth (sem PMF, sem crescimento) é exatamente a empresa onde um head of growth vai falhar. A empresa que menos precisa (PMF forte, crescimento natural) é onde um head de growth vai ter sucesso mais rapidamente.
+
 ---
 
 ## Conceitos ligados

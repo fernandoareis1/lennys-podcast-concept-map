@@ -43,6 +43,43 @@ Dê **baldes** para o comprador organizar o mercado ("shared inbox / help desk /
 
 Se o cliente não compartilha do seu insight, **desqualifique** — você perde pro concorrente que serve melhor aquele perfil. *(16:44–17:40)*
 
+## A conversa competitiva que ninguém quer ter
+
+Dunford confronta diretamente o medo mais comum de times de vendas: falar de concorrentes.
+
+A pesquisa mostra que compradores B2B querem exatamente o oposto do que os vendedores fazem:
+
+> "What B2B software buyers want in a sales interaction is perspectives on the market and help weighing their options. And we don't do that." *(19:13–22:03)*
+
+A técnica dos "buckets": em vez de nomear concorrentes específicos (o que soa como ataque), categorize o mercado para o comprador.
+
+> "I'll put them in one of those buckets: shared inbox, help desk, or us. I don't care who the vendor is." *(24:27–25:22)*
+
+O efeito: o comprador chega ao entendimento das diferenças **sozinho**, com a estrutura que você forneceu. Isso cria convicção mais durável do que simplesmente ouvir seu vendedor falar mal da concorrência.
+
+## O momento em que a desqualificação é a venda certa
+
+Se o comprador não compartilha do insight de mercado do setup, a resposta correta é desqualificá-lo — não forçar a venda.
+
+> "If they don't agree with your insight, they're not a great fit for your product (…) you're going to lose to a competitor that serves that profile better." *(16:44–17:40)*
+
+Esse é o momento mais contraintuitivo da metodologia: desqualificar ativamente é uma forma de vendas que parece ruim no curto prazo (conversa terminada) mas preserva o win rate (clientes que ficam são os certos) e evita churn causado por má venda.
+
+## O pitch completo como jornada do comprador
+
+A estrutura do pitch de duas partes (setup + follow-through) não é arbitrária — segue a jornada psicológica do comprador:
+
+1. **Antes do setup:** o comprador está em modo de defesa ("o que eles querem me vender?")
+2. **Durante o setup:** o comprador processa o mercado à sua própria maneira, assistido por você
+3. **No "mundo perfeito":** o comprador co-cria os critérios de avaliação com você
+4. **No follow-through:** o comprador avalia seu produto com os critérios que ajudou a definir
+
+O resultado: no momento da proposta, o comprador já internalizou por que seu produto é diferente, usando suas próprias palavras.
+
+> "The buyer is 80% of the way through their buying journey by the time they talk to your sales rep — 80% of the way to saying 'nope, I'm not buying nothing'." *(23:50–24:27)*
+
+O antídoto é entrar nessa conversa cedo (via marketing de conteúdo, event marketing) para ser o educador do mercado antes da conversa de venda.
+
 ---
 
 ## Conceitos ligados

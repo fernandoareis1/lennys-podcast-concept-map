@@ -47,6 +47,28 @@ Exemplo: a pessoa diz que comprou o carro "porque era um ótimo negócio"; a ver
 ## Quantas
 Padrões se repetem em **~7–8**; Moesta faz **10–12**. "I would rather do two rounds of 12 interviews than do 24 interviews." Não precisa de significância estatística se você amostra a faixa do mercado de propósito. *(29:07)*
 
+## Os erros mais comuns que invalidam a entrevista
+
+Tanto Moesta quanto Torres identificam padrões que transformam uma entrevista potencialmente reveladora em dado inútil:
+
+**Erro 1 — Perguntar intenções em vez de comportamentos:**
+"Você usaria X?" captura fantasia. "Me conta a última vez que você fez X" captura realidade. O cérebro humano confunde aspiração com comportamento quando perguntado diretamente.
+
+**Erro 2 — Fazer a pessoa "voar sobre o território":**
+Perguntas como "você acha que o problema é X ou Y?" fazem a pessoa abstratizar. O dado útil está no nível do solo: o que aconteceu, em que ordem, com quem, em que contexto.
+
+**Erro 3 — Ouvir para confirmar:**
+Quando o entrevistador sabe "o que quer descobrir", inconscientemente seleciona evidências que confirmam. A heurística de Moesta: se você não está surpreso ao fim de 5 entrevistas, provavelmente está ouvindo seletivamente.
+
+**Erro 4 — Encerrar cedo demais:**
+A maioria das entrevistas para quando a resposta "óbvia" chega. O material mais valioso — a mesa de jantar nos downsizers, as 280 mil milhas no carro — aparece quando a pergunta "e o que mais?" é feita mais uma vez.
+
+## A meta: the edge of language
+
+> "The moment somebody says yes, there's nothing more to say." *(Moesta, 27:37)*
+
+O objetivo de ambas as metodologias é levar o entrevistado ao limite do que consegue articular sobre sua própria experiência. Nesse ponto — hesitação, metáfora, contradição — está o insight que nenhum survey, NPS ou analytics consegue capturar. É por isso que a entrevista, feita bem, é insubstituível mesmo com o volume de dados disponível em produtos digitais.
+
 ---
 
 ## Conceitos ligados

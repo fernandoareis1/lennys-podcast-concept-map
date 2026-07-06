@@ -45,6 +45,18 @@ Perderam 80% do negócio em 8 semanas — "a near-death business experience" que
 - Todo executivo **expert no domínio**; "a design leader's job should be managing the design first, the people second." *(26:28–27:11)*
 - **"One shared consciousness":** os top 30–40 numa conversa contínua; métricas **subordinadas ao calendário**; **roadmap rolante de 2 anos** atualizado todo mês — com reserva para pivotar (alojaram 120 mil refugiados). *(27:11–27:54)*
 
+## O princípio generalizável: clareza > conforto
+
+A lição mais portátil de Chesky vai além do debate "founder mode vs. manager mode". É sobre a disposição de sacrificar conforto interpessoal em prol de clareza organizacional.
+
+A maioria dos founders ajusta sua visão para acomodar as preferências de quem contratou. Chesky faz o argumento oposto: isso não serve ninguém. Executivos sênior querem clareza de direção, não autonomia sem contexto. Equipes de produto querem saber onde está o norte, não navegar em ambiguidade.
+
+> "What everyone really wants is clarity — they want to row in the same direction really quickly." *(00:00)*
+
+O corolário: qualquer founder que está "delegando" como forma de evitar conflito está cometendo um erro de liderança, não de gestão. O modelo de Airbnb pós-pandemia — menos pessoas, mais seniores, mais conectadas à visão do fundador — não é um modelo de controle. É um modelo de clareza.
+
+A pergunta prática para qualquer líder de produto: *"Você está se afastando do detalhe porque o time está capacitado para tomar boas decisões, ou porque é desconfortável estar próximo do detalhe?"* A resposta honesta determina se você está em founder mode ou em modo de evitação.
+
 ---
 
 ## Conceitos ligados

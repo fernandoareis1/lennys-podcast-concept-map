@@ -38,6 +38,40 @@ Baxley "bateu na cultura" do Pinterest ao importar os comportamentos diretos da 
 
 E a humildade: "Your career's not your life. (…) The job of a startup is to grow the founder so they can continue to lead the startup. (…) A lot of times people get outgrown by the role." *(11:32–13:11)*
 
+## Como identificar cultura de design em entrevistas
+
+Baxley desenvolveu um método específico para avaliar se uma empresa tem DNA de design antes de aceitar um papel:
+
+**A pergunta decisiva:** peça ao founder para contar a história de por que ele acredita em design — não o que ele acha que o entrevistador quer ouvir, mas a experiência pessoal que formou essa crença.
+
+Exemplo positivo (ThoughtSpot / Ajeet Singh): o founder foi a uma consultoria de design, viveu o processo, teve uma epifania. A crença vem de *experiência*, não de *aspiração*.
+
+> "Why would you want to work in a place that doesn't value the thing that you do?" *(13:30–15:42)*
+
+Se o founder não consegue contar essa história — se a crença em design é declaratória ("acredito que design importa"), não narrativa — é sinal de que a cultura ainda não foi construída. E como Baxley deixa claro:
+
+> "I've never seen somebody graft it on after the fact. It's there at the beginning in the root DNA or doesn't exist." *(14:32)*
+
+## A obrigação moral do design
+
+Baxley articula uma responsabilidade que vai além da estética:
+
+> "Almost everyone now is going to have hundreds of interactions with a phone or computer (…) a lot of those interactions are not going to be great. We have an obligation as product people to put that emotional energy back into people's lives." *(00:00)*
+
+Cada interação ruim com software retira energia emocional do usuário. Cada interação bem desenhada devolve. A soma dessas interações — ao longo de horas por dia, anos de vida — compõe uma diferença real no bem-estar humano. Esse é o "por que" por trás de lutar por cultura de design em um mundo que frequentemente a trata como commodity.
+
+## A carreira como jornada, não como destino
+
+Uma das observações mais incomuns de Baxley é sobre a relação entre startup e fundador:
+
+> "The job of a startup is to grow the founder so they can continue to lead the startup. (…) A lot of times people get outgrown by the role." *(11:32–13:11)*
+
+E sobre a perspectiva de carreira:
+
+> "Your career's not your life." *(11:32)*
+
+Isso não é pessimismo — é realismo empoderador. Um designer que trata a carreira como instrumento (não como identidade) consegue fazer o trabalho difícil de questionar a própria empresa sem medo existencial. E consegue reconhecer quando é hora de ir, em vez de se agarrar a um papel que não serve mais.
+
 ---
 
 ## Conceitos ligados

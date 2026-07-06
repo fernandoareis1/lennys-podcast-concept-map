@@ -36,6 +36,43 @@ Um 2x2 de **autonomia × atribuição**: o quadrante alvo (alta autonomia + alta
 
 A tese do livro anterior (*Monetizing Innovation*): construir produtos que as pessoas **precisam, valorizam e estão dispostas a pagar** — conversando sobre willingness to pay **antes** de construir. *(05:21–06:38)*
 
+## Por que a AI muda a regra do jogo de monetização
+
+Madhavan dedica a maior parte do episódio à tese de que empresas de AI cometem o mesmo erro que SaaS cometeu na década de 2010: correm para crescimento antes de entender o que seus clientes realmente pagam.
+
+O exemplo mais concreto: empresas de AI que lançam a $20/mês "para competir com o ChatGPT" sem testar willingness to pay real. Isso cria uma âncora que é virtualmente impossível de desfazer depois.
+
+> "If you start training your customers to expect $20 a month and you anchored yourself on a low price point, you're in trouble." *(00:11–00:30)*
+
+O argumento do livro anterior (*Monetizing Innovation*): a conversation sobre preço deve acontecer **antes** de escrever o primeiro requisito — não depois de construir. A maioria dos times faz o oposto.
+
+## A regra 20-80 e a armadilha da feature-building
+
+> "20% of what you build drives 80% of the willingness to pay — but the irony is that 20% is the easiest thing to build often." *(00:11)*
+
+A consequência prática: a maioria das equipes gasta 80% do tempo construindo coisas que não geram valor percebido — porque nunca perguntaram o que os clientes pagariam antes de construir.
+
+A solução é o conceito de **willingness to pay discovery** na fase de discovery, paralelo ao trabalho de user research. Perguntas diretas: "Se esse produto custasse $X/mês, você compraria? E $2X?" criam dados que nenhum A/B test de pricing consegue capturar depois do lançamento.
+
+## Evitar o ciclo vicioso dos arquétipos
+
+O modelo dos três arquétipos serve como **ferramenta de diagnóstico** para times de produto e pricing:
+
+**Checklist do Disruptor saudável:**
+- Meu preço de entrada permite expansão natural de wallet share?
+- Tenho uma jornada de upgrade clara?
+- Meu CAC pode ser recuperado em 12-18 meses?
+
+**Checklist do Moneymaker saudável:**
+- Meu preço reflete o valor percebido, não o custo interno?
+- Tenho premium tiers que adicionam valor, não removem fricção?
+- Clientes entendem por que pagam?
+
+**Checklist do Community builder saudável:**
+- Estou expandindo o mercado total, não só retendo leais?
+- Tenho uma jornada de upgrade que não choca com a expectativa de gratuidade?
+- Minha missão e meu modelo de negócio estão alinhados?
+
 ---
 
 ## Conceitos ligados

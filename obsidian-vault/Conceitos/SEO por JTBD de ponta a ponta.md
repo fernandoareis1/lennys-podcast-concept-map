@@ -25,7 +25,6 @@ SEO não é só ranquear: é **projetar a experiência completa** do job-to-be-d
 
 > 🎧 [Inside Canva: Coaches not managers, giving away your Legos, and embracing AI | Cameron Adams (1:03:09)](https://www.youtube.com/watch?v=wgrJNHlYUA8) · 2024-06-02
 
-## Insights por autor
 ### [[Eli Schwartz]]
 - Programático só funciona quando a página leva diretamente ao user journey do produto: Tinder city pages → download do app → premium; Zapier integrations → criar zap; SurveyMonkey templates → criar pesquisa
 - "Copying someone else's version of programmatic doesn't do anything." — cada empresa precisa criar programático que serve seu próprio funil de conversão

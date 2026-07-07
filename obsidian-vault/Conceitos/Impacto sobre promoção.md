@@ -34,7 +34,6 @@ Chris Hutchins chegou a esse insight vindo de um ângulo incomum: como ex-fundad
 - "Tive o benefício sortudo de... no meu último trabalho, eu era o CEO. Não me importava com meu título, não me importava com subir de nível. Entrei e disse: 'Quero continuar tentando executar esta visão.' O que isso realmente significava era que minha única métrica era impacto e tentar construir um produto que funcionasse."
 - "As pessoas que trabalharam para mim ou ao meu lado que sempre parecem superar os outros são sempre as pessoas que estão totalmente focadas em ter o máximo de impacto na empresa. Você acha que fazer o que seu chefe quer é o que vai te promover. Não é."
 
-## Insights por autor
 ### [[Shweta Shrivastava]]
 - "The way to get promoted is to not want it too badly."
 - "Focus on the impact. Work on the right things that will have the right outcome for the business. If you are and you're giving it your 100%, that will be visible."

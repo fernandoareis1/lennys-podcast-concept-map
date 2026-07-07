@@ -26,7 +26,6 @@ Quando um executivo ou time se define como "muito data-driven", isso pode ser um
 - "Dados não te dizem o *por quê* de nada. Sem entender o porquê, você não consegue bons insights sobre o que fazer a seguir."
 > 🎧 [Mastering product strategy and growing as a PM (1:22:34)](https://www.youtube.com/watch?v=4LjddcccYIo)
 
-## Insights por autor
 ### [[Shaun Clowes]]
 - "Data is more like a compass than a GPS. If you look at data as a way of giving you the answer, you're always wrong — or slow. Both."
 - Intuição é acumulação de dados: "The reason your intuition tells you something is because you've seen a ton of data that says this is the most likely answer."

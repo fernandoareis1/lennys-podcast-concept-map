@@ -50,7 +50,6 @@ Performance marketing que funciona é aquele que **amplia** um sinal orgânico j
 
 > 🎧 [How Gamma reached $100M ARR with 30 people | Grant Lee (Gamma)](https://www.youtube.com/watch?v=3H0ngGU5pbM) · 2025-11-13
 
-## Insights por autor
 ### [[Rahul Vohra]]
 - "There is no such thing as a truly viral product. No app has sustained a viral factor greater than one for any real period of time." — Facebook no auge tinha fator viral ~0.7 por cerca de um ano
 - Viral factor 0.4 é bom, 0.6 é ótimo, 0.7 é estratosférico — e todos convergem para uma assíntota; nenhum mecanismo compõe infinitamente

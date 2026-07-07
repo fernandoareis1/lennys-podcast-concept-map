@@ -29,7 +29,6 @@ Founder-led sales é o primeiro marco comercial de uma startup: como conseguir s
 - "Não fale sobre a solução no cold outreach. Fale sobre o problema. Deixe-os querendo mais."
 > 🎧 [The ultimate guide to founder-led sales | Jen Abel (1:16:05)](https://www.youtube.com/watch?v=969dwgu98qc)
 
-## Insights por autor
 ### [[Pete Kazanjy]]
 - "You can't outsource this. You lose the feedback loop, the learnings of whether your message fits the market. You're playing telephone with a third party seller."
 - "Never mistake your lead gen for your business. Dropbox had phenomenal lead gen via freemium — but never put enough calories into what would support selling across an organization."

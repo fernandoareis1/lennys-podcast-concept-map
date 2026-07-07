@@ -32,7 +32,6 @@ A tensão certa para fundadores: ter convicção sobre como o mundo vai mudar (a
 
 > 🎧 [Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (1:07:08)](https://www.youtube.com/watch?v=ja6fWTDPQl4) · 2025-09-18
 
-## Insights por autor
 ### [[Raaz Herzberg]]
 - "We really felt the type of questions change. Suddenly, the call didn't end with 'sounds super interesting.' It sounded like, 'How are you pricing this? When can we start doing a POV? I know exactly who I need to connect you to.'"
 - "When it works, it works, and you do know when it works."

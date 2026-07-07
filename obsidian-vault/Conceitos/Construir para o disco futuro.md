@@ -32,7 +32,6 @@ O antídoto ao erro: internalize a curva exponencial concretamente — não como
 - "São AGI-pilled o suficiente? É a pergunta que eu sempre faço para o time."
 > 🎧 Episódio com Benjamin Mann, co-founder da Anthropic (frontmatter do transcript com erro — URL não disponível)
 
-## Insights por autor
 ### [[Karina Nguyen]]
 - "A Canvas idea estava no ar desde 2022, antes do ChatGPT. Mas o modelo Claude 1.3 não estava lá para fazer edições de alta qualidade. Você constrói ideias de produto de forma que, quando os modelos estiverem realmente bons, vai funcionar muito bem."
 - "Form follows function. O form factor de file uploads pode permitir que as pessoas literalmente façam upload de qualquer coisa — livros, relatórios financeiros — e perguntem qualquer tarefa ao modelo."

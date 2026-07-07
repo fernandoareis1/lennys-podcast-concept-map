@@ -25,6 +25,7 @@ O mercado de trabalho humano especializado em escrever evals é uma nova categor
 
 ## Insights por autor
 ### [[Brendan Foody]]
+
 - "Se o modelo é o produto, o eval é o PRD — mas também o material de vendas. Os labs usam evals para demonstrar as capacidades dos seus modelos."
 - "O gargalo primário dos labs para melhorar modelos é como eles podem medir efetivamente o que parece sucesso para o modelo."
 - "A barreira para aplicar agentes em toda a economia para automatizar qualquer workflow é: como medimos sucesso? Como fazemos o eval?"
@@ -49,7 +50,6 @@ O mercado de trabalho humano especializado em escrever evals é uma nova categor
 
 > 🎧 [Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (1:46:33)](https://www.youtube.com/watch?v=BsWxPI9UM4c) · 2025-09-25
 
-## Insights por autor
 ### [[Karina Nguyen]]
 - Dois tipos de evals: **determinísticos** (pass/fail — "se o usuário diz 7PM, o modelo deve dizer 7PM") e **win-rate humano** (qual modelo produz o output de maior qualidade?).
 - Formato prático: planilha com abas de "comportamento atual", "comportamento ideal", "notas" e "por quê" — pode ser passada ao o1 para ele descobrir como treinar o bom comportamento.

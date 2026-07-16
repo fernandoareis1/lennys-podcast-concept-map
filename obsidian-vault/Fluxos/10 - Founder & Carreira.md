@@ -12,6 +12,7 @@ ordem: 10
 ## Temas
 - [[Founder — Mentalidade de founder]] — operar como fundador
 - [[Founder — Carreira & progresso]] — carreira é progresso, não salário
+- [[Carreira — Desenvolvimento de carreira em produto]] — superpoderes, compounding e escolhas de contexto
 
 > 🪜 *Camadas:* hub **L1** → **Temas (L2)** → **Conceitos (L3)** → **Aprofundamento (L4)**.
 

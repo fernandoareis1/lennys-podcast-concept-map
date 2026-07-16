@@ -1,12 +1,12 @@
 ---
 tipo: mindset
 nivel: 3
-fluxo: Growth & Retenção
+fluxo: Growth & Aquisição
 autores: [Kevin Aluwi]
 ---
 # Brand como Moat em Mercado Competitivo
 
-**Fluxo:** [[06 - Growth & Retenção]] · **Tema:** [[Growth — Distribuição & canais]] · **Camada:** L3
+**Fluxo:** [[06 - Growth & Aquisição]] · **Tema:** [[Growth — Distribuição & canais]] · **Camada:** L3
 **Tipo:** Mindset · **Fontes:** [[Kevin Aluwi]]
 
 ## Ideia central

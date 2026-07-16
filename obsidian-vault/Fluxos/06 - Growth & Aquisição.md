@@ -12,6 +12,8 @@ ordem: 6
 ## Temas
 - [[Growth — Modelos de crescimento]] — loops, PLG e growth como sistema
 - [[Growth — Distribuição & canais]] — onde a próxima onda de distribuição nasce
+- [[Growth — Aquisição & canais]] — fundamentos e canais orgânicos para aquisição sustentável
+- [[Growth — Canais orgânicos & SEO]] — content-led flywheels e thought leadership
 - [[Growth — Anti-táticas]] — o que parece growth mas não é
 
 > 🪜 *Camadas:* hub **L1** → **Temas (L2)** → **Conceitos (L3)** → **Aprofundamento (L4)**.

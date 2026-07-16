@@ -29,5 +29,5 @@ Um compound startup é uma coleção de negócios independentes que compartilham
 > 🎧 [Moving fast and navigating uncertainty | Jeremy Henrickson (1:08:32)](https://www.youtube.com/watch?v=CsruQYKISYI)
 
 ## Conceitos relacionados
-[[Produto IC-First — o modelo bottom-up da Figma]] · [[Estratégia — Estratégia de produto]] · [[Não pare antes do fim]]
+[[GTM IC-First — o modelo bottom-up da Figma]] · [[Estratégia — Estratégia de produto]] · [[Não pare antes do fim]]
 

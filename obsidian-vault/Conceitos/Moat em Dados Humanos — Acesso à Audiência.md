@@ -42,4 +42,4 @@ No mercado de dados humanos para IA, **o único moat real é o acesso a uma audi
 > 🎧 [Inside the expert network training every frontier AI model | Garrett Lord (1:09:51)](https://www.youtube.com/watch?v=0qdR-XwHJ9o) · 2025-08-24
 
 ## Conceitos relacionados
-[[Post-Training como Novo Frontier — Do Pré-treinamento ao Especialista]] · [[Zero a Um Dentro de Empresa Existente]] · [[Network Effects]]
+[[Post-Training como Novo Frontier — Do Pré-treinamento ao Especialista]] · [[Zero a Um Dentro de Empresa Existente — Separação Total]] · [[Três Tipos de Efeito de Rede]]

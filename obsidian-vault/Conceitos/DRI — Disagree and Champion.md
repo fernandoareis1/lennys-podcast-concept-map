@@ -51,4 +51,4 @@ Com DRI, a velocidade é proporcional à accountability do dono da decisão. Nã
 > 🎧 [Why Uber's CPO delivers food on weekends | Sachin Kansal (formerly Sanchan Saxena)](https://www.youtube.com/watch?v=MnBZlEQ14fY) · 2025-06-01
 
 ## Conceitos relacionados
-[[Single-Threaded Leader]] · [[PM como Clareza e Convicção]] · [[Ciclo de Decisão Diária — Daily Meeting como Sistema de Liderança]] · [[Produto Trio]] · [[Arte de Oferecer Opções com Recomendação]]
+[[Single-Threaded Leader]] · [[PM como Clareza e Convicção]] · [[Ciclo de Decisão Diária — Daily Meeting como Sistema de Liderança]] · [[Product Trio]] · [[Arte de Oferecer Opções com Recomendação]]

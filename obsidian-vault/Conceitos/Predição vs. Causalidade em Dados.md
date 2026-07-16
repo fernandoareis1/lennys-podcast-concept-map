@@ -42,4 +42,4 @@ Comparar dois algoritmos de ranking não é avaliar qual prediz melhor os clique
 > 🎧 [Marketplace lessons from Uber, Airbnb, Bumble, and more | Ramesh Johari (1:23:36)](https://www.youtube.com/watch?v=BVzTfsUMaK8)
 
 ## Conceitos relacionados
-[[Experimentação como Disciplina Científica]] · [[Cultura de experimentação a 1.000/ano]] · [[A-B Testing — Evidências (Ronny Kohavi)]] · [[Falha Conclusiva — Design de Experimento Definitivo]] · [[Experimentação Como Mitigação de Risco — Quando Não Testar]]
+[[Experimentação como Disciplina Científica]] · [[Cultura de experimentação a 1000 por ano]] · [[A-B Testing — Evidências (Ronny Kohavi)]] · [[Falha Conclusiva — Design de Experimento Definitivo]] · [[Experimentação Como Mitigação de Risco — Quando Não Testar]]

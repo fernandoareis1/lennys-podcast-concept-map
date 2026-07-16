@@ -30,4 +30,4 @@ A Metrics Tree é uma árvore hierárquica que conecta o North Star Metric (valo
 > 🎧 [Becoming evidence-guided | Itamar Gilad (1:12:52)](https://www.youtube.com/watch?v=aJWSn-tz3jQ)
 
 ## Conceitos relacionados
-[[GIST — Framework de Produto Orientado a Evidência]] · [[North Star Metric]] · [[OKRs]] · [[Priorização — Outcomes & metas]]
+[[GIST — Framework de Produto Orientado a Evidência]] · [[North Star Metric]] · [[OKRs (Christina Wodtke)]] · [[Priorização — Outcomes & metas]]

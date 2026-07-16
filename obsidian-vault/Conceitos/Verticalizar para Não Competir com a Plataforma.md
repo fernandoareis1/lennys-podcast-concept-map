@@ -1,12 +1,12 @@
 ---
 tipo: conceito
 nivel: 3
-fluxo: Estratégia & Posicionamento
+fluxo: Estratégia & Visão
 autores: [Logan Kilpatrick]
 ---
 # Verticalizar para Não Competir com a Plataforma
 
-**Fluxo:** [[02 - Estratégia & Posicionamento]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
+**Fluxo:** [[02 - Estratégia & Visão]] · **Tema:** [[Estratégia — Posicionamento & diferenciação]] · **Camada:** L3
 **Tipo:** Conceito · **Fontes:** [[Logan Kilpatrick]]
 
 ## Ideia central

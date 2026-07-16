@@ -29,4 +29,4 @@ Aplica-se tanto a escolhas de sistemas/ferramentas quanto a julgamentos sobre pe
 > 🎧 [The ultimate guide to Martech (1:24:37)](https://www.youtube.com/watch?v=B79p85DHLkU) · 2023-08-13
 
 ## Conceitos relacionados
-[[Framework PPS — Problema, Pessoas, Sistema]] · [[Pre-mortem]] · [[Annie Duke — decisões sob incerteza]] · [[Priorização — Priorização & foco]]
+[[Framework PPS — Problema, Pessoas, Sistema]] · [[Pre-mortem]] · [[Annie Duke]] · [[Priorização — Priorização & foco]]

@@ -12,6 +12,7 @@ ordem: 5
 ## Temas
 - [[Experimentação — AB testing & cultura]] — rigor, métricas e memória institucional
 - [[Experimentação — Aprender com pouco e qualitativo]] — testar suposições sem paralisar
+- [[Experimentação — Cultura de experimentos]] — hipótese → dado como vantagem competitiva
 
 > 🪜 *Camadas:* hub **L1** → **Temas (L2)** → **Conceitos (L3)** → **Aprofundamento (L4)**.
 

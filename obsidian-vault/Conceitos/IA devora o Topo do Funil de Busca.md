@@ -47,4 +47,4 @@ O usuário que chega via mid-funnel tem intenção muito mais clara. A taxa de c
 > 🎧 [Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author) (1:55:10)](https://www.youtube.com/watch?v=Z71yGshPTwk) · 2024-09-19
 
 ## Conceitos relacionados
-[[SEO como Produto — O PM deve Liderar]] · [[SEO por JTBD de ponta a ponta]] · [[Ciclo das novas plataformas de distribuição]] · [[Três Segmentos do mercado de IA]]
+[[SEO como Produto — O PM deve Liderar]] · [[SEO por JTBD de ponta a ponta]] · [[Ciclo das novas plataformas de distribuição]] · [[Três segmentos do mercado de IA]]

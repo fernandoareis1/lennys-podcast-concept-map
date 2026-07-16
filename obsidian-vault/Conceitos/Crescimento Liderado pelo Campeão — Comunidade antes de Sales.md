@@ -37,4 +37,4 @@ Para manter proximidade com clientes sem criar caos operacional: Dylan envia twe
 > 🎧 [An inside look at how Figma builds product | Yuhki Yamashita (CPO of Figma)](https://www.youtube.com/watch?v=NepFo4zXyK4) · 2023-01-08
 
 ## Conceitos relacionados
-[[Feed Bruto de Cliente — Cultura Sem Gatekeepers]] · [[PLG — Product-Led Growth]] · [[Retenção como Única Métrica de PMF]] · [[Evangelismo do Usuário — Loop Viral Inato]]
+[[Feed Bruto de Cliente — Cultura Sem Gatekeepers]] · [[Product-Led Growth (PLG)]] · [[Retenção como Única Métrica de PMF]] · [[Evangelismo do Usuário — Loop Viral Inato]]

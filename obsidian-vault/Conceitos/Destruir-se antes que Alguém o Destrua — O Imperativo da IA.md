@@ -36,4 +36,4 @@ Se o fundador ou CEO não está disposto a "rolar as mangas" e trabalhar como os
 > 🎧 [How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (1:23:20)](https://www.youtube.com/watch?v=0_opWSfmN8M) · 2025-08-21
 
 ## Conceitos relacionados
-[[Ponto de Inflexão Estratégico — Go All-In]] · [[PMF não é permanente]] · [[Três Segmentos do mercado de IA]] · [[Incumbentes como Boa Constrictor]] · [[High-Conviction, Low-Consensus Bets — Zig vs Zag]]
+[[Ponto de Inflexão Estratégico — Go All-In]] · [[PMF não é permanente]] · [[Três segmentos do mercado de IA]] · [[Incumbentes como Boa Constrictor]] · [[High-Conviction, Low-Consensus Bets — Zig vs Zag]]

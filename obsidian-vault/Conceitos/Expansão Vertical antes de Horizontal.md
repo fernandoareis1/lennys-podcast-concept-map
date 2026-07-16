@@ -41,4 +41,4 @@ Mesmo quando a expansão horizontal parece tentadora (mais mercado, mais usuári
 
 Se a resposta às duas primeiras for "sim" e à terceira "não" — aprofunde o vertical primeiro.
 
-**Conexão:** [[Fish to Pond Ratio — Beachhead Sizing]] · [[Priorização & foco]]
+**Conexão:** [[Fish to Pond Ratio — Beachhead Sizing]] · [[Priorização — Priorização & foco]]

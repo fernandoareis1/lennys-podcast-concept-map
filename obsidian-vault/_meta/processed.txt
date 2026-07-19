@@ -308,3 +308,4 @@ zoelle-egner
 ada-chen-rekhi
 adam-fishman
 adam-grenier
+adriel-frederick

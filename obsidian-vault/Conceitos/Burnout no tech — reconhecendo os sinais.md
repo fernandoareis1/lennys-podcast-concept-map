@@ -2,7 +2,7 @@
 tipo: insight
 nivel: 3
 fluxo: Founder & Carreira
-autores: [Andy Johns, Jonny Miller]
+autores: [Andy Johns, Jonny Miller, Adam Grenier]
 ---
 # Burnout no tech — reconhecendo os sinais
 **Fluxo:** [[10 - Founder & Carreira]] · **Tema:** [[Founder — Carreira & progresso]] · **Camada:** L3
@@ -33,6 +33,12 @@ Pelo menos 50–60% dos profissionais de tech com mais de 5–7 anos de carreira
 - "Se você não consegue desacelerar naturalmente ao fim do dia sem vinho, CBD ou substância externa — isso é sinal de que você atingiu um threshold de dívida emocional."
 - "O custo mediano estimado de um episódio de burnout para uma startup foi $100K — mas a maioria não investe em 'seguro de burnout'."
 > 🎧 [Managing nerves, anxiety, and burnout](https://www.youtube.com/watch?v=-kN8Agqee4w) · 2024-01-28
+
+### [[Adam Grenier]]
+- Distingue burnout de depressão pela amplitude do impacto: no burnout você ainda se anima com hobbies e amigos; na depressão, cancela tudo — o improv class, o happy hour, as conexões fora do trabalho.
+- "Quando estou esgotado, ainda executo no trabalho, mas adoro a aula de improv. Quando estou deprimido, não vou para a aula de improv — ou vou e saio direto para casa."
+- Terapia revelou que o trabalho era uma solução (reconhecimento) para um problema mais profundo, não o problema em si. Mudar de perspectiva removeu o julgamento e trouxe clareza sobre como trabalhar de forma mais inteligente.
+> 🎧 [When to invest in new acquisition channels (1:09:51)](https://www.youtube.com/watch?v=-PDsvl2WCZU)
 
 ## Conceitos relacionados
 [[Achievement addiction — autoestima ligada à conquista]] · [[Transformação pessoal profunda — 4 etapas]] · [[Estado sobre Narrativa — Regulação pelo Sistema Nervoso]] · [[Sistema Nervoso do CEO como Cultura da Empresa]]

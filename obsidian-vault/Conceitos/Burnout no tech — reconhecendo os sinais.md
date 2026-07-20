@@ -40,5 +40,8 @@ Pelo menos 50–60% dos profissionais de tech com mais de 5–7 anos de carreira
 - Terapia revelou que o trabalho era uma solução (reconhecimento) para um problema mais profundo, não o problema em si. Mudar de perspectiva removeu o julgamento e trouxe clareza sobre como trabalhar de forma mais inteligente.
 > 🎧 [When to invest in new acquisition channels (1:09:51)](https://www.youtube.com/watch?v=-PDsvl2WCZU)
 
+## Aprofundamento ⬇
+- [[Burnout no tech — reconhecendo os sinais — Evidências]]
+
 ## Conceitos relacionados
 [[Achievement addiction — autoestima ligada à conquista]] · [[Transformação pessoal profunda — 4 etapas]] · [[Estado sobre Narrativa — Regulação pelo Sistema Nervoso]] · [[Sistema Nervoso do CEO como Cultura da Empresa]]
